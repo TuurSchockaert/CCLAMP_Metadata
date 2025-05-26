@@ -1,0 +1,67 @@
+occupation	occupationHisclass
+aardrijkskundige	topograaf
+advocaat	advocaat
+agrariër	landbouwer
+ambachtsman	ambachtsman
+ambtenaar	ambtenaar
+apotheker	apotheker
+arbeider	arbeider
+archeoloog	antropoloog
+architect	architect
+archivaris	archivaris
+beeldend kunstenaar	beeldhouwer
+bestuurder	bestuurder
+bibliothecaris	bibliothecaris
+boekdrukker	boekdrukker
+boekhandelaar	boekhandelaar
+bouwkundig ingenieur	bouwkundig ingenieur
+bouwmeester	bouwmeester
+cartograaf	cartograaf bij een topografisch instituut
+classicus	oudheidkundige
+diplomaat	diplomaat
+docent	docent
+doopsgezind predikant	doopsgezind predikant
+filosoof	doctor in de filosofie
+fotograaf	fotograaf
+geref. predikant	gereformeerd predikant
+herv.	gereformeerd predikant
+historicus	oudheidkundige
+hoogleraar	hoogleraar
+illustrator	illustrateur
+indust.	industrieel
+jongleur	acrobaat
+journalist	journalist
+jurist	jurist
+kloosterling	kloosterling
+koopman	koopman
+kunsthandelaar	kunsthandelaar
+kunsthistoricus	kunsthandelaar
+leraar	leraar
+letterkundige (NIET-neerl.)	letterkundige
+luthers predikant	luthers predikant
+magistraat	ambtman
+medicus	medicus
+militair	militair
+minstreel	speelman
+musicus	musicus
+natuurwetenschapper	natuurwetenschapper
+officier	officier
+onderwijzer (basisschool)	onderwijzer op een lagere school
+politicus	ambtman
+ps.ther.	psycholoog
+psychol	psycholoog
+redacteur	redacteur
+remonstr. predikant	remonstrants predikant
+rk-geestelijke	rooms-katholiek geestelijke
+schilder	schilder
+staatsman	ambtman
+tekenaar	tekenaar
+theoloog	theoloog
+toneelspeler	toneelspeler
+uitgever	uitgever
+vertaler	vertaler
+werkman	werkman
+wiskundige	doctor in de wiskunde
+zakenman	zakenman
+zeevarende	zeevarende
+zielsverzorger	zielmaker

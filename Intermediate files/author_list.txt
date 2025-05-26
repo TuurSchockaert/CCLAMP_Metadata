@@ -1,0 +1,10525 @@
+Author
+ 't Haakstertje
+ A. Aerts
+ A. Agnes Sneller
+ A. Alberts
+ A. Ampe
+ A. Antonissen
+ A. Baert
+ A. Bertang
+ A. Blok
+ A. Boone
+ A. Bouwman
+ A. Cardyn
+ A. Carnoy
+ A. Cauwe
+ A. Darquennes
+ A. De Geyter
+ A. De Raedt
+ A. Dees
+ A. Dirkzwager
+ A. Dockx
+ A. Dupont
+ A. Frenay
+ A. Habets
+ A. Kibédi Varga
+ A. Kleijn
+ A. Kool
+ A. Kramer
+ A. Kriekemans
+ A. Mansion
+ A. Marja
+ A. Merckx
+ A. Mertens
+ A. Middeldorp
+ A. Mooij
+ A. Poncelet
+ A. Prins
+ A. Reynaert
+ A. Roland Holst
+ A. Sassen
+ A. Schuurman
+ A. Seeldrayers
+ A. Smits
+ A. Snoeck
+ A. Stracke
+ A. Sturm
+ A. Taymans
+ A. Teeuw
+ A. Viruly
+ A. Wapenaar
+ A. Wuyts
+ A. Wylleman
+ A. Wynants
+ A. den Doolaard
+ A. van Beirendonck
+ A. van Bladel
+ A. van Dantzig
+ A. van Domburg
+ A. van Elslander
+ A. van Loey
+ A. van Marle
+ A. van Wassenhove
+ A. van de Walle
+ A. van der Schalk
+ A. van der Zwan
+ A.A. Keersmaekers
+ A.A. Smijers
+ A.A. Weijnen
+ A.A. van Rijnbach
+ A.A.W. Hubrecht
+ A.B. Droogleever Fortuyn
+ A.C. Bouman
+ A.C. Hemmes-Hoogstadt
+ A.C. Joosten
+ A.C. Josephus Jitta
+ A.C. Loffelt
+ A.C. Ramselaar
+ A.C. Vreede
+ A.C.M. Rietveld
+ A.C.W. Staring
+ A.D. Leeman
+ A.E. Kluit-de Clercq
+ A.E. Rosendahl Huber
+ A.E. van den Tol
+ A.E.M. Sturm
+ A.G. Christiaens
+ A.G. Sciarone
+ A.G. van Hamel
+ A.G. van Melle
+ A.G. van der Horst
+ A.G.A. van Rappard
+ A.G.M. Vermeulen
+ A.G.M. van Melsen
+ A.G.W. Severijnen
+ A.H. Blaauw
+ A.H. Hulzenkamp
+ A.H. Wertheim-Gijse Weenink
+ A.H.G.P. van den Es
+ A.J. Geurts
+ A.J. Hallez
+ A.J. Hanou
+ A.J. Kluyver
+ A.J. Schneiders
+ A.J. Vermeersch
+ A.J. van Duyvendijk
+ A.J. van Essen
+ A.J. van der Steur
+ A.J.D. van Oosten
+ A.J.M. Linmans
+ A.L. Constandse
+ A.L. Corin
+ A.L. Sötemann
+ A.L.W. Seyffardt
+ A.M. Duinhoven
+ A.M. Hagen
+ A.M. Hammacher
+ A.M. Mertens
+ A.M. Pols
+ A.M. Schiltmeyer
+ A.M. van Kersbeek
+ A.M. van der Giezen
+ A.M.J. van Buuren
+ A.M.J.I. Binnewiertz
+ A.M.L. de Meere
+ A.N. Molenaar
+ A.P. Braakhuis
+ A.R. Hol
+ A.S. Oppenheim
+ A.T.W. Bellemans
+ A.Th. Derksen
+ A.V. Michiels
+ A.W. Byvanck
+ A.W.M. Duyx
+ Aad Nuis
+ Aad van der Mijn
+ Aafke Hulk
+ Aart Romijn
+ Ab Visser
+ Abraham Dirk Loman
+ Abraham Kuenen
+ Abraham Schierbeek
+ Abraham Seyne Kok
+ Abram de Swaan
+ Abu 'l-Ala al-Ma'arri
+ Achilles Mussche
+ Achilles Seghers
+ Ad Foolen
+ Ad den Besten
+ Ad. Jansen
+ Ad. Sassen
+ Ada Deprez
+ Ada Vos-Postma
+ Adam Smith
+ Adam Szirmai
+ Adeline Petersen
+ Adolf de Ceuleneer
+ Adr. E. Maas
+ Adriaan Beets
+ Adriaan Daniel Fokker
+ Adriaan Huet
+ Adriaan J. Barnouw
+ Adriaan Pauw
+ Adriaan van Dis
+ Adriaan van Eck
+ Adriaan van der Veen
+ Adrianus Bruinvisch Maatjes
+ Aede van Eysinga
+ Aert Schouman
+ Agatha Seger
+ Agnes François
+ Agnes Verbiest
+ Agni van der Torre
+ Agostinho Neto
+ Aimé de Cort
+ Aize de Visser
+ Alb. Block
+ Alb. Decoene
+ Alb. Hernould
+ Alb. Kolkman
+ Alb. Raignier
+ Alb. de la Court
+ Albe
+ Albert Boone
+ Albert Deblaere
+ Albert Dijkstra
+ Albert Helman
+ Albert Kluyskens
+ Albert Kuyle
+ Albert Van den Daele
+ Albert Westerlinck
+ Albert van Hoogenbemt
+ Alberto Breccia
+ Albrecht Dürer
+ Albrecht Rodenbach
+ Aleid Fokkema
+ Aleid Truijens
+ Aletta Huijsinga
+ Alex Bolckmans
+ Alex Harlssen
+ Alex Korzec
+ Alex de Herdt
+ Alex de Jager
+ Alex. De Bil
+ Alexander Elberts
+ Alexander Münninghoff
+ Alexander Sizoo
+ Alfons Mervillie
+ Alfons van Beylen
+ Alfred Kossmann
+ Alfred M.M. Dekker
+ Alfred Scheers
+ Aline Glastra van Loon
+ Allard Pierson
+ Aloïs Gerlo
+ Aloïs Janssens
+ Aloïs Walgrave
+ Alphons Diepenbrock
+ Alpita de Jong
+ Alstein
+ Amaat Vyncke
+ Amy van Marken
+ Andreas Nicolaas Metz
+ Andries Dongera
+ André Bouwman
+ André Demedts
+ André Jolles
+ André Kramp
+ André Vandenbunder
+ Anita Wijzenbroek-Zoethout
+ Anja van Leusden
+ Ankie Lempens
+ Ankie Peypers
+ Ann Rigney
+ Anna Bijns
+ Anna Maria van Schurman
+ Anna Mertens
+ Anna Muntjewerf
+ Anne Hallema
+ Anne Marie Musschoot
+ Anne de Vries
+ Anne van Herreweghen
+ Annechien Vink
+ Annejoke Smids
+ Anneke Brassinga
+ Anneke C.G. Fleurkens
+ Anneke Neijt
+ Anneke Nunn
+ Anneke de Lange
+ Anneli Schaufeli
+ Annelies Pauw
+ Annelies van Gijsen
+ Annelies van Hees
+ Annemarie Kets
+ Annemiek Geurts
+ Annemiek Munstermann
+ Annemieke Meijer
+ Annie Gransch
+ Annie Romein-Verschoor
+ Annie Salomons
+ Annie Verhaeghe
+ Annie van den Oever
+ Ans van Kemenade
+ Antal Sivirsky
+ Anth. Grolman
+ Anthonie Marius Kollewijn
+ Anthony Beaujon
+ Anthony Jansen
+ Anthony Mertens
+ Antoine Braet
+ Antoinette Buckinx-Luykx
+ Anton Blok
+ Anton Gerard van Hamel
+ Anton Koolhaas
+ Anton Korteweg
+ Anton Reinhard Falck
+ Anton Van de Velde
+ Anton van Duinkerken
+ Anton van Wilderode
+ Anton van der Boom
+ Antonie Cohen
+ Antonie Niermeyer
+ Antonio Fogazzaro
+ Antony Winkler Prins
+ Antoon Fimmers
+ Ardi Roelofs
+ Ariane van Santen
+ Arie Schippers
+ Arie Verhagen
+ Arie Zijderveld
+ Arie de Froe
+ Arie de Jager
+ Arie-Jan Gelderblom
+ Arjen Miedema
+ Armando
+ Arnaq Grove
+ Arnold Cornelis
+ Arnold Evers
+ Arnold van Praag
+ Arrie van Berkel
+ Arrigo Levasti
+ Art Spiegelman
+ Arthur Boon
+ Arthur Coussens
+ Arthur Dirksen
+ Arthur Eijffinger
+ Arthur J.H. Cornette
+ Arthur Janssen
+ Arthur Langeveld
+ Arthur Thomas
+ Arthur Van Hoof
+ Arthur van Schendel
+ Ashok Bhalotra
+ Asrul Sani
+ Atte Jongstra
+ Aug. Cuypers
+ Aug. Philips
+ August Corbet
+ August Cuppens
+ August Defresne
+ August Hans den Boef
+ August Thiry
+ August Vermeylen
+ August Willemsen
+ August van Cauwelaert
+ Aya Zikken
+ B. Adriaansen
+ B. Bloemsma
+ B. Boeyckens
+ B. De Wint
+ B. Folkertsma
+ B. Lipschits-Linnewiel
+ B. Siertsema
+ B. de Ligt
+ B. van Heusden
+ B. van Ogtrop
+ B. van den Berg
+ B.A. Mensink
+ B.A. Meuleman
+ B.A. Vermaseren
+ B.A. van Groningen
+ B.C. Damsteegt
+ B.E. Rutgers
+ B.F. Galjart
+ B.G. Escher
+ B.H. Erné
+ B.H. Rethmeier
+ B.H. Wind
+ B.H.C.K. van der Wijck
+ B.H.D. Hermesdorf
+ B.J. Fris
+ B.J. Hoff
+ B.J.H. Ovink
+ B.M. Noach
+ B.M. Perk
+ B.M. Telders
+ B.P.M. Dongelmans
+ B.Th. Tervoort
+ B.W. Schaper
+ B.W. Wttewaall van Wickenburgh
+ Babet Mossel
+ Balthazar Heldring
+ Barber van de Pol
+ Barend de Goede
+ Bart Besamusca
+ Bart Philipsen
+ Bart Tromp
+ Bart Vervaeck
+ Bart van Heerikhuizen
+ Bart van der Sijde
+ Barthold Jacob Lintelo de Geer van Jutphaas
+ Basiel de Craene
+ Bastiaan Willink
+ Beate Zilversmidt
+ Beatrijs De Groote
+ Ben Bos
+ Ben Cami
+ Ben Peperkamp
+ Ben Salemans
+ Ben Sloot
+ Ben Stroman
+ Ben van Melick
+ Benno J. Stokvis
+ Beppie van de Wege-de Rooy
+ Bern. Spaepen
+ Bernadette van der Heijden
+ Bernard Delfgaauw
+ Bernard Dewulf
+ Bernard Henry
+ Bernard Verhoeven
+ Bernd Albers
+ Bernhard F. Scholz
+ Bernt Luger
+ Bert Bakker
+ Bert Decorte
+ Bert Meelker
+ Bert Nienhuis
+ Bert Schierbeek
+ Bert Schreurs
+ Bert Vanheste
+ Bert Verm
+ Bert Voeten
+ Bert van Selm
+ Bertie van der Meij
+ Bertus Aafjes
+ Bertus Dijk
+ Bertus van Lier
+ Bessie Schadee
+ Betty van Veelen
+ Bob den Uyl
+ Bob van Laerhoven
+ Bogdan Bogdanovic
+ Bram Jagersma
+ Bram van der Lek
+ Bruneau
+ C yrus Ataban
+ C. Angelet
+ C. Bittremieux
+ C. Buddingh'
+ C. Callewaert
+ C. Ch. Mout
+ C. Dumortier
+ C. Gorisse
+ C. Heymans
+ C. Houwaard
+ C. Kruyskamp
+ C. Ouboter
+ C. Pickery
+ C. Poelmans
+ C. Schöller
+ C. Soeteman
+ C. Vermeer
+ C. Visser
+ C. Weststrate
+ C. de Deugd
+ C. de Waal
+ C. van Oosterhout
+ C. van Vollenhoven
+ C. van de Ketterij
+ C.A. Terburg
+ C.A. Verrijn Stuart
+ C.A. Zaalberg
+ C.A.J.A. Oudemans
+ C.A.O. van Nieuwenhuijze
+ C.B. van Haeringen
+ C.B.M. Wingen
+ C.C. Geertsema
+ C.C. Huysmans
+ C.C. Krijgelmans
+ C.C. de Bruin
+ C.C. van de Graft
+ C.C.M van Wissen
+ C.D. Fuchs
+ C.D. Grijns
+ C.D.C. Leuven
+ C.F.A. van Dam
+ C.F.P. Stutterheim
+ C.G.N. de Vooys
+ C.H. Kneepkens
+ C.H. Peeters
+ C.H. de Goeje
+ C.H. van Os
+ C.H.A. Broos
+ C.H.Th. Bussemaker
+ C.J. Kelk
+ C.J. Vos
+ C.J. de Haan
+ C.J. de Vogel
+ C.J.F. Mirandolle
+ C.J.M. Jansen
+ C.L. Hap
+ C.L. Thijssen-Schoute
+ C.L.J. de Bot
+ C.M. Geerars
+ C.M. de Beaufort
+ C.O. Jellema
+ C.P. Bertels
+ C.P. Burger
+ C.P. Tiele
+ C.P.F. Lecoutere
+ C.P.M. Romme
+ C.R. de Klerk
+ C.S.M. Rademaker
+ C.W. Lunsingh Scheurleer
+ C.W. Roldanus
+ C.W. van de Watering
+ C.W. van der Pot
+ Caesar Gezelle
+ Camiel Hamans
+ Camille Huysmans
+ Car Flanders
+ Carel Adriaan Engelbregt
+ Carel Scharten
+ Carel Vosmaer
+ Carel van Nievelt
+ Carl A.X.G.F. Sicherer
+ Carl Ludwig Blume
+ Carl Mennicke
+ Carl de Keyzer
+ Carlos Tindemans
+ Carole Vos
+ Carry van Bruggen
+ Cas Wouters
+ Casper H. Staal
+ Catherine Barel
+ Cd. Busken Huet
+ Cees Koster
+ Cees Nooteboom
+ Cees van Dijk
+ Ch. Indekeu
+ Ch. van Os
+ Ch.M. van Deventer
+ Chantal Keijsper
+ Charles Baudelaire
+ Charles Boissevain
+ Charles François van Duyl
+ Charles Nypels
+ Charles Wentinck
+ Charley Toorop
+ Cherry Duyns
+ Chr. Schets
+ Chris Leeflang
+ Chris de Graaff
+ Chris van Houts
+ Chris van der Weye
+ Christel van Boheemen-Saaf
+ Christiaan Lodewijk Schuller tot Peursum
+ Christiaan Snouck Hurgronje
+ Christina Kroes-Ligtenberg
+ Christine D'haen
+ Christoph Sauer
+ Claartje Levelt
+ Clara Eggink
+ Clara Stuyver
+ Claudine Witsen Elias
+ Claudio Piersanti
+ Clem Neutjens
+ Clem Schouwenaars
+ Clemens Daenen
+ Clemens Maria Beukers
+ Clément Mertens
+ Coby Verheul
+ Cok van der Voort
+ Cola Debrot
+ Conrad Th. van Deventer
+ Constant van Wessem
+ Constantinus
+ Cor Alons
+ Cor van Bree
+ Corly Verlooghen
+ Cornelia Serrurier
+ Cornelis Bellaar Spruyt
+ Cornelis Hooyer
+ Cornelis Rijnsdorp
+ Cornelis Stoffel
+ Cornelis Veth
+ Cornelius Marius Kan
+ Corrie de Haan
+ Crispinus Smits
+ Cyriel Buysse
+ Cyriel de Baere
+ César Vallejo
+ D. Cohen
+ D. Fock
+ D. Fokkema Sr.
+ D. Huizinga
+ D. Loenen
+ D. Logeman-van der Willigen
+ D. de Loos
+ D. van Blom
+ D.A. Stracke
+ D.A.M. Binnendijk
+ D.C. Hesseling
+ D.C. Tinbergen
+ D.I. Bouman-Eringa
+ D.J. Coster
+ D.M. Bakker
+ D.M.G. Koch
+ D.P. Blok
+ D.Th. Enklaar
+ D.W. Bloemena
+ D.W. Fokkema
+ Daan Zonderland
+ Daniel de Lange
+ Danijel Dragojevic
+ Daniël Crena de Iongh
+ Daniël Janssen
+ Daniël de Lange
+ Dany Tulkens
+ David Albahari
+ David Bierens de Haan
+ David Koning
+ David Scheinert
+ David de Kok
+ Dawn Foor
+ Dees de Bruyne
+ Desideer Claes
+ Dianne Hagen
+ Dick Elffers
+ Dick Ouwendijk
+ Dick Schram
+ Dick Springorum
+ Dick Voerman
+ Dicky Gilbers
+ Diederik Grit
+ Dieuwke E. van der Poel
+ Dina Aristodemo
+ Dingeman van der Stoep
+ Dini Hogenelst
+ Dionys Burger
+ Dirk Bartling
+ Dirk Bax
+ Dirk Boutkan
+ Dirk Christiaens
+ Dirk Coigneau
+ Dirk Coster
+ Dirk Geeraerts
+ Dirk Harting
+ Dirk Huyghe
+ Dirk Kroon
+ Dirk Schoute
+ Dirk Vansina
+ Dirk Verbruggen
+ Dirk Wiersma
+ Dirk van Dalen
+ Dolf Hartveldt
+ Dolf Verspoor
+ Dominique Mys
+ Dominique de Vet
+ Dorothé te Riele
+ Dorthe Schipperheijn
+ Dragan Velikic
+ Durk Gorter
+ E. Bergh
+ E. Braches
+ E. Cappoen
+ E. De Cooman
+ E. Hendrikx
+ E. Moll
+ E. Paque
+ E. Rijpma
+ E. Smedes
+ E. T. Woudstra
+ E. Vliebergh
+ E. W. Holthuysen
+ E. Wagenaar-Cornelissen
+ E. de Haas
+ E. de Strycker
+ E. du Perron
+ E. van Fraechem
+ E. van Stratum
+ E. van der Ven
+ E.A. Overgaauw
+ E.C. van Dorp
+ E.C.P. van Waalwijk van Doorn
+ E.D. van Dissel
+ E.E. Pot
+ E.E.G. Vermeulen
+ E.H. Kossmann
+ E.H. Toxopeus
+ E.H. de Craene
+ E.H.M. Beekman
+ E.J. Dijksterhuis
+ E.J. Gras
+ E.J. Potgieter
+ E.J. Vandenbussche
+ E.J.E. Huffer
+ E.K. Grootes
+ E.M. Janssen Perio
+ E.M. Uhlenbeck
+ E.W. Beth
+ E.W. Hofstee
+ E.W.F. van den Elzen
+ Ed Coenraads
+ Ed. Hoornik
+ Ed. Loos
+ Ed. de Jonghe
+ Eddy Walrave
+ Eddy de Vries
+ Edgar Degas
+ Edgard de Bruyne
+ Edith van Ruyven
+ Edmond Campers
+ Edmond van Offel
+ Edouard Baudouin
+ Edouard Dhanis
+ Eduard Reeser
+ Eduard Thorn Prikker
+ Edw. De Schaepdrijver
+ Edward B. Koster
+ Edward Rombauts
+ Edward de Grijse
+ Eelco Verwijs
+ Egon Berendsen
+ Eldert Willems
+ Elisabeth Augustin
+ Elisabeth Eybers
+ Elisabeth Keesing
+ Elisabeth Roudinesco
+ Elisabeth du Perron-de Roos
+ Elise van Calcar
+ Elizabeth da Costa Gomez
+ Ellen Russe
+ Elrud Ibsch
+ Els Broeksma-van Capelle
+ Els Elffers
+ Els Eweg
+ Els Jongeneel
+ Els Launspach
+ Els Rauschenberg
+ Els Schrover
+ Els Stronks
+ Els Vos
+ Els van Houten
+ Else Hoog
+ Em. Kummer
+ Em. Peeters
+ Em. de Deyne
+ Em. van Cappel
+ Emiel Fleerackers
+ Emiel Jan Janssen
+ Emiel van der Straeten
+ Emil Bentzen
+ Emma Brunt
+ Emmy van Lokhorst
+ Enoch Krook
+ Epictetus
+ Eppe Wiersum
+ Eric Vos
+ Erica van Boven
+ Erich Wichman
+ Eriek Verpale
+ Erik Bindervoet
+ Erik Hertog
+ Erik Stinus
+ Erik Vos
+ Ernest Schepens
+ Ernest Soens
+ Ernest van der Hallen
+ Ernst Julius Kiehl
+ Ernst van Alphen
+ Ernst van Raalte
+ Erwin Garden
+ Erwin Mantingh
+ Esselien 't Hart
+ Etsko Kruisinga
+ Etus Alons-Bernhardt
+ Eugeen van Oye
+ Eugen Mehler
+ Eugenie Boeye
+ Eugenius Druwé
+ Eugène de Bock
+ Eva Bodor
+ Eva Hoornik
+ Eva Tas
+ Eva Vondeling
+ Evelyn Wiers
+ Evert Straat
+ Evert Werkman
+ Evert Willem Schallenberg
+ Evert van den Berg
+ Ewaldus Daniël Pijzel
+ Ewoud de Kat
+ F. Bellens
+ F. Beyers
+ F. Bordewijk
+ F. Bouchout
+ F. Callebaut
+ F. De Raedemaeker
+ F. Jansonius
+ F. Kempers
+ F. Ketner
+ F. Lulofs
+ F. Martens
+ F. Philips
+ F. Stuurman
+ F. Tichelman
+ F. de Cleyn
+ F. de Tollenaere
+ F. de Witt Huberts
+ F. van Elmbt
+ F. van Vinckenroye
+ F. van der Rhee
+ F.A. Snellaert
+ F.A.W. Miquel
+ F.B. Löhnis
+ F.D.K. Bosch
+ F.E. Frenkel
+ F.G. Droste
+ F.G. Steck
+ F.G.A. Stemvers
+ F.G.L. van der Meer
+ F.H. Jansen
+ F.J. Swartwout
+ F.J.F.M. Duynstee
+ F.K.H. Kossmann
+ F.L. Zwaan
+ F.M. Cowan
+ F.M.G. de Feyfer
+ F.P. Huygens
+ F.P. van Oostrom
+ F.P.J. Sibmacher Zìjnen
+ F.R. Klinkhamer
+ F.S. Jungschlager
+ F.W. Korsten
+ F.W. van Heerikhuizen
+ F.W.A. Korff
+ Fabian R.W. Stolk
+ Fanny de Jong
+ Felisberto Hérnandez
+ Felix Rutten
+ Felix Timmermans
+ Felx Tirry
+ Ferd. Sassen
+ Ferdinand Langen
+ Fernand Auwera
+ Fernand Bekaert
+ Fernand Deschamps
+ Fernand Toussaint van Boelaere
+ Fernando Costa Andrade
+ Fil. de Ridder
+ Fl. Bertiau
+ Flor Kielbaey
+ Flora de Lannoy
+ Florimond Lox
+ Floris Prims
+ Floris de Cuyper
+ Floris der Kinderen Fzn.
+ Foeke Buitenrust Hettema
+ Fokke Sierksma
+ Fokkelien van Dijk-Hemmes
+ Folkertinus Nicolaas Sickenga
+ Fons Lambrechts
+ Fons Schoeters
+ Fons van Buuren
+ Fr. Claessens
+ Fr. Daems
+ Fr. Maeyens
+ Fr. Meeus
+ Fr. Stanislas
+ Fr. de Jong Edz.
+ Fr. van Baarle
+ Fr. van den Weghe
+ Francis Bacon
+ Francis Hermans
+ Francis van den Broeck
+ Francisco Carrasquer
+ Franciska de Jong
+ Francisque Darcieux
+ Franco de Wyels
+ Frank Berndsen
+ Frank Brandsma
+ Frank C. Maatje
+ Frank Jansen
+ Frank Joostens
+ Frank Ligtvoet
+ Frank Onnen
+ Frank Valkenier
+ Frank Wijnen
+ Frank Willaert
+ Frank de Glas
+ Frank de Langhe
+ Frank van Gestel
+ Frank van Vree
+ Frank van den Bogaard
+ Frans Boenders
+ Frans Broekaert
+ Frans Brüggen
+ Frans Budé
+ Frans Buyle
+ Frans Coenen
+ Frans De Bruyn
+ Frans Debrabandere
+ Frans Drijvers
+ Frans Erens
+ Frans H. van Eemeren
+ Frans Jong
+ Frans Kingma
+ Frans Ruiter
+ Frans Smekens
+ Frans Verachtert
+ Frans Verpoorten jr.
+ Frans W. Saris
+ Frans d'Haese
+ Frans de Clercq
+ Frans de Haan
+ Frans de Haes
+ Frans van Cauwelaert
+ Frans van Dooren
+ Frans van Oldenburg Ermke
+ Fransje van der Waals
+ Franz Mets
+ Franz Staude
+ Franz Zonneberg
+ Franz de Backer
+ François Haverschmidt
+ François de Bas
+ Fred Batten
+ Fred Polak
+ Fred Weerman
+ Freddy de Vree
+ Freddy van Besien
+ Frederik Nagtglas
+ Frederik Willem Nicolaas Hugenholtz
+ Frederik de Graaf
+ Frederik van Eeden
+ Frida Balk-Smit Duyzentkunst
+ Frieda van Felden
+ Fries de Vries
+ Frits Beukema
+ Frits Dekking
+ Frits Hopman
+ Frits Kief
+ Frits Staal
+ Fritz Francken
+ Fritz Zondervan
+ Fumikuni Nakamura
+ G. Beumer
+ G. De Schutter
+ G. De Wolf
+ G. Dooreman
+ G. Engels
+ G. Garmijn
+ G. Geerts
+ G. Geniets
+ G. Gerritsen-Geywitz
+ G. Gilleman
+ G. Gunneweg
+ G. Huyghe
+ G. Jo Steenbergen
+ G. Kalff
+ G. Karsten
+ G. Knop
+ G. Knuttel jr.
+ G. Kurth
+ G. Leppers
+ G. Neefs
+ G. Titta Rosa
+ G. Tuil
+ G. Van Cutsem
+ G. Van Massenhove
+ G. Vertogen
+ G. le Maire
+ G. van Benthem van den Bergh
+ G. van Eemeren
+ G. van Gorp
+ G. van Iterson Jr.
+ G. van der Leeuw
+ G. van der Meer
+ G.A. Bouwman-Pot
+ G.A. Brands
+ G.A. van Hamel
+ G.A. van Klinkenberg
+ G.A.J. Hazeu
+ G.C. Lijphart-Bezuidenhout
+ G.E. Langemeijer
+ G.E. Mulder
+ G.E. Voorhelm Schneevoogt
+ G.F. van der Ree-Scholtens
+ G.F.E. Gonggrijp
+ G.G. Kloeke
+ G.H. Blanken
+ G.H. van Es
+ G.J. Boekenoogen
+ G.J. Dorleijn
+ G.J. Geers
+ G.J. Grashuis
+ G.J. Uitman
+ G.J. de Haan
+ G.J. de Vries
+ G.J. van der Woude
+ G.J.H. Kuyk
+ G.L. Muskens
+ G.M. van der Plank
+ G.M.J. Duyfhuizen
+ G.P. Frets
+ G.P.M. Knuvelder
+ G.R. v.d. Beek
+ G.R.W. Dibbets
+ G.S. Overdiep
+ G.W. Jongens
+ G.W. Ovink
+ G.W. Wolthuis
+ Gabriël Smit
+ Gabriël Verborght
+ Gabriëlle Demedts
+ Gaby Leijnse
+ Garmt Stuiveling
+ Gaston Burssens
+ Gaston Durnez
+ Gaston Van Bulck
+ Gaston de Jaegher
+ Gaston de Mey
+ Gavin Jantjes
+ Geert Evert Booij
+ Geert Koefoed
+ Geert Rooijakkers
+ Geert Warnar
+ Geert van Istendael
+ Geerten Gossaert
+ George Willem Vreede
+ Georges Adé
+ Georgette Swaenepoel
+ Georgius de Raat
+ Ger Harmsen
+ Ger Schmook
+ Gerard Brom
+ Gerard Bruning
+ Gerard Heymans
+ Gerard J. Hooykaas
+ Gerard Kempen
+ Gerard Rasch
+ Gerard Valette
+ Gerard Verhoeven
+ Gerard Walschap
+ Gerard Wijdeveld
+ Gerard de Vries
+ Gerard den Brabander
+ Gerard van Eckeren
+ Gerard van der Kuyp
+ Gerben Colmjon
+ Gerben Hellinga
+ Gerbrand Muller
+ Gerlach Royen
+ Gerrard Verhage
+ Gerrie Bruil
+ Gerrit Achterberg
+ Gerrit Borgers
+ Gerrit Kalff jr.
+ Gerrit Kamphuis
+ Gerrit Kouwenaar
+ Gerrit Kuyper Hzn
+ Gerrit Serné
+ Gerrit-Jan Berendse
+ Gert Jan de Vries
+ Gert-Jan van Rooij
+ Gery Helderenberg
+ Gideon Busken Huet
+ Gilbert De Smet
+ Gilbert Decock
+ Gilbert Degroote
+ Gilbert Swimberghe
+ Gilbert van Hool
+ Giovanni Bellini
+ Gisela Redeker
+ Godert van Colmjon
+ Godfried Bomans
+ Gottfried Hasenkamp
+ Graa Boomsma
+ Greet Vandepitte
+ Grietje Drewes
+ Grietje van Ginneken
+ Gs. Finjee
+ Guido Eeckels
+ Guido Gezelle
+ Guido de Baere
+ Guido van Genechten
+ Guido van Heulendonk
+ Guillaume Henri Marie Delprat
+ Gust Doussy
+ Gust Gils
+ Gust de Groote
+ Gust van Roosbroeck
+ Guus Dijkhuizen
+ Guus Extra
+ Guus Middag
+ Guy Janssens
+ Guy Kilian
+ Guy Rombouts
+ Guy Voets
+ Gé Vaartjes
+ Günter Eich
+ Günter Grass
+ H. Aerts
+ H. Bauer
+ H. Bauweraerts
+ H. Bianchi
+ H. Bischoff
+ H. Bruders
+ H. Coppieters
+ H. Daudt
+ H. Doedens
+ H. Dommisse
+ H. Draye
+ H. Duits
+ H. Engel
+ H. Enno van Gelder
+ H. Entjes
+ H. François
+ H. Gerversman
+ H. Gilijamse
+ H. Hulshof
+ H. Jansen
+ H. Kern
+ H. Kraemer
+ H. Mansion
+ H. Marsman
+ H. Neubronner van der Tuuk
+ H. Peeters
+ H. Proeme
+ H. Roose
+ H. Schultink
+ H. Thielemans
+ H. Vandermoere
+ H. de Clercq
+ H. van Gorp
+ H. van Herwerden
+ H. van Loon
+ H. van de Waal
+ H.A. Combé
+ H.A. Enklaar
+ H.A. Tolhoek
+ H.A. Wage
+ H.A. Wijnne
+ H.A.C. Spoelstra-Spruyt
+ H.B.G. Casimir
+ H.C. Rümke
+ H.C. ten Berge
+ H.C.J. Duijker
+ H.E. Beunke
+ H.E. Enthoven
+ H.E. Greve
+ H.E.H. van Loon
+ H.F. Schatz
+ H.F. van de Velde
+ H.F.R. Hubrecht
+ H.F.W.D. Fischer
+ H.G. Roodhuyzen
+ H.G. van de Sande Bakhuyzen
+ H.H. Grünhagen
+ H.H. ter Balkt
+ H.H. van Kol
+ H.H.J. de Leeuwe
+ H.H.W. van Eijk
+ H.J. Lankhorst
+ H.J. Pos
+ H.J. Pott
+ H.J. Schimmel
+ H.J. Verkuyl
+ H.J. Vieu-Kuik
+ H.J. van Ankum
+ H.J.C.G. Eilbracht
+ H.J.E. Endepols
+ H.J.J.M. van der Merwe
+ H.L. Drucker
+ H.L.C. Jaffé
+ H.M. Hermkens
+ H.M. Reijzer
+ H.M. van Randwijk
+ H.M.H.A. van der Valk
+ H.M.J. Oldewelt
+ H.M.J. van Galen
+ H.P. Jullien
+ H.P. Plantenga
+ H.P.G. Quack
+ H.P.H. Jansen
+ H.P.H. Teesing
+ H.Q. Janssen
+ H.T. Colenbrander
+ H.T. Karsten
+ H.T. Wallinga
+ H.T.J. Miedema
+ H.Th. Kok
+ H.W. Pleket
+ H.W. van Tricht
+ H.W.E. Moller
+ H.W.F. Stellwag
+ H.W.J. Vekeman
+ H.W.J.M. Keuls
+ H.Y. Groenewegen
+ Halbo C. Kool
+ Han Lammers
+ Han ten Brummelhuis
+ Hanneke Eggels
+ Hanneke Houtkoop-Steenstra
+ Hannes Meinkema
+ Hans Andreus
+ Hans Anten
+ Hans Arup
+ Hans Barendregt
+ Hans Bennis
+ Hans Ester
+ Hans Gruyters
+ Hans Hom
+ Hans Keller
+ Hans Kienhorst
+ Hans Kloos
+ Hans Lodeizen
+ Hans Luijten
+ Hans Oranje
+ Hans Redeker
+ Hans Renders
+ Hans Sleutelaar
+ Hans Vanacker
+ Hans Vermeulen
+ Hans Warren
+ Hans van Dijk
+ Hans van de Waarsenburg
+ Harry Bekkering
+ Harry Kensmil
+ Harry Mesterom
+ Harry Mulisch
+ Harry Verschuren
+ Harry van der Hulst
+ Hazil
+ Heike Kamerlingh Onnes
+ Heleen Hoekstra
+ Helen de Hoop
+ Helga Bister-Broosen
+ Hendrick van Dam
+ Hendricus Sparnaay
+ Hendrik Andriessen
+ Hendrik Brugmans
+ Hendrik Houwens Post
+ Hendrik Imberechts
+ Hendrik Jacob van der Heim
+ Hendrik Mande
+ Hendrik Smilde
+ Hendrik Wiegersma
+ Hendrik de Marez
+ Hendrik de Vries
+ Hendrik van Dijk
+ Hendrik van Teylingen
+ Hendrik van Tichelen
+ Hendrik van der Wal
+ Hendrikus Pomes
+ Henk Bloemhoff
+ Henk Hillenaar
+ Henk Krijger
+ Henk Kuitenbrouwer
+ Henk Meter
+ Henk Nuiten
+ Henk Romijn Meijer
+ Henk de Berg
+ Henk van Otterloo
+ Henk van Renssen
+ Henny Scheepmaker
+ Henny Vlot
+ Henri Borel
+ Henri Bossaert
+ Henri Ernest Moltzer
+ Henri Morel
+ Henri Sandberg
+ Henri Wiessing
+ Henri van Praag
+ Henricus Oort
+ Henricus de Blieck
+ Henriette Albach-Tielrooy
+ Henriette Roland Holst-van der Schalk
+ Henry Riehm
+ Herman Agatho des Amorie van der Hoeven
+ Herman François Waller
+ Herman Giesbers
+ Herman Gorter
+ Herman Muntinghe
+ Herman Pleij
+ Herman Pol
+ Herman Poort
+ Herman Robbers
+ Herman Servotte
+ Herman Teirlinck
+ Herman Wolf
+ Herman ten Kroode
+ Herman van den Bergh
+ Hermannus Bouman
+ Hessel Miedema
+ Hetty van Waalwijk
+ Hilaire Allaeys
+ Hilda van Assche
+ Hilde van Sumere
+ Hippoliet Meert
+ Honoratius Sengers
+ Honoré Schelfhout
+ Horst A. Steinmetz
+ Huber Lebon
+ Hubert
+ Hubert Cuypers jr.
+ Hubert J. Michaël
+ Hubert Lampo
+ Hubert Meeus
+ Hubert Peeters
+ Hubert van Herreweghen
+ Hugo Bousset
+ Hugo Brems
+ Hugo Claus
+ Hugo Dyserinck
+ Hugo Heyens
+ Hugo Pos
+ Hugo Raes
+ Hugo Röling
+ Hugo Vandeperre
+ Hugo Walschap
+ Hugo de Jonghe
+ Hugo de Vries
+ Hugues C. Pernath
+ Huib van Krimpen
+ Huub Beurskens
+ Huug Kaleis
+ I. De la Potterie
+ I. Vandegaer
+ I. van Geest-Jacobs
+ I.F.M. Salim
+ I.J.M. van den Berg
+ Ian
+ Ida Gerhardt
+ Idel Ianchelevici
+ Ignace Bossuyt
+ Imke van der Steur
+ Ina Willekes McDonald
+ Ineke Bulte
+ Inge Lievaart
+ Ingeborg van der Geest
+ Ingrid Tieken-Boon van Ostade
+ Ingrid van de Wijer
+ Irene Chr. Blasczyk
+ Irene Langedijk
+ Irene Spijker
+ Irene Veenstra
+ Irene de Jong
+ Irene van Grinsven
+ Irma van de Port
+ Isaac Dorislaus
+ Isaac van der Velde
+ Isabel Hoving
+ Isabelle Landuyt
+ Isaäc Dornseiffen
+ Israël Querido
+ Ivan Lovrenovic
+ Ivo Michiels
+ Ivo Schöffer
+ Izaak Jan Blaupot ten Cate
+ J. 't Hart
+ J. A. Le Loux-Schuringa
+ J. Arts
+ J. Baart
+ J. Beckering Vinckers
+ J. Bernlef
+ J. Beyer
+ J. Bierens de Haan
+ J. Bok
+ J. Bosch
+ J. Brants
+ J. Buzeman
+ J. Christelbach
+ J. Coppens
+ J. Cuypers
+ J. De Fraine
+ J. De Jaegher
+ J. De Munter
+ J. Deschamps
+ J. Donceel
+ J. Eggens jr.
+ J. Eigenhuis
+ J. Elens
+ J. F. P. de Smit
+ J. Faber
+ J. Fischer
+ J. Goffard
+ J. Griffioen
+ J. Heyrman
+ J. Hoing
+ J. IJsewijn
+ J. J. Lub
+ J. Jageneau
+ J. Kamerbeek jr.
+ J. Karsemeijer
+ J. Kassies
+ J. Kautzen
+ J. Keuning
+ J. Kooistra
+ J. Kröner
+ J. Leenen
+ J. Libbrecht
+ J. Lievens
+ J. Mansion
+ J. Masson
+ J. Mathijs Acket
+ J. Mees
+ J. Mertens
+ J. Naarding
+ J. Noë
+ J. Nuttin
+ J. Overduin
+ J. Peters
+ J. Prinsen J.Lzn
+ J. Reynaert
+ J. Rommens
+ J. Salsmans
+ J. Schul
+ J. Sencie
+ J. Slauerhoff
+ J. Smets
+ J. Steur
+ J. Stuyck
+ J. Taeldeman
+ J. Talloen
+ J. Trapman
+ J. Uyttendaele
+ J. Vaissier
+ J. Valk
+ J. Van Acker
+ J. Van den Bossche
+ J. Veerman
+ J. Verwimp
+ J. Volckaert
+ J. Wagemans
+ J. Weisgerber
+ J. Wille
+ J. Wttewaall
+ J. de Gier
+ J. de Graaf
+ J. de Jong
+ J. de Merica
+ J. de Reus
+ J. l' Ange Huet
+ J. van Assche
+ J. van Boskoop
+ J. van Doorne
+ J. van Geuns
+ J. van Loenen Martinet
+ J. van Santen
+ J. van Torre
+ J. van Vloten
+ J. van de Velde
+ J. van der Eng
+ J.-P. Fransen
+ J.A. Alberdingk Thijm
+ J.A. Goris
+ J.A. Hallez
+ J.A. Huisman
+ J.A. Rispens
+ J.A. Verhage
+ J.A. Vooren
+ J.A. Wartena
+ J.A. de Vries
+ J.A. van Dijk
+ J.A. van Houtte
+ J.A. van Leuvensteijn
+ J.A. van Lieshout
+ J.A.A. Mekel
+ J.A.G. Tans
+ J.A.H.J.S. Bruins Slot
+ J.A.N. Knuttel
+ J.B. Charles
+ J.B. Goetstouwers
+ J.B. Poukens
+ J.B. Schepers
+ J.B. Stolte
+ J.C. Arens
+ J.C. Bloem
+ J.C. Brandt Corstius
+ J.C. Costerus
+ J.C. Ebbinge Wubben
+ J.C. Kamerbeek
+ J.C. Opstelten
+ J.C. Schuller
+ J.C. de Vries
+ J.C. van Leur
+ J.C. van Schagen
+ J.C.A. Fetter
+ J.C.C. Tonnet
+ J.C.G. Evers
+ J.C.H. de Pater
+ J.C.J. Bierens de Haan
+ J.D. Bierens de Haan
+ J.D. Meerwaldt
+ J.D. Reeder
+ J.D. de Jong
+ J.D. van der Waals
+ J.D.F. van Halsema
+ J.D.P. Warners
+ J.E. de Haas
+ J.E. de Vos van Steenwijk
+ J.E. van der Pot
+ J.F. Vanderheyden
+ J.F. Willems
+ J.F.B. Baert
+ J.F.P. Smit
+ J.G. Bomhoff
+ J.G. Frederiks
+ J.G. Gleichman
+ J.G. Kooij
+ J.G. Kruyt
+ J.G. van Dillen
+ J.G.A. Faber
+ J.G.M. Moormann
+ J.H. Boeke
+ J.H. Brouwer
+ J.H. Leopold
+ J.H. Loenen
+ J.H. Plantenga
+ J.H. Schouten
+ J.H. Thiel
+ J.H. de Haas
+ J.H. van den Bosch
+ J.H.J. van der Pot
+ J.H.W. Verzijl
+ J.J. Belinfante
+ J.J. Boasson
+ J.J. Buskes
+ J.J. Gielen
+ J.J. Goossens
+ J.J. Grandville
+ J.J. Kloek
+ J.J. Mak
+ J.J. Meinsma
+ J.J. Moerman
+ J.J. Oversteegen
+ J.J. Roest van Alkemade
+ J.J. Salverda de Grave
+ J.J. Spa
+ J.J. Terwen
+ J.J. Vriend
+ J.J. Wesselo
+ J.J. Witkam
+ J.J. de Rooij
+ J.J. van Toorenenbergen
+ J.J.A. Mooij
+ J.J.G. Vürtheim
+ J.J.L. Duyvendak
+ J.J.L. Smolenaars
+ J.J.L. ten Kate
+ J.J.M. Westenbroek
+ J.J.P. Valeton
+ J.J.V.M. de Vet
+ J.L. Heldring
+ J.L. Pauwels
+ J.L. Snethlage
+ J.L. Swellengrebel
+ J.L. de Belder
+ J.L.C. van der Staak
+ J.M. Bremer
+ J.M. Kramer
+ J.M. Willeumier-Schalij
+ J.M. van Bemmelen
+ J.M. van der Horst
+ J.M.G. Evers
+ J.M.J. Schepper
+ J.M.J. Sicking
+ J.N. Bakhuizen van den Brink
+ J.N. van Hall
+ J.P. Arend
+ J.P. Fokkelman
+ J.P. Gumbert
+ J.P. Hasebroek
+ J.P. Kuenen
+ J.P. Stoop
+ J.P. Westgeest
+ J.P.M. Passage
+ J.Ph. van Oostrom
+ J.R. Evenhuis
+ J.R. Slotemaker de Bruine
+ J.R. Thorbecke
+ J.S. Bartstra
+ J.S. Schippers
+ J.T. Barendregt
+ J.T. Buys
+ J.V. Rijpperda Wierdsma
+ J.W. Bosch
+ J.W. Ludwig
+ J.W. Muller
+ J.W. Niemeijer
+ J.W. Schulte Nordholt
+ J.W. Steenbeek
+ J.W. Veerman
+ J.W. de Vries
+ J.W. van Nouhuys
+ J.W.E. Riemens
+ J.W.F. Werumeus Buning
+ J.W.N Delteijk
+ Jaak Boonen
+ Jaak De Maere
+ Jaak Muyldermans
+ Jaap Das
+ Jaap Goedegebuure
+ Jaap Goudsmit
+ Jaap Kruithof
+ Jaap Kunst
+ Jaap Meijer
+ Jaap Romijn
+ Jaap de Jong
+ Jaap van Gelderen
+ Jaap van Ginneken
+ Jac. C. Bloem
+ Jac. Weil
+ Jac. de la Torre
+ Jac. van Hattum
+ Jack van der Weide
+ Jacob Baert
+ Jacob Dirk Veegens
+ Jacob Dirks
+ Jacob Geel
+ Jacob Gijsbert de Hoop Scheffer
+ Jacob Haantjes
+ Jacob Hiegentlich
+ Jacob Janszoon Colevelt
+ Jacob Mees
+ Jacob Riehman
+ Jacob Smit
+ Jacob de Graaf
+ Jacob de Witt
+ Jacob ter Veldhuis
+ Jacob van Maerlant
+ Jacoba Eggink
+ Jacoba M. Vreugdenhil
+ Jacobus Craandijk
+ Jacobus Revius
+ Jacqueline Frijn
+ Jacqueline de Man
+ Jacques Gans
+ Jacques Kruithof
+ Jacques Westerhoven
+ Jacques den Haan
+ Jak van der Meulen
+ Jakob Karel Willem Quarles van Ufford
+ Jakob Zeeus
+ James Brockway
+ James S. (Jim) Holmes
+ Jan Baetens
+ Jan Barents
+ Jan Bervoets
+ Jan Bethlehem
+ Jan Biezen
+ Jan Bloemendal
+ Jan Boucquet
+ Jan Bruna
+ Jan Campert
+ Jan Cox
+ Jan Craeynest
+ Jan Dekker
+ Jan Derks
+ Jan Eijkelboom
+ Jan Elzo Niemeijer
+ Jan Emiel Vliebergh
+ Jan Engelman
+ Jan Fabre
+ Jan Flamend
+ Jan G. Elburg
+ Jan Gerhardus Ottema
+ Jan Gerrit Talen
+ Jan Gessler
+ Jan Greshoff
+ Jan H. Mysjkin
+ Jan Hammenecker
+ Jan Hanlo
+ Jan Hartog
+ Jan Heemskerk Azn.
+ Jan Heemskerk Bzn.
+ Jan Herman
+ Jan Herman Herman de Ridder
+ Jan Hulsker
+ Jan J. Zeldenthuis
+ Jan J. van Herpen
+ Jan Jacob de Gelder
+ Jan Jacob van Geuns
+ Jan Jozef van Laer
+ Jan Knol
+ Jan Kommandeur
+ Jan Konst
+ Jan Koopmans
+ Jan Kornelis de Cock
+ Jan Koster
+ Jan L. Walch
+ Jan Laboyrie
+ Jan Melis
+ Jan Moritoen
+ Jan Muylle
+ Jan Nijen Twilhaar
+ Jan Noordegraaf
+ Jan Noordzij
+ Jan Noort
+ Jan Olav Smit
+ Jan Persyn
+ Jan Pieter Nicolaas Land
+ Jan Pluvier
+ Jan Prins
+ Jan Roelans
+ Jan Rogier
+ Jan Romein
+ Jan Roukema
+ Jan Schoolmeesters
+ Jan Sebastian Rabie
+ Jan Smit
+ Jan Spierdijk
+ Jan Stroop
+ Jan Toorop
+ Jan Vercammen
+ Jan Verhavert
+ Jan Vermeer
+ Jan Veth
+ Jan Walravens
+ Jan Waterink
+ Jan Willem van Sypesteyn
+ Jan de Bruin
+ Jan de Piere
+ Jan de Roeck
+ Jan de Schuyter
+ Jan de Weert
+ Jan ten Brink
+ Jan van Bakel
+ Jan van Dam
+ Jan van Eijk
+ Jan van Gelder
+ Jan van Gijsen
+ Jan van Gilse
+ Jan van Gorp
+ Jan van Kilsdonk
+ Jan van Lumey
+ Jan van Luxemburg
+ Jan van den Velden
+ Jan van der Vegt
+ Jb. Boeke
+ Jean Masson
+ Jeanette Bos
+ Jeanette den Ouden
+ Jeanne Holierhoek
+ Jeanne de Bruyn
+ Jeanne van Schaik-Willing
+ Jeannette M. Hollaar
+ Jef Bogman
+ Jef Claes
+ Jef Geeraerts
+ Jef Last
+ Jef Snauwaert
+ Jef Suys
+ Jef de Beus
+ Jelle Kaldewaij
+ Jelle Noorman
+ Jelle Stegeman
+ Jeroen De Rycker
+ Jinke Obbema
+ Jo Boon
+ Jo Daan
+ Jo Manders
+ Jo van Dorp-Ypma
+ Jo van Ham
+ Joan Karel Hendrik de Roo van Alderwerelt
+ Joanna Martinez-Horsman
+ Joannes Jacobus de Hollander
+ Joannes Reddingius
+ Joannes Tideman
+ Jochen Becker
+ Joep Nicolas
+ Joep à Campo
+ Johan Adam Wijnne
+ Johan Brouwer
+ Johan Carl Zimmerman
+ Johan Christiaan van Eerde
+ Johan Daisne
+ Johan Goudsblom
+ Johan Gram
+ Johan Heilbron
+ Johan Hendrik Gallée
+ Johan Hermann Christian Heyse
+ Johan Huizinga
+ Johan Kerstens
+ Johan Kuin
+ Johan Moorman
+ Johan Mönninck
+ Johan Rooryck
+ Johan Somerwil
+ Johan Theunisz
+ Johan W. Schotman
+ Johan Willem Tydeman
+ Johan baron d' Aulnis de Bourouill
+ Johan de Brune (de Oude)
+ Johan de Meester
+ Johan de Meester jr.
+ Johan de Witt
+ Johan van Hulzen
+ Johan van der Auwera
+ Johan van der Woude
+ Johanna Fortuin
+ Johanna K. Oudendijk
+ Johanna Westerdijk
+ Johannes Aletta Marinus Mensinga
+ Johannes Bodel Nijenhuis
+ Johannes Bosscha
+ Johannes Jörgensen
+ Johannes Kneppelhout
+ Johannes Lindeboom
+ Johannes Margadant
+ Johannes Philippus Heukelom
+ Johannes Pols
+ Johannes Rahder
+ Johannes Romboldus van der Lans
+ Johannes Theodorus Petrus de Groot
+ Johannes van der Schaar
+ John Henry uit den Bogaard
+ John Kleinen
+ John Rädecker
+ John W.M. Verhaar
+ Johnny Maeschalck
+ Joke Kool-Smit
+ Joke Linders
+ Joke Moeljono
+ Joke Nijhuis
+ Joke Pluvier-de Vries
+ Jona Oberski
+ Joop den Uyl
+ Joop van Tijn
+ Joos Florquin
+ Joost Zwarts
+ Joost van der Vleuten
+ Jop Pollmann
+ Joris Duytschaever
+ Joris Eeckhout
+ Joris Vlasselaers
+ Jos A.A.M. Biemans
+ Jos Joosten
+ Jos Ruting
+ Jos Smeyers
+ Jos Verhoogen
+ Jos Windey
+ Jos de Haes
+ Jos van Winkel
+ Jos van der Steen
+ Jos. Burvenich
+ Jos. Panhuijsen
+ Josef Goedertier
+ Joseph Leliard
+ Joseph van Kan
+ Joseph van der Meersch
+ Josien Lalleman
+ José Lambert
+ José de Mûelenaere
+ Joyce Pennings
+ Joz. Geleyn
+ Joz. vanden Eynde
+ Jozef Andriessen
+ Jozef Boets
+ Jozef Cantré
+ Jozef D. Janssens
+ Jozef Deleu
+ Jozef Jacobs
+ Jozef Maes
+ Jozef Muls
+ Jozef Simons
+ Jozef Uytterhoeven
+ Jozef van Mierlo
+ Jozien Moerbeek
+ Judith Herzberg
+ Juergen Teller
+ Jules Persyn
+ Jules Van Ackere
+ Juliaan Haest
+ Juliaan Vervoort
+ Julien Jozef Kuypers
+ Julien de Valckenaere
+ Julius de Boer
+ Jurriaan Fransman
+ Justus Meyer
+ Justus de Harduwijn
+ Jutka Rona
+ Jèmeljan Hakemulder
+ Jérome Alexandre Sillem
+ Jörgen Bukdahl
+ K. Fokkema
+ K. Heireman
+ K. Kooiman
+ K. Lekkerkerker
+ K. Lens
+ K. Leus
+ K. Michel
+ K. R. Gallas
+ K. Schippers
+ K. Strijd
+ K. Zickhardt
+ K. de Bot
+ K. de Wals
+ K. du Bois de Vroylande
+ K. ter Laan
+ K. van Baarle
+ K.A. Rombach
+ K.C. Boxman-Winkler
+ K.C. Peeters
+ K.F. Proost
+ K.H. Heeroma
+ K.H.R. de Josselin de Jong
+ K.J. Popma
+ K.L.M. Schoeters
+ K.R. de Graaf
+ Kamiel Vanhole
+ Karel Elebaers
+ Karel Jonckheere
+ Karel Kuypers
+ Karel Meeuwesse
+ Karel Porteman
+ Karel Reijnders
+ Karel Roelants
+ Karel Wauters
+ Karel de Winter
+ Karel van Isacker
+ Karel van Sull
+ Karel van den Eynde
+ Karel van den Oever
+ Karol Lesman
+ Kasimierz Bendkowski
+ Katinka Dijkstra
+ Kees Klap
+ Kees Meerhoff
+ Kees Singeling
+ Kees Tamboer
+ Keith Snell
+ Kenzaburo Oë
+ Kiki Hannema
+ Kishin Shinoyama
+ Klaas Iwema
+ Klaas Poll
+ Klaas Wiersma
+ Klaas van der Horst
+ Klazien Laansma
+ Ko Kooman
+ Koen Goudriaan
+ Koen Peeters
+ Konrad Boehmer
+ Koos Schuur
+ Koos van Doorne
+ Korrie Korevaart
+ Krijn ter Braak
+ Kristien Hemmerechts
+ Kristien Warmenhoven
+ L. Arts
+ L. Baudez
+ L. Boves
+ L. De Sousberghe
+ L. Delporte
+ L. Elaut
+ L. Geschiere
+ L. Ghijs
+ L. Ghys
+ L. Knappert
+ L. Koelmans
+ L. Macken
+ L. Mestdagh
+ L. Mosheuvel
+ L. Noël
+ L. Peeters
+ L. Pepplinkhuizen
+ L. Rood
+ L. Scharpé
+ L. Sluimers
+ L. Stolte
+ L. Strengholt
+ L. Uten
+ L. Van Damme
+ L. Vander Kerken
+ L. Verelst
+ L. Verhaegen
+ L. Vermeirsch
+ L. Victor V. Edmond
+ L. de Borman
+ L. de Haas
+ L. de Hartog
+ L. de Smet
+ L. de Vlaming
+ L. v.d. Land
+ L. van Herpt
+ L. van Hulle
+ L. van de Kerckhove
+ L. van den Ham
+ L.A.A. van Kervel
+ L.A.J.W. Sloet
+ L.C. Michels
+ L.C. van Panhuys
+ L.C.T. Bigot
+ L.C.W. Pols
+ L.G. Polspoel
+ L.H. Grondijs
+ L.H. Janssen
+ L.H. Stronkhorst
+ L.J. Boon
+ L.J. Egeling
+ L.J. Rogier
+ L.J. Zimmerman
+ L.J. de Regt
+ L.J.M. Feber
+ L.M. van Dis
+ L.M.G. Cremers
+ L.M.J. Glasius
+ L.M.J. van de Pol
+ L.Ph.C. van den Bergh
+ L.R. Beynen
+ L.S.J. Hanekroot
+ L.U. de Sitter
+ L.W. de Bree
+ L.W.C. Keuchenius
+ L.W.G. Scholten
+ Lambert Meertens
+ Lambert Melling
+ Lambert Swerts
+ Lambrecht Lambrechts
+ Lau Mazirel
+ Laurens van Krevelen
+ Leen Huet
+ Leo Apostel
+ Leo De Wachter
+ Leo Geurts
+ Leo Haring
+ Leo Landsman
+ Leo Lentz
+ Leo Lindemans
+ Leo Ross
+ Leo Simoens
+ Leo Simons
+ Leo Symoens
+ Leo Vroman
+ Leo van Puyvelde
+ Leonard Beuger
+ Leonard Forster
+ Leonard de Jong
+ Leonhard Huizinga
+ Leonid Dimov
+ Leopold Flam
+ Lia van Gemert
+ Lidy van Eijsselsteijn
+ Lien Heyting
+ Lieneke Frerichs
+ Liesbeth Laport
+ Liesbeth Ziedses
+ Lieuwe Hornstra
+ Lieve Blancquaert
+ Lieven Rens
+ Lisa Kuitert
+ Lisan van Beurden
+ Lo van Driel
+ Lo van Hensbergen
+ Lode Geysen
+ Lode Roose
+ Loden Vogel
+ Lodewijk Brunt
+ Lodewijk De Wolf
+ Lodewijk Dosfel
+ Lodewijk Maerevoet
+ Lodewijk Mulder
+ Lodewijk van Deyssel
+ Lorenzo Mattotti
+ Louis Andriessen
+ Louis Bruyns
+ Louis Dumoulin
+ Louis Gillet
+ Louis H.M. Monden
+ Louis Janssens
+ Louis Paul Boon
+ Louis Peter Grijp
+ Louis Sterkens
+ Louis Wachters
+ Louis de Bourbon
+ Louis de Groof
+ Louis van Haecht
+ Louisa Duykers
+ Louise O. Fresco
+ Louise van Bloemen
+ Louise van Santen
+ Luandino Vieira
+ Luc Herman
+ Luc Huyse
+ Luc Indestege
+ Luc Lamote
+ Luc Tournier
+ Luc Vanhaecke
+ Luc van Hoek
+ Lucebert
+ Lucia Nankoe
+ Lucien Brulez
+ Lucio Fontana
+ Ludo Poplemont
+ Ludo Simons
+ Ludo Van de Wijgaert
+ Ludwig Drees
+ Luk De Vos
+ Luuk Gruwez
+ Luuk Lagerwerf
+ Lydia van Rietschote
+ Léon
+ Léonce Reypens
+ Léopold Levaux
+ M. Blijstra
+ M. Blijstra-van der Meulen
+ M. Bruna
+ M. Buisman J. Fzn.
+ M. Deckers
+ M. Dewickere
+ M. Duerinck
+ M. Dufraing
+ M. Dz. van Dordrecht
+ M. Fennema
+ M. Hanot
+ M. Huybens
+ M. Oris
+ M. Rutten
+ M. Schurmans
+ M. Schönfeld
+ M. Siesling
+ M. Stapert-Eggen
+ M. Vasalis
+ M. de Boer
+ M. de Brabandere
+ M. de Vroede
+ M. van Stratum
+ M.A. Schenkeveld-van der Dussen
+ M.A. van Andel
+ M.A.F. Ostendorf
+ M.C. Brands
+ M.C. Tideman
+ M.C. van den Toorn
+ M.C.A. Brongers
+ M.C.L. Lotsij
+ M.D. Ozinga
+ M.E. Belpaire
+ M.E. Kronenberg
+ M.E.F. Elout van Soeterwoude
+ M.F. Mörzer Bruyns
+ M.F. Schurmans
+ M.F. Steehouder
+ M.G.J. Teerink
+ M.G.M. Elling
+ M.H. Rijnsburger
+ M.H. Schenkeveld
+ M.H. van Campen
+ M.H.J. Verjans
+ M.J. Broekmeyer
+ M.J. Langeveld
+ M.J. Moortgat-Keukelinck
+ M.J. Sirks
+ M.J.M. de Haan
+ M.L.A. Barnardiston-Van Riemsdijk
+ M.M. von Baumhauer
+ M.P.R. van den Broecke
+ Maaike Hogenhout-Mulder
+ Maaike Meijer
+ Maarten 't Hart
+ Maarten Asscher
+ Maarten Elzinga
+ Maarten Klein
+ Maarten Steenmeijer
+ Maartje Draak
+ Magda Révész-Alexander
+ Magda van Emde Boas
+ Maghiel van Crevel
+ Manet van Montfrans
+ Marc Andries
+ Marc Carlier
+ Marc Dykmans
+ Marc Galle
+ Marc Joye
+ Marc Potiau
+ Marc Reugebrink
+ Marc Rozelaar
+ Marc Van Vaeck
+ Marc van der Poel
+ Marca Schasfoort
+ Marcel Brauns
+ Marcel Coole
+ Marcel Demeulenaere
+ Marcel Grypdonck
+ Marcel Janssen
+ Marcel Janssens
+ Marcel Lobet
+ Marcel Poot
+ Marcel de Smedt
+ Marcel van Caster
+ Marcel van Maele
+ Marcel van der Linden
+ Marcus de Schepper
+ Marga Demmers
+ Margaret Abels
+ Margaretha Ferguson
+ Margo Scharten-Antink
+ Margreet Blankesteijn-Blees
+ Margreet de Lange
+ Margreet den Buurman
+ Margreet van Hoorn
+ Margrit de Sablonière
+ Marguérite M.J. van Berckel
+ Maria Bosch
+ Maria Hartgerink-Koomans
+ Marian Lameris
+ Marie Agathe Boddaert
+ Marie H. van der Zeyde
+ Marie Henriëtte Koorders-Boeke
+ Marie Metz-Koning
+ Marie Ramondt
+ Marie-José Desmet-Goethals
+ Marieke M. van Oostrom
+ Marijke Elstrodt
+ Marijke Friesendorp
+ Marijke J. van der Wal
+ Marijke Meijer Drees
+ Marijke Spies
+ Marijke de Haan
+ Marijke de Roeck
+ Marika Keblusek
+ Marinel Gerritsen
+ Marinus Lodewijk van Deventer
+ Mario Molegraaf
+ Marit Monteiro
+ Marius Buning sr.
+ Marjan Grootveld
+ Marjan Wijers
+ Marjolijn Sorbi
+ Mark Baeyens
+ Mark Brusse
+ Mark Kas
+ Mark Verstockt
+ Mark de Bie
+ Marlene Dumas
+ Marnel Breure
+ Marnix Gijsen
+ Marten Jan van der Meer
+ Martha Johanna Hamaker
+ Martha Louise Komter
+ Martien J.G. de Jong
+ Martin Albers
+ Martin Bruijns
+ Martin Leopold
+ Martin Mooij
+ Martin Permys
+ Martin Reints
+ Martin Ros
+ Martin Vaughn-James
+ Martinus Nijhoff
+ Martinus des Amorie van der Hoeven
+ Maruschka Romijn
+ Mary Dresselhuys
+ Mary G. Kemperink
+ Mary Robbers
+ Matthias Hüning
+ Matthias Prangel
+ Matthias de Vries
+ Matthijs Siegenbeek
+ Matthijs Vermeulen
+ Maurice Claeys Bouuaert
+ Maurice De Tollenaere
+ Maurice Gilliams
+ Maurice Roelants
+ Maurice van den Dries
+ Maurits Bilcke
+ Maurits Engelborghs
+ Maurits Mok
+ Maurits Peeters
+ Maurits Sabbe
+ Maurits Schuyten
+ Maurits Uyldert
+ Maurits Wille
+ Maurits de Doncker
+ Maurits de Meyer
+ Maurits van Hattum
+ Maurits van Saene
+ Max Arian
+ Max Lamberty
+ Max Nord
+ Max Prick van Wely
+ Max Rooses
+ Max Schuchart
+ Max de Cock
+ Mea M. Flothuis
+ Mea Verwey
+ Menko ten Cate
+ Menno Spiering
+ Menno ter Braak
+ Mia Boxman
+ Michael Eenhoorn
+ Michael Ignatieff
+ Michaël Slory
+ Michel Dupuis
+ Michel Korzec
+ Michel van der Plas
+ Michiel Dierickx
+ Michiel Johannes de Goeje
+ Michiel van Kempen
+ Mieke B. Smits-Veldt
+ Mieke Bal
+ Mieke Trommelen
+ Mieke Westra
+ Mieke van Leeuwen-Canneman
+ Mies Bouhuys
+ Mineke Schipper
+ Miroslav Mandic
+ Mischa de Vreede
+ Mojmír Grygar
+ Monika van Paemel
+ Monique Darge
+ Montanus de Haan Hettema
+ Muhammad Rustandi Kartakusuma
+ Mukai Kyorai
+ Multatuli
+ Mário de Andrade
+ N. de Paepe
+ N. van Wijk
+ N.A. Donkersloot
+ N.C. Clegg-Bruinwold Riedel
+ N.C. van Velzen
+ N.C.H. Wijngaards
+ N.D. Lammers van Toorenburg
+ N.E.H. van Esveld
+ N.E.M. Pareau
+ N.G. Cnoop Koopmans
+ N.H. Merkelijn
+ N.J. Krom
+ N.J. den Tex
+ N.J.P. van der Lof
+ N.W.P. Rauwenhoff
+ Nan Lenders
+ Nan van Houte
+ Nanne van der Zijpp
+ Nazawa Boncho
+ Nel van Dijk
+ Nelleke Moser
+ Nelleke van Maaren
+ Nic Brink
+ Nico Rost
+ Nico Scheepmaker
+ Nico Wijnen
+ Nico van Suchtelen
+ Nicola Moscardelli
+ Nicolaas Bernhardus Donkersloot
+ Nicolaas Jacob Bernard Kappeyne van de Coppello
+ Nicolaas Jansz. van Wassenaar
+ Nicolaas Johannes Cornelis Marie Kappeyne van de Coppello
+ Nicolaas Wilhelmus Posthumus
+ Nicolaas de Roever
+ Nicolas Charles Sieburgh
+ Nicolaus Meursinge
+ Nikita Stänescu
+ Nikolaas Gerard Pierson
+ Nina Zivancevic
+ Nop Maas
+ Norbert Corver
+ Noriko de Vroomen-Kondo
+ O. Bottema
+ O. Cornet
+ O. Noordenbos
+ O. Praem
+ O. van de Vijver
+ O.J. Schrier
+ O.M. de Vaal
+ Odile Heynders
+ Okke Jager
+ Olf Praamstra
+ Olga van Marion
+ Orlanda S.H. Lie
+ Oscar Dambre
+ Oscar Leyendekkers
+ Otto van Rees
+ Owen Feltham
+ P. Brommer
+ P. Eldering
+ P. Ellerbeek
+ P. Geyl
+ P. Goedertier
+ P. Indekeu
+ P. Jansen Schoonhoven
+ P. Krug
+ P. Maliepaard
+ P. Mathijsz.
+ P. Minderaa
+ P. Nelis
+ P. Ronse
+ P. Schellens
+ P. Schumacher
+ P. Spigt
+ P. Stijnen
+ P. Th. van Reenen
+ P. Valkenburgh
+ P. Van Campenhout
+ P. de Bruin
+ P. de Dura
+ P. de Hooch
+ P. van Geer
+ P. van Hees
+ P. van Keymolen
+ P. van der Wielen
+ P.A. Hekstra
+ P.A. Kerstens
+ P.A. Kooijman
+ P.A. Tiele
+ P.A. de Génestet
+ P.A.H. de Boer
+ P.A.S. van Limburg Brouwer
+ P.C. Boeren
+ P.C. Boutens
+ P.C. Paardekooper
+ P.E.L. Verkuyl
+ P.Em. Valvekens
+ P.F. Schmitz
+ P.G. de Bruijn
+ P.G.J. van Sterkenburg
+ P.H. Greiner
+ P.H. Polak
+ P.H. Ritter jr.
+ P.H. van Moerkerken jr.
+ P.H. van der Kemp
+ P.J. Buijnsters
+ P.J. Cosijn
+ P.J. Hollman
+ P.J. Idenburg
+ P.J. Meertens
+ P.J. Risseeuw
+ P.J. Vandenhoute
+ P.J. Verkruijsse
+ P.J. Veth
+ P.J. Waardenburg
+ P.J. de Ridder
+ P.J. de Roode
+ P.J. de Voogd
+ P.J. van Winter
+ P.J.B.C. Robidé van der Aa
+ P.J.H. Vermeeren
+ P.J.W. Teding van Berkhout
+ P.L.M. Tummers
+ P.M. Nieuwenhuijsen
+ P.N. van Eyck
+ P.N.G. Pesch
+ P.O. Eet
+ P.O.F.M. Cremers
+ P.P. Schmidt
+ P.W. Kamphuisen
+ P.W. Korthals
+ P.W. Smet
+ P.W.A. Cort van der Linden
+ P.W.J. Steinz
+ P.W.J.L. Gerretsen
+ Pablo Sáenz de Barés
+ Pascal Cornet
+ Patricia de Martelaere
+ Patricia vanden Bulcke
+ Patrick Conrad
+ Patrick Wever
+ Paul Alberdingk Thijm
+ Paul Bellefroid
+ Paul Bogaards
+ Paul Brondeel
+ Paul Celan
+ Paul Claes
+ Paul De Vuyst
+ Paul Fredericq
+ Paul Gillaerts
+ Paul Gilroy
+ Paul Hamélius
+ Paul Knolle
+ Paul Lebeau
+ Paul Maria Jozef de Meester
+ Paul Rodenko
+ Paul Schampaert
+ Paul Scheffer
+ Paul Van Keymeulen
+ Paul Van de Woestijne
+ Paul Wackers
+ Paul de Smaele
+ Paul de Vree
+ Paul de Wispelaere
+ Paul van Ostaijen
+ Paul van der Loeff
+ Paulien Selter
+ Pauline Moody
+ Paulus de Kempenaer
+ Percy B. Lehning
+ Perquy
+ Pertinax
+ Peter Berger
+ Peter Cox
+ Peter King
+ Peter Nijmeijer
+ Peter Sander
+ Peter Yvon de Vries
+ Peter Zeeman
+ Peter van Eeten
+ Peter van Os
+ Peter van Zonneveld
+ Peter van der Veer
+ Peter van der Wildt
+ Petra Teunissen-Nijsse
+ Petronella Everdina Eldering
+ Petrus Conradi
+ Petrus de Raadt
+ Ph. Kohnstamm
+ Ph. de Vries
+ Ph.J. Idenburg
+ Ph.J. Simons
+ Ph.P. Everts
+ Philip Mechanicus
+ Philip Vermoortel
+ Philippe Hiligsmann
+ Philippe Joseph Aimé van Isacker
+ Philippus Samuel van Ronkel
+ Philippus van Blom
+ Pierre Alechinsky
+ Pierre Blussé
+ Pierre Dumonstier le neveu
+ Pierre H. Dubois
+ Pierre Hoenen
+ Pierre Joseph Henry Baudet
+ Pierre de Beus
+ Piet Calis
+ Piet Couttenier
+ Piet Delen
+ Piet Meeuse
+ Piet Oomes
+ Piet Verhoeff
+ Piet Visser
+ Piet van Aken
+ Piet van Caldenborgh
+ Piet van Os
+ Pieter A.M. Seuren
+ Pieter Antonie van der Lith
+ Pieter Bruin
+ Pieter Cramer
+ Pieter Danco
+ Pieter Frans Fransen
+ Pieter G. Buckinx
+ Pieter Grashoff
+ Pieter Heering
+ Pieter Jan Bouman
+ Pieter Korthuys
+ Pieter Lodewijk Muller
+ Pieter Marinus Netscher
+ Pieter Nicolaas Muller
+ Pieter Nicolaas van Kampen
+ Pieter Rutger Feith
+ Pieter Steur
+ Pieter Valkhoff
+ Pieter Veenboer
+ Pieter de Prins
+ Pieter-Emmanuel Oyen
+ Pim van Tol
+ Pjeroo Roobjee
+ Pol Heyns
+ Pol Hoste
+ Pol de Mont
+ Prosper Dinges
+ Prosper de Smet
+ Pszisko Jacobs
+ Pyter Wagenaar
+ R. Caron
+ R. D'hondt
+ R. Foncke
+ R. Ghijsel
+ R. Jansen-Sieben
+ R. Leijs
+ R. Lievens
+ R. Marsman
+ R. Roegholt
+ R. Schreuder
+ R. Sierksma
+ R. Sterringa
+ R. Vanalderweireldt
+ R. Vanderauwera
+ R. Vos
+ R. Wiarda
+ R. Wijkman
+ R. de Jong
+ R. van Cauwelaert
+ R. van Luttervelt
+ R. van Ooteghem
+ R.A. Cornets de Groot
+ R.A. Kollewijn
+ R.A. Mees
+ R.B. Lenaerts
+ R.C. Bakhuizen van den Brink
+ R.D. Schuiling
+ R.E.H. Westendorp Boerma
+ R.F. Beerling
+ R.F. Lissens
+ R.H. Bremmer Jr.
+ R.H.J. Egeter van Kuyk
+ R.I.A. Nip
+ R.J. Forbes
+ R.J. Valkhoff
+ R.J.C. Cornegoor
+ R.J.C. Sijthoff
+ R.L.K. Fokkema
+ R.M. van Goens
+ R.M. van Zonneveld
+ R.P. Cleveringa
+ R.P. Mees Azn.
+ R.P. Reisinger
+ R.P.A. Dozy
+ R.P.J. Tutein Nolthenius
+ R.S. Prins
+ R.S. Tjaden Modderman
+ R.Th. van der Paardt
+ R.W.W.M. van der Drift
+ Raf Coorevits
+ Raf de Smedt
+ Rafaël Gorsen
+ Ralph Degens
+ Raphaël M.J. Kreemers
+ Raul
+ Ray Gilles
+ Raymond Brulez
+ Raymond Herreman
+ Reinbert de Leeuw
+ Reind Kuitert
+ Reinder P. Meijer
+ Reiner de Winter
+ Reinhold Van Lennep
+ Reinier Salverda
+ Reinjan Mulder
+ Remi van de Moortel
+ Renatus Hardeman
+ René Bekius
+ René Berghen
+ René Carpentier
+ René J. Seghers
+ René Marres
+ René Verbeeck
+ Resy Delnoy
+ Ria Loohuizen
+ Ria van Hengel
+ Rianne Jansen
+ Richard B. du Boff
+ Richard Roland Holst
+ Richard Teunissen
+ Riekus Waskowsky
+ Riemer Reinsma
+ Rien T. Segers
+ Rien Verhoef
+ Rik Deweerdt
+ Rik Planting
+ Rik Sanders
+ Rik Van Daele
+ Rik Vermeersch
+ Rinske Visscher
+ Rintsje Piter Sybesma
+ Rita Ghesquiere
+ Rita Harder
+ Rita Verschuur
+ Rob Delvigne
+ Rob Doeve
+ Rob Grootendorst
+ Rob Nieuwenhuys
+ Rob Wolfs
+ Rob van der Veer
+ Robbert-Jan Henkes
+ Robert Franquinet
+ Robert Fruin
+ Robert Guiette
+ Robert Kothen
+ Robert Maistriaux
+ Robert S. Cohen
+ Robert Vandeputte
+ Robert van Amerongen
+ Roel Houwink
+ Roel Schuyt
+ Roel Verlaan
+ Roel Zemel
+ Roelof Kranenburg
+ Roger Devriendt
+ Roger Henrard
+ Roger Raveel
+ Roger Vansevenant
+ Rokus Hofstede
+ Rolande
+ Rolf Zwaan
+ Rommert Casimir
+ Ronald Jonkers
+ Ronald Landheer
+ Ronald Spoor
+ Rosalien van Witsen
+ Rosey E. Pool
+ Rudi Fuchs
+ Rudolf Dekker
+ Rudolf Geel
+ Rudolf Rasch
+ Rudolf van de Perre
+ Rudy Bremer
+ Rudy de Rybel
+ Ruud A.J. Kraaijeveld
+ Ruud Löbler
+ S. Clay Wilson
+ S. Paul Verluyten
+ S. Vissering
+ S. de Danser
+ S.A. Bonebakker
+ S.A.J. van Faassen
+ S.C. Dik
+ S.F. Witstein
+ S.H. de Roos
+ S.J. Fockema Andreae
+ S.J. Hingst
+ S.J. Hoekstra
+ S.J. Lenselink
+ S.J. Popma
+ S.J. Suys-Reitsma
+ S.J. Warren
+ S.J. van den Bergh
+ S.R. de Groot
+ Saint-Rémy
+ Salomon Müller
+ Samuel Adrianus Naber
+ Samuel Muller Fzn.
+ Samuel van Houten
+ Saskia de Boer
+ Sergio Corazzini
+ Sheldon S. Wolin
+ Siegfried E. van Praag
+ Siegfried Huigen
+ Siep Stuurman
+ Sigmund Freud
+ Silvia W. de Groot
+ Simon Gorter
+ Simon Vestdijk
+ Simon Vinkenoog
+ Sirkka-Liisa Hahmo
+ Siti Nuraini
+ Sj. Groenman
+ Sjef Houppermans
+ Sjoerd Leiker
+ Slobodan Blagojevic
+ Soejitno Mangoenkoesoemo
+ Soetje Oppenhuis de Jong
+ Solange Leibovici
+ Sonja Kobus
+ Sonja Prins
+ Sonja Vanderlinden
+ Sophie Levie
+ Sorin Marculescu
+ Staf Weyts
+ Stan Dietvors
+ Stanislas van de Velde
+ Stanislaw Predota
+ Stef Heyvaert
+ Stef Slembrouck
+ Stefaan Evenepoel
+ Stefaan Somers
+ Stefan Hertmans
+ Stephanie Claes-Vetter
+ Stephanus G. Axters
+ Steven Gillis
+ Steven Wilsens
+ Steven ten Brinke
+ Su Tung po
+ Sybold van Ravesteyn
+ Sybrandus Johannes Fockema Andreae
+ Sybren Polet
+ Sylvia Bodnár
+ Sytze Wiersma
+ T. Haan
+ T. Kruiger
+ T. Noordenbos-de Klerk
+ T. Varekamp
+ T.J.M. Versteeg
+ T.M. Tromp
+ T.M.T. Coolen
+ T.W.J. Juynboll
+ Tanja Janssen
+ Tannelie Blom
+ Taslim Ali
+ Tess Visser
+ Th. Heidebrand
+ Th. Nieuwenhuis
+ Th. Weevers
+ Th. van Tijn
+ Th. van den Hoek
+ Th.G. Sinnige
+ Th.H. MacGillavry
+ Th.H. d' Angremond
+ Th.J.G. Locher
+ Thea Diepenbrock
+ Theo A.J.M. Janssen
+ Theo Bijvoet
+ Theo D'haen
+ Theo Goffa
+ Theo Hermans
+ Theo Luyckx
+ Theo Meder
+ Theo Schlichting
+ Theo Stibbe
+ Theo Walraven
+ Theo van Baaren
+ Theo van Els
+ Theodor Duquesnoy
+ Theodoricus Pauli
+ Theun de Vries
+ Thierry de Wael
+ Thijs Jansen
+ Thijs Pollmann
+ Thom Holterman
+ Thom Mertens
+ Thomas Kroon JHz.
+ Thérèse Schwartze
+ Tiberius Cornelius Winkler
+ Tijs Terwey
+ Tine Ausma
+ Tinke Davids
+ Tj.A. Westendorp
+ Tj.S. Visser
+ Tobias Michael Carel Asser
+ Tom Eekman
+ Tom Hage
+ Tom Kerber
+ Tom Pijnenborg
+ Ton Anbeek
+ Ton Groeneweg
+ Ton Hendrix
+ Ton Naaijkens
+ Ton Nijhuis
+ Ton Zwaan
+ Ton van Haaften
+ Ton van Strien
+ Tone Brulin
+ Tony Herbert
+ Toon Saelens
+ Top Naeff
+ Tu Fu
+ U. Huber Noodt
+ U. Knops
+ Ulla Musarra-Schrøder
+ Urbain Marin
+ Urbain van de Voorde
+ Ursy M. Lichtveld
+ Utuy T. Sontani
+ V. Mertens
+ V. Uyttenbroeck
+ V.A. Julius
+ V.E. van Uytvanck
+ V.F. Vanacker
+ V.I. Lenin
+ V.J.J.P. van Heuven
+ Valère Coopmans
+ Veerle Uyttersprot
+ Ver. van de Vijver
+ Victor E. van Vriesland
+ Victor Heylen
+ Victor J. Brunclair
+ W. Banning
+ W. Blok
+ W. Bronzwaer
+ W. De Roy
+ W. Draijer
+ W. Drees
+ W. Drop
+ W. Fagel
+ W. Gobbers
+ W. Govaart
+ W. Hogendoorn
+ W. Koch
+ W. Koster Gzn.
+ W. Kramer
+ W. Luyten
+ W. Nienaber-Luitingh
+ W. Nolen
+ W. Pijnenburg
+ W. Talloen
+ W. Vanbeselaere
+ W. Vollgraff
+ W. Waterschoot
+ W. Wiersma
+ W. van der Wielen
+ W.A. de Witte
+ W.A.A.M. Merlijn
+ W.A.M. de Moor
+ W.A.M. de Vroomen
+ W.A.P. Smit
+ W.C. Hojel
+ W.C.L. van der Grinten
+ W.E. Hegman
+ W.E. van Dam van Isselt
+ W.E.J. Kuiper
+ W.F. Dankbaar
+ W.F. Heinemeijer
+ W.F. Wertheim
+ W.F.G. Breekveldt
+ W.G. Klooster
+ W.G. Snellen
+ W.G.C. Byvanck
+ W.Gs Hellinga
+ W.H. Beuken
+ W.H. Staverman
+ W.H. van der Linden
+ W.H.C. Tenhaeff
+ W.J. Aalders
+ W.J. Buma
+ W.J. Molenaar-de Winter
+ W.J. Verdenius
+ W.J. de Haas
+ W.J. van den Akker
+ W.J. van der Molen
+ W.J.C. Buitendijk
+ W.J.C. van Hasselt
+ W.J.H. Caron
+ W.J.W. Koster
+ W.K.B. Koning
+ W.K.N. Schmelzer
+ W.L. Brugsma
+ W.L. Haardt
+ W.L.M.E. van Leeuwen
+ W.M. Logeman
+ W.M. Perk
+ W.M.H. Hummelen
+ W.N. du Rieu
+ W.P. Gerritsen
+ W.P. Pos
+ W.Ph. Coolhaas
+ W.U.S. van Lessen Kloeke
+ W.W. Mijnhardt
+ Walter F. Smet
+ Walter Thys
+ Walter Toman
+ Walter Volkaert
+ Wang-seng-yoe
+ Ward Ruyslinck
+ Wardy Poelstra
+ Weldon Kees
+ Werenfried van Straaten
+ Wiecher Zwanenburg
+ Wiel Kusters
+ Wiep van Bunge
+ Wil Hansen
+ Wilbert Bank
+ Wilbert Smulders
+ Wilfred Smit
+ Wilfried Luyten
+ Will van Peer
+ Willem Bilderdijk
+ Willem Brandt
+ Willem Degenhardt
+ Willem Frederik Hermans
+ Willem G. Weststeijn
+ Willem Gerard Brill
+ Willem Gerard van Nouhuys
+ Willem Hendrik de Beaufort
+ Willem Jan Knoop
+ Willem Jan Mari van Eysinga
+ Willem Johannes Franciscus Nuyens
+ Willem Kloos
+ Willem Leonard Ritter
+ Willem Louis de Sturler
+ Willem M. Kruseman
+ Willem Maas
+ Willem Mooijman
+ Willem Noomen
+ Willem Pijper
+ Willem Pleyte
+ Willem Putman
+ Willem Pée
+ Willem Schrickx
+ Willem Sluiter
+ Willem Visser
+ Willem de Clercq
+ Willem de Jong
+ Willem ten Berge
+ Willem van Eeghem
+ Willem van Maanen
+ Willem van den Berg
+ Willem van der Kaay
+ Willem van der Vlugt
+ Willemien B. de Vries
+ William Davids
+ William van den Aker
+ Willy L. Braekman
+ Willy Peremans
+ Willy Spillebeen
+ Wilt Idema
+ Wim Hazeu
+ Wim Hendriks
+ Wim Hijmans
+ Wim Hora Adema
+ Wim J. Simons
+ Wim Meewis
+ Wim Vermeer
+ Wim Willems
+ Wim Zaal
+ Wim Zonneveld
+ Wim van Anrooij
+ Wim van Dam
+ Winnie Todd-Kooy
+ Wouter Hutschenruyter
+ Wouter Paap
+ X. Smits
+ Xandra Schutte
+ Y.S. Brenner
+ Yvan Goll
+ Yücel Yesilgöz
+ Zadok Stokvis
+ [tijdschrift] Vaderlandsche Letteroefeningen
+ anoniem Ridder metter swane
+ van Huffelen
+ Émile O.J.J.G. Lousse
+A. Agnes Sneller
+A. Alberts
+A. Ampe
+A. Bergsma
+A. Bicker Caarten
+A. Brom
+A. Bruining
+A. Carnoy
+A. Cauwe
+A. Chorus
+A. Dees
+A. Della Corte
+A. Dirkzwager
+A. Dupont
+A. Elink Sterk jr.
+A. Feberwee
+A. Feitsma
+A. Geerebaert
+A. Geyl
+A. Gildemeester
+A. Goslinga
+A. Graafhuis
+A. Grootjans
+A. Gruijs
+A. Habets
+A. Hendriks-Kappelhoff
+A. Hollenberg
+A. Hotz
+A. Jacob-Bekaert
+A. Jager
+A. Jonkers
+A. Kessen
+A. Kibédi Varga
+A. Kluijver
+A. Kluyver
+A. Komen
+A. Kraak
+A. Kriekemans
+A. Kuiper
+A. Ladan
+A. Lammers
+A. Lemair
+A. Leyns
+A. Lhorijn-Thans
+A. Lubotsky
+A. M. de Wachter-Schaerlaekens
+A. Maljaars
+A. Mankes-Zernike
+A. Marja
+A. Meeus
+A. Meintema
+A. Mertens
+A. Methöfer
+A. Meyroos
+A. Middeldorp
+A. Middelhoek
+A. Moerdijk
+A. Mooij
+A. Moresco
+A. Nagels
+A. Ollongren
+A. Pitlo
+A. Plas
+A. Plate
+A. Poncelet
+A. Prayon-van Zuylen
+A. Quak
+A. Rientjes
+A. Roels
+A. Roland Holst
+A. Sassen
+A. Schaafsma
+A. Seeldraeyers
+A. Seeldrayers
+A. Snoeck
+A. Sterveen
+A. Sturm
+A. Taelman
+A. Taymans
+A. Teeuw
+A. Verbist
+A. Verheyen
+A. Verstreken
+A. Viruly
+A. Wachter
+A. Wapenaar
+A. Wassenbergh
+A. Weemaes
+A. Wildeman
+A. de Buck
+A. de Groot
+A. de Guchteneere
+A. de Kool
+A. de Meyer
+A. de Roos
+A. den Doolaard
+A. van 't Laar
+A. van Beirendonck
+A. van Branteghem
+A. van Collem
+A. van Dantzig
+A. van Domburg
+A. van Eigenleven
+A. van Elslander
+A. van Hengel
+A. van Herk
+A. van Langendonck
+A. van Lennep
+A. van Loey
+A. van Marle
+A. van Mourik
+A. van Velsen
+A. van Wassenhove
+A. van den Dries
+A. van den Meersschaut
+A. van der Wey
+A.A. Bake
+A.A. Bosschart
+A.A. Keersmaekers
+A.A. Kok
+A.A. Monden
+A.A. Prins
+A.A. Verdenius
+A.A. Verrijn Stuart
+A.A. Weijnen
+A.A. van Rijnbach
+A.A. van Schelven
+A.A.H. Struycken
+A.A.M. Horsting-Boerma
+A.A.M. Stols
+A.A.M. de Villiers
+A.A.W. Hubrecht
+A.B. Breebaart
+A.B. Lapian
+A.B. de Cooman
+A.C. Bouman
+A.C. Josephus Jitta
+A.C. Kersbergen
+A.C. Loffelt
+A.C. Niemeyer
+A.C. Oudemans
+A.C. Verbeek
+A.C. Waller
+A.C. Willink
+A.C. Zijderveld
+A.C. de Jong
+A.C. van Waveren
+A.C.M. Kurpershoek-Scherft
+A.C.M. de Kok
+A.C.S. de Koe
+A.D. Leeman
+A.D. de Groot
+A.D. van Assendelft de Coningh
+A.D.A. Monna
+A.E. Cohen
+A.E. Croockewit
+A.E. Jacobs
+A.E. Kersten
+A.E. Meeussen
+A.E. Rosendahl Huber
+A.E. Thierens
+A.E. van den Tol
+A.E.J. Holwerda
+A.E.M. Janssen
+A.F. Coenen
+A.F. Manning
+A.F. May
+A.F. Mellink
+A.F. Zwaardemaker
+A.F.O. Sasse van Ysselt
+A.F.Th. van der Heijden
+A.G. Christiaens
+A.G. Welvaar
+A.G. van Hamel
+A.G. van Kranendonk
+A.G. van Melle
+A.G. van der Horst
+A.G. van der Spek
+A.G.F. van Holk
+A.G.H. Bachrach
+A.G.J. Hermans
+A.G.M. Vermeulen
+A.G.M. van Melsen
+A.G.M. van de Wijnpersse
+A.G.N. Swart
+A.G.W. Severijnen
+A.H. Blaauw
+A.H. Kan
+A.H. Kooyker
+A.H. Luijdjens
+A.H. Nijhoff
+A.H. Peters
+A.H. Philipse
+A.H. Touber
+A.H. Unger
+A.H. Wertheim-Gijse Weenink
+A.H. de Groot
+A.H. van der Weel
+A.H.G. Rinnooy Kan
+A.H.M. de Graaf
+A.H.M.J. van Kan
+A.I. Spits
+A.I.M. van der Waag
+A.J. Bernet Kempers
+A.J. Bothenius Brouwer
+A.J. Cnoop Koopmans
+A.J. Cuppen
+A.J. Dekker
+A.J. Dunning
+A.J. Goblet (d'Alviella)
+A.J. Immink
+A.J. Jansen
+A.J. Koejemans
+A.J. Kox
+A.J. Michielsen
+A.J. Rijnsburger
+A.J. Schneiders
+A.J. Servaas van Rooijen
+A.J. Sormani
+A.J. Veenendaal sr.
+A.J. Vermeersch
+A.J. Verschoor
+A.J. Welschen
+A.J. Wensinck
+A.J. Westerman Holstijn
+A.J. de Bull
+A.J. de Jong
+A.J. de Sopper
+A.J. van Dulst
+A.J. van Soest
+A.J. van de Perre
+A.J. van der Staay
+A.J.A. Etman
+A.J.A. Fehr
+A.J.A. Gerlach
+A.J.C. Geerts
+A.J.D. van Oosten
+A.J.G. Maclaine Pont
+A.J.J. de Witte
+A.J.M. Cornelissen
+A.J.M. Linmans
+A.J.W. Farncombe Sanders
+A.J.W. Kaas
+A.K. Datta
+A.K. Koekkoek
+A.K. Rottiers
+A.L Bem
+A.L. Constandse
+A.L. Lesturgeon
+A.L. Schneiders
+A.L. Sötemann
+A.L. Vos
+A.L. Wurfbain
+A.L. de Rop
+A.L. des Tombe
+A.L. van Beeck
+A.L.G. Bosboom-Toussaint
+A.L.H. Ising
+A.L.M. Arnolds
+A.L.R. Fernhout
+A.L.W. Seyffardt
+A.M. Chamalaun
+A.M. Duinhoven
+A.M. Hagen
+A.M. Hammacher
+A.M. Korpershoek
+A.M. Meerloo
+A.M. Nachenius-Roegholt
+A.M. Pols
+A.M. Spanjer
+A.M. de Jong
+A.M. van Kersbeek
+A.M. van der Giezen
+A.M.C. van Schaik-Verlee
+A.M.J. de Keijser
+A.M.J. van Spaendonck
+A.M.J.I. Binnewiertz
+A.M.L. van Wieringen
+A.N. Molenaar
+A.N. Paasman
+A.N.J. den Hollander
+A.O. van Kerkwijk
+A.P. Braakhuis
+A.P. Cornet
+A.P. Grové
+A.P. Kieft
+A.P. de Bont
+A.P. van Goudoever
+A.P. van Schilfgaarde
+A.P.C. van Karnebeek
+A.P.Th. Eyssell
+A.P.Th. Sassen
+A.R. Hol
+A.R. Vincke
+A.S. Bijl
+A.S. Carpentier Alting
+A.S. Oppenheim
+A.S. de Blécourt
+A.S. de Leeuw
+A.S. van Oven
+A.S.C. Wallis
+A.T. Reitsma
+A.T. Vos
+A.Th. van Deursen
+A.V.N. van Woerden
+A.W. Byvanck
+A.W. Engelen
+A.W. Grauls
+A.W. Krijgsman
+A.W. Kroon-Star Numan
+A.W. Nieuwenhuis
+A.W. Pulle
+A.W. Sanders van Loo
+A.W. Weissman
+A.W. de Groot
+A.W. ter Horst
+A.W. van Renterghem
+A.W.C. Zuidema
+A.W.G. Eijgendaal
+A.W.M. van Hasselt
+A.W.P. van Ree
+A.Z. van 't Hoff Stolk-Huisman
+Aad Hollebeek
+Aad Kosto
+Aad Nuis
+Aad van der Mijn
+Aafje Gijsen
+Aaldrik Koops
+Aart Admiraal
+Aart G. Broek
+Aart J.M. van de Laar
+Aart Romijn
+Aart Veder
+Aart van der Leeuw
+Ab Visser
+Ab van Eijk
+Abel J. Coetzee
+Abel J. Herzberg
+Abraham Benjamin Cohen Stuart
+Abraham Bredius
+Abraham Dirk Loman
+Abraham Kuenen
+Abraham Kuyper
+Abraham Maas
+Abraham Robert Arntzenius
+Abraham Rutgers van der Loeff
+Abraham Schierbeek
+Abraham Seyne Kok
+Abraham Sutzkever
+Abraham Willem de Klerck
+Abraham des Amorie van der Hoeven jr.
+Abram de Swaan
+Achilles Mussche
+Ad Beenackers
+Ad Foolen
+Ad Kooyman
+Ad Leerintveld
+Ad Teulings
+Ad Zuiderent
+Ad den Besten
+Ad ten Bosch
+Ad. Jansen
+Ad. Sassen
+Ada Deprez
+Ada Negri
+Adam Szirmai
+Adam Tern
+Adolf Herckenrath
+Adolf Rutten
+Adolf Wölfli
+Adolf de Ceuleneer
+Adolf ter Haghe
+Adolph Staring
+Adri Laan
+Adriaan Beeloo
+Adriaan Beets
+Adriaan Daniel Fokker
+Adriaan Donker
+Adriaan E.H. Swaen
+Adriaan J. Barnouw
+Adriaan Loosjes
+Adriaan M. van der Hoeven
+Adriaan Magerman
+Adriaan Morriën
+Adriaan Pit
+Adriaan Venema
+Adriaan Verhulst
+Adriaan van Dis
+Adriaan van Eck
+Adriaan van Oordt
+Adriaan van Slooten
+Adriaan van der Veen
+Adriaen Lourisz Lepel
+Adrian Pâunescu
+Adrianus Daniel de Vries
+Adrianus Dirk de Vries
+Adrianus van Selms
+Adrien Jans
+Aert Schouman
+Agatha Seger
+Agnes M. Zwaneveld
+Agnes Verbiest
+Aimé de Marest
+Aize de Visser
+Akira Nagazumi
+Alain Bossuyt
+Alain Robbe-Grillet
+Alb. Block
+Alb. Hernould
+Alb. Raignier
+Alb. de la Court
+Alb. vander Elst
+Albartus Telting
+Albe
+Albert Besnard
+Albert C.A. Voortman
+Albert Deblaere
+Albert Dondeyne
+Albert Eekhof
+Albert Helman
+Albert Hendrik Arnoldus Ekker
+Albert Jan Govers
+Albert Jan ten Brink
+Albert Kluyskens
+Albert Kok
+Albert Kuyle
+Albert Nap
+Albert Plasschaert
+Albert Schaalma
+Albert Speekaert
+Albert Van den Daele
+Albert Verwey
+Albert Westerlinck
+Albert de Longie
+Albert van Driessche
+Albert van Hogenbemt
+Albert van Hoogenbemt
+Albert van Waasdijk
+Albertine Draaijer-de Haas
+Albertine Steenhoff-Smulders
+Albertine de Haas
+Albertus Hendrikus Nijland
+Albin van Hoonacker
+Albrecht Rodenbach
+Aleid Truijens
+Aleida Gerarda Schot
+Aleidis Dierick
+Alejo Carpentier
+Aleksander Ivanov
+Aleksej Hackel
+Aletta H. Jacobs
+Aletta Huijsinga
+Alette Beaujon
+Alette van Doggenaar
+Alex Bolckmans
+Alex Harlssen
+Alex Reinders
+Alex van Gelder
+Alex van Schooten
+Alexander Frederik de Savornin Lohman
+Alexander Koesjner
+Alexander Münninghoff
+Alexander Sizoo
+Alexander West
+Alfons Ariëns
+Alfons Fierens
+Alfons Jozef Maria Janssens
+Alfons Moortgat
+Alfons Olterdissen
+Alfons Siffer
+Alfons Walschap
+Alfons de Cock
+Alfred Boysen
+Alfred G.H. Kerckhoffs
+Alfred Kossmann
+Alfred Listal
+Alfred M.M. Dekker
+Alfred Pijpers
+Alfred de Musset
+Alfred de Vigny
+Alice Nahon
+Alida Toussaint-Dekker
+Alie Smeding
+Alied Blom
+Allard Pierson
+Aloysius Brouwer Ancher
+Aloïs Janssens
+Aloïs Van Loy
+Aloïs Walgrave
+Alphonse Naert
+Alstein
+Alvin W. Gouldner
+Amaat Honoraat Joos
+Amado Nervo
+Amand Berteloot
+Amand Simoens
+Amedée Arents
+Amoene van Haersolte
+Ampie Coetzee
+Amr il Kaïs
+Amy van Marken
+Amélie de Man
+Andreas Glotzbach
+Andrew de Graaf
+Andries Borgeld
+Andries Dongera
+Andries Morlion
+Andries Poppe
+Andries Querido
+Andries Sarlemijn
+Andries Sörensen
+Andriëtte M. Stathi-Schoorel
+Andrzej Dabrówka
+André Brink
+André De Weerdt
+André Demedts
+André Jolles
+André Lefevere
+André Pakosie
+André Schmitz
+André Spoor
+André Vandenbunder
+André Vlerick
+André de Ridder
+André van Hasselt
+André van Praag
+Angelo Brucculeri
+Ango Sakaguchi
+Anil Ramdas
+Anita Wijzenbroek-Zoethout
+Anja van Leusden
+Ank Steenis
+Ann Laura Stoler
+Ann Rigney
+Ann Smith
+Ann Van Sevenant
+Anna Blaman
+Anna Ekker
+Anna Elisabeth Buma
+Anna Enquist
+Anna Germonprez
+Anna Jacoba Böeseken
+Anna Mertens
+Anna Muntjewerf
+Anna de Noailles
+Anna van Gogh-Kaulbach
+Anna van Hogendorp
+Annaeus Frederik Eilerts de Haan
+Anne Busken Huet-van der Tholl
+Anne Duden
+Anne Marie Heemskerk
+Anne Marie Musschoot
+Anne Wadman
+Anne de Vries
+Anne van Herreweghen
+Annechien Vink
+Annegret Böttner
+Annejoke Smids
+Anneke Brassinga
+Anneke Geluk
+Anneke Jansen
+Anneke Neijt
+Anneke Nunn
+Anneke van Luxemburg-Albers
+Annelies Schulte Nordholt
+Annelies van Cauwelaert
+Annelies van Gijsen
+Annelies van Hees
+Annemarie Cottaar
+Annemarie Kets
+Annemiek Neefjes
+Annet Mooij
+Annetje Reens-Neufeld
+Annick De Vylder
+Annie Femmina Dekker
+Annie Gransch
+Annie Romein-Verschoor
+Annie Salomons
+Annie Verhaeghe
+Annie Versprille
+Anno van Workum
+Anny C.A. Alberdingk Thijm
+Ans van Haersolte
+Ans van Kemenade
+Ant. Averkamp
+Ant. Gobert
+Antal Sivirsky
+Anthon van der Horst
+Anthonie Marius Kollewijn
+Anthonie Stolk
+Anthony Beaujon
+Anthony Ewoud Jan Modderman
+Anthony Jansen
+Anthony Mertens
+Antoine A.R. de Kom
+Antoine Bodar
+Antoine Braet
+Antoine Verbij
+Anton B. Lam
+Anton Blok
+Anton Ent
+Anton Gerard van Hamel
+Anton Gillis Cornelis van Duyl
+Anton Haakman
+Anton Jonckbloet
+Anton Kloppers
+Anton Koolhaas
+Anton Korteweg
+Anton Reichling
+Anton Reinhard Falck
+Anton Roothaert
+Anton Van de Velde
+Anton van Duinkerken
+Anton van Wilderode
+Anton van de Wardt
+Anton van der Boom
+Anton van der Vet
+Antoni Slonimski
+Antonie Cohen
+Antonie Maria Luyendijk-Elshout
+Antonie Niermeyer
+Antonie de Vletter
+Antonio Baldini
+Antonio Machado
+Antonius van der Linde
+Antony Winkler Prins
+Antoon Coolen
+Antoon Derkinderen
+Antoon Fimmers
+Antoon Gerard Roos
+Antoon Jacob
+Antoon Thiry
+António Jacinto
+Apie Prins
+Ar. Kwink
+Arend Heyting
+Ares Koopman
+Ariane van Santen
+Arie Gelderblom
+Arie Mout
+Arie Nelemaat
+Arie Pos
+Arie Querido
+Arie Rip
+Arie Schippers
+Arie Verhagen
+Arie Vermeer
+Arie Zevenhuijzen
+Arie Zijderveld
+Arie de Froe
+Arie-Jan Gelderblom
+Ariejan Korteweg
+Arjan Witte
+Arjen Duinker
+Arjen Miedema
+Arjen Mulder
+Armand van Assche
+Armand van Veerdeghem
+Armando
+Arnold Evers
+Arnold Heumakers
+Arnold J.T. Stakenburg
+Arnold Jan Pieter Tammes
+Arnold Jan d' Ailly
+Arnold Lysen
+Arnold Sauwen
+Arnold Spauwen
+Arnold Werumeus Buning
+Arnold de Vos
+Arnold van Dijk
+Arnold van Praag
+Arnoldus Nicolaas Jacobus Fabius
+Arnoldus Noach
+Arnoldus Wilhelmus Stellwagen
+Arnon Grunberg
+Arnoud Wils
+Arrigo Levasti
+Arthur Boon
+Arthur Constandse
+Arthur Coussens
+Arthur Eijffinger
+Arthur Hugh Clough
+Arthur J.H. Cornette
+Arthur Japin
+Arthur Kooyman
+Arthur Lehning
+Arthur Meulemans
+Arthur Mitzman
+Arthur Rimbaud
+Arthur Thomas
+Arthur Wenthworth Powell
+Arthur de Vos
+Arthur van Schendel
+Artur Lundkvist
+Ary Delen
+Ary den Hertog
+Aryeh Lev Stollman
+Aryiris Chionis
+Asrul Sani
+Aster Berkhof
+Astrid Joosse
+Astrid Roemer
+Astère Michel Dhondt
+Atte Jongstra
+Attila József
+Aug. Bruijnseels
+Aug. Bruynseels
+Aug. Cuypers
+Aug. Philips
+August Brunner
+August Corbet
+August Cuppens
+August Defresne
+August Gittée
+August Govaers
+August Hans den Boef
+August Henkels
+August Heyting
+August Nobels
+August Thiry
+August Vanhoutte
+August Vanistendael
+August Vercauteren
+August Vermeylen
+August Victor Bultijnck
+August Willemsen
+August van Boeckxsel
+August van Cauwelaert
+August von Platen
+Augusta Peaux
+Augusta de Wit
+Augustijn Lodewyckx
+Augusto Roa Bastos
+Auke Jelsma
+Aulus Persius Flaccus
+B. Boeyckens
+B. Carsten
+B. De Wint
+B. Dorhout Mees
+B. Faddegon
+B. Hunningher
+B. Nieskens-Isphording
+B. Nijenhuis
+B. Ouwerkerk
+B. Rademaker-Helfferich
+B. Roest Crollius
+B. Siertsema
+B. Sijmons
+B. Sliggers
+B. Sluimers
+B. Spaapen
+B. Symons
+B. Vechtman
+B. Zwaal
+B. de Gaay Fortman
+B. de Ligt
+B. van Geuns
+B. van Heusden
+B. van Kesteren
+B. van Meer
+B. van den Berg
+B.A. Mensink
+B.A. Sijes
+B.A. Vermaseren
+B.A. van Groningen
+B.C. Damsteegt
+B.C. van Houten
+B.C.J. Loder
+B.D. Eerdmans
+B.G. Escher
+B.G.J. de Graaff
+B.G.L. Overmaat
+B.H. Erné
+B.H. Kazemier
+B.H. Molkenboer
+B.H. Peteri
+B.H.C.K. van der Wijck
+B.H.D. Hermesdorf
+B.J. Asscher
+B.J. Hoff
+B.J. Stokvis
+B.J. van Eyk
+B.J.F. Varenhorst
+B.J.H. Ovink
+B.J.S. Hoetjes
+B.L. van der Waerden
+B.M. Baxter
+B.M. Noach
+B.M. Salman
+B.M. Telders
+B.N. Teensma
+B.P. Visser
+B.P.F. Al
+B.P.M. Dongelmans
+B.Th. Tervoort
+B.V.A. Röling
+B.W. Schaper
+B.W. Schippers
+B.W. Wttewaall van Wickenburgh
+B.W.E. Veurman
+Bai Juyi
+Balthazar Heldring
+Balthazar Verhagen
+Barbara Noske
+Barbara den Uyl
+Barber van de Pol
+Barend Rijdes
+Barend de Goede
+Barend ter Haar Bzn.
+Bart Besamusca
+Bart Driessen
+Bart Jan Spruyt
+Bart Janssen
+Bart Landheer
+Bart Moeyaert
+Bart Tromp
+Bart Verschaffel
+Bart Vervaeck
+Bart Vonck
+Bart Vos
+Bart van Steenbergen
+Barthold Jacob Lintelo de Geer van Jutphaas
+Bartholomeus Philippus de Kanter
+Bas Veth
+Bas van Gelder
+Bas van de Werk
+Basha Faber
+Basiel de Craene
+Bastiaan Adriaan Pieter van Dam
+Bastiaan Willink
+Basuki Gunawan
+Baukje van Dam-Heringa
+Bea Vianen
+Beate Zilversmidt
+Beatrice Willing
+Beatrijs Ritsema
+Beb Vuyk
+Ben Bos
+Ben Cami
+Ben Groeneveld
+Ben Jonson
+Ben Knapen
+Ben Moritz
+Ben Onie
+Ben Peperkamp
+Ben Sloot
+Ben Stroman
+Ben Wolken
+Ben de Pater
+Ben van Eysselsteijn
+Ben van Melick
+Ben van der Have
+Ben van der Velden
+Benjamin Biebuyck
+Benno Barnard
+Benno J. Stokvis
+Benno Premsela
+Berend Jager
+Berend Kuitert Cz
+Berend Lantink
+Berend Lasseur
+Bergman
+Bernadette Smelik
+Bernard Canter
+Bernard Delfgaauw
+Bernard Dewulf
+Bernard Dominicus Hubertus Tellegen
+Bernard Gewin
+Bernard Kemp
+Bernard Shaw
+Bernard Verhoeven
+Bernard Verstraete
+Bernard Vlekke
+Bernard van Delfshaven
+Bernardo Ashetu
+Bernhard prins der Nederlanden
+Bernhard van Meurs
+Bernt Luger
+Bert Bakker
+Bert Bevers
+Bert Decorte
+Bert Govaerts
+Bert Hofman
+Bert Jansma
+Bert Japin
+Bert Kooijman
+Bert Menco
+Bert Peleman
+Bert Ranke
+Bert Schierbeek
+Bert Schouten
+Bert Vanheste
+Bert Verbist
+Bert Verm
+Bert Voeten
+Bert Wartena
+Bert van Aerschot
+Bert van Selm
+Bert van den Broeck
+Berthe Meijer
+Berthold Missiaen
+Bertien Buyl
+Bertram Joseph
+Bertram Mourits
+Bertus Aafjes
+Bertus Dijk
+Bertus van Lier
+Bessie Schadee
+Betsie Hollants
+Betsy Juta
+Bibiana Mikkelsen
+Bies van Ede
+Bill Kroekow
+Birage Diop
+Blaise Cendrars
+Blanka Gyselen
+Blas de Otero
+Bob Baljet
+Bob Carlier
+Bob Rigter
+Bob de Nijs
+Bob den Uyl
+Bob van Laerhoven
+Bodo Kirchhoff
+Boeli van Leeuwen
+Bora Cosic
+Boris Raptschinsky
+Boris Todoroff
+Boris Tomas
+Botto van den Bergh
+Boudewijn Büch
+Boudewijn Nierstrasz
+Bouke B. Jagt
+Brady Udall
+Bram Kempers
+Bram van der Lek
+Breyten Breytenbach
+Brocardus Meyer
+Bruce Burton
+Bruno B. Becker
+Bruno Jz. Tideman
+Bruno K. Öijer
+Bruno Walschap
+Bruno Zevi
+Burny Every
+Bé Stolk
+C. Augustijn
+C. Bakker
+C. Becker
+C. Binnerts
+C. Bittremieux
+C. Bruins
+C. Buddingh'
+C. Ch. Mout
+C. Clerckx
+C. Gussenhoven
+C. Heymans
+C. Honigh
+C. Houwaard
+C. Kock
+C. Kostelijk
+C. Krak
+C. Kramer
+C. Kruyskamp
+C. Ldov
+C. Lekkerkerker
+C. Moeyaert
+C. Monster
+C. Nicolaï
+C. Ouboter
+C. Pama
+C. Pekelharing
+C. Pickery
+C. Reedijk
+C. Rooker
+C. Schepel
+C. Schmidt
+C. Soeteman
+C. Terburch
+C. Tielrooy-de Gruyter
+C. Vermeer
+C. Vervaever
+C. Weststrate
+C. Wilkeshuis
+C. Winkler
+C. Wolterbeek
+C. de Bievre
+C. de Boer
+C. de Deugd
+C. de Dood
+C. de Groot
+C. de Leeuw-Schönberg
+C. de Waal
+C. te Lintum
+C. van Coll
+C. van Duijn jr.
+C. van Malten
+C. van Ongeval
+C. van Vollenhoven
+C. van de Haar
+C. van de Ketterij
+C.A. Crommelin
+C.A. Pekelharing
+C.A. Steger
+C.A. Terburg
+C.A. Verrijn Stuart
+C.A. Worp-Roland Holst
+C.A. Zaalberg
+C.A. van Manen
+C.A. van Peursen
+C.A.E. Wichmann
+C.A.J.A. Oudemans
+C.A.O. van Nieuwenhuijze
+C.A.R. Graamans
+C.B. Hylkema
+C.B. Vaandrager
+C.B. van Haeringen
+C.C. Berg
+C.C. Huysmans
+C.C. Uhlenbeck
+C.C. de Bruin
+C.C. van de Graft
+C.D. Saal
+C.D.H. Schneider
+C.D.J. Brandt
+C.E. Dip
+C.E. Hooykaas
+C.E. Pothast-Gimberg
+C.F. Krijs
+C.F. Meyer
+C.F. Roos
+C.F. van Beusekom
+C.F.A. van Dam
+C.F.P. Stutterheim
+C.G. Brouwer
+C.G. Santing
+C.G.L. Apeldoorn
+C.G.N. de Vooys
+C.G.S. Sandberg
+C.H. Kühn
+C.H. Lambermond
+C.H. Telders
+C.H. de Goeje
+C.H. de Ronde
+C.H. den Hertog
+C.H. van Os
+C.H. van Rhijn
+C.H.D. Buys Ballot
+C.H.H. Spronck
+C.H.Th. Bussemaker
+C.J. Blaauw
+C.J. Bleeker
+C.J. Dippel
+C.J. Greshoff
+C.J. Hasselman
+C.J. Huizinga
+C.J. Kelk
+C.J. Lannoy
+C.J. Nobel
+C.J. Ruijgh
+C.J. Stigter
+C.J. Vierhout
+C.J. Wolterbeek
+C.J. de Vogel
+C.J. van Assen
+C.J. van Geel
+C.J. van Veen
+C.J.B.J. Trimbos
+C.J.E. Dinaux
+C.J.F. Stuldreher
+C.J.G. Holtzappel
+C.J.H. Steketee
+C.J.J. Westermann
+C.J.K. van Aalst
+C.J.M. Jansen
+C.J.M. Schuyt
+C.K. Elout
+C.L. Heesakkers
+C.L. Kruithof
+C.L. Sciarone
+C.L. van Woelderen
+C.L.W. Fock
+C.M. Geerars
+C.M. Hamaker Sr.
+C.M. Verkroost
+C.M. Vos
+C.M. van Hille-Gaerthé
+C.M. van den Heever
+C.M.J. Sicking
+C.N. Dubelaar
+C.O. Jellema
+C.P. Bakker
+C.P. Burger
+C.P. Gunning
+C.P. Tiele
+C.P. van der Weide
+C.P.F. Lecoutere
+C.R. de Klerk
+C.S.M. Rademaker
+C.T. van Valkenburg
+C.W. Aakster
+C.W. Mönnich
+C.W. Opzoomer
+C.W. Rietdijk
+C.W. Roldanus
+C.W. Sangster-Warnaars
+C.W. Schoonhoven
+C.W. de Vries
+C.W. van Berkel
+C.W. van de Watering
+C.W. van der Pot
+C.W.A. van Haersolte van den Doorn
+Caesar Gezelle
+Camiel Hamans
+Camiel van Deyck
+Camille Huysmans
+Camille Poupeye
+Car Flanders
+Carel Adriaan Engelbregt
+Carel Eduard Daniëls
+Carel Peeters
+Carel Scharten
+Carel Swinkels
+Carel Vosmaer
+Carel de Haseth
+Carel van Nievelt
+Carine Meulders
+Carl A.X.G.F. Sicherer
+Carl Friedman
+Carl Friedrich von Weizsäcker
+Carl Ludwig Lütkebühl jr.
+Carl Mennicke
+Carl Sandburg
+Carl de Keyzer
+Carla Bogaards
+Carla Rijkenberg
+Carla Walschap
+Carla van Lidth de Jeude
+Carlo (graaf) Sforza
+Carlo Ginzburg
+Carlo Goldini
+Carlo Hoop
+Carlo Schmid
+Carlos Drummond de Andrade
+Carlos Tindemans
+Carme Riera
+Carole Vos
+Carolijn Visser
+Caroline F. Ware
+Caroline Lamarche
+Caroline Meijer
+Caroline Rehorst-de Westenholz
+Caroline van Eck
+Carry van Bruggen
+Cas Enklaar
+Cas Wouters
+Casper Hakfoort
+Casper Höweler
+Casper de Groot
+Caspert van Son
+Catharina Kortebos
+Catharina Ypes
+Catharina van der Linden
+Catherine Barel
+Cd. Busken Huet
+Cecília Meireles
+Cees Cruson
+Cees Fasseur
+Cees Koster
+Cees Nooteboom
+Cees Verraak
+Cees de Jong
+Cees van Dijk
+Cees van Dop
+Cees van der Pluijm
+Celestine Raalte
+Cenne de la Chitarra
+Ch. Enschedé
+Ch. Lucas
+Ch.A. Thomas-Bourgeois
+Ch.F. Haje
+Ch.G. Matser
+Ch.J. Enschedé
+Ch.J. Wooding
+Ch.M. van Deventer
+Chairil Anwar
+Chantal Keijsper
+Charles B. Timmer
+Charles Bettelheim
+Charles Boissevain
+Charles Boost
+Charles Causley
+Charles Ducal
+Charles Eyck
+Charles François van Duyl
+Charles Gillès de Pélichy
+Charles Grivel
+Charles Marie René Leconte de Lisle
+Charles Meeking
+Charles René Bakhuizen van den Brink
+Charles Reznikoff
+Charles Roelofsz
+Charles Simic
+Charles Tomlinson
+Charles Vergeer
+Charles Webster
+Charles Wentinck
+Charles van Iersel
+Charles van Lerberghe
+Charles-Henry Ford
+Charlotte Mutsaers
+Charlotte van Herwerden
+Chitra Gajadin
+Chr. Cornelissen
+Chr. Stapelkamp
+Chr.J. van Geel
+Chr.P. van Eeghen
+Chris Coppens
+Chris Honingh
+Chris Keulemans
+Chris Lorenz
+Chris Mast
+Chris Rutenfrans
+Chris de Graaff
+Chris de Stoop
+Chris van der Weye
+Christa Schuenke
+Christa Stevens
+Christel van Boheemen-Saaf
+Christiaan Hooykaas
+Christiaan Lodewijk Schuller tot Peursum
+Christiaan Snouck Hurgronje
+Christiaan Terpstra
+Christian Rimestad
+Christina Kroes-Ligtenberg
+Christine Brinkgreve
+Christine D'haen
+Christine Delhaye
+Christine Meyling
+Christine Mohrmann
+Christoffel Verwey
+Christoph Noordzij
+Chuan Xi
+Chun-chan Yeh
+Ciaran Carson
+Cipriano Efisio Oppo
+Cisca Dresselhuys
+Cita Golterman-van Dijk
+Cl. Buvé
+Claas W. de Kruyter
+Clara Eggink
+Clara Strijbosch
+Clare Lennart
+Clarissa Jacobi
+Clarín
+Clasina Isings
+Claude Korban
+Claude van de Berge
+Clem Schouwenaars
+Clemens Daenen
+Clemens van der Straeten
+Clément Mertens
+Co Vet
+Coen Bersma
+Coen Hissink
+Coenraad van Emde Boas
+Coert Poort
+Cok van der Voort
+Cola Debrot
+Cola Minis
+Colijn Caillieu
+Con Schröders
+Connie Palmen
+Conny Kristel
+Conrad Th. van Deventer
+Conradus Leemans
+Constance E. van der Maesen
+Constance Teichmann
+Constant Eeckels
+Constant Godelaine
+Constant Labruyère
+Constant Lindemans
+Constant van Wessem
+Constantijn
+Constantijn Huygens
+Constantinus
+Constantinus Bake
+Cor Blok
+Cor Stutvoet
+Cor de Groot
+Cor van Bree
+Cor van der Lugt Melsert
+Cora Polet
+Cora Vreede - de Stuers
+Corly Verlooghen
+Corneille L. Landré
+Cornelia Brinkman
+Cornelia Serrurier
+Cornelia Wilhelmina Bosch
+Cornelis Backer
+Cornelis Bellaar Spruyt
+Cornelis Marinus Francken
+Cornelis Rijnsdorp
+Cornelis Star Numan
+Cornelis Veth
+Cornelis van der Vijver
+Cornelius Marinus de Jong van Rodenburgh
+Cornelius Marius Kan
+Corrado Govoni
+Cunibertus Sloots
+Cyriel Buysse
+Cyriel Verschaeve
+Cyriel de Baere
+Cyrille Offermans
+Czeslaw Milosz
+Cándani
+César Vallejo
+D. Bos
+D. Cohen
+D. Delabastita
+D. Dresden
+D. Elema
+D. Frenkel
+D. Geeraerts
+D. Gil-Günzburger
+D. Haagman
+D. Hendrikse
+D. Holzscherer
+D. Huizinga
+D. Kilinow
+D. Kuijper Fzn.
+D. Loenen
+D. Logeman-van der Willigen
+D. Lunders
+D. Merens
+D. Merlevede
+D. Nauta
+D. Otten
+D. Plooij
+D. Simons
+D. Staroger
+D. Zijlstra
+D. van Arkel
+D. van Blom
+D. van Unnik
+D. van der Meulen
+D.A. Dyland
+D.A. Stracke
+D.A. Tamminga
+D.A. Zoethout
+D.A. de Graaf
+D.A. van Heyst
+D.A. van Waalwijk
+D.A.L. Schröder
+D.A.M. Binnendijk
+D.B. Bosman
+D.B. van Nisius
+D.C. Hesseling
+D.C. Meijer
+D.C. Tinbergen
+D.C. van der Poel
+D.D. Büchler
+D.E. Bosselaar
+D.E. Siegenbeek van Heukelom
+D.E.W. Wolff
+D.F. Slothouwer
+D.F.F.J. Mercier
+D.F.W. van Lennep
+D.G. Jelgersma
+D.G. van Vreumingen
+D.H. Lammers
+D.H. Lawrence
+D.H. Smit
+D.I. Bouman-Eringa
+D.J. Coster
+D.J. Kohlbrugge
+D.J. Mom Visch
+D.J. Opperman
+D.J. Sannes
+D.J. Sikkens
+D.J.H. ter Horst
+D.J.M. ten Berge
+D.L. Daalder
+D.M. Bakker
+D.M. Schenkeveld
+D.M.G. Koch
+D.P. Blok
+D.P.M. Graswinckel
+D.R. Jonker
+D.T. Spronk
+D.Th. Enklaar
+D.Th. Jaarsma
+D.U. Stikker
+D.W. Bloemena
+D.W. Fokkema
+D.W. Rost van Tonningen
+Daam Fockema
+Daan Boens
+Daan Mondgaas
+Daan Zonderland
+Daan van der Zee
+Dago Steenis
+Damida Reynders
+Dan. Engelen
+Dan. de Lange jr.
+Daniel Koorders
+Daniel de Lange
+Daniel de Swaef
+Daniël Crena de Iongh
+Daniël Hartevelt
+Daniël Veegens
+Daniël van Hecke
+Daniël van Ryssel
+Dante Alighieri
+Daphne Muller
+David Bierens de Haan
+David Foster Wallace
+David Jacob van Lennep
+David Kettler
+David Koning
+David Kouwenaar
+David Maarschalk
+David Minter
+David Moolenaar
+David Rokeah
+David Scheinert
+David Vaughan
+David de Jong
+David de Kok
+David van Hoogstraten
+Delfien Vanhaute
+Derek Phillips
+Derek Walcott
+Derk de Vries
+Desideer Claes
+Desiderius Erasmus
+Dewijch Griffioen
+Dhiravat na Pomberja
+Dianne Hagen
+Dick Dooijes
+Dick E.H. de Boer
+Dick Hillenius
+Dick Molewijk
+Dick Pels
+Dick Schram
+Dick Springorum
+Dick Steenkamp
+Dick Voerman
+Dick Zaal
+Dick van den Bosch
+Didi de Paris
+Didier L. Goyvaerts
+Diederik Grit
+Diet Kramer
+Dieter Hülsmanns
+Dieuw Schepel
+Dieuwke E. van der Poel
+Dina van Berlaer-Hellemans
+Dingeman van der Stoep
+Dino Campana
+Dionys Burger
+Diotimos
+Dirk Bartling
+Dirk Bax
+Dirk Coigneau
+Dirk Coster
+Dirk Drijver
+Dirk Geeraerts
+Dirk Geirnaert
+Dirk Gerhardus Muller
+Dirk Harting
+Dirk Herderschêe
+Dirk Hudig
+Dirk Jan van der Laan
+Dirk Jorritsma
+Dirk Kroon
+Dirk Merens
+Dirk Schoute
+Dirk Vansina
+Dirk Verbruggen
+Dirk Volker Nijland
+Dirk Wiersma
+Dirk de Geest
+Dirk de Jong
+Dirk van Bastelaere
+Dirk van Delft
+Dirk van Minden
+Dirk van Weelden
+Dirk van der Ploeg
+Dj. Adinegoro
+Dmitrij Sergeevic Merezjkovskij
+Do van der Sloot
+Doeschka Meijsing
+Dola de Jong
+Dolf Verspoor
+Dolph Kohnstamm
+Domenico Giuliotti
+Domien ten Berge
+Dominique Goblet
+Don Maquis
+Dop Bles
+Dora Janssen
+Dora van Velden
+Dorelies Kraakman
+Dorian Cumps
+Dorie Nielen
+Dorin Tudoran
+Dorinde van Oort
+Doris Edel
+Doris Lessing
+Dorothée Buys
+Dorthe Schipperheijn
+Dorus Vrede
+Douwe Draaisma
+Douwe Kalma
+Drs. P
+Durk van der Ploeg
+Durs Grünbein
+Dylan Thomas
+Dzjen Tse Loeng
+Dédé Brouwer
+Dés. de Kock
+E. Bergsma
+E. Braches
+E. Brongersma
+E. Cantillon
+E. Cramer-Peeters
+E. De Cooman
+E. Dekker
+E. Eijkemans
+E. Elias
+E. Horbach
+E. Jaspar
+E. Jaulusz.
+E. Land
+E. Lopes Cardozo
+E. Mandel
+E. Meyer-Brouwer
+E. Nuijtens
+E. Oey-de Vita
+E. Pelinck
+E. Piaget
+E. Rijgersberg
+E. Schoenmaeckers
+E. Smedes
+E. Standaert
+E. T. Woudstra
+E. Verstraelen
+E. Vliebergh
+E. W. Holthuysen
+E. Zuidema
+E. de Strycker
+E. du Perron
+E. van Dievoet
+E. van Fraechem
+E. van Hille
+E. van Leuven
+E. van Uytbergen
+E. van den Boogaart
+E. van der Heijden
+E. van der Starre
+E.A. Ryan
+E.A.A. Vermeer
+E.A.A. van Heekeren
+E.A.N.P. Franchimont
+E.B. Kielstra
+E.B. Mayer-Swart
+E.B. Swalue
+E.C. Abendanon
+E.C. Godée Molsbergen
+E.C. Pienaar
+E.C. van Dorp
+E.C. van Leersum
+E.C.P. van Waalwijk van Doorn
+E.D. van Dissel
+E.D. van Nuffel
+E.E. Gewin
+E.E.G. Vermeulen
+E.F. Kossmann
+E.F. Tijdens
+E.F. Wijsman
+E.G. Courrech Staal
+E.G. Marshall
+E.G. de Poorter
+E.H. Kossmann
+E.H. Teissen
+E.H. ter Kuile
+E.H.F. van der Lely
+E.H.Hendrik de Vis
+E.H.J. Bernaerts
+E.H.J. Hallez
+E.H.M. Beekman
+E.J. Dijksterhuis
+E.J. Dommering
+E.J. Haslinghuis
+E.J. Mertens
+E.J. Potgieter
+E.J. Spliethoff
+E.J. Vandenbussche
+E.J. van Sonsbeek
+E.J. van den Broecke-de Man
+E.J. van der Brugh
+E.J.P. Jorissen
+E.K. Grootes
+E.L. Levie
+E.M. Barth
+E.M. Beekman
+E.M. Janssen Perio
+E.M. Meijers
+E.M. Uhlenbeck
+E.M. ten Cate
+E.N. Rahusen
+E.O. Houtsma
+E.P. Meijering
+E.P. Wellenstein
+E.P. de Booy
+E.P.M. Tervooren
+E.T. Kuiper
+E.Th.J. Brom
+E.V.W. Vercruijsse
+E.W. Beth
+Eberhard Nehlsen
+Ed Coenraads
+Ed Leeflang
+Ed de Moor
+Ed van Thijn
+Ed van der Elsken
+Ed. Ebels
+Ed. Hoornik
+Ed. Loos
+Ed. de Jonghe
+Eddy de Vries
+Eddy van Vliet
+Edgar Allan Poe
+Edgar Cairo
+Edgar Lee Masters
+Edgar Rice Burroughs
+Edgar Twello
+Edgard Blancquaert
+Edgard de Bruyne
+Edith Södergran
+Edith Werkendam
+Edmond Rubbens
+Edmond van Offel
+Edmund Licher
+Edouard Dhanis
+Edouard Roditi
+Eduard A. Serrarens
+Eduard Amter
+Eduard Reeser
+Eduard Verkade
+Eduard van Collem
+Edvard Welle-Strand
+Edw. De Schaepdrijver
+Edward Al. Th. Stam
+Edward Arlington Robinson
+Edward B. Koster
+Edward John Voûte
+Edward Rombauts
+Edward Vermeulen
+Edward Vlietinck
+Edward de Grijse
+Edward van Bergen
+Edward van Even
+Edwin Krijgsman
+Edwin Rabbie
+Edzard Dideric
+Eelco Runia
+Eelco Verwijs
+Eep Francken
+Egberdina Anna Junius
+Egbert Krispyn
+Egil Törnqvist
+Egon Berendsen
+Eldert Willems
+Eleonore Vigenon
+Elie Nieuwborg
+Elie van Rijckevorsel
+Eline Canter Cremers-van der Does
+Elis Juliana
+Elisabeth Augustin
+Elisabeth Cheixaou
+Elisabeth Dhanens
+Elisabeth Eybers
+Elisabeth Jongejan
+Elisabeth Kappner
+Elisabeth Keesing
+Elisabeth Leijnse
+Elisabeth Marain
+Elisabeth Paling Funk
+Elisabeth Reitsma
+Elisabeth Siriks
+Elisabeth Wolters
+Elisabeth Zernike
+Elisabeth du Perron-de Roos
+Elisabeth van Elsen
+Elisaveta Bagrjana
+Elise Adelaïde Haighton
+Elise Knuttel-Fabius
+Eliseus Bruning
+Elizabeth Barrett Browning
+Elizabeth Visser
+Elizabeth van Stappen
+Elize van Kaathoven
+Elke Brems
+Ellen Ombre
+Ellen Russe
+Ellen Warmond
+Elly Touwen-Bouwsma
+Elly de Waard
+Elly van Gelderen
+Elma van Haren
+Elmar Borg
+Elmer Schönberger
+Elrud Ibsch
+Els Andringa
+Els Broeksma-van Capelle
+Els Elffers
+Els Jongeneel
+Els Stronks
+Els Weijers
+Els de Graaf
+Els den Os
+Elsa Frank
+Elsa Sophia von Kamphoevener
+Elsbeth Etty
+Else Lasker-Schüler
+Else Osten
+Else Wichers
+Eltjo Aldegondus van Beresteyn
+Eltjo Muntinga
+Em. Broes
+Em. Kummer
+Em. Querido
+Em. de Deyne
+Emanuel Overbeeke
+Emiel Fleerackers
+Emiel Hullebroeck
+Emiel Jan Janssen
+Emiel Willekens
+Emiel de Grave
+Emiel van Coppenolle
+Emiel van Hemeldonck
+Emiel van der Donck
+Emiel van der Straeten
+Emil Bentzen
+Emil Zegadlowicz
+Emile Clemens
+Emile Erens
+Emile Gobée
+Emile Habets
+Emile Schra
+Emile Seipgens
+Emile Verviers
+Emilio Lavagnino
+Emma Brunt
+Emma Crébolder
+Emmanuel de Bom
+Emmeken van der Heijden
+Emmy Kerkhoff
+Emmy van Lokhorst
+Endre Ady
+Enno Endt
+Enny de Bruijn
+Enrico Nencioni
+Eppe Wiersum
+Era Lobet
+Erhard Blankenburg
+Eric Derluyn
+Eric Heidbuchel
+Eric Hoekstra
+Eric M. Moormann
+Eric Marloux
+Eric Rinckhout
+Eric Vos
+Eric de Kuyper
+Eric de Volder
+Eric van der Steen
+Erica C. García
+Erica Huls
+Erica van Boven
+Erik Hörnström
+Erik Jespersen
+Erik K. de Vries
+Erik Lindegren
+Erik Maten
+Erik Menkveld
+Erik Slagter
+Erik Spinoy
+Erik Thys
+Erik Vlaminck
+Erik Vos
+Erik Wellander
+Erik Zürcher
+Erik van Ruysbeek
+Erika Dedinszky
+Erling Lauhn
+Ernest Barker
+Ernest Claes
+Ernest Closson
+Ernest Michel
+Ernest Soens
+Ernest Zahn
+Ernest van der Hallen
+Ernestine van der Wall
+Ernst Denny Hirsch Ballin
+Ernst Groenevelt
+Ernst Heldring
+Ernst Jandl
+Ernst Julius Kiehl
+Ernst S. Willartz
+Ernst Wiechert
+Ernst Wilhelm Moes
+Ernst van Alphen
+Ernst van Altena
+Ernst van Heerden
+Ernst van Raalte
+Erwin Mantingh
+Erwin Mortier
+Essa Reijmers
+Esteban López
+Esther Hadassa Weyl
+Esther Jansma
+Ethel Portnoy
+Etienne van Heerden
+Etsko Kruisinga
+Etus Alons-Bernhardt
+Eug. de Lepeleer
+Eug. vander Heyden
+Eugeen Leën
+Eugen Mehler
+Eugenie Boeye
+Eugenio Montale
+Eugenius Druwé
+Eugène Isebaert
+Eugène James
+Eugène Joors
+Eugène de Bock
+Eugène de Hovre
+Eugène van Itterbeek
+Ev. Grolle
+Eva Abraham-van der Mark
+Eva E. Gerretsen
+Eva Gerlach
+Eva Hofman
+Eva Moltesen-Hällström
+Eva Raedt-de Canter
+Eva Szelburg Zarembina
+Eva Vlame
+Eva Vondeling
+Eva van Schaik
+Eva van Sonderen
+Eveline Buchheim
+Eveline van Deth
+Evermar van Moere
+Evert Sweens
+Evert Werkman
+Evert Willem Schallenberg
+Evert de Jong
+Evert van Uitert
+Evert van den Berg
+Ewald Vanvugt
+Ewaldus Daniël Pijzel
+Ezechiël Slijper
+Ezra Pound
+F. Adama van Scheltema
+F. Beelaerts van Blokland
+F. Bender
+F. Bordewijk
+F. Bulhof
+F. Collin
+F. De Raedemaeker
+F. Dewitte
+F. Dijkema
+F. Drijkoningen
+F. Jansonius
+F. Lulofs
+F. Michielsens
+F. Oudschans Dentz
+F. Palmen
+F. Ph. Groeneveld
+F. Revet
+F. Roels
+F. Schmidt-Degener
+F. Schröder
+F. Springer
+F. Steyaert
+F. Stuurman
+F. Tichelman
+F. Veenstra
+F. Verhelst
+F. Vos
+F. de Haan
+F. de Jong
+F. de Sinclair
+F. de Tollenaere
+F. den Eerzamen
+F. van Calloo
+F. van Elmbt
+F. van Gheel Gildemeester
+F. van Hoeck
+F. van Lennep
+F. van Sandwijk
+F. van Vinckenroye
+F. van der Blij
+F. van der Kooy
+F. van der Rhee
+F.A. Brekelmans
+F.A. Holleman
+F.A. Le Poole
+F.A. Stoett
+F.A. Vercammen
+F.A. van Engen
+F.A. van den Heuvel
+F.A. van der Hoeven
+F.A.F.C. Went
+F.A.J. Vermeulen
+F.A.M. Riem Vis
+F.A.W. Miquel
+F.B. Hotz
+F.B. Löhnis
+F.B.J. Kuiper
+F.C. Dominicus
+F.C. Donders
+F.C. Driessen
+F.C. Fensham
+F.C. Terborgh
+F.C. Wieder
+F.D.K. Bosch
+F.E. Frenkel
+F.E. Posthumus Meyjes
+F.E.J. Malherbe
+F.G. Droste
+F.G. Hesmerg
+F.G. Scheltema
+F.G. von der Dunk
+F.G.A. Stemvers
+F.H. Boogaard
+F.H. Fischer
+F.H. Jansen
+F.H.M. Hertoghs
+F.I.J. van Rensburg
+F.J. Haver Droeze
+F.J. Koopmans-Van Beinum
+F.J. Kruitwagen
+F.J. Lodder
+F.J. Snijman
+F.J. Swartwout
+F.J. de Holl
+F.J. du Toit Spies
+F.J.A. Huart
+F.J.A. Jagtenberg
+F.J.H. Lousberg
+F.J.J. Buitendijk
+F.J.J. Buytendijk
+F.J.L. Krämer
+F.J.L. Rompel
+F.J.P. Peeters
+F.K.H. Kossmann
+F.K.M. Mars
+F.L. Bastet
+F.L. Ganshof
+F.L. Zwaan
+F.L. van Holthoon
+F.L.W.M. Buisman-de Savornin Lohman
+F.M. Cowan
+F.M. Gelens
+F.M. Wibaut
+F.M.P. Oosterhof
+F.N. Jansen
+F.P. Huygens
+F.P. Lorreins
+F.P. ter Meulen
+F.P. van Oostrom
+F.P.H. Prick van Wely
+F.P.J. Sibmacher Zìjnen
+F.Ph.A. Tellegen
+F.R. Gilfillan
+F.R. Kraus
+F.R. Noske
+F.R.J. Knetsch
+F.R.J. Verhoeven
+F.S. Knipscheer
+F.S. van Bouwdijk Bastiaanse
+F.S. van Nierop
+F.V. Engelenburg
+F.V.H.A. de Stuers
+F.W. Grosheide
+F.W. Michels
+F.W. Prins
+F.W. Stapel
+F.W. Zeylmans van Emmichoven
+F.W. van Heerikhuizen
+F.W.J.G. Snijder van Wissenkerke
+F.W.N. Hugenholtz
+F.W.S. van Thienen
+F.X. van der Straten-Waillet
+Fa Claes
+Fabian R.W. Stolk
+Fanny de Jong
+Fazil Bey
+Fedde Schurer
+Federico García Lorca
+Feitse Boerwinkel
+Felicitas Hoppe
+Felipe M. Lorda Alaiz
+Felix Rutten
+Felix Timmermans
+Felix de Rooy
+Fem Rutke
+Fenna de Meyier
+Fenna van den Burg
+Ferd. Sassen
+Ferdinand Langen
+Ferdinand Vercnocke
+Ferdinand van Ingen
+Ferdynand Goetel
+Ferenc Karinthy
+Fernand Auwera
+Fernand Bekaert
+Fernand Deschamps
+Fernand Toussaint van Boelaere
+Fernand Van Goethem
+Fernando Schellen
+Fernando Venâncio
+Fernán Silva Valdés
+Ferrad Whaley Hudig
+Fieny Pijls
+Filip de Pillecyn
+Filippo Donini
+Fiore della Neve
+Firmin van Hecke
+Firmin van der Poorten
+Fjodor Sologoeb
+Fl. Bertiau
+Fleur Bourgonje
+Fleur Thomése
+Flip de Kam
+Flor Aarts
+Flora Stiemer
+Florent Wellens
+Florentijn Jan van der Mueren
+Florimond Heuvelmans
+Floris Evers
+Floris Prims
+Floris der Kinderen Fzn.
+Foeke Buitenrust Hettema
+Fokke Sierksma
+Fokko Bos
+Folkertinus Nicolaas Sickenga
+Fons Elders
+Fons van Buuren
+Fr. Bertrand
+Fr. Claessens
+Fr. Daems
+Fr. Ludovicus Blomme
+Fr. Meeus
+Fr. Nooyens
+Fr. de Jong Edz.
+Fr. van Baarle
+Franc Schuerewegen
+Francine Schregel-Onstein
+Francisco Carrasquer
+Francisco Marinho
+Franciscus De Smidt
+Franco Ferrarotti
+Franco de Wyels
+Frank Albers
+Frank Baur
+Frank Berndsen
+Frank Blokland
+Frank Bovenkerk
+Frank C. Maatje
+Frank Craeybeckx
+Frank Daen
+Frank Diamand
+Frank Gerdels
+Frank Gericke
+Frank Jansen
+Frank Kouwenhoven
+Frank Kuitenbrouwer
+Frank Liedel
+Frank Ligtvoet
+Frank Loog
+Frank Martinus Arion
+Frank Meyland
+Frank Onnen
+Frank Pollet
+Frank Reijnders
+Frank Valkenier
+Frank Verkuijl
+Frank Willaert
+Frank de Langhe
+Frank van Gestel
+Frank van Lamoen
+Frank van den Bogaard
+Frank van den Dungen
+Frank van den Wijngaert
+Frank van der Goes
+Frank vande Veire
+Frans Bastiaanse
+Frans Berkelmans
+Frans Boenders
+Frans Budé
+Frans Buyle
+Frans Claes
+Frans Coenen
+Frans De Bruyn
+Frans Debrabandere
+Frans Delbeke
+Frans Denissen
+Frans Depeuter
+Frans Deschoemaeker
+Frans Drijvers
+Frans Drion
+Frans Erens
+Frans Geraedts
+Frans H. van Eemeren
+Frans Hannema
+Frans Harmen Kiveron
+Frans Heiligers
+Frans Hulleman
+Frans Hüsken
+Frans Kingma
+Frans Kuipers
+Frans Kusters
+Frans Leonard
+Frans Malajuwara
+Frans Maurits de Jaeger
+Frans Mijnssen
+Frans Netscher
+Frans Ruiter
+Frans Tobback
+Frans Van Coetsem
+Frans Vanderlinde
+Frans Verachtert
+Frans Verschoren
+Frans Verstreken
+Frans W. Saris
+Frans Weitenberg
+Frans de Cort
+Frans de Haes
+Frans de Rover
+Frans de Wilde
+Frans van Boogaerdt
+Frans van Cauwelaert
+Frans van Dooren
+Frans van Isacker
+Frans van Oldenburg Ermke
+Frans van Woerden
+Frans van Zetten
+Frans van der Linde
+Fransje Klaver
+Franz Baermann Steiner
+Franz Hellens
+Franz Michael Krings
+Franz Staude
+Franz Werfel
+Franz de Backer
+François Haverschmidt
+François Meyer
+François Pauwels
+François Villon
+François de Bas
+François de Casembroot
+François van Veerdeghem
+Françoise van Rossum-Guyon
+Fred Batten
+Fred Bornstein
+Fred Dijs
+Fred Pelt
+Fred Pfeifer
+Fred Polak
+Fred Spier
+Fred Weerman
+Fred van Leeuwen
+Fred van Viet
+Fred van Wijck
+Fred. Walecijn
+Fred. van Zutphen
+Freddy Puts
+Freddy de Vree
+Freddy van Besien
+Frederic Adolph Hoefer
+Frederice Kalmijn
+Frederice van Faassen
+Frederick Franck
+Frederik Christiaan de Brieder
+Frederik Daniel Eduard van Ossenbruggen
+Frederik Jacobus Brevet
+Frederik Pijper
+Frederik Willem Nicolaas Hugenholtz
+Frederik van Eeden
+Frederik van Hogendorp
+Frederike Huygen
+Frederike J. van Uildriks
+Frederike van der Leek
+Freek Bruinsma
+Freek de Jonge
+Freek de Leeuw
+Freek van Leeuwen
+Frida Balk-Smit Duyzentkunst
+Frida Vogels
+Friederike Granberg
+Friedhelm Debus
+Friedrich Hölderlin
+Friedrich Kaiser
+Friedrich Muckermann, S.J.
+Friedrich Rückert
+Frisc over de Heiden
+Frits Abrahams
+Frits Dekking
+Frits G. Tingen
+Frits Hopman
+Frits Huël
+Frits Kief
+Frits Lapidoth
+Frits Leonhard
+Frits Lugt
+Frits Staal
+Frits van Deventer
+Fritz A. Ponelis
+Fritz Francken
+Fritz Smit Kleine
+Frouwien van der Vooren-Kuyper
+Fréderique van Cleeff-Hiegentlich
+Félix Lope de Vega
+G. Bolkestein
+G. Boogaard
+G. Boss
+G. Burger
+G. Colmjon
+G. De Schutter
+G. De Wolf
+G. Dijkink
+G. Engelberg
+G. Engels
+G. Fuldauer
+G. Geerts
+G. Gerritsen-Geywitz
+G. Gilleman
+G. Groenhuis
+G. Homble
+G. Huyghe
+G. Jo Steenbergen
+G. Kalff
+G. Karsten
+G. Kazemier
+G. Knoop
+G. Knuttel Wzn
+G. Mannoury
+G. Milius
+G. Neefs
+G. Nuchelmans
+G. Polvliet
+G. Puchinger
+G. Quispel
+G. Révész
+G. Scherps
+G. Th. Ruttenberg
+G. Titta Rosa
+G. Van Cutsem
+G. Vos de Wael
+G. Vrijmoed
+G. de Bosch Kemper
+G. de Bruijn
+G. de Vocht
+G. den Tex
+G. le Maire
+G. van Benthem van den Bergh
+G. van Eemeren
+G. van Geffen
+G. van Gorp
+G. van Heerde
+G. van Hoorn
+G. van Mulders
+G. van Os
+G. van Overbeke
+G. van Poppel
+G. van Rijnberk
+G. van den Bergh
+G. van der Leeuw
+G.A. Borgese
+G.A. Brands
+G.A. Bredero
+G.A. Ladee
+G.A. Lindeboom
+G.A. Mesters
+G.A. Nauta
+G.A. Sybenga
+G.A. Wagner
+G.A. Watermeyer
+G.A. Wumkes
+G.A. van Es
+G.A. van Hamel
+G.A. van Klinkenberg
+G.A. van Poelje
+G.A. van Riemsdijk
+G.A. van den Bergh van Eysinga
+G.A.C. Hubers
+G.A.M. Eickholt
+G.C. Lijphart-Bezuidenhout
+G.C. Molewijk
+G.C. de Vries
+G.C. de Waard
+G.C.J. Vosmaer
+G.D. Franquinet
+G.D. van Wengen
+G.D.A. Jonckbloet
+G.E. Langemeijer
+G.E. Mulder
+G.E. Opstelten
+G.E. Voorhelm Schneevoogt
+G.E. Woneman
+G.E.W. van Hille
+G.F. Bos
+G.F. Haspels
+G.F. de Bruyn Kops
+G.F.E. Gonggrijp
+G.F.H. Raat
+G.F.W. van Berckel
+G.G. Bauman
+G.G. Ellerbroek
+G.G. Kloeke
+G.H. 's- Gravesande
+G.H. Betz
+G.H. Blanken
+G.H. Dijkstra
+G.H. Haastert
+G.H. Hintzen
+G.H. Leignes Bakhoven
+G.H. Marius
+G.H. Priem
+G.H. Slotemaker de Bruine
+G.H. Weustink
+G.H. van Waveren jr.
+G.H.A. Juynboll
+G.H.J. Elliot Boswel
+G.H.M. Posthumus Meyjes
+G.H.M. van Huet
+G.I. Lieftinck
+G.J. Boekenoogen
+G.J. Dorleijn
+G.J. Geers
+G.J. Heering
+G.J. Helmer
+G.J. Hoogewerff
+G.J. Kolff
+G.J. Morsch
+G.J. Nieuwenhuis
+G.J. Peelen
+G.J. Renes
+G.J. Resink
+G.J. Sirks
+G.J. Uitman
+G.J. Vis
+G.J. Vroeijenstijn
+G.J. de Grooth
+G.J. de Haan
+G.J. de Vries
+G.J. van der Woude
+G.J.C.A. Pop
+G.J.D.C. Stempels
+G.J.H. Kuyk
+G.J.H. van Gelder
+G.J.M. van het Reve
+G.J.P. Cammelbeeck
+G.J.P. van Hoek
+G.J.W. Koolemans Beijnen
+G.K. van Dongen
+G.L. Durlacher
+G.L. van Lennep
+G.M. Boissevain
+G.M. Hopkins
+G.M. Mesland
+G.M. de Gelder
+G.M. van Asperen
+G.M.J. Duyfhuizen
+G.M.N. Verschuuren
+G.M.S. Kranenburg Haan-Schmidt
+G.P. Bakker
+G.P. Frets
+G.P. Rouffaer
+G.P. van Itterzon
+G.P. van der Stroom
+G.P.F. Buddingh'
+G.P.M. Knuvelder
+G.R. Zondergeld
+G.R.W. Dibbets
+G.S. Nienaber
+G.S. Overdiep
+G.Th.M. Verhaak
+G.W. Bruinsma
+G.W. Huygens
+G.W. Jansen
+G.W. Locher
+G.W. Ovink
+G.W. Wolthuis
+G.W. van der Does
+G.W.B. Borrie
+G.W.J. Bruins
+G.W.J. Drewes
+Gabe van der Zee
+Gabriel Celaya
+Gabriela Mistral
+Gabriele d' Annunzio
+Gabriël Merlier
+Gabriël Smit
+Gabriël Verborght
+Gabriële Violanti
+Gabriëlle Demedts
+Galileo Galilei
+Garmt Stuiveling
+Garsiasol
+Gary Schwartz
+Gaston Burssens
+Gaston Duribreux
+Gaston Eyskens
+Gaston Van Bulck
+Gaston de Jaegher
+Gaston de Mey
+Geert Adriaens
+Geert Bekaert
+Geert Berings
+Geert Buelens
+Geert Evert Booij
+Geert Koefoed
+Geert Lernout
+Geert Maessen
+Geert Mak
+Geert Warnar
+Geert van Beek
+Geert van Istendael
+Geerten Gossaert
+Geerten Meijsing
+Geertrui Daem
+Geertruida Carelsen
+Gemma Pappot
+Geoffrey Douglas Madge
+Georg Moenius
+George Alexander Wilken
+George Eliot
+George Huppert
+George Kettmann jr.
+George Lodewijk Kepper
+George Lodewijk Schorer
+George Meir
+George Roose-Antonissen
+George Willem Vreede
+Georges Adé
+Georges Declercq
+Georges Eekhoud
+Georges Fukkink
+Georges Wildemeersch
+Georgine Sanders
+Ger Bendels
+Ger Groot
+Ger Harmsen
+Ger Kleis
+Ger Schmook
+Ger Thijs
+Gera Kraan-van den Burg
+Gerard Brom
+Gerard Bruning
+Gerard Diels
+Gerard Heederik
+Gerard Heymans
+Gerard Keller
+Gerard Kempen
+Gerard Michiels
+Gerard Nienhuis
+Gerard Ras
+Gerard Reve
+Gerard Slothouwer
+Gerard Termorshuizen
+Gerard Unger
+Gerard Valette
+Gerard Verbeke
+Gerard Verhoeven
+Gerard Vissering
+Gerard Walschap
+Gerard Wijdeveld
+Gerard de Vries
+Gerard den Brabander
+Gerard van Eckeren
+Gerard van Elden
+Gerard van Emmerik
+Gerard van Gelder
+Gerard van Hulst
+Gerard van Hulzen
+Gerard van den Hoek
+Gerardjan Rijnders
+Gerardus Arnoldus Nicolaus Allebé
+Gerardus Johannes van der Hoeve
+Gerardus Petrus Booms
+Gerben Colmjon
+Gerben Wynia
+Gerbert Scholten
+Gerbrand Muller
+Gerd Segers
+Gerda Meylink
+Gerda van Woudenberg
+Gerhard Dünnhaupt
+Gerhard Kuipers
+Gerhard Sevenster
+Gerhard Worgt
+Gerlach Royen
+Germaine Tillion
+Gerrit Achterberg
+Gerrit Bakker
+Gerrit Besselaar
+Gerrit Borgers
+Gerrit Dekker
+Gerrit Grijns
+Gerrit Halfcaegh
+Gerrit Huizer
+Gerrit Jan Zwier
+Gerrit Kalff jr.
+Gerrit Kamphuis
+Gerrit Komrij
+Gerrit Kouwenaar
+Gerrit Krol
+Gerrit Mulder
+Gerrit Noordzij
+Gerrit Pleiter
+Gerrit Rietveld
+Gerrit Simons
+Gerrit Valk
+Gerrit de Clercq
+Gerrit de Vries
+Gerrit ten Bruggencate Hermz.
+Gerrit van Gorkom
+Gerrit van Olivier
+Gerrit-Hugo Pronk
+Gerrit-Jan Berendse
+Gert Hekma
+Gert Overduin
+Gert Slings
+Gert de Jager
+Gert-Jan Johannes
+Gerth Schreiner
+Gertrude Stein
+Gery Helderenberg
+Giacomo Antonini
+Giacomo Leopardi
+Gianni Riotta
+Gideon Busken Huet
+Gie van den Berghe
+Gijs van Oenen
+Gijsbert Karel graaf van Hogendorp
+Gila Dotan
+Gilbert De Smet
+Gilbert Degroote
+Gillis André de la Porte
+Giovanni Papini
+Giovanni Vittorio Amoretti
+Gisleine Peeters
+Gitte Postel
+Giulio Carlo Argan
+Gladys do Rego-Kuster
+Go Mandersloot
+Godard Gosses
+Godert Posthumus
+Godfried Bomans
+Godschalk Horatius van Borssum Waalkes
+Goenawan Mohamad
+Goevaart
+Goffe Jensma
+Goffredo Bellonci
+Gottfried Benn
+Goudina van Weert
+Govert A. den Hartogh
+Gozewinus Acker Stratingh
+Graa Boomsma
+Graciliano Ramos
+Grahame Lock
+Greetje van den Bergh
+Gregor Benton
+Gregor Laschen
+Grietje Drewes
+Gré van der Laan
+Guido De Bruyn
+Guido Eekhaut
+Guido Gezelle
+Guido Piovene
+Guido Vrolix
+Guido de Baere
+Guido van Heulendonk
+Guillaume Apollinaire
+Guillaume Henri Marie Delprat
+Guillaume van der Graft
+Gunilla Dalberg
+Gunnar Ekelöf
+Gunther S. Stent
+Gust Faes
+Gust Gils
+Gust. Hens
+Gustaaf D' Hondt
+Gustaaf Segers
+Gustaaf Verriest sr.
+Gustav Delory
+Gustav Herling
+Guus Dijkhuizen
+Guus Extra
+Guus Middag
+Guus Vleugel
+Guy Desrole
+Guy Janssens
+Guy Posson
+Guy Widdershoven
+Gysbert Koelstra
+György Spiró
+Gèr Boosten
+Gérard Philips
+Gérard de Nerval
+Gérard van Kalmthout
+Gérard van den Eerenbeemt
+Göran Tunström
+Günter Grass
+Günther Müller
+H-K. Mulder
+H. Baudet
+H. Berkhof
+H. Bischoff
+H. Boekenogen
+H. Bonger
+H. Bonset
+H. Bovenkerk
+H. Bruders
+H. Brugge
+H. Brutsaert
+H. Burger
+H. Buringh Boekhoudt
+H. Colijn
+H. Coppieters
+H. Daudt
+H. Draye
+H. Drion
+H. Duits
+H. Enno van Gelder
+H. Entjes
+H. Furstner
+H. Gabriëls
+H. Geerts
+H. Gerversman
+H. Halbertsma
+H. Hardenberg
+H. Hettema jr.
+H. Heukels
+H. Hoetink
+H. Hosdey
+H. Hulshof
+H. J. Eymael
+H. Kern
+H. Koekebakker
+H. Korteling
+H. Leffelaar
+H. Lievegoed
+H. Linnemann
+H. Logeman
+H. Mansion
+H. Marsman
+H. Meyers
+H. Mol
+H. Mulder
+H. Neubronner van der Tuuk
+H. Nieuwenhuis
+H. Nijhoff
+H. Oort
+H. Pauli
+H. Peeters
+H. Plessner
+H. Proeme
+H. Prudon
+H. Ramaer
+H. Ravestein
+H. Ribbius
+H. Robbers
+H. Rogaar
+H. Roose
+H. Schaafsma
+H. Schippers
+H. Schröder
+H. Schultink
+H. Schuttevâer
+H. Schönbeck
+H. Sermon
+H. Thielemans
+H. Tz. Pyttersen
+H. Vandermoere
+H. Vogelsang
+H. Vos
+H. Wagenvoort
+H. Walgrave
+H. Was
+H. Weigert
+H. Wielek
+H. Wouters
+H. Zwaardemaker
+H. de Buck
+H. de Jongste
+H. de Lange
+H. de Vocht
+H. de Vries
+H. de la Fontaine Verwey
+H. van 't Veld
+H. van Cappelle
+H. van Cappelle jr.
+H. van Gorp
+H. van Herwerden
+H. van Hogendorp
+H. van Houtte
+H. van Lennep
+H. van Loon
+H. van Raalte-Simons
+H. van Riessen
+H. van Rooijen
+H. van Straelen
+H. van Strien
+H. van Wichert
+H. van Wieringen
+H. van de Graaf
+H. van de Stadt
+H. van de Waal
+H. van der Hoeven
+H. van der Linde
+H. van der Ploeg
+H. van der Tuin
+H.A. Combé
+H.A. Enno van Gelder
+H.A. Gomperts
+H.A. Höweler
+H.A. Kooyker
+H.A. Lorentz
+H.A. Mulder
+H.A. Tolhoek
+H.A. Wage
+H.A. Westrate
+H.A. van Bakel
+H.A. van Daalhoff
+H.A.C. Snethlage
+H.A.J.F. Misset
+H.A.M. Snelders
+H.B. de Groot
+H.B.A. Bockwinkel
+H.B.G. Casimir
+H.C. Halberstadt-Freud
+H.C. Hartevelt
+H.C. Hemker
+H.C. Rogge
+H.C. Rümke
+H.C. ten Berge
+H.C. van Hall
+H.C. van de Hulst
+H.Chr. van Bemmel
+H.D.H. Bosboom
+H.E. Beunke
+H.E. Buiskool
+H.E. Greve
+H.E. Knappert
+H.E. Ruitenberg
+H.E.H. van Loon
+H.F. Cohen
+H.F. Jonkman
+H.F. Koster
+H.F. Wijnman
+H.F. Wirth
+H.F. de Ziel
+H.F. van Panhuys
+H.F. van de Velde
+H.F.A. van der Lubbe
+H.F.J.M. van den Eerenbeemt
+H.F.R. Hubrecht
+H.G. Cannegieter
+H.G. Matthes
+H.G. Roodhuyzen
+H.G. Surie
+H.G. van Bueren
+H.G. van der Vies
+H.G. van der Waals
+H.G.J. Maas Geesteranus
+H.H. Grünhagen
+H.H. Juynboll
+H.H. Kirchheiner
+H.H. Knippenberg
+H.H. Kubbinga
+H.H. Wilmink
+H.H. ter Balkt
+H.H.J. Maas
+H.H.J. Moulijn-Haitsma Mulier
+H.H.J. de Leeuwe
+H.I. Keus
+H.J. 't Hart
+H.J. Brinkman
+H.J. Calkoen
+H.J. Drossaart Lulofs
+H.J. Elias
+H.J. Hamburger
+H.J. Hellema
+H.J. Houte
+H.J. Kiewiet de Jonge
+H.J. Polak
+H.J. Pos
+H.J. Prakke
+H.J. Romeijn
+H.J. Schimmel
+H.J. Smeding
+H.J. Verkuyl
+H.J. Vieu-Kuik
+H.J. Westerling
+H.J. de Dompierre de Chaufepié
+H.J. de Marez Oyens
+H.J. de Roy van Zuydewijn
+H.J. de Vleeschauwer
+H.J. de Vleeschouwer
+H.J. van Boekhoven
+H.J. van Tienhoven
+H.J. van der Helm
+H.J. van der Mei
+H.J.A. Bolscher
+H.J.A. Hissink
+H.J.A. Hofland
+H.J.A.M. Schaepman
+H.J.E. Endepols
+H.J.F.W. Brugmans
+H.J.J. Piket
+H.J.J. Scholtens
+H.J.M. Bos
+H.J.M. Nellen
+H.J.M.F. Lodewick
+H.K. s' Jacob
+H.L. Berckenhoff
+H.L. Bezoen
+H.L. Drucker
+H.L. Oort
+H.L. Wesseling
+H.L. de Beaufort
+H.L. van Breda
+H.L. van Duyl
+H.L. van Oordt
+H.L.C. Jaffé
+H.L.F. Pisuisse
+H.M. Eliassen-de Kat
+H.M. Hermkens
+H.M. Mensonides
+H.M. Ruitenbeek
+H.M. Voetelink
+H.M. van Nes
+H.M. van Randwijk
+H.M.A. Struyker Boudier
+H.M.J. Maier
+H.M.J. Oldewelt
+H.N. Boon
+H.N. de Fremery
+H.N. ter Veen
+H.P. Berdenis van Berlekom
+H.P. Plantenga
+H.P. Staal
+H.P. van Karnebeek
+H.P. van den Aardweg
+H.P.G. Quack
+H.P.H. Teesing
+H.P.N. Muller
+H.R. Offerhaus
+H.R. van Gunsteren
+H.S. Keuls jr.
+H.S.M. Wickevoort Crommelin
+H.T. Boonstra
+H.T. Colenbrander
+H.T. Damsté
+H.T. Karsten
+H.T. de Graaf
+H.T.J. Miedema
+H.Th. Chabot
+H.Th. Kok
+H.Th. Oostendorp
+H.Th. de Booy
+H.U. Meyboom
+H.W. Meihuizen
+H.W. Schroeder van der Kolk
+H.W. de Graaf
+H.W. van Loon
+H.W. van Tricht
+H.W. von der Dunk
+H.W.A. Nap
+H.W.E. Moller
+H.W.J. Drijvers
+H.W.J. Kroes
+H.W.J. Vekeman
+H.W.J.M. Keuls
+H.W.Ph.E. van den Bergh van Eysinga
+H.Y. Groenewegen
+H.Z. Zegers de Beijl
+Hafis
+Hajo Brugmans
+Halbe Binnerts
+Halbo C. Kool
+Han Foppe
+Han G. Hoekstra
+Han Lammers
+Han de Vries
+Han ten Brummelhuis
+Han. Jonkers
+Hana Bobková
+Hanna Blok
+Hanna Kirsten
+Hanna Stouten
+Hannah van Wieringen
+Hanneke Mulder
+Hanneke van Buuren
+Hannes Meinkema
+Hanny Michaelis
+Hans Achterhuis
+Hans Andreas Cornelius Roem
+Hans Andreus
+Hans Aniba
+Hans Anten
+Hans Barendregt
+Hans Bendien
+Hans Berghuis
+Hans Bertens
+Hans Bouma
+Hans Broekhuis
+Hans Calis
+Hans Carl Artmann
+Hans Dorrestijn
+Hans Dullaart
+Hans Edinga
+Hans Ester
+Hans Faverey
+Hans Freudenthal
+Hans Goedkoop
+Hans Groenewegen
+Hans Gruyters
+Hans Heestermans
+Hans Heinrich Meier
+Hans Henkemans
+Hans Keilson
+Hans Keller
+Hans Kloos
+Hans Knoop
+Hans Lodeizen
+Hans Maarten van den Brink
+Hans Magnus Enzensberger
+Hans Moll
+Hans Onno van den Berg
+Hans Plomp
+Hans Ras
+Hans Reddingius
+Hans Redeker
+Hans Ree
+Hans Reeser
+Hans Renders
+Hans Reykers
+Hans Sleutelaar
+Hans Snoek
+Hans Tentije
+Hans Turken
+Hans Vandevoorde
+Hans Verhagen
+Hans Vlek
+Hans Warren
+Hans Werkman
+Hans de Boer
+Hans de Greve
+Hans den Haan
+Hans van Dijk
+Hans van Lier
+Hans van Stralen
+Hans van Zijl
+Hans van de Braak
+Hans van de Waarsenburg
+Hans van den Bergh
+Harm Habing
+Harm Tjalling Waterbolk
+Harold Beaver
+Harrie Lemmens
+Harriët Freezer
+Harriët Laurey
+Harro Storm
+Harry Bekkering
+Harry Brander
+Harry G.M. Prick
+Harry Mesterom
+Harry Mulisch
+Harry N.A. Priem
+Harry Oosterhuis
+Harry Scholten
+Harry Verschuren
+Harry van der Hulst
+Hartmann von Aue
+Hazil
+Heather Sutherland
+Heberto Padilla
+Hector Claeys
+Hedda Martens
+Hedwig Speliers
+Hedy d' Ancona
+Heere Heeresma
+Hein Boeken
+Hein Groen
+Hein Ruygers
+Hein de Bruin
+Hein-Anton van der Heijden
+Heinrich Petermeyer
+Heinrich von Kleist
+Heinz Neudecker
+Helbertine Anna Cornelia Beets-Damsté
+Heleen Hoekstra
+Helen A. van den Berg-Noë
+Helen Gerretsen
+Helen Knopper
+Helen Saelman
+Helen Wilcox
+Helena Spanjaard
+Helenius Munt
+Helga Nowotny
+Helga Ruebsamen
+Helga Van Geertsom
+Hella S. Haasse
+Helma Wolf-Catz
+Hendr. Ad. Warmelink
+Hendr. Gerritsen
+Hendrik Adriaan Antonius van Berckel
+Hendrik Andriessen
+Hendrik Barend Greven
+Hendrik Blink
+Hendrik Bolkestein
+Hendrik Brehmen
+Hendrik Brugmans
+Hendrik C. Diferee
+Hendrik Carette
+Hendrik Chistiaan Millies
+Hendrik Clemens Muller
+Hendrik Conscience
+Hendrik Cramer
+Hendrik Doeff
+Hendrik Engelinus Weijers
+Hendrik Henrichs
+Hendrik Hooyer
+Hendrik Houwens Post
+Hendrik Jacob van der Heim
+Hendrik Jan Nassau
+Hendrik Jan Reinink
+Hendrik Jan Spijker
+Hendrik Johan Haverman
+Hendrik Lindt
+Hendrik Mulder
+Hendrik Onnen
+Hendrik Persyn
+Hendrik Pierson
+Hendrik Prijs
+Hendrik Riemens
+Hendrik Schreuder van Draag
+Hendrik Smilde
+Hendrik Smitskamp
+Hendrik Wagenvoort
+Hendrik Wolfgang van der Meij
+Hendrik de Marez
+Hendrik de Veer
+Hendrik de Vries
+Hendrik de Waard
+Hendrik van Dijk
+Hendrik van Teylingen
+Hendrik van der Wal
+Hendrika Boer
+Hendrika Ghijsen
+Henk Breuker
+Henk Dennert
+Henk Flinterman
+Henk Harbers
+Henk Haverkate
+Henk Hillenaar
+Henk Hollaar
+Henk Holtrop
+Henk Koeman
+Henk Kooijman
+Henk Krijger
+Henk Kuitenbrouwer
+Henk M. Beumer
+Henk Meter
+Henk Romijn Meijer
+Henk Schulte Nordholt
+Henk Sneevliet
+Henk Tromp
+Henk Vastenouw
+Henk de Berg
+Henk de Velde
+Henk te Velde
+Henk van Kerkwijk
+Henk van Maurik
+Henna Goudzand
+Henri A. Ett
+Henri Bakels
+Henri Beunders
+Henri Borel
+Henri Bossaert
+Henri Bruning
+Henri C.J.A. Mosmans C.ss.R
+Henri David Levyssohn Norman
+Henri Dekking
+Henri Donders
+Henri Ernest Moltzer
+Henri Francois Técoz
+Henri H. van Calker
+Henri Houben
+Henri Mayer
+Henri Morel
+Henri Overhoff
+Henri Raloff
+Henri Schadee
+Henri Schoofs
+Henri W.J. Schouten
+Henri Wiessing
+Henri van Booven
+Henri van Deursen
+Henrick Witte
+Henricus
+Henricus Anastasius Viotta
+Henricus Bernardus Martini van Geffen
+Henricus Oort
+Henriette Barbe
+Henriette Frederika Bosscha
+Henriette Geerling
+Henriette Laman Trip-de Beaufort
+Henriette Roland Holst-van der Schalk
+Henriette van Duin
+Henrik Scholte
+Henriëtte Boas
+Henriëtte Mooy
+Henriëtte Schuurbeque Boeye
+Henry Faas
+Henry Habibe
+Henry Hargreaves
+Henry Riehm
+Henry Schogt
+Henry Wadsworth Longfellow
+Heppe de Moor
+Herbert van Erkelens
+Herbert van Uffelen
+Herluf van Merlet
+Herma Vergouwe
+Herman Agatho des Amorie van der Hoeven
+Herman Baccaert
+Herman Balthazar
+Herman Cohen
+Herman Deckers
+Herman Dirk van Broekhuizen
+Herman Franke
+Herman Frederik Carel ten Kate
+Herman Frijda
+Herman Gerrit Schulte Nordholt
+Herman Gorter
+Herman Heijermans
+Herman Hertzberger
+Herman Hutte
+Herman Johannes Lam
+Herman Kaal
+Herman Koch
+Herman Koningsveld
+Herman Leenders
+Herman Liebaers
+Herman Linnebank
+Herman Lysen
+Herman Menagé Challa
+Herman Meyer
+Herman Middendorp
+Herman Oosterwijk
+Herman Philipse
+Herman Pleij
+Herman Pol
+Herman Poort
+Herman Robbers
+Herman Roodenburg
+Herman Sabbe
+Herman Servotte
+Herman Steggerda
+Herman Teirlinck
+Herman Tieken
+Herman Uyttersprot
+Herman Vos
+Herman Wekker
+Herman Wolf
+Herman de Coninck
+Herman de Kat
+Herman de Lange
+Herman de Liagre Böhl
+Herman de Man
+Herman van Overbeke
+Herman van Poland
+Herman van Puymbrouck
+Herman van Snick
+Herman van den Bergh
+Hermance Farensbach
+Hermann Goetz
+Hermann H. Frese
+Hermann Kesten
+Hermann Wolf
+Hermanus Arnoldus Idema
+Hermien Manger
+Herminia Naglerowa
+Hero Hokwerda
+Hervé J. Casier
+Herwig Hensen
+Hessel Miedema
+Hidde van der Ploed
+Hieke de Jong
+Hieronymus van Alphen
+Hijman Binger
+Hilaire Allaeys
+Hilarion Thans
+Hilbert Kuik
+Hilda Ram
+Hilda van Assche
+Hildegard van Bingen
+Hippoliet Bauduin
+Hk. de Vries
+Ho Chi Minh
+Homerus
+Honoratius Sengers
+Honoré van Waeyenbergh
+Horace Gregory
+Horacio Quiroga
+Horatius
+Horst A. Steinmetz
+Horst Gerson
+Hotse Brongersma
+Hub Zwart
+Hub. Gesp
+Hub. Hermans
+Hubert
+Hubert Cuypers jr.
+Hubert J. Michaël
+Hubert Janssen
+Hubert Lampo
+Hubert Meeus
+Hubert Smeets
+Hubert Verwilghen
+Hubert de Vogelaere
+Hubert van Fall-Mheer
+Hubert van Herreweghen
+Hubert van de Weerd
+Hubert van den Berg
+Hubert-Jan Henket
+Hugh Jans
+Hugh P. Gallacher
+Hugo Anns
+Hugo Beyerman
+Hugo Bousset
+Hugo Brandt Corstius
+Hugo Brems
+Hugo Brutin
+Hugo Claus
+Hugo De Schampheleire
+Hugo Dittberner
+Hugo Dyserinck
+Hugo Krabbe
+Hugo Maron
+Hugo Pos
+Hugo Raes
+Hugo Vandeperre
+Hugo Verdaasdonk
+Hugo Verriest
+Hugo Walschap
+Hugo Willem Bosscha
+Hugo de Groot
+Hugo de Vries
+Hugo von Hofmannsthal
+Hugues C. Pernath
+Huib A.P. Eijkelenboom
+Huib Hoste
+Huib Luns
+Huib Riethof
+Huib Schwab
+Huib van Krimpen
+Huub Beurskens
+Huub Oosterhuis
+Huub van der Grinten
+Huug Kaleis
+Hélène Mercier
+Hélène Nolthenius
+Hélène Swarth
+I. De la Potterie
+I. Demarre
+I. Kooistra
+I. Samkalden
+I. Zeehandelaar
+I. de Vreese
+I. van der Sluis
+I.A. Bunin
+I.D. Franssen van de Putte
+I.D. du Plessis
+I.F. Fedorov
+I.F.M. Salim
+I.H. Gosses
+I.J. Brugmans
+I.J.M. van den Berg
+I.K. Illakowicz
+I.N. Bulhof-Rutgers
+I.Q. van Regteren Altena
+I.S. Toergenjev
+Ian Gibson
+Ichiro Ando
+Ida Gerhardt
+Ida Haakman
+Ida Heijermans
+Ida Vos
+Ida van Heteren
+Ido Keekstra
+Ido Weijers
+Ido de Haan
+Ieme van der Poel
+Igma van Putte-De Windt
+Ilja Ehrenburg
+Ilja Scholten
+Ina Boudier-Bakker
+Ina Schermer-Vermeer
+Ina Willekes McDonald
+Ineke Bulte
+Ineke Sikkema
+Ineke van Kessel
+Ines Colijn
+Inez van Dullemen
+Inge Lievaart
+Inge Tielman
+Ingrid Jonker
+Ingrid Moerman
+Ingrid van de Wijer
+Inne de Jong
+Insider
+Irene Costera Meijer
+Irene Spijker
+Irene de Jong
+Irma van de Port
+Is. van Dijk
+Is.P. de Vooys
+Isaac Arnold Lamping
+Isaac Dorislaus
+Isaak Kaplanas
+Isabel Hoving
+Isabella Henriëtte van Eeghen
+Isaäc Dornseiffen
+Isaäc da Costa
+Isidoor Teirlinck
+Isidoor van Beugem
+Israël Querido
+István Bejczy
+Ivan Illich
+Ivan Nio
+Ivo Cornelis
+Ivo Engelen
+Ivo Michiels
+Ivo Schöffer
+Ivo Struyf
+Izaak Jan le Cosquino de Bussy
+J. 't Hart
+J. A. Le Loux-Schuringa
+J. Aalbers
+J. Ackersdijck
+J. Aleida Nijland
+J. Baart de la Faille
+J. Barten S.J.
+J. Bax
+J. Beijk
+J. Berits
+J. Berlage
+J. Bernlef
+J. Beyer
+J. Bierens de Haan
+J. Boers
+J. Bogaerts
+J. Bosboom Nz.
+J. Bosch
+J. Boudewijnse
+J. Brants
+J. Breman
+J. Bronowski
+J. Brugman
+J. Bruyn
+J. Buelens
+J. Buffin
+J. Burger
+J. Caekbeke
+J. Coenen
+J. Cuypers
+J. De Fraine
+J. De Munter
+J. Declercq
+J. Delden
+J. Delsing
+J. Deschamps
+J. Dhont
+J. Dommisse
+J. Donceel
+J. Donkers
+J. Droogleever Fortuyn
+J. Eigenhuis
+J. Erembout
+J. Everts
+J. F. P. de Smit
+J. Faber
+J. Gerritsen
+J. Goffard
+J. Goossens
+J. Groot
+J. Haak
+J. Haesaert
+J. Herderscheê
+J. Hetterschij
+J. Heymans
+J. Heyrman
+J. Hobma
+J. Hoeksma
+J. Hoet
+J. Hoftijzer
+J. Hollestelle
+J. Hoogendoorn
+J. Hoogteijling
+J. Hovy
+J. Huyghebaert
+J. IJsewijn
+J. Jacobsen
+J. Jelgerhuis Swildens
+J. Jos Kempenaers
+J. Kamerbeek jr.
+J. Karsemeijer
+J. Kassies
+J. Keunen
+J. Kleyntjens
+J. Knol
+J. Kooistra
+J. Kramer-Vreugdenhil
+J. Kreuzen
+J. Kreykamp
+J. Kruseman
+J. Kwekkeboom
+J. Köhlbrugge
+J. Lachlan Mackenzie
+J. Landsheer
+J. Lebeer
+J. Leenen
+J. Limburg
+J. Lodewijks
+J. M. Welcker
+J. Mannoury
+J. Mansion
+J. Mar. Ruys
+J. Marx
+J. Masson
+J. Mathijs Acket
+J. Mees
+J. Menno Huizinga
+J. Milius
+J. Molemans
+J. Naarding
+J. Neubauer
+J. Nienhuis
+J. Nolf
+J. Noë
+J. Nuttin
+J. P. Schuyf
+J. Patijn
+J. Pen
+J. Petri
+J. Philip van Goethem
+J. Pijnappel
+J. Popken
+J. Presser
+J. Prins
+J. Prinsen J.Lzn
+J. Reitsma
+J. Reynaert
+J. Rietema
+J. Rietsema
+J. Rodolfo Lozada
+J. Roelevink
+J. Rombouts
+J. Röell
+J. Saks
+J. Salsmans
+J. Sencie
+J. Slauerhoff
+J. Sperna Weiland
+J. Steur
+J. Taeldeman
+J. Theyskens
+J. Tideman
+J. Uyttendaele
+J. Valentin
+J. Veerman
+J. Verboven
+J. Verdam
+J. Verelst
+J. Verest
+J. Vergote
+J. Volckaert
+J. Weisgerber
+J. Wille
+J. Winkler Prins
+J. Wolterbeek Muller
+J. Zaaijer
+J. de Berraly
+J. de Boer
+J. de Gier
+J. de Groot
+J. de Jager
+J. de Jong
+J. de Kanter
+J. de Kruys
+J. de Ligne van Arenberg
+J. de Marees van Swinderen
+J. de Porr
+J. de Wit
+J. in 't Veld
+J. l' Ange Huet
+J. ten Brink
+J. van Baal
+J. van Delden
+J. van Doorne
+J. van Geuns
+J. van Heetvelde
+J. van Heugten
+J. van IJzeren
+J. van Iseghem
+J. van Kuyk
+J. van Loenen Martinet
+J. van Malderen
+J. van Marle
+J. van Mollé
+J. van Oudshoorn
+J. van Rijckevorsel
+J. van Santen
+J. van Tooren
+J. van Vloten
+J. van Wijk
+J. van Wing
+J. van de Walle
+J. van den Bergh van Eysinga-Elias
+J. van der Baan
+J. van der Burg-Hora Adema
+J. van der Eng
+J. van der Gaag
+J. van der Pant jr.
+J. van der Steen
+J.-J. Symoens
+J.A. Alberdingk Thijm
+J.A. Bientjes
+J.A. Bierens de Haan
+J.A. Bornewasser
+J.A. Dautzenberg
+J.A. Dom Gregorius de Wit
+J.A. Dèr Mouw
+J.A. Eigeman
+J.A. Goris
+J.A. Hallez
+J.A. Huisman
+J.A. Lambert-van der Kolf
+J.A. Pollones
+J.A. Rispens
+J.A. Risseeuw
+J.A. Schroeder
+J.A. Simons-Mees
+J.A. Tours
+J.A. Verhage
+J.A. Verschoor
+J.A. Worp
+J.A. van Dorsten
+J.A. van Hamel
+J.A. van Houtte
+J.A. van Leuvensteijn
+J.A. van Lieshout
+J.A. van Praag
+J.A. van der Made
+J.A. van der Vlis
+J.A. vor der Hake
+J.A.A. van Doorn
+J.A.A.H. de Beaufort
+J.A.F. Wils
+J.A.F.L. van Heeckeren
+J.A.J. Barge
+J.A.M. Komen
+J.A.N. Knuttel
+J.B. Bakema
+J.B. Berns
+J.B. Besançon
+J.B. Charles
+J.B. Drewes
+J.B. Goetstouwers
+J.B. Kan
+J.B. Manger
+J.B. Poukens
+J.B. Schepers
+J.B. Stolte
+J.B. de Caluwé
+J.B.C. Adriaensen
+J.C. Anceaux
+J.C. Arens
+J.C. Baak
+J.C. Bedaux
+J.C. Bloem
+J.C. Brandt Corstius
+J.C. Breen
+J.C. Bruijn
+J.C. Costerus
+J.C. Heesterman
+J.C. Hess
+J.C. Hol
+J.C. Jansen
+J.C. Kamerbeek
+J.C. Kannemeyer
+J.C. Loman jr.
+J.C. Noordstar
+J.C. Opstelten
+J.C. Prins s'Jacob
+J.C. Reepmaker
+J.C. Schuller
+J.C. Trimp
+J.C. Vollgraff
+J.C. Winterink
+J.C. de Marez Oyens
+J.C. de Vries
+J.C. van Aart
+J.C. van Broekhuizen
+J.C. van Holten
+J.C. van Leur
+J.C. van Leyden
+J.C. van Oven
+J.C. van Schagen
+J.C. van der Does
+J.C. van der Loos
+J.C.A. Fetter
+J.C.G. Evers
+J.C.G. Grasé
+J.C.G. Jonker
+J.C.H. Blom
+J.C.H. de Pater
+J.C.J. Kleijntjens
+J.C.M. Kruisinga
+J.C.M. Warnsinck
+J.C.M. van Riemsdijk
+J.C.P. Kats
+J.D. Bierens de Haan
+J.D. Meerwaldt
+J.D. Querido
+J.D. de Jong
+J.D. van der Meulen
+J.D. van der Waals
+J.D.C. van Dokkum
+J.D.F. van Halsema
+J.D.M. Cornelissen
+J.D.P. Warners
+J.E. Banck
+J.E. Bogaers
+J.E. Ellemers
+J.E. Enklaar
+J.E. Heeres
+J.E. Jasper
+J.E. Jonkers
+J.E. Kroon
+J.E. Sachse
+J.E. Schulte
+J.E. Stokvis
+J.E. Verschaffelt
+J.E. van der Laan
+J.E. van der Pot
+J.F. Burger
+J.F. Couwenbergh
+J.F. Engers
+J.F. Geerds
+J.F. Glastra van Loon
+J.F. Haccoû
+J.F. Heijbroek
+J.F. Hengeveld
+J.F. Kunst
+J.F. Niermeyer
+J.F. Oltmans
+J.F. Vanderheyden
+J.F. van Bemmelen
+J.F. van Hees
+J.F. van Olmhof
+J.F.D. Blöte
+J.F.J. van Tol
+J.F.M. Coveliers
+J.F.M. Sterck
+J.F.M.J. Jansen
+J.G. Bomhoff
+J.G. Bruggeman
+J.G. Delfgaauw
+J.G. Dijkstra
+J.G. Frederiks
+J.G. Gleichman
+J.G. Kooij
+J.G. Kruyt
+J.G. Nijk
+J.G. Rikkert
+J.G. Schippers
+J.G. Sleeswijk
+J.G. de Beus
+J.G. van Dillen
+J.G. van der Ploeg
+J.G. van der Veen
+J.G.A. Faber
+J.G.C. Joosting
+J.G.L. Nolst Trenité
+J.G.M. Moormann
+J.G.M. Willebrands
+J.G.P. Best
+J.G.R. van Dyck
+J.H. Abendanon
+J.H. Blankert
+J.H. Boeke
+J.H. Brinks
+J.H. Broekman
+J.H. Brouwer
+J.H. Croon
+J.H. Deibel
+J.H. Donner
+J.H. Garms jr.
+J.H. Groenewegen
+J.H. Holwerda
+J.H. Hooijer
+J.H. Horemans
+J.H. Huizinga
+J.H. Kamstra
+J.H. Kern
+J.H. Kernkamp
+J.H. Kips
+J.H. Kramer
+J.H. Kramers
+J.H. Kuyper
+J.H. Leopold
+J.H. Mak
+J.H. Maureau
+J.H. Newman
+J.H. Plantenga
+J.H. Plokker
+J.H. Pluvier
+J.H. Reitz
+J.H. Scholte
+J.H. Schouten
+J.H. Swildens
+J.H. Thiel
+J.H. Waszink
+J.H. Willems
+J.H. Winkelman
+J.H. de Haas
+J.H. de Haas-Posthuma
+J.H. de Ridder
+J.H. de Veer
+J.H. van 't Hoff
+J.H. van Dijk
+J.H. van Geemert
+J.H. van Lessen
+J.H. van Waveren
+J.H. van Zanten
+J.H. van den Berg
+J.H. van den Bosch
+J.H. van den Broek
+J.H. van der Starre
+J.H. van der Waals
+J.H.F. Kohlbrugge
+J.H.F. Sollewijn Gelpke
+J.H.J. Willems
+J.H.L. Laps
+J.H.W. Leliman
+J.I. Corrigan
+J.I.D. Nepveu
+J.I.S. Zonneveld
+J.J. Bekaar
+J.J. Belinfante
+J.J. Beljon
+J.J. Boasson
+J.J. Buskes
+J.J. Cornelissen
+J.J. Gielen
+J.J. Goossens
+J.J. Huizinga
+J.J. Kalma
+J.J. Klinkert
+J.J. Kloek
+J.J. Mak
+J.J. Moerman
+J.J. Nieuwburg
+J.J. Oversteegen
+J.J. Poelhekke
+J.J. Poortman
+J.J. Rovère van Breugel
+J.J. Salverda de Grave
+J.J. Schrieke
+J.J. Soons
+J.J. Tavenraat
+J.J. Tesch
+J.J. Viotta
+J.J. Vriend
+J.J. Wesselo
+J.J. Witkam
+J.J. Woltjer
+J.J. de Gelder
+J.J. de Rooij
+J.J. le Roux
+J.J. ten Berge S.J.
+J.J. van Bolhuis
+J.J. van Geuns
+J.J. van Hille
+J.J. van Loghem
+J.J. van Toorenenbergen
+J.J. van der Werff ten Bosch
+J.J. von Schmid
+J.J.A. Goeverneur
+J.J.A. Mooij
+J.J.A.A. Frantzen
+J.J.B. Elzinga
+J.J.G. Jansen
+J.J.G. Syatauw
+J.J.G. Vürtheim
+J.J.L. Duyvendak
+J.J.L. ten Kate
+J.J.M. Bakker
+J.J.M. Timmers
+J.J.M. Westenbroek
+J.J.M. van Gent
+J.J.P. Oud
+J.J.P. Valeton
+J.L. Dusseau
+J.L. Heldring
+J.L. Hoorweg
+J.L. Horsten
+J.L. Pauwels
+J.L. Price
+J.L. Snethlage
+J.L. Tadema
+J.L. Weverbergh
+J.L. de Belder
+J.L.F. van Essen
+J.L.J. van Schoot
+J.L.M. Lauweriks
+J.M. Bottemanne
+J.M. Bremer
+J.M. Eylenbosch
+J.M. Hoogvliet
+J.M. Kramer
+J.M. Nuyts
+J.M. Sterken
+J.M. Willeumier-Schalij
+J.M. de Casseres
+J.M. de Jong
+J.M. van Bemmelen
+J.M. van IJssel de Schepper-Becker
+J.M. van Veen
+J.M. van der Hoogt
+J.M. van der Horst
+J.M.A. Biesheuvel
+J.M.A.F. Smits van Waesberghe
+J.M.C. Bouvy
+J.M.E.M.A. Zonnenberg
+J.M.F. Stalpers
+J.M.H. Vossen
+J.M.J. Kooy
+J.M.J. Schepper
+J.M.J. Sicking
+J.M.L. Demeyere
+J.M.L. Keuller
+J.M.W. van Ussel
+J.N. Bakhuizen van den Brink
+J.N. Jacobsen Jensen
+J.N. Pattist
+J.N. Swallow
+J.N. van Hall
+J.P. Arend
+J.P. Colsen
+J.P. Fockema Andreae
+J.P. Fokkelman
+J.P. Guépin
+J.P. Hasebroek
+J.P. Heyen
+J.P. Kleiweg de Zwaan
+J.P. Kuenen
+J.P. Lotsy
+J.P. Mazure
+J.P. Moltzer
+J.P. Prins
+J.P. Wesselink-van Rossum
+J.P. Westgeest
+J.P. Wiersma
+J.P. Willems
+J.P. Zoomers-Vermeer
+J.P. de Jong
+J.P. van Limburg Stirum
+J.P. van Lonkhuijzen
+J.P. van Praag
+J.P. van Rossum
+J.P. van der Stok
+J.P.A. François
+J.P.B. Josselin de Jong
+J.Ph. Vogel
+J.Ph. van Oostrom
+J.R. Callenbach
+J.R. Evenhuis
+J.R. Thorbecke
+J.R. de Groot
+J.R. van Blom
+J.S. Bartstra
+J.S. Henriksson
+J.S. Schippers
+J.S. van Veen
+J.S.G. Gramberg
+J.T. Bremer
+J.T. Buys
+J.T. Cremer
+J.Th. Snijders
+J.Th. Spaan
+J.Th. de Smidt
+J.Th.M. Palstra
+J.U. Terpstra
+J.V. Rijpperda Wierdsma
+J.V. Schmöler
+J.W. Bezemer
+J.W. Bierma
+J.W. Bonda
+J.W. Doyer Jz.
+J.W. Hingst
+J.W. Holsbergen
+J.W. Jenny Weijerman
+J.W. Marmelstein
+J.W. Muller
+J.W. Nobel
+J.W. Oerlemans
+J.W. Onderdelinden
+J.W. Schulte Nordholt
+J.W. Teillers
+J.W. Veerman
+J.W. de Jong
+J.W. de Vries
+J.W. van Cittert
+J.W. van Heeswijk
+J.W. van Nouhuys
+J.W. van der Linden
+J.W.F. Werumeus Buning
+J.W.F.X. de Rijk
+J.W.J. Witsen Elias
+J.W.M. Schorer
+J.W.T. Cohen Stuart
+J.Z. Kannegieter
+Jaak Boonen
+Jaak De Maere
+Jaak Muyldermans
+Jaak van Rettipo
+Jaak van Schoor
+Jaap Das
+Jaap Goedegebuure
+Jaap Goudsmit
+Jaap Harten
+Jaap Kruithof
+Jaap Kunst
+Jaap Meijer
+Jaap Oostermann
+Jaap Romijn
+Jaap Zijlstra
+Jaap de Moor
+Jaap de Rooij
+Jaap van Gelderen
+Jaap van Heerden
+Jaap van Manen
+Jaap van der Bent
+Jac Heeren
+Jac. D. Huizinga
+Jac. Kort
+Jac. Lelsz
+Jac. Moleschott
+Jac. P. Thijsse
+Jac. Wolsink-Schouten
+Jac. de Graaf
+Jac. van Ginneken
+Jac. van Hattum
+Jac. van Looy
+Jack Vance
+Jack ter Heide
+Jack van der Weide
+Jacob Adolf Bruno Wiselius
+Jacob Bendien
+Jacob Clay
+Jacob Cornelis van Slee
+Jacob Dirk Veegens
+Jacob Domela Nieuwenhuis
+Jacob Geel
+Jacob Gerard Patijn
+Jacob Gijsbert de Hoop Scheffer
+Jacob Groot
+Jacob Haantjes
+Jacob Hendrik Hora Siccama
+Jacob Hendrik van Duinen
+Jacob Hiegentlich
+Jacob Israël de Haan
+Jacob Kuyper Hzn.
+Jacob Lenaerts
+Jacob Leonard de Bruyn Kops
+Jacob Léon Wertheim
+Jacob Paulus Amersfoordt
+Jacob Pieter van Walrée
+Jacob Samuel Speyer
+Jacob Smit
+Jacob de Witte van Citters
+Jacob van Lennep
+Jacob van der Valk
+Jacoba Eggink
+Jacoba M. Vreugdenhil
+Jacobus Boelen Jhz.
+Jacobus Bos
+Jacobus Craandijk
+Jacobus Funke
+Jacobus Gerardus Veldheer
+Jacobus Heinsius
+Jacobus Henneman
+Jacobus Izaäk Doedes
+Jacobus Jansonius
+Jacobus Koelman
+Jacobus Schuurmans Stekhoven
+Jacomine Nortier
+Jacq Firmin Vogelaar
+Jacqueline Bel
+Jacqueline Frijn
+Jacqueline Hulst
+Jacqueline de Man
+Jacques Arends
+Jacques Benoit
+Jacques Clement Perk
+Jacques De Visscher
+Jacques Dewaele
+Jacques E. Mertens
+Jacques François Bosdijk
+Jacques Gans
+Jacques Hamelink
+Jacques Idserda
+Jacques Kruithof
+Jacques L. Schmitz
+Jacques Reugebrink
+Jacques Roubaud
+Jacques Schreurs
+Jacques Tremblay
+Jacques Vallier
+Jacques Voisine
+Jacques Zajicek
+Jacques den Haan
+Jacques van Alphen
+Jaime Mendizábal
+Jak van der Meulen
+Jakob Karel Willem Quarles van Ufford
+Jakobus Kloek
+James Brockway
+James Joyce
+James S. (Jim) Holmes
+Jan Aler
+Jan Baetens
+Jan Bakker
+Jan Balicki
+Jan Bank
+Jan Barents
+Jan Bent
+Jan Bernaerts
+Jan Bertels
+Jan Bervoets
+Jan Bloem
+Jan Blokker
+Jan Blonski
+Jan Bols
+Jan Boon
+Jan Bosquet
+Jan Brands
+Jan Brokken
+Jan Bruna
+Jan C. Brouwer
+Jan C. M. Leijten
+Jan C. Villerius
+Jan C. de Vos
+Jan Campert
+Jan Carel Matthes
+Jan Carel de Haan
+Jan Cartens
+Jan Chiapusso
+Jan Craeynest
+Jan D'Haese
+Jan D. 't Lam
+Jan D. Stipes
+Jan Daman
+Jan Das
+Jan Derks
+Jan Dolfering
+Jan Don
+Jan Donia
+Jan Donkers
+Jan Elemans
+Jan Elzo Niemeijer
+Jan Emiel Vliebergh
+Jan Engelman
+Jan F. Beekman
+Jan F. de Zanger
+Jan F.E. Celliers
+Jan Fabricius
+Jan Fekkes
+Jan Flamend
+Jan Fontijn
+Jan Frans Gratiaen
+Jan Franssen
+Jan Frederik Niermeyer
+Jan Frederik Willem Conrad
+Jan G. Elburg
+Jan G. van Straaten
+Jan Gerhardus Ottema
+Jan Gerrit Hulleman
+Jan Geurt Gaarlandt
+Jan Gielkens
+Jan Gijsel
+Jan Gin
+Jan Gonda
+Jan Greshoff
+Jan Grégoire
+Jan H. Eekhout
+Jan H. Mysjkin
+Jan H. de Groot
+Jan Hammenecker
+Jan Hanlo
+Jan Hartog
+Jan Heemskerk Azn.
+Jan Heemskerk Bzn.
+Jan Heemstra
+Jan Hein Furnée
+Jan Hendrik Jongkees
+Jan Hontscharenko
+Jan Houwink
+Jan Hulsker
+Jan Izaak van Doorninck
+Jan J. Abels
+Jan J. Klant
+Jan J. Zeldenthuis
+Jan J. van Herpen
+Jan Jacob Thomson
+Jan Janze
+Jan Jelles Hof
+Jan Job
+Jan Jozef van Laer
+Jan Juffermans
+Jan Kalf
+Jan Kalff Jr.
+Jan Karel baron van Goltstein
+Jan Kestens
+Jan Klees
+Jan Klein
+Jan Knappert
+Jan Konst
+Jan Koopmans
+Jan Kornelis de Cock
+Jan Kostwinder
+Jan Kuijper
+Jan Kuys
+Jan L. Broeckx
+Jan L. Walch
+Jan Lampo
+Jan Lauwereyns
+Jan Lechner
+Jan Lechon
+Jan Leendert van Dalen
+Jan Leyten
+Jan Limburg
+Jan Lincklaan Westenberg
+Jan Lodewijk Mercelis
+Jan Lucassen
+Jan Luzac
+Jan Marcus Hoogvliet
+Jan Melis
+Jan Messchert van Vollenhove
+Jan Meulenbelt
+Jan Mulder
+Jan Nijen Twilhaar
+Jan Noordegraaf
+Jan Noordhoek
+Jan Noort
+Jan Nuyts
+Jan Oegema
+Jan Overduin
+Jan P.M.L. de Vries
+Jan Paquay
+Jan Parandowski
+Jan Paul Hinrichs
+Jan Pedroli
+Jan Persyn
+Jan Peter Nauta
+Jan Peters
+Jan Philip de Bordes
+Jan Pieter Heije
+Jan Pieter Nicolaas Land
+Jan Ploeger
+Jan Pluvier
+Jan Poortman
+Jan Prins
+Jan Redam
+Jan Rijnsdorp
+Jan Ritsma
+Jan Rogier
+Jan Romein
+Jan Schepens
+Jan Schoolmeesters
+Jan Sebastian Rabie
+Jan Siebelink
+Jan Siemons
+Jan Six
+Jan Sizoo
+Jan Slagter
+Jan Sleeboom
+Jan Slingenberg
+Jan Spierdijk
+Jan Spoelstra
+Jan Stavinoha
+Jan Stolk
+Jan Strobbe
+Jan Stroop
+Jan Stuyt
+Jan Thorn-Prikker
+Jan Timman
+Jan Tinbergen
+Jan Tjittes Piebenga
+Jan Toorop
+Jan Tromp
+Jan Vaerten
+Jan Valvekens
+Jan Vanhaelen
+Jan Vanriet
+Jan Vercammen
+Jan Verhoef
+Jan Verley
+Jan Vermeulen
+Jan Versteeg
+Jan Veth
+Jan Voorhoeve
+Jan W. Boersma
+Jan W.H. Wentink
+Jan Walravens
+Jan Waterink
+Jan Willem Berkelbach van der Sprenkel
+Jan Willem Duyvendak
+Jan Willem Gerbrandt van Oordt
+Jan Willem Hofstra
+Jan Willem Klein
+Jan Willem Meyer Ranneft
+Jan Willem Nicolaas Mosselmans
+Jan Willem Straatman
+Jan Willem van der Noordaa
+Jan Wit
+Jan Wolkers
+Jan Zielonka
+Jan de Gruyter
+Jan de Jong
+Jan de Louter
+Jan de Piere
+Jan de Roder
+Jan den Tex
+Jan te Winkel
+Jan ten Brink
+Jan ter Horst
+Jan van Bakel
+Jan van Beers
+Jan van Biezen
+Jan van Coillie
+Jan van Elsland
+Jan van Gelder
+Jan van Gilse
+Jan van Gorp
+Jan van Harten
+Jan van Hoften
+Jan van Leenen
+Jan van Loy
+Jan van Lumey
+Jan van Luxemburg
+Jan van Nijlen
+Jan van Rossem
+Jan van Royen
+Jan van Zutphen
+Jan van den Broeck
+Jan van der Hoeven
+Jan van der Meer
+Jan van der Veen
+Jan van der Vegt
+Jan van der Waals
+Jan-Wouter Zwart
+Jana Beranová
+Jane Debrot
+Janito Benavente y Martinez
+Janny Donker
+Jantine Oldersma
+Jaroslaw Iwaszkiewicz
+Jarry Duclay
+Jb. Boeke
+Jean A. Schalekamp
+Jean Améry
+Jean Baptist van Hugenpoth tot den Beerenclauw
+Jean Brüll
+Jean Charles Naber
+Jean Cocteau
+Jean Leclercq
+Jean Paul Sartre
+Jean Pierre Rawie
+Jean-Baptiste de Bethune
+Jean-Charles Snoy et d'Oppuers
+Jean-Clarence Lambert
+Jean-Luc Lambreghts
+Jean-Marie Gantois
+Jean-Marie Maes
+Jean-Paul Franssens
+Jean-Paul den Haerynck
+Jean-Pierre Plooij
+Jean-Pierre van Rossem
+Jeanette Koekman
+Jeanette van der Valk
+Jeanne Holierhoek
+Jeanne Liedmeier
+Jeanne Roos
+Jeanne de Bruyn
+Jeanne van Schaik-Willing
+Jeanne van Son-Willing
+Jeannette M. Hollaar
+Jeannette Nijhuis
+Jef Barthels
+Jef Contryn
+Jef Crick
+Jef Hinderdael
+Jef Last
+Jef Notermans
+Jef Scheirs
+Jef Suys
+Jef de Pillecijn
+Jef van Gool
+Jelle Koopmans
+Jelle van der Meulen
+Jelte Dijkstra
+Jelte Nicolaas van der Ley
+Jenny Mollinger
+Jenny Tuin
+Jero Gardenia
+Jeroen Boomgaard
+Jeroen Brouwers
+Jeroen Henneman
+Jeroen J.H. Dekker
+Jeroen Onstenk
+Jeronimo de Bosch Kemper
+Jeronimo de Vries
+Jerzy Holzer
+Jerzy Sito
+Jet Luber
+Jip Wester
+Jit Narain
+Jo Daan
+Jo Datema
+Jo Gisekin
+Jo Govaerts
+Jo Kalmijn-Spierenburg
+Jo Landheer
+Jo Löffel
+Jo M. Sterck-Proot
+Jo Tollebeek
+Jo de Meester
+Jo de Wit
+Jo van Ammers-Küller
+Jo van Dorp-Ypma
+Jo van Ham
+Joachim von der Thüsen
+Joan Bohl
+Joan Frederik van Oordt
+Joan Hemels
+Joan Karel Hendrik de Roo van Alderwerelt
+Joanan Rutgers
+Joanna Werners
+Joannes Jacobus de Hollander
+Joannes Reddingius
+Joannes Six van Chandelier
+Joannes Smeyers
+Joannes van der Elst
+Joannes van der Vliet
+Joaquín E. Weiss y Sánchez
+Job Creyghton
+Job Steynen
+Joep Leerssen
+Joep Nicolas
+Joeri Galanskov
+Joes Segal
+Joh. A. Leopold
+Joh. Betzema
+Joh. Boe
+Joh. Dyserinck
+Joh. F. Snelleman
+Joh. H. Been
+Joh. Hartog
+Joh. Jac. Smith
+Joh. Nordahl-Olsen
+Joh. R. Vlek
+Joh. de Graaff
+Joh. van Dinter
+Johan Achterhof
+Johan Adam Wijnne
+Johan Adriaan Feith
+Johan B.W. Polak
+Johan Ballegeer
+Johan Berger
+Johan Betzema
+Johan Brouwer
+Johan Carl Zimmerman
+Johan Christiaan van Eerde
+Johan Christoffel Ramaer
+Johan Corveleijn
+Johan Daenen
+Johan Daisne
+Johan Drabbe
+Johan Fabricius
+Johan Goudsblom
+Johan Gram
+Johan Gustaaf Danser
+Johan Hendrik Gallée
+Johan Hermann Christian Heyse
+Johan Hora Adema
+Johan Huijts
+Johan Huizinga
+Johan Jansen
+Johan Kerstens
+Johan Oskar Larsen
+Johan Reijmerink
+Johan Reyniers
+Johan Rudolph Thorbecke
+Johan Schmidt
+Johan Schooneberg
+Johan T. van Minnen
+Johan Tersteeg
+Johan Th. Veenhof
+Johan Toot
+Johan Valkhoff
+Johan Vandenbroucke
+Johan Verhoeven
+Johan W. Schotman
+Johan Wesseling
+Johan Wesselink
+Johan West
+Johan Winkler
+Johan baron d' Aulnis de Bourouill
+Johan de Boose
+Johan de Meester
+Johan de Meester jr.
+Johan de Molenaar
+Johan de Vries
+Johan de Wal
+Johan van Benthem
+Johan van Hulzen
+Johan van Mechelen
+Johan van Meurs
+Johan van Os
+Johan van Wageningen
+Johan van de Natuur
+Johan van der Auwera
+Johan van der Bol
+Johan van der Woude
+Johann Damiaan Degreef
+Johann Wolfgang von Goethe
+Johanna A. Wolters
+Johanna Dorina Hintzen
+Johanna Fortuin
+Johanna J.M. Meijers
+Johanna K. Oudendijk
+Johanna Kruit
+Johanna Naber
+Johanna Snellen
+Johanna de Geus
+Johanna de Jongh
+Johannes Aarnout Loebèr jr.
+Johannes Adriaan Molster
+Johannes Aletta Marinus Mensinga
+Johannes Benedictus Kan
+Johannes Berg
+Johannes Bobrowski
+Johannes Couperus
+Johannes Everts jr.
+Johannes Gerardus la Lau
+Johannes Hasselman
+Johannes Henricus Scholten
+Johannes Hermanus Gunning J. Hzn.
+Johannes Hermanus Gunning jr.
+Johannes Jörgensen
+Johannes Kneppelhout
+Johannes Lindeboom
+Johannes Margadant
+Johannes Mulder
+Johannes Pols
+Johannes Rahder
+Johannes Reitsma A.Tzn.
+Johannes Romboldus van der Lans
+Johannes Steenmeijer
+Johannes Tauler
+Johannes Theodorus Petrus de Groot
+Johannes Tielrooy
+Johannes Zeeman
+Johannes ab Utrecht Dresselhuis
+Johannes de Bruyn
+Johannes de Graaf
+Johannes de Hullu
+Johannes de Koo
+Johannes de Zwaan
+Johannes van Dam
+Johannes van Melle
+Johannes van Well
+Johannes van der Elst
+John Ashbery
+John Bake
+John Berger
+John Donne
+John Drager
+John H. Schaar
+John Heymans
+John Jansen van Galen
+John Keats
+John Kleinen
+John L. Brown
+John Lancaster Spalding
+John Milton
+John Murray
+John Vandenbergh
+John de Pool
+John den Admirant
+Jojada Verrips
+Joke Dame
+Joke Huisman
+Joke J. Hermsen
+Joke Kool-Smit
+Joke Linders
+Joke Moeljono
+Joke van Leeuwen
+Joke van der Wiel
+Jolande Withuis
+Jonathan Treitel
+Joop den Uyl
+Joop van Tijn
+Joop van den Berg
+Joos Florquin
+Jooske Brandeler-den Beer Poortugael
+Joost Hiddes Halbertsma
+Joost Niemöller
+Joost Stokers
+Joost Zwagerman
+Joost van der Vleuten
+Jorge Esquinca
+Jorge Manrique
+Joris Baers
+Joris Blondiau
+Joris Caeymaex
+Joris Dedier
+Joris Delameillieure
+Joris Denoo
+Joris Diels
+Joris Duytschaever
+Joris Eeckhout
+Joris Gerits
+Joris Iven
+Joris Ivens
+Joris Note
+Joris Pintor
+Joris Taels
+Joris Verheijen
+Joris Vriamont
+Jos A.A.M. Biemans
+Jos Coveliers
+Jos Hoogeveen
+Jos Houtsma
+Jos J.B. van der Putten
+Jos Jansen
+Jos Janssen
+Jos Joosten
+Jos Perry
+Jos Philippen
+Jos Pierreux
+Jos Ruting
+Jos Smeyers
+Jos Spriet
+Jos Steegstra
+Jos Vandeloo
+Jos Vermeulen
+Jos Versteegen
+Jos de Haes
+Jos de Putter
+Jos de Roo
+Jos de Wit
+Jos van Asperen
+Jos van der Lans
+Jos van der Steen
+Jos. Deckers
+Jos. Jacobson
+Jos. Panhuijsen
+Jos. Schrijnen
+Jos. Wils
+Jos. de Brandt
+Jos. de Klerk
+Jos. de Roeck
+Jos. van Schaveren
+Jos. van der Kolk
+Josee van Dirickx
+Josef Cohen
+Josef Winkler
+Joseph Bittremieux
+Joseph Brodsky
+Joseph Campbell
+Joseph Coppens
+Joseph Feskens
+Joseph Ismael
+Joseph Laenen
+Joseph Leftwich
+Joseph Loopuit
+Joseph O. Kronig
+Joseph van Wely, O.P.
+Josepha Mendels
+Josephine Giese
+Josephus Hendrikus Cornelis Creyghton
+Josette Pasquasy
+Josien Brink-Hendriks
+Josine Reuling
+José Boyens
+José Cardoso Pires
+José F.A. Oliver
+José Gorostiza
+José Lambert
+José María de Semprún Gurrea
+José Rentes de Carvalho
+José Sanders
+José de Ceulaer
+José de Mûelenaere
+José van Dijck
+José-Maria de Heredia
+Joy Arpots
+Joyce Outshoorn
+Joyce van Lankeren
+Joz. vanden Eynde
+Jozef Andriessen
+Jozef Arras
+Jozef Boets
+Jozef Czechowicz
+Jozef D. Janssens
+Jozef Deleu
+Jozef Eyckmans
+Jozef Goethals
+Jozef Israëls
+Jozef Jacobs
+Jozef Lobodowski
+Jozef Marechal
+Jozef Mertens
+Jozef Muls
+Jozef Simons
+Jozef Slagveer
+Jozef Uytterhoeven
+Jozef Vercoullie
+Jozef Wittlin
+Jozef de Cock
+Jozef de Voght
+Jozef de Vos
+Jozef de Wilde
+Jozef van Mierlo
+Jozef van Reusel
+Joël Cahen
+Joël Emanuel Goudsmit
+Juan Carlos Onetti
+Juan José Arreola
+Judi I.H. Mendels
+Judicus Verstegen
+Judit Gera
+Judith Allard-de Kom
+Judith Herzberg
+Judith Viorst
+Jules A. Deelder
+Jules Bernard Schürmann
+Jules Dister
+Jules Laforgue
+Jules Persyn
+Jules Supervielle
+Jules Van Ackere
+Jules de Corte
+Jules de Palm
+Jules van Nuffel
+Julia Quak-Stoilova
+Julia Tulkens
+Julia van Gunsteren-Viersen
+Juliaan De Vriendt
+Juliaan Vervoort
+Julian Tuwim
+Julie van der Lans-Russel
+Julien Benda
+Julien Jozef Kuypers
+Julien Vandiest
+Julien Vangansbeke
+Julien Vermeulen
+Julio Cortázar
+Julius Christiaan van Deventer
+Julius Plancquaert
+Julius Valckenaere
+Julius de Boer
+Julius de Geyter
+Julius de Wachtere
+Juljusz Kaden-Bandrowski
+Just Havelaar
+Justine Pardoen
+Justus Meyer
+Juul Filliaert
+Juul Grietens
+Juul Horn
+Juul Roggeveen
+János Pilinszky
+Jérome Alexandre Sillem
+Jérôme Decroos
+Jérôme Parmentier
+Jérôme Vervaecke
+Jórgos Theotokás
+Józef Lewandowski
+Jörgen Bukdahl
+K. Blokhuis
+K. Camerman
+K. Fokkema
+K. Jansma
+K. Kolthoff
+K. Kooiman
+K. Kuiper
+K. Lekkerkerker
+K. Michel
+K. Posthumus
+K. R. Gallas
+K. Rijsdorp
+K. Roelandts
+K. Schippers
+K. Smits
+K. Steur
+K. Strijd
+K. Veenenbos
+K. Zickhardt
+K. de Bot
+K. du Bois de Vroylande
+K. ter Laan
+K. van Baarle
+K. van Berkel
+K. van der Arren
+K. van der Stighelen
+K.-J. Citron
+K.C. Boxman-Winkler
+K.F. Proost
+K.F.O. James
+K.H. Heeroma
+K.H. Miskotte
+K.H. Roessingh
+K.H. de Raaf
+K.H.E. de Jong
+K.H.R. de Josselin de Jong
+K.J. Bostoen
+K.J. Hahn
+K.J. Popma
+K.J. Riemens
+K.L. Poll
+K.L. Roskam
+K.L.M. Schoeters
+K.M. Houtaar
+K.O. Meinsma
+K.Ph. Bernet Kempers
+K.R. de Graaf
+K.S. van Heynsbergen
+K.W. de Groot
+K.W. van Gorkom
+Kaat Tilley
+Kamiel Cooremans
+Kamiel Vanhole
+Karel Antoon Casteels
+Karel Brants
+Karel Capek
+Karel De Clerck
+Karel Dekeukeleire
+Karel Deleu
+Karel Elebaers
+Karel Hellemans
+Karel Jonckheere
+Karel Kuypers
+Karel Lantermans
+Karel Leroux
+Karel Meeuwesse
+Karel Pauwels
+Karel Porteman
+Karel Reijnders
+Karel Verbeke
+Karel Vertommen
+Karel Vos
+Karel Wasch
+Karel de Busschere
+Karel van Isacker
+Karel van de Vijver
+Karel van de Woestijne
+Karel van den Oever
+Karel van het Reve
+Karen Spalding
+Karen Vintges
+Karin Moen
+Karin Tilmans
+Karin van Lierop
+Karl Edersheimer
+Karl Gustav Ossianilsson
+Karl Krolow
+Karl Madson
+Karl Renner
+Karl Vissers
+Karol Lesman
+Karst Woudstra
+Kas Deprez
+Kasper Niehaus
+Kathinka Dittrich van Weringh
+Katrien Desiere
+Katsumi Tanaka
+Kazimierz Gromski
+Kazimierz Tetmajer-Przerwa
+Kazimierz Wierzynski
+Kazimir Malewitsj
+Kazuko Shiraisi
+Kees 't Hart
+Kees Bokweide
+Kees Bruin
+Kees Caljé
+Kees Fens
+Kees Hensen
+Kees Hogenbirk
+Kees Klap
+Kees Meekel
+Kees Mercks
+Kees Nijland
+Kees Ouboter
+Kees Ouwens
+Kees Revier
+Kees Simhoffer
+Kees Snoek
+Kees Vellekoop
+Kees Vreugdenhil
+Kees Vuyk
+Kees Winkler
+Kees de Bakker
+Kees van Bruggen
+Kees van Hage
+Kees van der Waerden
+Kees-Jan Backhuys
+Kenneth Keniston
+Kenneth Patchen
+Keorapetse Kgositsile
+Kester Freriks
+Kitty M. van Leuven-Zwart
+Kitty Verrips-Roukens
+Klaas Heeringa
+Klaas Iwema
+Klaas Koetje
+Klaas Poll
+Klaas Ruitenbeek
+Klaas Schipper
+Klaas Uilkema
+Klaas Wiersma
+Klaas de Jonge
+Klaas de Vries
+Klaas van der Geest
+Klaus Beekman
+Klaus Siegel
+Klaus Theweleit
+Koedooder & Heilig
+Koen Dille
+Koen Koch
+Koen Peeters
+Koen Vermeiren
+Koen Wauters
+Koenraad Goudeseune
+Koh-i-noor
+Konrad Boehmer
+Konstantínos Chatzópoulos
+Konstantínos Kaváfis
+Koos Schuur
+Koos van Doorne
+Koos van Weringh
+Korneel Goossens
+Kornelis Sneyders de Vogel
+Kreek Daey Ouwens
+Krine Boelens
+Kristiaan Borret
+Kristien Hemmerechts
+Kurt Löb
+Käthe Mussche
+Kåre Langvik-Johannessen
+L. Aletrino
+L. Ali Cohen
+L. Arts
+L. Baudez
+L. Beheydt
+L. Boves
+L. Bril
+L. Brummel
+L. Debruyn
+L. Delwaide
+L. Elaut
+L. Frank
+L. Grootaers
+L. Kappeyne van de Coppello-Wijgers
+L. Knappert
+L. Koch
+L. Koelmans
+L. Kolakowski
+L. Laeyendecker
+L. Lafour
+L. Moereels
+L. Moreels
+L. Mosheuvel
+L. Noël
+L. Patris
+L. Peeters
+L. Pepplinkhuizen
+L. Scharpé
+L. Schultz
+L. Serrurier
+L. Seurinck
+L. Sluimers
+L. Strengholt
+L. Uten
+L. Vander Kerken
+L. Vanderkerckhove
+L. de Borman
+L. de Hartog
+L. de Jong
+L. de Liefde
+L. de Smet
+L. de Vlaming
+L. van den Eynde
+L. van den Ham
+L. van der Bossche
+L. van der Essen
+L.A. Alting Mees
+L.A. te Winkel
+L.A.J. Burgersdijk
+L.A.J. Torfs
+L.A.J.W. baron Sloet van de Beele
+L.C. Biegel
+L.C. Michels
+L.C. Suttorp
+L.D. Couprie
+L.E. Visser
+L.E. Wirth-van Wijk
+L.F. de Beaufort
+L.F.A. Granberg
+L.G. Kortenhorst
+L.G. Oosten-Marwitz
+L.G. Polspoel
+L.G.M. Baas Becking
+L.H. Grondijs
+L.H. Hoek
+L.H. Slotemaker
+L.H. Smeding
+L.H. Stronkhorst
+L.H. Wiener
+L.H. van der Tweel
+L.H.C. Hulsman
+L.H.J. Lamberts Hurrelbrinck
+L.H.M. Muris
+L.I. Graf
+L.J. Hartog
+L.J. Plemp van Duiveland
+L.J. Rogier
+L.J. Sicking
+L.J. Zimmerman
+L.J. de Ruiter
+L.J. van Holk
+L.J.F. Wijsenbeek
+L.J.J. Hageraats
+L.J.J. Olivier
+L.J.M. Feber
+L.K. Wolff
+L.K.H. van Beek
+L.L. Coïni
+L.L. Hammerich
+L.L.C.M. van Outhoorn
+L.M. Heemskerk
+L.M. van Dis
+L.M.A. von Schmid
+L.M.Fr. Daniëls
+L.M.J. Glasius
+L.N. de Jong
+L.O. Schuman
+L.P. van den Bergh
+L.P.H. Eykman
+L.P.J. Braat
+L.P.J. Veelenturf
+L.Ph.C. van den Bergh
+L.R. Beynen
+L.R. Koolemans Beynen
+L.S. Hijlsma
+L.S. Meijer
+L.S.J. Hanekroot
+L.Th. Lehmann
+L.W.A.M. Lasonder
+L.W.C. van den Berg
+L.W.G. Scholten
+Lambartus Stoppendaal Pieters zoon
+Lambert Aerts
+Lambert Jageneau
+Lambert Lambertz
+Lambert Melissen
+Lambrecht Lambrechts
+Lanceloot
+Lasana M. Sekou
+Laura Olivier
+Laurens Welagen
+Laurens van Krevelen
+Laurens van Schie
+Laurens van der Waals
+Laurent Polis
+Lea Dasberg
+Leander Hanssen
+Leen Huet
+Leendert Witvliet
+Leendert van Lange
+Leigh Hunt
+Lela Zeckovic
+Lennart Sjögren
+Lenze L. Bouwers
+Leo Apostel
+Leo Bittremieux
+Leo Boekraad
+Leo Damen
+Leo Fretz
+Leo Galle
+Leo Goemans
+Leo Haring
+Leo Heirman
+Leo Herberghs
+Leo Jansen
+Leo Landsman
+Leo Meert
+Leo Morpurgo
+Leo Peters
+Leo Picard
+Leo Plemp van Duiveland
+Leo Pleysier
+Leo Rikmenspoel
+Leo Ross
+Leo Simons
+Leo Speet
+Leo Steinberg
+Leo Verdievel
+Leo Vroman
+Leo van Breen
+Leo van Dorpe
+Leo van Egeraat
+Leo van Maris
+Leo van Nerum
+Leo van Puyvelde
+Leo van Riel
+Leon Gommers
+Leonard Beuger
+Leonard Forster
+Leonce du Catillon
+Leonhard Huizinga
+Leonie Cornips
+Leonie Weckx
+Leonie van Nierop
+Leopold
+Leopold Flam
+Leopold Staff
+Les Murray
+Leslie M. Collins
+Levy Ali Cohen
+Leys Achiel
+Li Tai Po
+Lia van Gemert
+Liane Bruylants
+Libbe van der Wal
+Lidy van Eijsselsteijn
+Lidy van Marissing
+Lien Fokker
+Lien Heyting
+Lien ter Laan-van Lokhorst
+Lieneke Frerichs
+Lies Wesseling
+Lies Wolters
+Liesbeth Dolk
+Liesbeth van Thillo
+Lieuwe Brouwers
+Lieuwe H. Bouma
+Lieuwe Hornstra
+Lieve Joris
+Lieve Scheer
+Lieven Baeyens
+Lieven D' Hulst
+Lieven Rens
+Lieven de Cauter
+Lilo Linke
+Linda Verstraten
+Lionel Deflo
+Lionello Venturi
+Lisette Keustermans
+Lita de Ranitz
+Lizzy Sara May
+Lloyd Haft
+Lo van Driel
+Lod. van Mierop
+Lode Baekelmans
+Lode Bisschop
+Lode Campforts
+Lode Cantens
+Lode Geysen
+Lode Monteyne
+Lode Quasters
+Lode Roose
+Lode Wils
+Lode Zielens
+Lode de Visscher
+Loden Vogel
+Lodewijk Brunt
+Lodewijk De Wolf
+Lodewijk Dosfel
+Lodewijk Franck
+Lodewijk Maerevoet
+Lodewijk Makeblijde
+Lodewijk Mulder
+Lodewijk Ontrop
+Lodewijk Prins
+Lodewijk Vincent Scheltjens
+Lodewijk Willem Ernst Rauwenhoff
+Lodewijk Willem van Deventer
+Lodewijk van Deyssel
+Lodewijk van Eyck
+Loe Hsuun
+Loe Maas
+Loek Esmeijer
+Loek Zonneveld
+Loek den Hoef
+Lorenz de Swaan
+Lou Vleugelhof
+Louis Andriessen
+Louis Boon
+Louis Bruyns
+Louis Carbin
+Louis Cornelis
+Louis Couperus
+Louis D. Petit
+Louis Dieltjens
+Louis Emmerij
+Louis Ferron
+Louis Gillet
+Louis H.M. Monden
+Louis Havet
+Louis Herreboudt
+Louis J. Mostertman
+Louis Janssens
+Louis Knuvelder
+Louis Paul Boon
+Louis Saalborn
+Louis Sourie
+Louis Susan Pedro Meyboom
+Louis Trenard
+Louis de Bourbon
+Louis van Loo
+Louisa Duykers
+Louise Cornelis
+Louise Imogen Guiney
+Louise Kaiser
+Louise Labé
+Louise Moor
+Louise O. Fresco
+Louise Statenus
+Louise van Santen
+Louk E. Roest Crollius-van Doorn
+Louk Wijsen
+Lourina de Voogd
+Lu Xun
+Luc Alofs
+Luc Clerinx
+Luc Debaene
+Luc Devoldere
+Luc Dirikx
+Luc Huyse
+Luc Indestege
+Luc Libaut
+Luc Lutz
+Luc Pierre Maes
+Luc Renders
+Luc Salu
+Luc Tournier
+Luc Verbeke
+Luc van Brabant
+Luc van Hoeck
+Luc van Hoek
+Luc van den Briele
+Luc von Seller
+Luc. Boreel
+Lucas Reijnders
+Lucas van der Land
+Lucebert
+Lucie Huiskens
+Lucie Roobrouck
+Lucien Brulez
+Lucienne Stassaert
+Lucy Grealy
+Lucy Kooman
+Ludo Abicht
+Ludo Bekkers
+Ludo Poplemont
+Ludo Simons
+Ludo Verbeeck
+Ludolf Willem Bakhuizen van den Brink
+Ludvig Holberg
+Ludwig Drees
+Luis Araquistain
+Luisa Treves
+Luitzen Visser
+Luk Adriaens
+Luk Lambrechts
+Luk Wenseleers
+Luk van den Dries
+Lut Missinne
+Luuc Kooijmans
+Luuk Gruwez
+Luuk Lagerwerf
+Luís de Sousa Rebelo
+Lyckle de Vries
+Lydia van Kerckhoven
+Lynn Doyle
+Léon Hanssen
+Léon Polak
+Léon de Greiff
+Léonce Reypens
+Léopold Levaux
+Léopold Sédar Senghor
+M. 't Hooft
+M. Beinema
+M. Bruna
+M. Buisman J. Fzn.
+M. Coutinho
+M. D'Hane-Scheltema
+M. Duerinck
+M. Dufraing
+M. Everaert
+M. Februari
+M. Fennema
+M. Gruber
+M. Hanot
+M. Kapteyn
+M. Klaassen
+M. Mendel
+M. Mesotten
+M. Monsinga
+M. Revis
+M. Rutten
+M. Rácz
+M. Schönfeld
+M. Stapert-Eggen
+M. Stol
+M. Straub
+M. Sybr. Koops
+M. Tonnet
+M. Uhlenbeck-Winkel
+M. Weisglas
+M. Zwaagdijk
+M. de Ras
+M. de Vroede
+M. van Andelst
+M. van Hulten
+M. van de Ven
+M. van den Daele
+M. van der Plas
+M.A. Beek
+M.A. Evelein
+M.A. Gooszen
+M.A. Kerckhove
+M.A. Muusses
+M.A. Nauwelaerts
+M.A. Perk
+M.A. Rijnsburger
+M.A. Schenkeveld-van der Dussen
+M.A. Schwartz
+M.A. Wes
+M.A. van Herwerden
+M.A. van Weel
+M.A.F. Ostendorf
+M.A.N. Rovers
+M.A.P. Meilink-Roelofsz
+M.B. Frenkel
+M.B. ter Borg
+M.C. Arnemann
+M.C. Brands
+M.C. Piepers
+M.C. Tideman
+M.C. v.d. Panne
+M.C. van den Toorn
+M.C. van der Werff
+M.C.A. Brongers
+M.C.A. van der Heijden
+M.C.L. Lotsij
+M.D. Henkel
+M.E. 't Hart
+M.E. Belpaire
+M.E. Houck
+M.E. Klinkhamer-van Hoytema
+M.E. Kluit
+M.E. Kronenberg
+M.E. van Slooten
+M.E.F. Elout van Soeterwoude
+M.F. Fresco
+M.F. Schurmans
+M.F. Steehouder
+M.G. Buist
+M.G. Plattel
+M.G. Wildeman
+M.G.J. Teerink
+M.G.M. Elling
+M.H. Jansen
+M.H. Lem
+M.H. Rijnsburger
+M.H. Schenkeveld
+M.H. Székely-Lulofs
+M.H. Werkman
+M.H. de Haan
+M.H. du Croo
+M.H. van Campen
+M.H. van de Ven
+M.H.A. van der Valk
+M.H.J. Schoenmaekers
+M.H.J. Verjans
+M.J. Broekmeyer
+M.J. Brusse
+M.J. Francken
+M.J. Jochems
+M.J. Kloeke-van Lessen
+M.J. Langeveld
+M.J. Pijnappel
+M.J. Sirks
+M.J. Trappenburg
+M.J. Weggelaar
+M.J. de Meijer
+M.J. van Westenbrugge
+M.J.M. de Haan
+M.J.P.M. Weijtens
+M.K. van Dort-Slijper
+M.K. van der Steeg
+M.L.A. Barnardiston-Van Riemsdijk
+M.M. Prinsen
+M.M. von Baumhauer
+M.P. Vrij
+M.P.R. van den Broecke
+M.R. Dijkman
+M.R. Pauwels
+M.R.J. Brinkgreve
+M.S.J. Cox-Andrau
+M.T.H. Perelaer
+M.Th. Houtsma
+M.W.C. Gori
+M.W.F. Treub
+Maaike Hogenhout-Mulder
+Maaike Meijer
+Maarten 't Hart
+Maarten Asscher
+Maarten Doorman
+Maarten Klein
+Maarten Mourik
+Maarten Rooij
+Maarten Schneider
+Maarten Steenmeijer
+Maarten Vrolijk
+Maarten van Buuren
+Maarten van Delden
+Maarten van Dullemen
+Maarten van Rhijn
+Maarten van Rossem
+Maarten van der Wee
+Maartje Draak
+Maartje Süter
+Madeleine Böhtlingk
+Madeleine van Strien-Chardonneau
+Magda van Emde Boas
+Maghiel van Crevel
+Magnus Hisrschfeld
+Maja Burghout
+Majorie Bottenheim
+Makhali-Phal
+Malgorzata Hillar
+Manet van Montfrans
+Manja Croiset
+Manon Uphoff
+Manuel Bandeira
+Manuel Kneepkens
+Manuel van Loggem
+Maps Valk
+Marc Adang
+Marc Andries
+Marc Bruynseraede
+Marc Galle
+Marc Groenhuijsen
+Marc Kregting
+Marc Moonen
+Marc Reugebrink
+Marc Reynebeau
+Marc Schoorl
+Marc Schreurs
+Marc Staels
+Marc Van Vaeck
+Marc de Kesel
+Marc de Munnynck
+Marcel Baudet
+Marcel Bax
+Marcel Beyer
+Marcel Brauns
+Marcel Bénabou
+Marcel Coole
+Marcel Cordemans
+Marcel Duchateau
+Marcel Grypdonck
+Marcel Hoebeke
+Marcel Janssens
+Marcel Kurpershoek
+Marcel Leemans
+Marcel Lobet
+Marcel Matthijs
+Marcel Minnaert
+Marcel Möring
+Marcel Romeo Breyne
+Marcel Tobie
+Marcel de Smedt
+Marcel van Herpen
+Marcel van Matena
+Marcel van de Velde
+Marcel van der Linden
+Marcellus Emants
+Marcus de Jong
+Marcus van Blankenstein
+Marga Demmers
+Marga Minco
+Margarete van Ackeren
+Margaretha Ferguson
+Margaretha Meijboom
+Margaretha Wijnanda Maclaine Pont
+Margarita Nelken
+Margo Scharten-Antink
+Margot de Hartog
+Margreet Bruijn
+Margreet Hirs
+Margreet Koekebakker
+Margreet Onrust
+Margreet Schouwenaar
+Margreet Schrevel
+Margreet den Buurman
+Margreeth Woltjes
+Margret Brügmann
+Margriet Baers
+Margriet Poort
+Margriet de Moor
+Margrit de Sablonière
+Mari Johan Mees
+Maria Bogucka
+Maria Dabrowska
+Maria Dermoût
+Maria Elisabeth Houtzager
+Maria Gerarda
+Maria Hartgerink-Koomans
+Maria Huybrechts
+Maria Jasnorzewska
+Maria Muller-Lulofs
+Maria Simon Thomas
+Maria Stahlie
+Maria Viola
+Maria de Groot
+Maria van Daalen
+Maria van Royen
+Maria van der Moer
+Maria van der Steen
+Maria-Augusta Jacobs
+Marianne Colijn
+Marianne Meester
+Marianne Philips
+Marianne Vos
+Marianne van Kerkhoven
+Marie Agathe Boddaert
+Marie C. van Zeggelen
+Marie Cremers
+Marie Gijsen
+Marie H. van der Zeyde
+Marie Heijermans-Peers
+Marie Henriëtte Koorders-Boeke
+Marie Koenen
+Marie Loke
+Marie Metz-Koning
+Marie Ramondt
+Marie Schmitz
+Marie Schous
+Marie Snijder van Wissenkerke
+Marie de Meister
+Marie de Rovanno
+Marie van Dessel-Poot
+Marie van Kranendonk
+Marie-José Heijkant
+Marie-Louise Montulet
+Marie-Sophie Nathusius
+Marieke Sanders-ten Holte
+Marietta Ioannidou
+Marijke Baars
+Marijke Besselink
+Marijke Emeis
+Marijke J. van der Wal
+Marijke Loots
+Marijke Meijer Drees
+Marijke Rijsberman
+Marijke Smalbraak
+Marijke Spies
+Marijn van Dantzig
+Marijn van der Jagt
+Marinel Gerritsen
+Marinus A. den Braber
+Marinus Lodewijk van Deventer
+Marinus Willem de Visser
+Marinus van der Goes van Naters
+Mario Gommeren
+Mario Molegraaf
+Mario Vargas Llosa
+Mario Verdone
+Mariolein Sabarte Belacortu
+Marion Coulon
+Marion Duimel
+Marita Mathijsen
+Marius Buning sr.
+Marius F. Valkhoff
+Marius Flothuis
+Marius Goedhart
+Marius Wilhelm Holtrop
+Marja Brouwers
+Marja Kuncewiczowna
+Marja Loomans
+Marja Stevens
+Marjan Birkenhäger
+Marjan Groenewegen
+Marjolein Hogenbirk
+Marjoleine de Vos
+Marjolijn Verspoor
+Mark Boog
+Mark Braet
+Mark Eyskens
+Mark Insingel
+Mark Kinet
+Mark Prager Lindo
+Mark Richartz
+Mark Schaevers
+Mark Smeets
+Mark Van Tongele
+Mark Verstockt
+Mark van Andel
+Marko Fondse
+Marleen de Crée-Roex
+Marlene Dumas
+Marlies Philippa
+Marnix Gijsen
+Marnix van Gavere
+Mart Janssonius
+Marten Brouwer
+Marten Jan van der Meer
+Marten Toonder
+Martha Gerlo
+Martha Johanna Hamaker
+Martha de Castro
+Martien Beversluis
+Martien J.G. de Jong
+Martien Kappers
+Martijn van Calmthout
+Martin Adán
+Martin Albers
+Martin Brants
+Martin Bril
+Martin Bruijns
+Martin Hartkamp
+Martin J. Klein
+Martin Leopold
+Martin Lusse
+Martin Mooij
+Martin Permys
+Martin Ros
+Martin Schouten
+Martin Veltman
+Martina G. Kramers
+Martina Geertruida Sara van der Feen
+Martine de Clercq
+Martinus Beversluis
+Martinus Leopold
+Martinus Nijhoff
+Martinus Poelhekke
+Martinus des Amorie van der Hoeven
+Mary G. Kemperink
+Mary McCarthy
+Maryot
+Marysa Demoor
+Maryse Vincken
+Massimo Mila
+Mathias Kemp
+Matsuo Basho
+Matteo Maria Boiardo
+Matthias Hüning
+Matthijs Bakker
+Matthijs Bokhorst
+Matthijs Engelberts
+Matthijs Salverda
+Matthijs Vermeulen
+Matthé Sjamaar
+Matthée Corneille Valeton
+Mattijs van de Port
+Maurice D'Haese
+Maurice De Tollenaere
+Maurice Gilliams
+Maurice Roelants
+Maurice Schuyten
+Maurice Wilmotte
+Maurice van Lieshout
+Maurits Bilcke
+Maurits Coomans
+Maurits Dekker
+Maurits Gysseling
+Maurits Mok
+Maurits Peeters
+Maurits S.C.M. Molenaar
+Maurits Sabbe
+Maurits Smit
+Maurits Uyldert
+Maurits Wagenvoort
+Maurits de Doncker
+Maurits de Meyer
+Maurits van Hoeck
+Maurits van Saene
+Max B. Teipe
+Max Beckmann
+Max Brod
+Max Croiset
+Max Dendermonde
+Max Kijzer
+Max Lamberty
+Max Niematz
+Max Nord
+Max Prick van Wely
+Max Rooses
+Max Schuchart
+Max de Jong
+Max van Rooy
+Maxim Gorki
+Maxim P.A.M. Kerkhof
+Maxim de Winter
+Maxime Deswarte
+Mazisi Kunene
+Mea Verwey
+Mei Hwa Tan
+Meinardus Siderius Pols
+Meinardus Siderius Wal
+Meint Joustra
+Melati van Java
+Melchior Treub
+Melle Broeksma
+Menno Kraan
+Menno Tamminga
+Menno ter Braak
+Menotti del Picchia
+Mia van der Haegen
+Micha Hilgers
+Michael A. Newton
+Michael Donhauser
+Michael Frijda
+Michael Hamburger
+Michael Krüger
+Michael Masuch
+Michael O'Loughlin
+Michael Ondaatje
+Michael Tophoff
+Michael Wilson
+Michael van de heilige Augustinus
+Michail Kalik
+Michal Choromanski
+Michaël Deak
+Michaël Slory
+Michaël Wilhelm Scheltema
+Michel Bartosik
+Michel Demedts
+Michel Dupuis
+Michel Huisman
+Michel Korzec
+Michel Leclerc
+Michel Oukhow
+Michel de Ghelderode
+Michel van der Plas
+Michelangelo
+Michelangelo Zimolo
+Michele Ondei
+Michiel Dierickx
+Michiel Johannes de Goeje
+Michiel Leezenberg
+Michiel Mastenbroek
+Michiel de Swaen
+Michiel van Kempen
+Mieczyslaw Jastrun
+Miek Janssen
+Mieke B. Smits-Veldt
+Mieke Bal
+Mieke Koenen
+Mieke Tillema
+Mieke Trommelen
+Mieke van Dalen
+Miel Vanstreels
+Mien Proost
+Mies Bouhuys
+Mies Kievits
+Miguel Declercq
+Miguel Hernández
+Miguel de Cervantes Saavedra
+Miguel de Unamuno
+Milo Anstadt
+Mimosa
+Mineke Schipper
+Miriam Van hee
+Mirjam Ernestus
+Mirjam Schöttelndreier
+Mirna Velcic-Canivez
+Mirza Riza Viham
+Mischa S. van den Bosch
+Mischa de Vreede
+Misha Mengelberg
+Mon Steyaert
+Mona van Garsse
+Mongane Wally Serote
+Monica Droste
+Monica Soeting
+Monika Triest
+Monika Warnenska
+Monika van Paemel
+Monique Darge
+Montanus
+Montanus de Haan Hettema
+Multatuli
+Multavidi
+Murk A. J. Popma
+Mustafa Stitou
+Mário-Henrique Leiria
+Mécs Laszló
+N. Brugman-Begemann
+N. Cramer
+N. Donker
+N. Krusemeyer-van Iersel
+N. Levi
+N. Machiavelli
+N. Mansvelt
+N. Rowan
+N. Sterveen
+N. Wildiers
+N. de Bresser
+N. de Paepe
+N. de Praetere
+N. van Hees
+N. van Wijk
+N. van der Blom
+N. van der Laan
+N.A. Donkersloot
+N.C. van Velzen
+N.C.H. Wijngaards
+N.E.H. van Esveld
+N.E.M. Pareau
+N.F. Streekstra
+N.G. van Kampen
+N.G.H. Deen
+N.H. Ridderbos
+N.H. Swellengrebel
+N.J. Krom
+N.J. Polak
+N.J. Schuurmans
+N.J. Singels
+N.J. den Tex
+N.P. van Wyk Louw
+N.P. van den Berg
+N.W.P. Rauwenhoff
+Nabor Devolder
+Nadjezjda Mandelstam
+Nan van Houte
+Nanda van den Berg
+Nanny Speyer
+Naoya Shiga
+Nardo Aluman
+Neels Everards
+Neeltje Maria Min
+Nel Noordzij
+Nel Veenboer
+Nel Veerman
+Nella Moltzer
+Nelleke Groenewegen
+Nelleke Moser
+Nelleke Noordervliet
+Nelleke van Maaren
+Nellie van Kol
+Nelly M. Burgers
+Nes Tergast
+Netty van Kempen
+Nic Brink
+Nic van Beeck
+Nic van Bruggen
+Nicanor Parra
+Nicholas G. Lély
+Nico Frijda
+Nico G. Schulte Nordholt
+Nico Oosterbeek
+Nico Rigter
+Nico Rost
+Nico Scheepmaker
+Nico Verhoeven
+Nico Wijnen
+Nico Wilterdink
+Nico de Haas
+Nico de Vrede
+Nico van Suchtelen
+Nicolaas Beets
+Nicolaas Bernhardus Donkersloot
+Nicolaas Dirk Doedes
+Nicolaas Jacob Bernard Kappeyne van de Coppello
+Nicolaas Japikse
+Nicolaas Matsier
+Nicolaas Messchaert
+Nicolaas Wilhelmus Posthumus
+Nicolaas de Roever
+Nicolas Charles Sieburgh
+Nicolaus Meursinge
+Nicolette Smabers
+Nicolás Guillén
+Niek Muller
+Niek van der Heide
+Niels Helsloot
+Nienke Bakker
+Nigel F. Palmer
+Nikolaas Gerard Pierson
+Nine van der Schaaf
+Noam Chomsky
+Noegroho
+Nol Gregoor
+Nop Maas
+Nora Petit
+Norbert Elias
+Norbert Loeser
+Norbert Morciniec
+Norval S.H. Smith
+Novalis
+O. Bottema
+O. Cornet
+O. Hammerstein
+O. Noordenbos
+O. Oppermann
+O. Westerlinck
+O. d' Hose
+O.J. de Jong
+O.J.H. van Limburg Stirum
+O.M. de Munnick
+Ocko Wicher Star Numan
+Octaaf Steghers
+Octavio Paz
+Odile Heynders
+Odilo Jacobs
+Odilon Demarre
+Odo Leys
+Odo Siril
+Oek de Jong
+Oger H. Bourdeaud'huy
+Okke Jager
+Olaf J. de Landell
+Ole Bouman
+Olf Praamstra
+Olga Krijtová
+Olga Sedakova
+Olga van Marion
+Omar Khayyam
+Omer Karel de Laey
+Omer Wattez
+Onno Damsté
+Onno Kosters
+Orlanda S.H. Lie
+Orlando Emanuels
+Oscar Dambre
+Oscar Mohr
+Oscar Monstrey
+Oscar R. Hobson
+Oscar Timmers
+Oscar de Wit
+Oscar van Weerdenburg
+Oskar Katann
+Oskar Wellens
+Oskar van der Hallen
+Oswaldo Salazar
+Oswin Schneeweisz
+Otto Dijk
+Otto Egberts
+Otto Forst de Battaglia
+Otto S. Lankhorst
+Otto Treumann
+Otto Valkman
+Otto van Eck
+Otto van Rees
+Otto van den Muijzenberg
+Owen Dodson
+P. Albers S.J.
+P. Berthold
+P. Bertrand
+P. Bierens de Haan
+P. Brommer
+P. Clausing
+P. Ellerbeek
+P. Eringa
+P. Feenstra jr.
+P. Gaeffke
+P. Gerbenzon
+P. Geyl
+P. Glazema
+P. Goedertier
+P. Gros
+P. Halbertsma
+P. Hendrix
+P. Henneckes
+P. Hijmans
+P. Hildebrand
+P. Hirschler
+P. Hoekstra
+P. Hoogenboom
+P. Hummelen
+P. J. van Leeuwen
+P. Janssens
+P. Julius O.F.M. Cap.
+P. Keymeulen
+P. Koster
+P. Krug
+P. Kubben
+P. Lammens-Pikhaus
+P. Lascaris
+P. Lassalle
+P. Leendertz (jr.)
+P. Maximilianus O.F.M. Cap.
+P. Minderaa
+P. Morlion
+P. Otten
+P. Petrus M. Janssens
+P. Placidus Eykens
+P. Polman
+P. Roosenburg
+P. Rutten
+P. Ruysch van Dugteren
+P. Schellens
+P. Scherft
+P. Schumacher
+P. Seligmann
+P. Sengodjo
+P. Smoor
+P. Soens
+P. Spigt
+P. Stienstra
+P. Th. van Reenen
+P. Thuysbaert jr.
+P. Valkenburgh
+P. Verberne
+P. Verdoes
+P. Verhagen Lzn.
+P. Vermeiren
+P. de Boer
+P. de Bruin
+P. van Amstel
+P. van Hees
+P. van Overbeeke
+P. van Romburgh
+P. van Schilfgaarde
+P. van der Woude
+P.A. Hekstra
+P.A. Tiele
+P.A. Verburg
+P.A. Wackie Eysten
+P.A. de Génestet
+P.A. van Rooy
+P.A.F. van Veen
+P.A.H. de Boer
+P.A.M. Boele van Hensbroek
+P.A.M. Geurts
+P.A.S. van Limburg Brouwer
+P.B. Shelley
+P.B. van Dalfsen
+P.B.M. Blaas
+P.C. Boeren
+P.C. Boutens
+P.C. Margadant
+P.C. Molhuysen
+P.C. Paardekooper
+P.C. Schoonees
+P.C. Verveen
+P.C. de Bruyne-Klinkenberg
+P.C.J.A. Boeles
+P.E. Josselin de Jong
+P.E. van Renesse
+P.E.G. van Heyningen
+P.E.L. Verkuyl
+P.E.M. Boer
+P.Em. Valvekens
+P.F. Schmitz
+P.F.H. Fromberg
+P.F.M. Fontaine
+P.G.J. van Sterkenburg
+P.H. Greiner
+P.H. King
+P.H. Pott
+P.H. Ritter jr.
+P.H. Schrijvers
+P.H. van Laer
+P.H. van Moerkerken jr.
+P.H. van der Kemp
+P.H.G. van Gilse
+P.H.J.T. Ververgaert
+P.J. Arisz
+P.J. Blok
+P.J. Buijnsters
+P.J. Cosijn
+P.J. Enk
+P.J. Fehmers
+P.J. Idenburg
+P.J. Koets
+P.J. Meertens
+P.J. Merckens
+P.J. Muller
+P.J. Nienaber
+P.J. Peverelli
+P.J. Risseeuw
+P.J. Stinissen
+P.J. Stolk
+P.J. Verkruijsse
+P.J. Veth
+P.J. Vinken
+P.J. Weckx
+P.J. de Kanter
+P.J. de Voogd
+P.J. van Löben Sels
+P.J. van Winter
+P.J.A. Franssen
+P.J.B.C. Robidé van der Aa
+P.J.F. du Bois
+P.J.F.M. Eligh
+P.J.H. Pijls
+P.J.H. Vermeeren
+P.J.J. Diermanse
+P.J.M. van Gils
+P.J.W. Teding van Berkhout
+P.K. Niekerk
+P.L. Tack
+P.L. van Eck jr.
+P.L. van den Heuvel
+P.M. Boer-den Hoed
+P.M. Croiset
+P.M. van der Vrecken
+P.N. van Eyck
+P.N.G. Pesch
+P.P. Schmidt
+P.P.J. van Caspel
+P.P.V. van Moorsel
+P.R. Baehr
+P.R.F. Verhoeven
+P.S. du Toit
+P.S. van Koningsveld
+P.S.N. Oost
+P.T. Helvetius van den Bergh
+P.Th. Elsinga
+P.Th. Hugenholtz
+P.W. Kamphuisen
+P.W.A. Cort van der Linden
+P.W.J. Steinz
+Pablo Neruda
+Pablo Picasso
+Pam Emmerik
+Pamela Koevoets
+Pamela Pattynama
+Pandelis Prewelakis
+Paolo Arcari
+Paolo Gentili
+Pascal Cornet
+Pascal Tasiaux
+Patricia Lasoen
+Patricia de Martelaere
+Patrick Cornillie
+Paul A.G. Dibon
+Paul Alberdingk Thijm
+Paul André
+Paul Beers
+Paul Bellefroid
+Paul Binnerts
+Paul Bogaert
+Paul C.H. van der Goor
+Paul Casparie
+Paul Catz
+Paul Celan
+Paul Citroen
+Paul Claes
+Paul Claudel
+Paul Cronheim
+Paul Delsemme
+Paul Franck
+Paul François Hubrecht
+Paul Fredericq
+Paul Gillaerts
+Paul Goodman
+Paul Groenendaal
+Paul Hadermann
+Paul Haimon
+Paul Hefting
+Paul J.A. Frische
+Paul Kapteyn
+Paul Koeck
+Paul Lebeau
+Paul M. Doolan
+Paul Maria Jozef de Meester
+Paul Marijnis
+Paul Marlee
+Paul Pelckmans
+Paul Possemiers
+Paul R. Rijkens
+Paul Rodenko
+Paul Rogghé
+Paul Schampaert
+Paul Snoek
+Paul Sobry
+Paul Steenhauer
+Paul Valéry
+Paul Van Keymeulen
+Paul Van de Woestijne
+Paul Vanderschaeghe
+Paul Verbruggen
+Paul Verhuyck
+Paul Vlemminx
+Paul Walkiers
+Paul Wessel
+Paul de Keyser
+Paul de Ryck
+Paul de Vree
+Paul de Wispelaere
+Paul van 't Veer
+Paul van Alderman
+Paul van Hauwermeiren
+Paul van Heck
+Paul van Ostaijen
+Paul van der Heijde
+Paul van der Loeff
+Paul van der Meulen
+Paula Vermeyden
+Paulien Smabers
+Pauline le Roux
+Pearl S. Buck
+Peder Gram
+Peeters
+Per Hojholt
+Percy B. Lehning
+Pertinax
+Peter Abelsen
+Peter Bakema
+Peter Benoit
+Peter Berger
+Peter Berghe
+Peter Bergsma
+Peter Brook
+Peter Buijs
+Peter Buwalda
+Peter Collier
+Peter Crassaerts
+Peter Drehmanns
+Peter Ghyssaert
+Peter Handke
+Peter Harper
+Peter Hoefnagels
+Peter Hofstede
+Peter Holvoet-Hanssen
+Peter J.A. Nissen
+Peter Jozef Tijsmans
+Peter King
+Peter Meel
+Peter Mertens
+Peter Nijmeijer
+Peter Nijssen
+Peter Odell
+Peter Reinhart Gleichmann
+Peter Schat
+Peter Spaan
+Peter Swanborn
+Peter Theunynck
+Peter V. Zima
+Peter Verhelst
+Peter Verstegen
+Peter Verstraten
+Peter Weibel
+Peter Zeeman
+Peter Zonderland
+Peter v.d. Braken
+Peter van Amstel
+Peter van Bart
+Peter van Beek
+Peter van Bosse
+Peter van Eeten
+Peter van Gestel
+Peter van Ham
+Peter van Lieshout
+Peter van Os
+Peter van Seters
+Peter van Steen
+Peter van Zonneveld
+Peter van der Veer
+Peter-Paul Verbeek
+Petra Hendriks
+Petran Kockelkoren
+Petrus Adrianus Johannes Bentvelzen
+Petrus Conradi
+Petrus Dubois
+Petrus Martinus Bots
+Petrus Raëskin
+Petrus de Jong
+Petrus de Raadt
+Petrus van Renesse
+Ph. Kohnstamm
+Ph. de Vries
+Ph. van de Nieuwegiessen
+Ph.C. van der Pant
+Ph.H. Breuker
+Ph.J. Idenburg
+Ph.J. Simons
+Ph.M. Bosscher
+Pham Van Ky
+Philip Christiaan Molhuyzen
+Philip Levine
+Philip Mechanicus
+Philip Ramp
+Philip Reinhard Hugenholtz
+Philip Vermoortel
+Philip van der Eijk
+Philippe Cailliau
+Philippe Desportes
+Philippe Jaccottet
+Philippe Joseph Aimé van Isacker
+Philippe Noble
+Philippe Sollers
+Philippe Zilcken
+Philippine vande Putte
+Philippus Samuel van Ronkel
+Philips Koninck
+Phillip Herring
+Pier Boorsma
+Pier Westra
+Pierre Berteloot
+Pierre Brachin
+Pierre Daniel Chantepie de la Saussaye
+Pierre De Clercq
+Pierre H. Dubois
+Pierre Kemp
+Pierre Lambrechts
+Pierre Michon
+Pierre Swiggers
+Pierre de Ronsard
+Pierre-Henri Simon
+Piet Apol
+Piet Beek
+Piet Calis
+Piet Couttenier
+Piet Delen
+Piet Gerbrandy
+Piet Heus
+Piet Kralt
+Piet Meeuse
+Piet Oomes
+Piet Sterckx
+Piet Thomas
+Piet Verhoog
+Piet Zonderzorg
+Piet de Keyser
+Piet de Rooy
+Piet van Aken
+Piet van Assche
+Piet van Os
+Pieter A.M. Seuren
+Pieter Antonie van der Lith
+Pieter Arend Leupe
+Pieter Bleeker
+Pieter Boskma
+Pieter Brattinga
+Pieter Corbeels
+Pieter Fijn van Draat
+Pieter Frans Fransen
+Pieter G. Buckinx
+Pieter Gerard van Schermbeek
+Pieter Heering
+Pieter Jan Bouman
+Pieter Korthuys
+Pieter Lakeman
+Pieter Leendertz Wz.
+Pieter Lieftinck
+Pieter Lodewijk Muller
+Pieter Lukkenaer
+Pieter Minderhout
+Pieter Nicolaas Muller
+Pieter Nieuwint
+Pieter Obbema
+Pieter Polanen
+Pieter Rink
+Pieter Rutger Feith
+Pieter S. Gerbrandy
+Pieter Sijpersma
+Pieter Spierenburg
+Pieter Valkhoff
+Pieter Willem de Koning
+Pieter Zeeman
+Pieter de Jong
+Pieter de Meijer
+Pieter de la Court
+Pieter van der Meer
+Pieter van der Meer de Walcheren
+Pieter-Emmanuel Oyen
+Pim de Vroomen
+Pim den Boer
+Pjeroo Roobjee
+Plato
+Pliet van Lishout
+Po Tsjü I
+Pol Douliez
+Pol Heyns
+Pol Hoste
+Pol de Mont
+Pomp de Basschaerde
+Pramudya Ananta Tur
+Predrag Dojcinovic
+Prosper Arents
+Prosper Mérimée
+Prosper Poullet
+Prosper de Smet
+Prosper van Langendonck
+Pszisko Jacobs
+Publius Ovidius Naso
+Päivi Schot-Saikku
+Q.W.J. Daas
+Quirinus Ignatius Maria Mok
+R. Blok
+R. Breugelmans
+R. Caron
+R. Cointre
+R. Cordes
+R. Dellaert
+R. Dobru
+R. Eeckhout
+R. Feenstra
+R. Feith
+R. Foncke
+R. Galderoux
+R. Goris
+R. Haeseryn
+R. Hamburger
+R. Hoetink
+R. Jansen-Sieben
+R. Kaltofen
+R. Kroes
+R. Kruk
+R. Leijs
+R. Lemaire
+R. Lievens
+R. Lindeman
+R. Maere
+R. Menggali
+R. Miry
+R. Overeem
+R. Pennink
+R. Pulinckx
+R. Roegholt
+R. Sierksma
+R. Vanderauwera
+R. Verschroeven
+R. Vos
+R. Wiarda
+R. Wijkman
+R. Windey
+R. de Jong
+R. de Josselin de Jong
+R. van Cauwelaert
+R. van Lennep
+R. van Luttervelt
+R. van Ooteghem
+R. van Pottelbergh
+R. van der Meulen Rz.
+R.A. Basart
+R.A. Cornets de Groot
+R.A. Hugenholtz
+R.A. Kern
+R.A. Kollewijn
+R.A. Maandag
+R.A. Verweij
+R.A. van Sandick
+R.A.D. Cort van der Linden
+R.A.D. Renting
+R.A.J. van Lier
+R.A.V. van Haersolte
+R.B. Kitaj
+R.B. Lenaerts
+R.C. Bakhuizen van den Brink
+R.C. Boer
+R.C. Engelberts
+R.C. Winter
+R.C.J. van Maanen
+R.F. Beerling
+R.F. Lissens
+R.F. Scheltema de Heere
+R.G.K. Kraan
+R.H. Baayen
+R.H. Pheiffer
+R.H.J. Egeter van Kuyk
+R.J. Forbes
+R.J. Kortmulder
+R.J. Spruit
+R.J. Valkhoff
+R.J.A. van Suchtelen van de Haere
+R.K.J.E. Antonissen
+R.L. Plancke
+R.L. Stevenson
+R.L.J. Bromberg
+R.L.K. Fokkema
+R.P. Botha
+R.P. Cleveringa
+R.P. Mees Azn.
+R.P.A. Dozy
+R.P.J. Tutein Nolthenius
+R.P.W. Visser
+R.R. Post
+R.S. Tjaden Modderman
+R.T.H.P.L.A. van Boneval Faure
+R.Th. van der Paardt
+R.Th.R. Wentges
+R.V. Leembruggen
+R.V. Mortier
+R.W. Zandvoort
+R.W.J. den Tex
+R.W.P. de Vries
+R.W.W.M. van der Drift
+Rabin Gangadin
+Raden Mas Djojowirono Soenito
+Radvliet
+Rafael Alberti
+Rainer Maria Rilke
+Raj Kamal Jha
+Ralf Grüttemeier
+Ralph Degens
+Ralph Springer
+Ramón Gómez de la Serna
+Ramón Lugris
+Raoul Van Caenegem
+Raphael Ligtenberg
+Raphaël M.J. Kreemers
+Ray Gilles
+Raymond Benders
+Raymond Brulez
+Raymond Corbey
+Raymond Herreman
+Raymond Jouve
+Raymond Kaye
+Raymond Pouilliart
+Raymond Vervliet
+Raymond ten Berge
+Raymond van den Broeck
+Raynerius Podevijn
+Reginald De Schryver
+Rein Blijstra
+Rein Bloem
+Reinbert de Leeuw
+Reind J. Elema
+Reind Kuitert
+Reinder Boverhuis
+Reinder P. Meijer
+Reindert Jacobsen
+Reinhilde Haest
+Reinier Lucassen
+Reinier Salverda
+Reinier Ysabie
+Reinier van Genderen Stort
+Reinier van der Meulen Rz.
+Reinold Kuipers
+Reinold Vugs
+Reinold Widemann
+Reinout Bakker
+Reinout Vreijling
+Remco Campert
+Remco Ekkers
+Remieg Aerts
+Remko ter Laan
+Remy C. van de Kerckhove
+Remy Saen
+Renaat J.G.A.A. Gaspar
+Renaat Merecy
+Renaat de Vos
+Renee
+Reninca
+Rennie Elisabeth Veenstra
+René A. Römer
+René Adriaensen
+René Appel
+René Berghen
+René Boomkens
+René Dekkers
+René Devos
+René Gaspar
+René Goris
+René J. Seghers
+René J. van Boven
+René Jongen
+René Klinkenbergh
+René Louis Gysen
+René Marres
+René Puthaar
+René Verbeeck
+René de Clercq
+René van Hezewijk
+René van Sint-Jan
+René van Stipriaan
+Renée van Bezooijen
+Repke Hollema
+Reyner Banham
+Rhoda
+Ria Lemaire-Mertens
+Ria van den Brandt
+Richard Declerck
+Richard Dewachter
+Richard Minne
+Richard Roland Holst
+Richard Todd
+Richard de Cneudt
+Rico Bulthuis
+Rie Bauer
+Rie Cramer
+Riekus Waskowsky
+Rien Goettsch
+Rien T. Segers
+Rien Verhoef
+Rien van den Broek
+Rienk Visser
+Riet de Jong-Goossens
+Rijke de Wolf
+Rik Lina
+Rik Planting
+Rik Smits
+Rik Zienstra
+Rika De Backer-Van Ocken
+Rinke Tolman
+Rino Feys
+Rinus Ferdinandusse
+Rita Ghesquiere
+Rita Hostie
+Ritsaert ten Cate
+Rivai Apin
+Rob Bartels
+Rob Bognár
+Rob Delvigne
+Rob Nieuwenhuys
+Rob Rentenaar
+Rob Scherjon
+Rob Schouten
+Rob Sijmons
+Rob Tempelaars
+Rob Vermeulen
+Rob Wolfs
+Rob van Roosbroeck
+Rob van de Schoor
+Rob. Ree
+Rob. Roemans
+Robert A. Rojer
+Robert Druwé
+Robert Franquinet
+Robert Fruin
+Robert Gernhardt
+Robert Grosche
+Robert Guiette
+Robert Hayden
+Robert Hennebo
+Robert Jan van der Drift
+Robert Lagrain
+Robert Lema
+Robert Lemm
+Robert Macalester Loup
+Robert Melville
+Robert P. Swierenga
+Robert Paul Flipse
+Robert S. Kirsner
+Robert Steijn
+Robert Storm Petersen
+Robert Vandeputte
+Robert de Hooghe
+Robert van Amerongen
+Robert van Genechten
+Robert van Passen
+Robin Hannelore
+Rodney Russell
+Roel Houwink
+Roel J. den Dulk
+Roel Otten
+Roel Verlaan
+Roel van Duyn
+Roel van Heerde
+Roeland Gerritsen
+Roelof Haveman
+Roelof Kranenburg
+Roelof Schokker
+Roelof Schuiling
+Roelof van Gelder
+Roger Binnemans
+Roger Ghesquiere
+Roger Gilis
+Roger Henrard
+Roger Pieters
+Roger Serras
+Roger van de Velde
+Rogi Wieg
+Rogier Marijnissen
+Rogier van den Gouden
+Roland Jaccard
+Roland Jooris
+Roland Mortier
+Roland Willemyns
+Rolf Italiaander
+Rolf Wolfswinkel
+Rommert Boonstra
+Rommert Casimir
+Ron Elshout
+Ron Hey
+Ronald Landheer
+Ronny van Cleef
+Roover de Rik
+Rosa Temmerman
+Rouke van der Hoek
+Rudi Fuchs
+Rudi Hendrickx
+Rudi Laermans
+Rudi Wester
+Rudo Durant
+Rudolf Arnheim
+Rudolf Cornelis Hendrik Römer
+Rudolf Dekker
+Rudolf Escher
+Rudolf Geel
+Rudolf Mengelberg
+Rudolf Steinmetz
+Rudy Kousbroek
+Rudyard Kipling
+Rufino Blanco Fombona
+Russell Artus
+Rutger Kopland
+Ruth Beijert
+Ruth Schaumann
+Ruud A.J. Kraaijeveld
+Ruud Beeldsnijder
+Ruud Löbler
+Ruud Meijer
+Ruurd Bakker
+Ruurd R. Nauta
+Rüdiger Safranski
+S. Bonn
+S. Carmiggelt
+S. Cramer
+S. Davids
+S. De Vriendt
+S. Dresden
+S. Groenveld
+S. Kleerekoper
+S. Mok
+S. Na'aman
+S. Pinkhof
+S. Posthuma
+S. Ritsema van Eck
+S. Sybenga
+S. Vissering
+S. de Visser S.zoon
+S. de Wolff
+S. van Aken
+S.A. Krijn
+S.A. Louw
+S.A. Vosters
+S.A.E. van Puffelen
+S.A.J. van Faassen
+S.A.M. Bottenheim
+S.A.P.J.H. Iansen
+S.B.J. Zilverberg
+S.C. Derksen
+S.C. Dik
+S.C. Holleman-Stevens
+S.E. Harthoorn
+S.F. Baekers
+S.F. Witstein
+S.G. Nooteboom
+S.G. de Vries
+S.H. Delhaas
+S.H. Haan
+S.H. Meijler
+S.I. van Zuylen van Nyevelt
+S.J. Doorman
+S.J. Fockema Andreae
+S.J. Hingst
+S.J. Hoekstra
+S.J. Lenselink
+S.J. Popma
+S.J. Rutgers
+S.J. Warren
+S.J. de Hoest
+S.J. van den Bergh
+S.J. van der Molen
+S.J.R. de Monchy
+S.L. Verheus
+S.L. van Berne
+S.M. Noach
+S.M.S. de Ranitz
+S.N. Bakker
+S.P. Akkerman
+S.P. Haak
+S.P. Uri
+S.P. Wolfs
+S.P.E. Boshoff
+S.R. Steinmetz
+S.R. de Groot
+S.V. Langeveld
+S.W.F. Margadant
+Sadi de Gorter
+Sadiq Galal al'Azm
+Saint-John Perse
+Sake Helder
+Sal Tas
+Salomon Müller
+Salvador Bloemgarten
+Salvador Hertog
+Sam Devriendt
+Sam Goudsmit
+Samuel Adrianus Naber
+Samuel Johnson
+Samuel Kalff
+Samuel Muller
+Samuel Muller Fzn.
+Samuel Pierre l' Honoré Naber
+Samuel de Lange
+Samuel van Houten
+Samuël Senior Coronel
+Sandro Briosi
+Sanjukta Gupta
+Sapardi Djoko Damono
+Sara Bouterse
+Sara van Epenhuysen
+Sasbout Beukelsz. v.d. Burch
+Saskia Daalder
+Saskia Ferwerda
+Saskia Poldervaart
+Saskia Tellegen-van Delft
+Saskia de Coster
+Saskia van As
+Seamus Heaney
+Seerp Gratama
+Selma Lagerlöf
+Selma Leydesdorff
+Sem Davids
+Semper Jejunus
+Serge Govaert
+Serge van Duijnhoven
+Sergei Smirnov
+Seymour L. Flaxman
+Shigeharu Nakanó
+Shrinivási
+Sidonie Gabrielle Colette
+Siegfried E. van Praag
+Siegfried Huigen
+Siem Bakker
+Siem Juliard
+Siep Stuurman
+Sies de Haan
+Sietse van der Meulen
+Sifra Hugorina
+Sigrid Undset
+Sijo Kornelius Thoden van Velzen
+Silvain Douven
+Silvia W. de Groot
+Silvio d' Amico
+Simke Heerts Rinkes
+Simon Armitage
+Simon Frederik Groen
+Simon Frith
+Simon Gorter
+Simon Kooyman
+Simon Koster
+Simon Staf
+Simon Vestdijk
+Simon Vinkenoog
+Simon van Brakel
+Simonart
+Sippora Stibbe
+Sitor Situmorang
+Sj. Groenman
+Sjaak Commandeur
+Sjaak Koenis
+Sjaak de Mey
+Sjef Barbiers
+Sjeng Tans
+Sjoerd Kuyper
+Sjoerd Leiker
+Sjoerd de Vries
+Sjoerd van der Schaaf
+Sk. Muljadi
+Slavoj Zizek
+Soedjatmoko
+Soendoro Tirtosiwojo
+Sofia Antoniadis
+Sonja Prins
+Sophia de Mello Breyner Andresen
+Sophie Levie
+Sorin Alexandrescu
+St. Pietak
+Staf Weyts
+Stan Dietvors
+Stanislaw Predota
+Steef Davidson
+Stefaan Evenepoel
+Stefaan Leonard
+Stefaan van den Bremt
+Stefan Brijs
+Stefan George
+Stefan Hertmans
+Stefan Morawski
+Stella Braam
+Stephan Ronart
+Stephan Sanders
+Stephanie Claes-Vetter
+Stephanie Vetter
+Stephanus G. Axters
+Stephanus de Clippele
+Stephen Crane
+Stephen Mennell
+Steven Barends
+Steven Blaupot ten Cate
+Steven Membrecht
+Steven ten Brinke
+Stijn Streuvels
+Stine Jensen
+Strátis Myriwílis
+Stuart B. Jackman
+Stéphane Mallarmé
+Surianto
+Suze La Chapelle-Roobol
+Suze la Chapelle-Roobol
+Sven Danner
+Swan-Liat Kwee
+Swiatopelk Karpinski
+Swip Stolk
+Sybold van Ravesteyn
+Sybrand Allard Waller Zeper
+Sybrandi Braak
+Sybrandus Johannes Fockema Andreae
+Sybren Modderman
+Sybren Polet
+Sytske Sötemann
+Sytze Hoekstra Bzn.
+Sytze Wiersma
+Sándor Weöres
+T. Haan
+T. Hagtingius
+T. Langeveld-Bakker
+T. Zaaijer
+T. van der Zee
+T.-M. Nischik
+T.A. Birrell
+T.A. van Dijk
+T.C. van der Kulk
+T.H. Thung
+T.H.F. van Riemsdijk
+T.H.J. Broekmans
+T.J. Bezemer
+T.J. Haarhoff
+T.J. Halbertsma
+T.J. Stieltjes
+T.J. de Boer
+T.J.C. Gerritsen
+T.J.M. Versteeg
+T.K.M. von Baumhauer
+T.M. Tromp
+T.M. Verhage-van den Berg
+T.P. Sevensma
+T.S. Eliot
+T.S. Jansma
+T.T. Cloete
+T.T.H. Jorissen
+T.W.J. Juynboll
+T.W.L. Scheltema
+Taco H. de Beer
+Taco Roorda
+Tadeusz Boy-Zelenski
+Tadeusz Breza
+Tadeusz Rózewicz
+Taeke de Groot
+Tannelie Blom
+Tayeb Mokeddem
+Taï Aagen-Moro
+Teatse Eeltsje Holtrop
+Ted Hughes
+Teije Brattinga
+Teo Anton van Kooten
+Terrence Doody
+Tessel Pollmann
+Teun Hoekstra
+Th. De Ronde
+Th. Govaart
+Th. Heidebrand
+Th. Kuiper-Weijhenke
+Th. Morren
+Th. Swart Abrahamsz
+Th. Weevers
+Th. de Jager
+Th. de Meester
+Th. van Ameide
+Th. van Rheineck Leyssius
+Th. van Tichelen
+Th. van Tijn
+Th. van Welderen Rengers
+Th. van den Hoek
+Th.B.F. Hoyer
+Th.C. van Stockum
+Th.G. Sinnige
+Th.H. Lunsingh Scheurleer
+Th.H. d' Angremond
+Th.H. van Doorn
+Th.H.J. van Huet
+Th.J. Hooning
+Th.J. de Jong
+Th.J.G. Locher
+Th.M. Metz
+Th.M. Roest van Limburg
+Th.M. Scholten
+Th.M. van Leeuwen
+Th.P.H. van Aalst
+Th.W. Engelmann
+Thea Doelwijt
+Theo A.J.M. Janssen
+Theo Bogaerts
+Theo Brakels
+Theo Coun
+Theo Cruysse
+Theo Damsteegt
+Theo Findahl
+Theo Hermans
+Theo J. van der Wal
+Theo Joekes
+Theo Meder
+Theo Oudkerk Pool
+Theo Para
+Theo Schlichting
+Theo Stibbe
+Theo Thijssen
+Theo Verbeek
+Theo Vindevogel
+Theo Vonck
+Theo de Boer
+Theo de Jong
+Theo van Baaren
+Theo van Roon
+Theocritus
+Theodoor Belpaire
+Theodoor Bernard van Lelyveld
+Theodoor Carel Gobée
+Theodoor Jan Stomps
+Theodoor Rodenburg
+Theodor Absil
+Theodor Duquesnoy
+Theodore Roethke
+Theodorus Ligthart
+Thera Coppens
+Theun de Vries
+Thierry de Beaucé
+Thijs Pollmann
+Thijs Wöltgens
+Thilda Deckers
+Thom Holterman
+Thom Mertens
+Thomas Elsaesser
+Thomas Hardy
+Thomas Leeflang
+Thomas Mann
+Thomas McGrath
+Thomas Nolen
+Thomas Raucat
+Thomas Rosenboom
+Thomas Rosenlöcher
+Thomas Ryetius
+Thomas Vaessens
+Thérèse Hoven
+Ti Woe
+Tiberius Cornelius Winkler
+Tibor Klaniczay
+Tiele Rümke
+Tieme van Dijk
+Tijl Huygen
+Tijn Boon
+Tijs Goldschmidt
+Tijs Terwey
+Til Brugman
+Tim Krabbé
+Timon Hendrik Fokker
+Tine Brinkgreve-Wicherink
+Tine Leiker-Kooijmans
+Tine van Buul
+Tineke ter Meer
+Tini Booij
+Tirso de Molina
+Titus Brandsma
+Tj. Kielstra
+Tj. Sterringa
+Tj.S. Visser
+Tjaard W.R. de Haan
+Tjalie Robinson
+Tjalling
+Tjalling Bos
+Tjebbe van Tijen
+Tjoe-Som Tjan
+To Hölscher
+Tobias Michael Carel Asser
+Tobias van Westrheene Wzn
+Tobie Goedewaagen
+Toine Hovens
+Tom Blokdijk
+Tom Bruce
+Tom Eekman
+Tom Etty
+Tom Hage
+Tom Naastepad
+Tom Schalken
+Tom van As
+Tom van Deel
+Tomas Vanheste
+Ton Anbeek
+Ton Ceelen
+Ton Goeman
+Ton Harmsen
+Ton Hoenselaars
+Ton Korver
+Ton Lathouwers
+Ton Lemaire
+Ton Lutz
+Ton Naaijkens
+Ton Vallen
+Ton van Haaften
+Ton van Oudwijk
+Ton van Strien
+Ton van der Wouden
+Tone Brulin
+Tonie van Marle
+Tonja van Rijthoven
+Tonnus Oosterhoff
+Tonny van der Horst
+Tony Le Duc
+Toon Tellegen
+Top Naeff
+Trabadoeli
+Truman Capote
+Truus Gerhardt
+Tsjou Li-po
+Tsjow Meng-Tiè
+Tue Gad
+Tymen Trolsky
+U Win Tin
+U. Huber Noodt
+U. Schuurs
+U. Tuinstra
+Ubbo-Derk Hakholt
+Ulfert Schults jr.
+Ulpianus Lopez
+Ulrich Meister
+Ulrike Weinhold
+Ultra Violet
+Umberto Eco
+Umberto Saba
+Urbain van de Voorde
+Usama ibn Munqidh
+Ute Langner
+Uys Krige
+V. Voorden
+V. Willems
+V. de Meyer
+V.A. Julius
+V.E. Korn
+V.E. de Gruiter
+V.E. van Uytvanck
+V.F. Vanacker
+V.H. Rutgers
+V.J.J.P. van Heuven
+V.S. Naipaul
+V.W.D. Schenk
+Valborg Isaachsen-Dudok van Heel
+Valentijn Hepp
+Valentinus Morel
+Valfrid Palmgren
+Valère Coopmans
+Vasilis Vasilikos
+Venceslas Berent
+Ventura García Calderón
+Ventura García Caldéron
+Vic Nachtergaele
+Vic Reinders
+Victor Burgin
+Victor E. van Vriesland
+Victor Heylen
+Victor J. Brunclair
+Victor Naveau
+Victor Spoor
+Victor Varangot
+Victor de Stuers
+Victorinus Groot
+Vikentij Gerasimtsjoek
+Vincent Cleerdin
+Vincent Hunink
+Vincent Loosjes
+Vincenzo Cardarelli
+Virginie Loveling
+Vital Celen
+Vitaliano Brancati
+Viviane Geuffens
+Vojtech Mastny
+W. Albeda
+W. Arondéus
+W. Arts
+W. Banning
+W. Blok
+W. Boschman
+W. Boswinkel
+W. Bronzwaer
+W. Burger
+W. Cahn
+W. Cracco
+W. De Roy
+W. Drees
+W. Drop
+W. Elink Schuurman
+W. Everaet
+W. Feuilletau de Bruyn
+W. Gerdes
+W. Gobbers
+W. Gortzak
+W. Gosler
+W. Haanstra
+W. Heineken
+W. Hogendoorn
+W. Jaeger
+W. Kaper
+W. Koster Gzn.
+W. Kraak
+W. Kramer
+W. Kuenen
+W. Langeveld
+W. Lubberink
+W. Luyten
+W. Martin
+W. Matthijs
+W. Nienaber-Luitingh
+W. Pijnenburg
+W. Reich
+W. Rip
+W. Roukens
+W. Ruiten
+W. Ruys
+W. Scheffer
+W. Talloen
+W. Vanbeselaere
+W. Vloedgraven-Stuyver
+W. Vollgraff
+W. Waterschoot
+W. Wiersma
+W. de Rijke
+W. de Sitter
+W. de Vletter
+W. de Vries
+W. de Weerdt
+W. van Beusekom
+W. van Dingenen
+W. van Dort
+W. van Drimmelen
+W. van Ravesteyn
+W. van Schothorst
+W. van den Ent
+W. van der Marck
+W.A. Arriëns
+W.A. Braasem
+W.A. Nolet
+W.A. Ornée
+W.A. Reiger
+W.A. Verloren van Themaat
+W.A. Verschuer
+W.A. Wijnands
+W.A. de Witte
+W.A. van Rees
+W.A.A.M. Merlijn
+W.A.F. Janssen
+W.A.F. Stokhuyzen
+W.A.M. de Moor
+W.A.M. de Vroomen
+W.A.P. Smit
+W.B. Kristensen
+W.B.G. Molkenboer
+W.C. Braat
+W.C. Feltkamp
+W.C. Mees
+W.C. van Manen
+W.C. van Unnik
+W.C.A. Staring
+W.C.D. Olivier
+W.C.E. Koksma-ten Cate
+W.C.L. Clarisse
+W.E. Boerman
+W.E. Hegman
+W.E. Krul
+W.E. van Dam van Isselt
+W.E. van Wijk
+W.E.J. Kuiper
+W.F. Jonckheere
+W.F. Lichtenauer
+W.F. Prins
+W.F. Wertheim
+W.F.G. Breekveldt
+W.F.J.M. Krul
+W.F.R. Suringar
+W.G. Klooster
+W.G. Noordegraaf
+W.G. Scheeres
+W.G. Wolters
+W.G.C. Byvanck
+W.G.J.A. Jacob
+W.Gs Hellinga
+W.H. Auden
+W.H. Beuken
+W.H. Hasselbach
+W.H. Morel-van Mourik
+W.H. Somermeyer
+W.H. Staverman
+W.H. Stenfert Kroese
+W.H. Vroom
+W.H. van Dobben
+W.H. van Helsdingen
+W.H. van de Sande Bakhuyzen
+W.H.C. Tenhaeff
+W.H.M. Mattens
+W.H.N. van Wel
+W.J. Aerts
+W.J. Buma
+W.J. Elsman
+W.J. Formsma
+W.J. Hofdijk
+W.J. Jansen
+W.J. Jong
+W.J. Kooiman
+W.J. Schulte Nordholt
+W.J. Verdenius
+W.J. van Hoboken
+W.J. van de Woestijne
+W.J. van den Akker
+W.J. van der Molen
+W.J.A. Jonckbloet
+W.J.A. de Witt Huberts
+W.J.C. Buitendijk
+W.J.C. van Hasselt
+W.J.H. Caron
+W.J.J.C. Bijleveld
+W.J.M. Levelt
+W.J.M. Mulder
+W.J.M. van Calcar
+W.J.W. Koster
+W.K. van Dedem
+W.L. Bezema
+W.L. Brugsma
+W.L. Penning
+W.L. Stokvis
+W.L. de Vreese
+W.L.M.E. van Leeuwen
+W.L.P.A. Molengraaff
+W.M. Ebbink
+W.M. Engelberts
+W.M. Zappey
+W.M.F. Mansvelt
+W.M.H. Hummelen
+W.N. Visserman
+W.N. du Rieu
+W.P. Blockmans
+W.P. Gerritsen
+W.P. Kops
+W.P. Pos
+W.P. Sautijn Kluit
+W.P.J. Pompe
+W.Ph. Coolhaas
+W.Ph. Scheuer
+W.R. Heere
+W.R. Juynboll
+W.R. Veder
+W.R. van Hoëvell
+W.R.D. van Oostrum
+W.R.H. Koops
+W.S. Huberts
+W.W. Druenlanders
+W.W. Mijnhardt
+W.W. van der Meulen
+Waclaw Husarski
+Waclaw Sieroszewski
+Waldie van Eck
+Waldo Rojas
+Wallace Stevens
+Wally Moes
+Walter Bosch
+Walter Breedveld
+Walter Couvreur
+Walter Debrock
+Walter F. Smet
+Walter Haesaert
+Walter Haeseryn
+Walter J.M. Palm
+Walter Raleigh
+Walter Schönau
+Walter Thys
+Walter Verdin
+Walter van den Broeck
+Walter van der Kooi
+Walter van der Star
+Walther von der Vogelweide
+Wanda Maya
+Ward Ruyslinck
+Wardy Poelstra
+Waring Cuney
+Werner Cranshoff
+Wessel Scheffer
+Wessel te Gussinklo
+Wiecher Zwanenburg
+Wiek Röling
+Wieke Bonnier
+Wiel Kusters
+Wiel van der Randen
+Wies Moens
+Wijnand Steemers
+Wil Rouleaux
+Wil Sterenborg
+Wilbert Smulders
+Wilbert Spooren
+Wilco H. thoe Schwartzenberg en Hohenlansberg
+Wilco Julius van Welderen Baron Rengers
+Wilfred Smit
+Wilfried Adams
+Wilhelm Christiaan Knottenbelt
+Wilhelm Loeb
+Wilhelm Martin
+Wilhelm Scherer
+Wilhelm de Vries
+Wilhelmina Christina Pieterse
+Wilhelmina Smit-van de Wall
+Wilhelmus Johannes Kühler
+Wilhelmus Nicolaï
+Will Derks
+Will van Peer
+Willem A. Hecker
+Willem Adelaar
+Willem Andriessen
+Willem Arnold Pieter Pistorius
+Willem Bernard Johannes van Eyk
+Willem Bijsterbosch
+Willem Brakman
+Willem Brandt
+Willem Caland
+Willem Derks
+Willem Doevenspeck
+Willem Doorenbos
+Willem Draaijer
+Willem Duflou
+Willem Elsschot
+Willem Enzinck
+Willem Ernst Johan Berg
+Willem Frederik Andriessen
+Willem Frederik Hermans
+Willem Frederik Schürmann
+Willem Frijhoff
+Willem G. Weststeijn
+Willem G. van Maanen
+Willem Gerard Brill
+Willem Gerard van Nouhuys
+Willem Gerard van der Tak
+Willem Gijssels
+Willem Graadt van Roggen
+Willem Hendrik de Beaufort
+Willem Hoffman
+Willem Hussem
+Willem Jacob Manssen
+Willem Jan Knoop
+Willem Jan Mari van Eysinga
+Willem Johannes Leyds
+Willem Johannes Steenhoff
+Willem Kalma
+Willem Kloos
+Willem Leendertz
+Willem Lodewijk van Helten
+Willem M. Kruseman
+Willem M. Roggeman
+Willem M. Visser
+Willem Maas
+Willem Meijer
+Willem Moll
+Willem Mooijman
+Willem Mudde
+Willem Nieuwenhuis
+Willem Nolet
+Willem Otterspeer
+Willem Pieter Cornelis Knuttel
+Willem Pieter Wolters
+Willem Pijper
+Willem Pleyte
+Willem Polman Kruseman
+Willem Putman
+Willem Pée
+Willem Richard Boer
+Willem Schoonen
+Willem Schrickx
+Willem Vogelsang
+Willem Wilmink
+Willem baron van Goltstein
+Willem de Blécourt
+Willem de Geus
+Willem de Groot
+Willem de Mérode
+Willem de Ruiter
+Willem den Boer
+Willem ten Berge
+Willem van Doorn
+Willem van Elden
+Willem van Everdingen
+Willem van Maanen
+Willem van Malsen
+Willem van Reymerswael
+Willem van Toorn
+Willem van den Berg
+Willem van den Broeck
+Willem van der Pluym
+Willem van der Vlugt
+Willemien B. de Vries
+William A. Robson
+William Blake
+William Butler Yeats
+William Carlos Williams
+William Davids
+William Faulkner
+William H. McNeill
+William Shakespeare
+William T. Vollmann
+William Wilson
+William Wordsworth
+William van den Aker
+Willibrord Lampen
+Willy Balyon
+Willy Coolsaet
+Willy Dols
+Willy Lauwens
+Willy Peremans
+Willy Spillebeen
+Willy Vaerewijck
+Willy Vandeweghe
+Willy Vanhaelewijn
+Wilma
+Wilma Siccama
+Wilna Burger
+Wilt Idema
+Wim Bazuynen
+Wim Brinkman
+Wim Crouwel
+Wim Denslagen
+Wim Gijsen
+Wim Hazeu
+Wim Hendriks
+Wim Hijmans
+Wim Hofman
+Wim Honselaar
+Wim Hottentot
+Wim Huyskens
+Wim J. Simons
+Wim Kan
+Wim Klinkenberg
+Wim Markus
+Wim Neetens
+Wim Pendrecht
+Wim Reilingh
+Wim Rouw
+Wim Rutgers
+Wim Snitker
+Wim Tigges
+Wim Vermeer
+Wim Vesseur
+Wim Zaal
+Wim Zonneveld
+Wim de Bie
+Wim de Haas
+Wim de Poorter
+Wim van Rees
+Wim van Rooy
+Wim van de Woestijne
+Wina Born
+Winand Carel Hugo Staring
+Winnie Sorgdrager
+Wislawa Szymborska
+Wobbe de Vries
+Wolfgang Brandt
+Wolfgang Herrlitz
+Wolfgang Hilbig
+Wolther Kassies
+Wopke Eekhoff
+Wout Ultee
+Wouter Donath Tieges
+Wouter Gomperts
+Wouter Hutschenruyter
+Wouter Klootwijk
+Wouter Kotte
+Wouter Lutkie
+Wouter Nijhoff
+Wouter Paap
+Wouter Vanstiphout
+Wouter Verbeylen
+X. Smits
+Xandra Schutte
+Xavier Fàbregas
+Xavier Pruszynski
+Y.H. Rogge
+Yge Foppema
+Yra van Dijk
+Yrjö Kaijärvi
+Yukio Mishima
+Yves Bonnefoy
+Yves T'Sjoen
+Yves de La Brière
+Yves van Kempen
+Yvette Stoops
+Yvonne Koop
+Yvonne Kroonenberg
+Yvonne Né
+Z. Peeters
+Z.R. Dittrich
+Zack Gilbert
+Zadok Stokvis
+Zbigniew Ogonowski
+Zofia Klimaszewska
+Zofja Kossak-Szczucka
+Zofja Nalkowska
+Zoran Djukanovic
+[tijdschrift] Dietsche Warande en Belfort
+[tijdschrift] Nieuw Vlaams Tijdschrift
+[tijdschrift] Ontmoeting
+[tijdschrift] Van Onzen Tijd
+de Caigny
+de Ticheleer
+van Huffelen
+van der Veur
+zuster Maria Jozefa
+Ágnes Roboz
+Émile O.J.J.G. Lousse
+Émile Verhaeren

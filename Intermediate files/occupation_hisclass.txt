@@ -1,0 +1,67 @@
+occupation	occupationHisclass	HISCLASS
+aardrijkskundige	topograaf	2.0
+advocaat	advocaat	2.0
+agrariër	landbouwer	8.0
+ambachtsman	ambachtsman	7.0
+ambtenaar	ambtenaar	5.0
+apotheker	apotheker	2.0
+arbeider	arbeider	13.0
+archeoloog	antropoloog	2.0
+architect	architect	2.0
+archivaris	archivaris	4.0
+beeldend kunstenaar	beeldhouwer	4.0
+bestuurder	bestuurder	1.0
+bibliothecaris	bibliothecaris	4.0
+boekdrukker	boekdrukker	7.0
+boekhandelaar	boekhandelaar	4.0
+bouwkundig ingenieur	bouwkundig ingenieur	2.0
+bouwmeester	bouwmeester	1.0
+cartograaf	cartograaf bij een topografisch instituut	4.0
+classicus	oudheidkundige	2.0
+diplomaat	diplomaat	1.0
+docent	docent	2.0
+doopsgezind predikant	doopsgezind predikant	2.0
+filosoof	doctor in de filosofie	2.0
+fotograaf	fotograaf	4.0
+geref. predikant	gereformeerd predikant	2.0
+herv.	gereformeerd predikant	2.0
+historicus	oudheidkundige	2.0
+hoogleraar	hoogleraar	2.0
+illustrator	illustrateur	4.0
+indust.	industrieel	1.0
+jongleur	acrobaat	7.0
+journalist	journalist	2.0
+jurist	jurist	2.0
+kloosterling	kloosterling	4.0
+koopman	koopman	4.0
+kunsthandelaar	kunsthandelaar	4.0
+kunsthistoricus	kunsthandelaar	4.0
+leraar	leraar	2.0
+letterkundige (NIET-neerl.)	letterkundige	2.0
+luthers predikant	luthers predikant	2.0
+magistraat	ambtman	1.0
+medicus	medicus	2.0
+militair	militair	9.0
+minstreel	speelman	4.0
+musicus	musicus	4.0
+natuurwetenschapper	natuurwetenschapper	2.0
+officier	officier	1.0
+onderwijzer (basisschool)	onderwijzer op een lagere school	4.0
+politicus	ambtman	1.0
+ps.ther.	psycholoog	2.0
+psychol	psycholoog	2.0
+redacteur	redacteur	2.0
+remonstr. predikant	remonstrants predikant	2.0
+rk-geestelijke	rooms-katholiek geestelijke	2.0
+schilder	schilder	9.0
+staatsman	ambtman	1.0
+tekenaar	tekenaar	4.0
+theoloog	theoloog	2.0
+toneelspeler	toneelspeler	4.0
+uitgever	uitgever	1.0
+vertaler	vertaler	4.0
+werkman	werkman	13.0
+wiskundige	doctor in de wiskunde	2.0
+zakenman	zakenman	4.0
+zeevarende	zeevarende	11.0
+zielsverzorger	zielmaker	7.0
