@@ -1,0 +1,24 @@
+Author,identifier,Link,Reason
+Jan Engelman,enge016,https://www.dbnl.org/auteurs/auteur.php?id=enge016,"HTTPSConnectionPool(host='www.dbnl.org', port=443): Read timed out. (read timeout=10)"
+Michiel de Swaen,swae001,https://www.dbnl.org/auteurs/auteur.php?id=swae001,"Expecting ',' delimiter: line 30 column 2 (char 737)"
+Jan Peters,pete023,https://www.dbnl.org/auteurs/auteur.php?id=pete023,"Expecting ',' delimiter: line 15 column 2 (char 383)"
+Eldert Willems,will025,https://www.dbnl.org/auteurs/auteur.php?id=will025,Invalid control character at: line 18 column 27 (char 465)
+N.G. van Kampen,kamp057,https://www.dbnl.org/auteurs/auteur.php?id=kamp057,Invalid control character at: line 18 column 25 (char 456)
+P.C. Verveen,verv028,https://www.dbnl.org/auteurs/auteur.php?id=verv028,"Expecting ',' delimiter: line 16 column 2 (char 430)"
+Adriaen Lourisz Lepel,lepe001,https://www.dbnl.org/auteurs/auteur.php?id=lepe001,"Expecting ',' delimiter: line 16 column 2 (char 420)"
+A.L Bem,bem_001,https://www.dbnl.org/auteurs/auteur.php?id=bem_001,Invalid control character at: line 13 column 24 (char 330)
+Suze La Chapelle-Roobol,lach007,https://www.dbnl.org/auteurs/auteur.php?id=lach007,"Expecting ',' delimiter: line 14 column 4 (char 437)"
+Albertine de Haas,draa001,https://www.dbnl.org/auteurs/auteur.php?id=haas021,"Expecting ',' delimiter: line 14 column 4 (char 437)"
+Gust van Roosbroeck,roos006,https://www.dbnl.org/auteurs/auteur.php?id=roes008,"Expecting ',' delimiter: line 14 column 4 (char 437)"
+A.H. van der Weel,weel003,https://www.dbnl.org/auteurs/auteur.php?id=weel003,Invalid control character at: line 18 column 25 (char 461)
+H. Dommisse,domm004,https://www.dbnl.org/auteurs/auteur.php?id=domm014,"Expecting ',' delimiter: line 14 column 4 (char 437)"
+G.G. Bauman,baum009,https://www.dbnl.org/auteurs/auteur.php?id=baum009,Invalid control character at: line 12 column 25 (char 301)
+H.L. Bezoen,bezo001,https://www.dbnl.org/auteurs/auteur.php?id=bezo001,Invalid control character at: line 18 column 25 (char 450)
+Justus de Harduwijn,hard001,https://www.dbnl.org/auteurs/auteur.php?id=hard001,"Expecting ',' delimiter: line 30 column 2 (char 761)"
+G.A. Bredero,bred001,https://www.dbnl.org/auteurs/auteur.php?id=bred001,"Expecting ',' delimiter: line 30 column 2 (char 768)"
+J. Coppens,copp010,https://www.dbnl.org/auteurs/auteur.php?id=copp010,"Expecting ',' delimiter: line 15 column 2 (char 384)"
+G.P. van der Stroom,stro018,https://www.dbnl.org/auteurs/auteur.php?id=stro018,Invalid control character at: line 7 column 25 (char 204)
+Theodoor Rodenburg,rode001,https://www.dbnl.org/auteurs/auteur.php?id=rode001,"Expecting ',' delimiter: line 36 column 2 (char 923)"
+J. Brants,bran218,https://www.dbnl.org/auteurs/auteur.php?id=bran218,"Expecting ',' delimiter: line 14 column 4 (char 437)"
+A. Merckx,merc005,https://www.dbnl.org/auteurs/auteur.php?id=merc034,"Expecting ',' delimiter: line 14 column 4 (char 437)"
+Frederice van Faassen,faas001,https://www.dbnl.org/auteurs/auteur.php?id=faas001,"Expecting ',' delimiter: line 14 column 4 (char 437)"
