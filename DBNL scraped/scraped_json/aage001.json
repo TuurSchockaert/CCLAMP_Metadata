@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.dbnl.org/auteurs/auteur.php?id=aage001",
+  "birthDate": "1890-10-08",
+  "birthPlace": {
+    "@type": "PostalAddress",
+    "addressCountry": "Nederland",
+    "addressLocality": "Amsterdam"
+  },
+  "deathDate": "1979-01-31",
+  "familyName": " Aagen-Moro",
+  "givenName": [
+    "Taï",
+    "Wilhelmina Juliana Theresia (Willy)"
+  ],
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": [
+      "schilder"
+    ]
+  },
+  "alternateName": [
+    "Wilhelmina Juliana Theresia van Aggelen",
+    "Willy Snellenberg-van Aggelen",
+    "Gilles de Vos"
+  ],
+  "identifier": "aage001",
+  "name": "Taï Aagen-Moro",
+  "url": "https://www.dbnl.org/auteurs/auteur.php?id=aage001"
+}

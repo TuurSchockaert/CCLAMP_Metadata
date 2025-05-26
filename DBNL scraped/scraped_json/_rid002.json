@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.dbnl.org/auteurs/auteur.php?id=_rid002",
+  "familyName": " Ridder metter swane",
+  "givenName": [
+    "Anoniem"
+  ],
+  "alternateName": [
+    "anoniem Zwaanridder, Legende van de"
+  ],
+  "identifier": "_rid002",
+  "name": "Anoniem Ridder metter swane",
+  "url": "https://www.dbnl.org/auteurs/auteur.php?id=_rid002"
+}

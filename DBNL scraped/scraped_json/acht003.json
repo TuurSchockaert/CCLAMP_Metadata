@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.dbnl.org/auteurs/auteur.php?id=acht003",
+  "birthDate": "1905-05-20",
+  "birthPlace": {
+    "@type": "PostalAddress",
+    "addressCountry": "Nederland",
+    "addressLocality": "Langbroek"
+  },
+  "deathDate": "1962-01-17",
+  "deathPlace": {
+    "@type": "PostalAddress",
+    "addressCountry": "Nederland",
+    "addressLocality": "Leusden"
+  },
+  "familyName": " Achterberg",
+  "givenName": [
+    "Gerrit"
+  ],
+  "identifier": "acht003",
+  "name": "Gerrit Achterberg",
+  "url": "https://www.dbnl.org/auteurs/auteur.php?id=acht003"
+}

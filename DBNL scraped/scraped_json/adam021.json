@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.dbnl.org/auteurs/auteur.php?id=adam021",
+  "birthDate": "1883-11-30",
+  "familyName": " Adama van Scheltema",
+  "givenName": [
+    "F.",
+    "Frederik"
+  ],
+  "identifier": "adam021",
+  "name": "F. Adama van Scheltema",
+  "url": "https://www.dbnl.org/auteurs/auteur.php?id=adam021"
+}

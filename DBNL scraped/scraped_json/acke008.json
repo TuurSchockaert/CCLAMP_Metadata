@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.dbnl.org/auteurs/auteur.php?id=acke008",
+  "birthDate": "1790-10-22",
+  "birthPlace": {
+    "@type": "PostalAddress",
+    "addressCountry": "Nederland",
+    "addressLocality": "Hertogenbosch"
+  },
+  "deathDate": "1861-06-13",
+  "deathPlace": {
+    "@type": "PostalAddress",
+    "addressCountry": "Nederland",
+    "addressLocality": "Utrecht"
+  },
+  "familyName": " Ackersdijck",
+  "givenName": [
+    "J.",
+    "Jan"
+  ],
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": [
+      "advocaat/jurist"
+    ]
+  },
+  "identifier": "acke008",
+  "image": [
+    "https://www.dbnl.org/auteurs/portret/acke008_p01.gif"
+  ],
+  "name": "J. Ackersdijck",
+  "url": "https://www.dbnl.org/auteurs/auteur.php?id=acke008"
+}

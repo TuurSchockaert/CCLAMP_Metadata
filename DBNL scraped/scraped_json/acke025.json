@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.dbnl.org/auteurs/auteur.php?id=acke025",
+  "birthDate": "1899-11-30",
+  "familyName": "Van Acker",
+  "givenName": [
+    "J."
+  ],
+  "identifier": "acke025",
+  "name": "J. Van Acker",
+  "url": "https://www.dbnl.org/auteurs/auteur.php?id=acke025"
+}

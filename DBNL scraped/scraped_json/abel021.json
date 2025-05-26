@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.dbnl.org/auteurs/auteur.php?id=abel021",
+  "birthDate": "1956-11-30",
+  "familyName": " Abelsen",
+  "givenName": [
+    "Peter"
+  ],
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": [
+      "vertaler"
+    ]
+  },
+  "identifier": "abel021",
+  "name": "Peter Abelsen",
+  "url": "https://www.dbnl.org/auteurs/auteur.php?id=abel021"
+}

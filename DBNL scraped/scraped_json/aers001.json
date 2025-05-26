@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.dbnl.org/auteurs/auteur.php?id=aers001",
+  "birthDate": "1917-03-03",
+  "birthPlace": {
+    "@type": "PostalAddress",
+    "addressCountry": "België (Wallonië)",
+    "addressLocality": "Lier"
+  },
+  "deathDate": "2001-10-31",
+  "deathPlace": {
+    "@type": "PostalAddress",
+    "addressCountry": "België (Wallonië)",
+    "addressLocality": "Mechelen"
+  },
+  "familyName": "van Aerschot",
+  "givenName": [
+    "Bert",
+    "Bert Jules"
+  ],
+  "identifier": "aers001",
+  "name": "Bert van Aerschot",
+  "url": "https://www.dbnl.org/auteurs/auteur.php?id=aers001"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.dbnl.org/auteurs/auteur.php?id=abic001",
+  "birthDate": "1936-06-05",
+  "birthPlace": {
+    "@type": "PostalAddress",
+    "addressCountry": "België (Wallonië)",
+    "addressLocality": "Oostende"
+  },
+  "familyName": " Abicht",
+  "givenName": [
+    "Ludo"
+  ],
+  "identifier": "abic001",
+  "name": "Ludo Abicht",
+  "url": "https://www.dbnl.org/auteurs/auteur.php?id=abic001"
+}

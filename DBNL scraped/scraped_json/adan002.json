@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.dbnl.org/auteurs/auteur.php?id=adan002",
+  "birthDate": "1906-11-30",
+  "birthPlace": {
+    "@type": "PostalAddress",
+    "addressCountry": "Peru",
+    "addressLocality": ""
+  },
+  "deathDate": "1984-11-30",
+  "familyName": " Adán",
+  "givenName": [
+    "Martin"
+  ],
+  "alternateName": [
+    "Rafael de la Fuente Benavides"
+  ],
+  "identifier": "adan002",
+  "name": "Martin Adán",
+  "url": "https://www.dbnl.org/auteurs/auteur.php?id=adan002"
+}
