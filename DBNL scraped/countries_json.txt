@@ -1,0 +1,8754 @@
+identifier	birthCountry_json	deathCountry_json
+aafj001	Nederland	Nederland
+aage001	Nederland	
+aaks001		
+aalb006		
+aald006	Nederland	Nederland
+aals003		
+aals004		
+aard002	Nederland	Nederland
+aart003		
+aart004	Nederland	Nederland
+abel021		
+abel022		
+abel026		
+aben001	Suriname	Monaco
+aben009	Indonesië	Monaco
+abic001	België (Wallonië)	
+abra001	Nederland	
+abra009	Nederland	
+absi003	Nederland	
+achi002		
+acht003	Nederland	Nederland
+acht007	Nederland	
+acht016		
+acke006	Nederland	
+acke008	Nederland	Nederland
+acke023	België (Wallonië)	België (Wallonië)
+acke025		
+acke026		
+adam005	België (Wallonië)	België (Wallonië)
+adam021		
+adan001		
+adan002	Peru	
+adel001	Nederland	
+ade_001	België (Wallonië)	België (Wallonië)
+adin001	Indonesië	Indonesië
+admi001	Nederland	Nederland
+admi003		
+adri003		
+adri011	België (Wallonië)	België (Wallonië)
+adri021		
+adri068		
+adri077		
+ady_001	Roemenië	Hongarije
+aers001	België (Wallonië)	België (Wallonië)
+aert010	Nederland	
+aert014		
+aert033	Nederland	Nederland
+aert036		
+aert046		
+aill004	Nederland	Nederland
+aken004	België (Wallonië)	België (Wallonië)
+aken008		
+aker001	België (Wallonië)	
+akke002	Nederland	
+akke006		
+alba027	Servië	
+alba031		
+albe001	België (Wallonië)	België (Wallonië)
+albe003	Nederland	Nederland
+albe004	Nederland	België (Wallonië)
+albe005		
+albe006		
+albe009	Nederland	Nederland
+albe021		
+albe022		
+albe024	Nederland	Nederland
+albe025		
+albe056	Spanje	Spanje
+alde015		
+alec001	België (Wallonië)	
+aler001		
+alet003	Nederland	Nederland
+alex009	Roemenië	
+ali_001	Indonesië	Nederland
+ali_002	Nederland	Nederland
+ali_003		
+alla003	België (Wallonië)	België (Wallonië)
+alla024	Nederland	
+alle003	Nederland	Nederland
+alof004		
+alon003		
+alon004		
+alph001		
+alph002	Nederland	Nederland
+alph004		
+alph012	Indonesië	Nederland
+alst001	België (Wallonië)	
+alte001	Nederland	Nederland
+alti003	Nederland	Nederland
+alti026		
+alum001		
+al__001		
+amei001	Nederland	Nederland
+amer005	Nederland	Nederland
+amer008	Nederland	Nederland
+amer025	Oostenrijk	Oostenrijk
+amic004	Italië	Italië
+amme001	Nederland	Nederland
+amor002	Nederland	Nederland
+amor003	Nederland	Nederland
+amor004	Nederland	Nederland
+amor007	Italië	Italië
+ampe001	België (Wallonië)	België (Wallonië)
+amst005		
+amst055		
+amte001	België (Wallonië)	België (Wallonië)
+anbe001	Nederland	
+ance001		
+anco001	Nederland	
+ande002	Nederland	Nederland
+ande003		
+ande021		
+ando001	Japan	
+andr007	Nederland	Nederland
+andr011	België (Wallonië)	
+andr022	Zwitserland	
+andr028	Nederland	Nederland
+andr029	Nederland	Nederland
+andr030	Nederland	Nederland
+andr034	Nederland	Nederland
+andr036	Nederland	Nederland
+andr037		
+andr112	Brazilië	Brazilië
+andr113		
+andr114	Portugal	Portugal
+andr135	België (Wallonië)	België (Wallonië)
+ange002	Nederland	Indonesië
+ange021		
+angr001		
+anib001	Nederland	
+anku001	Nederland	Nederland
+anns001		
+annu001	Italië	Italië
+anro001		
+anst001	Polen	Nederland
+ante001		
+anto003	Italië	Groot-Brittannië (en Noord-Ierland)
+anto004		
+anto005	Griekenland	Griekenland
+anto022		
+anwa001		
+apel003	Nederland	
+apin001	Indonesië	Indonesië
+apol001	Nederland	Nederland
+apol006	Italië	Frankrijk
+apos005	België (Wallonië)	
+appe002	Nederland	
+araq001	Spanje	Zwitserland
+arca003	Frankrijk	Italië
+aren008	België (Wallonië)	België (Wallonië)
+aren011	Nederland	Nederland
+aren012	Nederland	
+aren014	Nederland	
+aren016		Nederland
+aren034		
+arga001	Italië	Italië
+aria002		
+arie002	Nederland	Nederland
+ario001	Caribisch deel van het Nederlandse Koninkrijk	Caribisch deel van het Nederlandse Koninkrijk
+aris001		
+aris003		
+arke020		Nederland
+arma001	Nederland	Duitsland
+armi003	Groot-Brittannië (en Noord-Ierland)	
+arne001		
+arnh002	Duitsland	Verenigde Staten
+arno005	Nederland	Nederland
+arnt008	Nederland	Nederland
+aron002	Nederland	Nederland
+arpo002		
+arra001	België (Wallonië)	België (Wallonië)
+arre004	Mexico	Mexico
+arre005	Argentinië	
+arri002		
+artm001	Oostenrijk	Oostenrijk
+arts004	België (Wallonië)	
+arts005		
+arts006		
+artu001	Nederland	
+arup001		
+ashb001	Verenigde Staten	Verenigde Staten
+ashe001	Suriname	Nederland
+aspe012	Nederland	Nederland
+aspe013		
+assc001	België (Wallonië)	België (Wallonië)
+assc003	België (Wallonië)	België (Wallonië)
+assc004		
+assc006	Nederland	
+assc014	Nederland	Nederland
+assc016		
+asse012	Nederland	Nederland
+asse013	Nederland	Nederland
+asse018	Nederland	Nederland
+as__002		
+as__003	Nederland	
+atab001		
+aude002	Groot-Brittannië (en Noord-Ierland)	Oostenrijk
+aue_001		
+augu002	Duitsland	Nederland
+augu004	Nederland	Nederland
+auln001	Nederland	Nederland
+ausm001		
+auwe002	België (Wallonië)	
+auwe003		
+aver002	Nederland	Nederland
+axte001	België (Wallonië)	België (Wallonië)
+baak003	Nederland	Nederland
+baal010	Nederland	Nederland
+baan003	Nederland	
+baar007	Nederland	Nederland
+baar009	Nederland	Nederland
+baar024		
+baar052		
+baar053		
+baar067		
+baas003	Nederland	Australië
+baay001		
+bacc001	België (Wallonië)	België (Wallonië)
+bach004	Duitsland	
+back004	België (Wallonië)	België (Wallonië)
+back019	Nederland	Nederland
+back020		
+back021		
+baco004	Ierland	Spanje
+baeh003	Nederland	Nederland
+baek004	België (Wallonië)	België (Wallonië)
+baek007	Nederland	
+baer004	België (Wallonië)	België (Wallonië)
+baer005		
+baer006	België (Wallonië)	België (Wallonië)
+baer016	Nederland	Nederland
+baer064		
+baer085	België (Wallonië)	
+baer088		
+baet009		
+baey004		
+baey009	België (Wallonië)	
+bagr001	Bulgarije	Bulgarije
+bake002	Nederland	Nederland
+bake004	Nederland	Nederland
+bake007	Nederland	Nederland
+bake010		
+bake011	Nederland	Groot-Brittannië (en Noord-Ierland)
+bake012	Nederland	
+bake019		
+bake032		
+bakh003	Nederland	Nederland
+bakh005		
+bakh006	België (Wallonië)	Nederland
+bakh007	Nederland	Nederland
+bakk002	Nederland	Nederland
+bakk005	Nederland	Nederland
+bakk007		
+bakk008	Nederland	Nederland
+bakk010	Nederland	Nederland
+bakk014		
+bakk021	Nederland	
+bakk031		
+bakk032	Nederland	Spanje
+bakk033		
+bakk034	Nederland	Nederland
+bakk039		
+bakk071	Nederland	Nederland
+bakk088		
+bakk089		
+bald015	Italië	Italië
+bali004	Polen	
+balj004	Nederland	
+balk001	Nederland	Nederland
+balk003	Nederland	Nederland
+ball005	België (Wallonië)	België (Wallonië)
+balt006	België (Wallonië)	
+baly001	Nederland	Nederland
+bal_002	Nederland	
+banc001	Indonesië	Duitsland
+band003	Brazilië	Brazilië
+banh002	Groot-Brittannië (en Noord-Ierland)	Groot-Brittannië (en Noord-Ierland)
+bank003	Nederland	
+bank007	Nederland	
+bann002	Nederland	Nederland
+barb007		
+barb031	Nederland	
+bare001	Nederland	
+bare002		
+bare008	Nederland	
+bare024	Nederland	Nederland
+bare036		
+barg002	Indonesië	Nederland
+bark011	Groot-Brittannië (en Noord-Ierland)	Groot-Brittannië (en Noord-Ierland)
+barn001	Nederland	
+barn005	Nederland	Verenigde Staten
+barn022		
+barr012	Groot-Brittannië (en Noord-Ierland)	Italië
+bart007		
+bart008	Noorwegen	Nederland
+bart011	Nederland	Nederland
+bart012	België (Wallonië)	België (Wallonië)
+bart019	Nederland	Nederland
+bart020		
+bart023		
+bart045		
+basa001	Nederland	Nederland
+bash001	Japan	Japan
+bass032		
+bast001	België (Wallonië)	
+bast002	Nederland	Nederland
+bast003	Nederland	Nederland
+bas_016	Nederland	Nederland
+batt001		
+baud005	België (Wallonië)	Italië
+baud006	Nederland	Nederland
+baud010	Nederland	Nederland
+baud026	Frankrijk	Frankrijk
+baud028		
+baud033		
+baud039		
+baue007	Duitsland	Nederland
+baue020		
+baum003	België (Wallonië)	Nederland
+baum004	België (Wallonië)	Nederland
+baur001	België (Wallonië)	België (Wallonië)
+bauw015		
+baxt001		
+bax_001	Nederland	Nederland
+bax_003		
+bax_005	Nederland	Zuid-Afrika
+bax_011		
+bazu001		
+beau004	Nederland	Nederland
+beau005	Caribisch deel van het Nederlandse Koninkrijk	Aruba
+beau011	Nederland	Duitsland
+beau015		
+beau016	Nederland	
+beau034	Nederland	Nederland
+beau035	Nederland	Nederland
+beau040	Frankrijk	
+beav001		
+beck005	Rusland	Nederland
+beck009		
+beck030	Nederland	Nederland
+beck068	Duitsland	Verenigde Staten
+beda001		
+beec001	België (Wallonië)	
+beec004	Nederland	Nederland
+beek001	Nederland	Nederland
+beek007	Nederland	Verenigde Staten
+beek008		
+beek009	Duitsland	
+beek019	Nederland	Nederland
+beek020		
+beek023	Nederland	Nederland
+beek024		
+beek064		
+beek099		
+beel004	Nederland	Nederland
+beel011	Nederland	Nederland
+beel021	Nederland	Nederland
+been001	Nederland	Nederland
+been019	Nederland	Nederland
+beer004	Nederland	Nederland
+beer008	België (Wallonië)	België (Wallonië)
+beer009	Nederland	
+beer024	Nederland	Nederland
+beet002	Nederland	Nederland
+beet005	Nederland	Nederland
+beet011	Nederland	Nederland
+bege008		
+behe001	België (Wallonië)	
+beij009		
+beij038	Nederland	
+bein008		
+beir003		
+bejc001		
+beka001		
+beka003	België (Wallonië)	België (Wallonië)
+beka007		
+beki003		
+bekk004	Nederland	
+bekk008	België (Wallonië)	
+beld002	België (Wallonië)	België (Wallonië)
+beli005	Nederland	Nederland
+beli018		
+belj001	Nederland	Nederland
+bell006	Nederland	Nederland
+bell008	België (Wallonië)	Frankrijk
+bell042	Italië	Italië
+bell057	Italië	Italië
+bell060		
+belp001	België (Wallonië)	België (Wallonië)
+belp005		
+bel_002	Nederland	
+bemm007		
+bemm008	Nederland	Nederland
+bemm009	Nederland	Nederland
+bemm019	Nederland	Nederland
+bena004	Marokko	
+bena006	Spanje	Spanje
+bend001	Frankrijk	Frankrijk
+bend005	Nederland	Nederland
+bend006		
+bend012	Nederland	
+bend015		
+bend022	Polen	
+bend023		
+benn001	Duitsland	Duitsland
+benn004		
+beno001	Nederland	Nederland
+beno002	België (Wallonië)	België (Wallonië)
+bent004		
+bent005	Nederland	
+bent007		
+bent048		
+bent049		
+bent050		
+bent067		
+bera001	Tsjechië	
+berc004	Nederland	
+berc010	Nederland	Nederland
+berc066		
+berc068	Nederland	
+berd002	Nederland	Nederland
+bere001		
+bere005	Nederland	Nederland
+bere007		
+bere042		
+berg004	Nederland	Nederland
+berg006		
+berg013	Indonesië	
+berg018	Nederland	Nederland
+berg023	België (Wallonië)	
+berg024		
+berg025	Nederland	
+berg027		
+berg028	Nederland	Nederland
+berg033	Nederland	
+berg034	Nederland	Nederland
+berg042	Nederland	Nederland
+berg043	Nederland	Italië
+berg046	Nederland	Nederland
+berg047	Nederland	Nederland
+berg048	Nederland	Nederland
+berg056	België (Wallonië)	België (Wallonië)
+berg058	Nederland	Nederland
+berg060		Nederland
+berg064		
+berg073	Nederland	Nederland
+berg075	Nederland	Nederland
+berg076		
+berg078	België (Wallonië)	Nederland
+berg081	Duitsland	Nederland
+berg090	Nederland	Nederland
+berg091	Nederland	
+berg096	Nederland	Nederland
+berg097	Nederland	Nederland
+berg098	Indonesië	Nederland
+berg102	Nederland	
+berg105	België (Wallonië)	
+berg108		
+berg113	Nederland	Nederland
+berg114		
+berg172	Nederland	
+berg240	Nederland	
+berg243	Nederland	
+berg244	Nederland	Nederland
+berg296	Nederland	
+berg309	Nederland	Nederland
+berg310	Groot-Brittannië (en Noord-Ierland)	Frankrijk
+berg311		
+berg313	Nederland	Nederland
+berg378		
+berg380		
+berg426		
+berg474		
+beri001	Nederland	
+beri007		
+berk003	Nederland	
+berk011	België (Wallonië)	België (Wallonië)
+berk022	Nederland	Nederland
+berk023	Nederland	Nederland
+berk028		
+berk067		
+berk081		
+berl001		
+berl006	Nederland	Nederland
+bern011		
+bern012	Nederland	Nederland
+bern013	Nederland	Nederland
+bern018	Nederland	Nederland
+bern019	Nederland	
+bern052	Duitsland	Nederland
+bern075		
+bern076	België (Wallonië)	België (Wallonië)
+bern099		
+berr004		
+bers001		
+bert004	België (Wallonië)	
+bert017		
+bert041	Nederland	
+bert044		
+bert045	België (Wallonië)	België (Wallonië)
+bert046		
+bert047	Frankrijk	
+bert060		
+bert064		
+bert084		
+berv001		
+besa001		
+besa004	Nederland	Nederland
+besi001	België (Wallonië)	België (Wallonië)
+besn001	Nederland	Nederland
+bess001	Nederland	Nederland
+bess009		
+best004	Nederland	Nederland
+best007		
+beth004	Nederland	Nederland
+beth005		
+beth012	België (Wallonië)	België (Wallonië)
+bett006	Frankrijk	Frankrijk
+betz001		
+betz003	Nederland	Nederland
+betz005		
+beug001	België (Wallonië)	België (Wallonië)
+beug002		
+beuk002	Nederland	Nederland
+beuk005		
+beuk022		
+beuk025		
+beum002		
+beum005		
+beun003	Nederland	Nederland
+beun008	Nederland	
+beur002	Nederland	
+beur003		
+beus002		
+beus008		
+beus009		Zwitserland
+beus017		
+beus018		
+beve003	Nederland	
+beve004	Nederland	Nederland
+beve012		Nederland
+beye008	Nederland	Nederland
+beye039		
+beye041		
+beye042		
+beyl007		
+beyn001	Nederland	Nederland
+bey_002	Turkije	Turkije
+beze002		
+beze005	Nederland	Nederland
+beze006	Nederland	Nederland
+bezo003		
+bhal001	India	Nederland
+bian001	Nederland	
+bick001	Nederland	
+bieb002	België (Wallonië)	
+bieg006		
+biem003		
+bien003	Nederland	Nederland
+bier001	Nederland	Nederland
+bier006		
+bier007	Nederland	Nederland
+bier009	Nederland	Nederland
+bier010	Nederland	
+bier021	Nederland	Italië
+bier029		
+bies004	Nederland	Nederland
+biev001		
+biez001		
+biez002	Nederland	
+bie_002	België (Wallonië)	
+bie_003	Nederland	Nederland
+bigo001	Nederland	Nederland
+bijl009		
+bijl011		
+bijn003	België (Wallonië)	België (Wallonië)
+bijs001	Nederland	Nederland
+bijv001		
+bilc001		
+bild002	Nederland	Nederland
+bil_001		
+bind002	Nederland	
+bing001	Nederland	
+bing007	Duitsland	Duitsland
+binn002		
+binn004	Nederland	Nederland
+binn008	Nederland	
+binn009		
+binn010	Nederland	Nederland
+binn015	Nederland	
+birk001		
+birr001	Groot-Brittannië (en Noord-Ierland)	Groot-Brittannië (en Noord-Ierland)
+bisc004		
+biss002	Nederland	Nederland
+bist002		
+bitt002	België (Wallonië)	België (Wallonië)
+bitt003	België (Wallonië)	
+bitt009	België (Wallonië)	België (Wallonië)
+blaa002	Nederland	
+blaa011	Nederland	Nederland
+blaa014	Nederland	Nederland
+blad007		
+blag001	Bosnië en Herzegovina	
+blak002	Groot-Brittannië (en Noord-Ierland)	Groot-Brittannië (en Noord-Ierland)
+blam001	Nederland	Nederland
+blan006	België (Wallonië)	België (Wallonië)
+blan013	Nederland	Nederland
+blan015	Nederland	Nederland
+blan051	Nederland	
+blan057	Venezuela	Argentinië
+blan059	Duitsland	
+blan060		
+blan074		
+blas009		
+blec001	Nederland	Nederland
+blec002		
+blee001	Nederland	Nederland
+blee005	Nederland	Nederland
+bles001	Nederland	Nederland
+blie009		
+blij001	Nederland	Nederland
+blij025	Nederland	
+blij028		
+blij029		
+blin002	Nederland	
+bloc010	België (Wallonië)	
+bloc044		
+bloe001	Nederland	Nederland
+bloe004	Nederland	Nederland
+bloe007		
+bloe009	Nederland	Nederland
+bloe011	Nederland	
+bloe016	Nederland	
+bloe023	Nederland	Nederland
+bloe035		
+bloe056		
+bloe060	België (Wallonië)	
+blok001	Nederland	
+blok005		
+blok006	Nederland	Nederland
+blok008		
+blok009	Nederland	Nederland
+blok013	Nederland	Nederland
+blok015		
+blok017		
+blok031	Nederland	Nederland
+blok032	Nederland	
+blok042	Nederland	
+blok053		
+blom001		
+blom002	Nederland	Nederland
+blom003	Nigeria	
+blom006	Nederland	Nederland
+blom007	Nederland	Nederland
+blom022	Nederland	
+blom054		
+blom056		
+blon003		
+blon020	Polen	
+blot002	Nederland	Nederland
+blum001	Duitsland	Nederland
+blus006	Nederland	Nederland
+boas001	Nederland	Nederland
+boas004	België (Wallonië)	
+bobk001	Tsjechië	
+bobr001	Rusland	Duitsland
+bock002	België (Wallonië)	Nederland
+bock006		
+boda001	Nederland	
+bodd003	België (Wallonië)	Nederland
+bode002	Nederland	Nederland
+bodn001		
+bodo001		
+boec007		
+boef001	Nederland	
+boef005		
+boeh001	Duitsland	Nederland
+boek003	Nederland	Nederland
+boek004	Nederland	Nederland
+boek011	Nederland	
+boek018	Nederland	Nederland
+boek022	Nederland	
+boek061		
+boek062		
+boel001	Nederland	
+boel004		
+boel011	Nederland	Nederland
+boel019	Nederland	Nederland
+boen002	België (Wallonië)	
+boen003	België (Wallonië)	België (Wallonië)
+boer014	Indonesië	Nederland
+boer019	Nederland	Nederland
+boer021		
+boer023	Nederland	Nederland
+boer031	Nederland	
+boer043	Nederland	Nederland
+boer044	Nederland	Nederland
+boer051	Nederland	Nederland
+boer052	Nederland	Nederland
+boer053		
+boer057	Nederland	Nederland
+boer059	Nederland	Nederland
+boer060		
+boer063	Nederland	Nederland
+boer064	Nederland	Nederland
+boer096		
+boer108		
+boer109	Nederland	Nederland
+boer131		
+boer144		
+boer175		
+boer208		
+boer219		
+boes005	Zuid-Afrika	Zuid-Afrika
+boet001	België (Wallonië)	België (Wallonië)
+boey004	België (Wallonië)	België (Wallonië)
+boey018		
+boe_002		
+boff001		
+boga002		
+boga004	Nederland	
+boga020	België (Wallonië)	
+boga023	België (Wallonië)	België (Wallonië)
+boga033		
+boga061		
+boga064	Nederland	
+boga068		Nederland
+bogd001	Servië	Oostenrijk
+bogm001	Nederland	
+bogn001		
+bogu001	Polen	
+bohe001	Nederland	
+bohl001	Nederland	Nederland
+bohl003		
+boht001	Nederland	Nederland
+boia001	Italië	Italië
+bois002	Nederland	Nederland
+bois004		
+bois007	Nederland	Nederland
+bois037		
+bokh004	Nederland	Zuid-Afrika
+bokw001		
+bok_007		
+bolc001		
+bolh005		
+bolk001	Nederland	Nederland
+bolk003	Nederland	Nederland
+bols001	België (Wallonië)	
+bols014		
+bol_002		
+boma001	Nederland	Nederland
+bomh002		
+bom_001	België (Wallonië)	België (Wallonië)
+bonc002	Japan	
+bond017		
+bone001	Nederland	Nederland
+bone005	Nederland	Nederland
+bong004	Nederland	Nederland
+bonn001	Nederland	Nederland
+bonn020		
+bonn021	Frankrijk	Frankrijk
+bons003		
+bont013		Nederland
+boog008	Nederland	
+boog011		Nederland
+boog026		
+boog039		
+boog045		
+booi002	Nederland	
+booi005		
+boom007	Nederland	
+boom011	Nederland	Nederland
+boom012	Nederland	Nederland
+boom013	Nederland	
+boom039	Nederland	
+boon001		
+boon006	België (Wallonië)	België (Wallonië)
+boon009	België (Wallonië)	België (Wallonië)
+boon018		
+boon021		
+boon032		
+boon070	Nederland	Nederland
+boon075		
+boon082	België (Wallonië)	België (Wallonië)
+boon084	Nederland	
+boon087		
+boon105		
+boon111		
+boor001	Nederland	
+boos001	België (Wallonië)	
+boos003	Nederland	Nederland
+boos006	Nederland	
+boov001	Nederland	Nederland
+booy003		
+booy005	Nederland	Nederland
+bord001	Nederland	Nederland
+bord004	Nederland	Nederland
+bore002	Nederland	Nederland
+bore015	Nederland	Nederland
+borg001		
+borg006	Nederland	Nederland
+borg014	Nederland	Nederland
+borg033	Nederland	
+borg051	Italië	Italië
+borm013		
+born004	Nederland	Nederland
+born005		
+born009	Nederland	Nederland
+borr013	Nederland	Nederland
+borr015	België (Wallonië)	
+bosb002	Nederland	Nederland
+bosb003		
+bosb004		
+bosc001	Nederland	
+bosc008	Nederland	Nederland
+bosc009	Nederland	Nederland
+bosc017	Nederland	Nederland
+bosc020		
+bosc035	Nederland	Nederland
+bosc041	Zuid-Afrika	Nederland
+bosc046	Nederland	België (Wallonië)
+bosc117	Nederland	Nederland
+bosc121		
+bosc129		
+bosc142		
+bosc150		
+bosc160		
+bosd001	Nederland	Nederland
+bosh002	Zuid-Afrika	Zuid-Afrika
+bosk003	Nederland	
+bosk005		
+bosm005	Zuid-Afrika	Zuid-Afrika
+bosq001		
+boss003		
+boss019	Nederland	Nederland
+boss021	Nederland	Nederland
+boss027	België (Wallonië)	
+boss029	Nederland	Nederland
+boss031		
+boss033	Nederland	Nederland
+boss034		
+boss058	Suriname	Nederland
+boss064	Nederland	Nederland
+boss078		
+boss079		
+bost002		
+bosw005	Nederland	Nederland
+bos_002		
+bos_004		
+bos_005		
+bos_011		
+bos_053	Nederland	Nederland
+bos_067	Nederland	Nederland
+bos_071		
+bos_084	Nederland	
+both004	Zuid-Afrika	
+both008	Nederland	Nederland
+bots002	Nederland	Nederland
+bott005	Nederland	Nederland
+bott007	Nederland	Nederland
+bott014	Nederland	Nederland
+bott015	Nederland	Nederland
+bott020		
+bot_001		
+bot_028	Nederland	
+bouc004		
+bouc041		
+boud007	Nederland	Nederland
+boud011	Nederland	
+bouh001	Nederland	Nederland
+boum001		
+boum003	Nederland	Nederland
+boum008	Indonesië	Nederland
+boum010	Nederland	Nederland
+boum036		
+boum041	Nederland	Nederland
+boum063		
+bour001	Nederland	Nederland
+bour005	Nederland	
+bour066		
+bous002	België (Wallonië)	
+bout005	Nederland	Nederland
+bout010	Nederland	Nederland
+bout019		
+bouv006	Nederland	Nederland
+bouw001	Nederland	
+bouw008	Nederland	
+bouw034		
+bouw051		
+bouw060	Nederland	Nederland
+bove002	Nederland	
+bove005		
+bove009		
+bove010		
+bove013	Nederland	
+bove016		
+boxm002	Nederland	Nederland
+boxm003		
+boye001	Nederland	
+boys001		
+boyz001		
+braa001		
+braa002	Nederland	Nederland
+braa003		
+braa010	Indonesië	Nederland
+braa012	Nederland	
+braa018	Nederland	Nederland
+braa019	Nederland	Nederland
+braa043	Nederland	
+braa064	Nederland	
+brab001	Nederland	Nederland
+brab004	België (Wallonië)	België (Wallonië)
+brab005		
+brab025		
+brac001	Indonesië	
+brac005		
+brae003	België (Wallonië)	België (Wallonië)
+brae006	Nederland	
+brae008	België (Wallonië)	België (Wallonië)
+brak005	Nederland	Nederland
+brak024	Nederland	Nederland
+brak039		
+brak043		
+bran012		
+bran021	Nederland	Duitsland
+bran023	Nederland	Nederland
+bran024	Nederland	Nederland
+bran027	Nederland	Nederland
+bran028		
+bran037	België (Wallonië)	België (Wallonië)
+bran039	Nederland	
+bran055	Nederland	
+bran060		Nederland
+bran069	Nederland	Nederland
+bran070	Nederland	Nederland
+bran108	Nederland	België (Wallonië)
+bran118		
+bran122	Italië	Italië
+bran124		
+bran126		
+bran165		
+bran182		
+bras001	Nederland	
+brat002	Nederland	
+brat004	Nederland	Nederland
+brau006	België (Wallonië)	België (Wallonië)
+brec022	Uruguay	Argentinië
+bred004	Nederland	Monaco
+bred081		
+bree001	Nederland	
+bree002		
+bree005	Nederland	Nederland
+bree008	Nederland	Nederland
+bree009	Nederland	
+bree017		
+bree018		
+breh003		
+brek003	Nederland	Nederland
+brem012	België (Wallonië)	
+brem016	België (Wallonië)	
+brem018	Nederland	
+brem019		
+brem021	België (Wallonië)	
+brem022	Nederland	Nederland
+brem031	Nederland	
+brem036	Nederland	
+bren014	Duitsland	Nederland
+bres006		
+breu003	Nederland	Nederland
+breu005	Nederland	Frankrijk
+breu006	Nederland	
+breu019		
+brev001	Nederland	Nederland
+brey003	Frankrijk	Duitsland
+brey004	Zuid-Afrika	Frankrijk
+brez004		
+brie004	Nederland	
+brie028	België (Wallonië)	
+brie033		
+brij001	België (Wallonië)	
+bril001	Nederland	Nederland
+bril002	Nederland	Nederland
+bril011		
+brin004	Nederland	
+brin007		
+brin010	Nederland	Nederland
+brin015	Nederland	
+brin017	Nederland	Nederland
+brin020	Nederland	Nederland
+brin022	Zuid-Afrika	Nederland
+brin030	Nederland	Nederland
+brin032		
+brin033	Nederland	
+brin068	Nederland	Nederland
+brin078	Nederland	
+brin079		
+brin109	Nederland	
+brin111		
+brio002		
+broc004	Groot-Brittannië (en Noord-Ierland)	Nederland
+brod002	Rusland	Verenigde Staten
+brod003	Tsjechië	
+broe002		
+broe004		
+broe006	België (Wallonië)	
+broe007		
+broe010	Nederland	Nederland
+broe012		
+broe017	België (Wallonië)	België (Wallonië)
+broe023	Nederland	
+broe061		
+broe062		
+broe064	Nederland	Zuid-Afrika
+broe067		
+broe070		
+broe071	Nederland	België (Wallonië)
+broe130		
+broe154		
+broe168		
+broe182		
+broe183		
+broe229		
+broe254		
+broe264		
+brok002	Nederland	
+brom001	Nederland	Nederland
+brom002	Nederland	Nederland
+brom003	Nederland	
+brom006		
+brom011	Nederland	Nederland
+bron001	België (Wallonië)	België (Wallonië)
+bron013	Nederland	Nederland
+bron015		
+bron016		
+bron070		
+bron097	Polen	
+broo011		
+broo017	Groot-Brittannië (en Noord-Ierland)	
+brou009		
+brou013	Nederland	Nederland
+brou016	Nederland	Nederland
+brou021	Nederland	
+brou033	Indonesië	Nederland
+brou035	Nederland	
+brou050	Nederland	
+brou116		
+brou129		
+brou178		
+brou186		
+brow024		
+bruc017		
+bruc022		
+brud002		
+brug004	Nederland	Nederland
+brug007	Nederland	Nederland
+brug008	België (Wallonië)	België (Wallonië)
+brug012		
+brug014	Nederland	Nederland
+brug015	Nederland	Nederland
+brug019		
+brug023	Nederland	Nederland
+brug027		Nederland
+brug033		
+brug034	Nederland	Nederland
+brug035	Nederland	Nederland
+brug039	Nederland	België (Wallonië)
+brug066	Nederland	
+brug069	België (Wallonië)	Nederland
+brug099		
+brui005	Nederland	
+brui007	Nederland	Nederland
+brui009	Nederland	Nederland
+brui022	Nederland	
+brui039		
+brui040		
+brui041		
+brui043	Nederland	
+brui044	Nederland	Nederland
+brui045	Nederland	Nederland
+brui046	Nederland	Verenigde Staten
+brui098	Nederland	Nederland
+brui099		
+brui112		
+brui129		
+brui130		
+brui132		
+brui148		
+brui156		
+brui157		
+brul001	België (Wallonië)	België (Wallonië)
+brul002	België (Wallonië)	Maleisië
+brul004		
+brul009	België (Wallonië)	Duitsland
+brum003	Nederland	Nederland
+brum016		
+brun001	Nederland	Nederland
+brun005	België (Wallonië)	Duitsland
+brun007	Nederland	Nederland
+brun008	Nederland	Nederland
+brun009	Nederland	Nederland
+brun011		
+brun012		
+brun020		
+brun024	Nederland	
+brun087	Frankrijk	Duitsland
+brun091		
+brus002	Nederland	Nederland
+brus022	Nederland	
+brut001	België (Wallonië)	
+brut007		
+bruy003	België (Wallonië)	België (Wallonië)
+bruy006	België (Wallonië)	
+bruy008	België (Wallonië)	Argentinië
+bruy019	Nederland	Nederland
+bruy021		
+bruy028	Nederland	Indonesië
+bruy030	België (Wallonië)	
+bruy067		
+bruy074	België (Wallonië)	België (Wallonië)
+bruy076	Nederland	
+bruy091		
+bruy094		
+bruy101		
+bruy115	België (Wallonië)	
+buch001	Nederland	Nederland
+buch005		
+buch021		
+buck003	Nederland	Nederland
+buck005	België (Wallonië)	België (Wallonië)
+buck007	België (Wallonië)	België (Wallonië)
+buck009	Nederland	Nederland
+buck014	Verenigde Staten	Verenigde Staten
+budd001	Nederland	Nederland
+budd003	Nederland	Nederland
+bude001	Nederland	
+buel002	België (Wallonië)	
+buel003		
+buer006	Nederland	Nederland
+buff007		
+buij001	Nederland	
+buij007		
+buis002	Nederland	Nederland
+buis005	Nederland	Nederland
+buis006	Nederland	Nederland
+buis007	Nederland	Nederland
+buit001	Nederland	Nederland
+buit003	Nederland	Nederland
+buit006	Nederland	Nederland
+bukd001	Denemarken	Denemarken
+bulc003		
+bulc007		
+bulh001	Nederland	Nederland
+bulh002	Nederland	Nederland
+bull001	Nederland	Nederland
+bult003	Nederland	
+bult007	Nederland	Nederland
+bult008	België (Wallonië)	
+buma003	Nederland	
+buma006	Nederland	Nederland
+bung001		
+buni005	België (Wallonië)	Nederland
+buni007	Rusland	Rusland
+burg010	Nederland	Nederland
+burg011	Nederland	
+burg015	Nederland	Nederland
+burg024	Nederland	Nederland
+burg026		
+burg058	Nederland	Nederland
+burg065		
+burg085	Nederland	
+burg086		
+burg091		
+burg122		
+burg125	Groot-Brittannië (en Noord-Ierland)	
+burg132		
+burg133		
+buri002	Nederland	Nederland
+burr001		
+burs002	België (Wallonië)	België (Wallonië)
+burt006		
+burv002	België (Wallonië)	België (Wallonië)
+busk001	Nederland	Frankrijk
+busk002	Nederland	Frankrijk
+busk003	Nederland	Frankrijk
+busk005	Nederland	Nederland
+buss005	België (Wallonië)	België (Wallonië)
+buss013	Nederland	Nederland
+buss014	Nederland	Nederland
+buul001	Nederland	Nederland
+buur001	Nederland	Nederland
+buur002	Nederland	
+buur004	Nederland	
+buur012	Nederland	
+buve002		
+buwa003	België (Wallonië)	
+buyl001	België (Wallonië)	
+buyl002	België (Wallonië)	België (Wallonië)
+buys009	België (Wallonië)	België (Wallonië)
+buys013	Nederland	Nederland
+buys017	Nederland	Nederland
+buys019		
+buyt004		
+buze001		
+byva001	Nederland	Nederland
+byva002	Nederland	Nederland
+caek001		
+caen004	België (Wallonië)	België (Wallonië)
+caey001	België (Wallonië)	België (Wallonië)
+cahe001		
+cahn003		
+caig003		
+cail001	Congo-Kinshasa	
+cail002	België (Wallonië)	België (Wallonië)
+cair001	Suriname	Nederland
+cala002	Nederland	Nederland
+calc002	Nederland	Nederland
+calc003		
+cald003		
+cali001		
+cali002	Nederland	
+calj001		Nederland
+calk004	Caribisch deel van het Nederlandse Koninkrijk	
+calk015	Nederland	Nederland
+call015		
+call029	België (Wallonië)	
+call031		
+call053		
+calm004	Nederland	
+calu002		
+came011		
+cami001	Groot-Brittannië (en Noord-Ierland)	België (Wallonië)
+camm020	Nederland	Nederland
+camp006	Nederland	Polen
+camp014	Nederland	Duitsland
+camp015	Nederland	Nederland
+camp016		
+camp029	België (Wallonië)	
+camp089	Italië	Italië
+camp099		
+camp109		
+camp121		
+cand003	Suriname	Nederland
+cann007	Nederland	
+cant002	België (Wallonië)	
+cant003	Nederland	Nederland
+cant006	België (Wallonië)	België (Wallonië)
+cant030	Nederland	Nederland
+cant031	Nederland	Nederland
+cape007		
+capo001	Verenigde Staten	Verenigde Staten
+capp006	Nederland	Nederland
+capp017	België (Wallonië)	België (Wallonië)
+capp019	Nederland	Nederland
+capp024		
+carb001	Suriname	Frankrijk
+card013		
+card016	Italië	Italië
+care001	Nederland	Nederland
+care002	België (Wallonië)	
+carl003		
+carl019		
+carm002	Nederland	Nederland
+carn002	België (Wallonië)	
+caro001	Nederland	Nederland
+caro023		
+carp028	Zwitserland	Frankrijk
+carp034		
+carr001	Spanje	Spanje
+cars002	Nederland	Duitsland
+cars014	Groot-Brittannië (en Noord-Ierland)	
+cart003	Nederland	
+carv001	Portugal	
+case001	België (Wallonië)	Nederland
+casi001	België (Wallonië)	
+casi002	Nederland	Nederland
+casi003	Nederland	Nederland
+casp004	Nederland	Nederland
+casp012		
+cass022	Nederland	Nederland
+cast056		
+cast070		
+cast079		
+cate005	Nederland	Nederland
+cate008	Nederland	Nederland
+cate017	Nederland	Nederland
+cate018	Nederland	Nederland
+cate021		
+cati002		
+catz002	Nederland	
+caus002	Groot-Brittannië (en Noord-Ierland)	
+caut001		
+cauw004	België (Wallonië)	België (Wallonië)
+cauw005	België (Wallonië)	België (Wallonië)
+cauw022		
+cauw026		
+cauw032		
+ceel002		
+cela002	Oekraïne	Frankrijk
+cela004	Spanje	Spanje
+cele002	België (Wallonië)	België (Wallonië)
+cell001	Zuid-Afrika	
+cend001	Zwitserland	Frankrijk
+cerv001	Spanje	Spanje
+ceul001		
+ceul006	België (Wallonië)	België (Wallonië)
+chab009		
+cham009		
+chan003	Nederland	Nederland
+chap003	Nederland	Nederland
+char004	Nederland	Nederland
+chat008		
+chei001	Nederland	Nederland
+chia001	Indonesië	Verenigde Staten
+chio002	Griekenland	Griekenland
+chit002	Italië	Italië
+chom002	Verenigde Staten	
+chor002		
+chor006		
+chri005	België (Wallonië)	België (Wallonië)
+chri006	België (Wallonië)	
+chri046		
+citr001	Duitsland	Nederland
+citr002		
+citt001	Nederland	Nederland
+citt002	Nederland	Zwitserland
+clae003	België (Wallonië)	
+clae004	België (Wallonië)	België (Wallonië)
+clae005	België (Wallonië)	België (Wallonië)
+clae006		
+clae010	België (Wallonië)	
+clae012	Nederland	België (Wallonië)
+clae027	België (Wallonië)	België (Wallonië)
+clae111		
+clae119		
+clae122		
+clar003	Nederland	Nederland
+clar010	Spanje	Spanje
+clau002	Frankrijk	Frankrijk
+clau005	België (Wallonië)	België (Wallonië)
+clau018		
+clay002	Nederland	Nederland
+clee003	Nederland	België (Wallonië)
+clee021		
+clee031	Nederland	Nederland
+cleg002		
+clem002		
+cler005	België (Wallonië)	
+cler009	Nederland	Nederland
+cler012		
+cler016	België (Wallonië)	Nederland
+cler017	Nederland	Nederland
+cler020		
+cler055		
+cler070		
+cler074		
+cler080		
+clev003	Nederland	Nederland
+cley012		
+clip001	België (Wallonië)	België (Wallonië)
+cloe003	Zuid-Afrika	Zuid-Afrika
+clos006		
+clou009	Groot-Brittannië (en Noord-Ierland)	
+cneu001	België (Wallonië)	België (Wallonië)
+cnoo002		
+cnoo003		
+cock001	België (Wallonië)	België (Wallonië)
+cock005	België (Wallonië)	Nederland
+cock013	Nederland	Zwitserland
+cock034		
+coct001	Frankrijk	Frankrijk
+coen006	Nederland	Nederland
+coen011	Nederland	Nederland
+coen067	België (Wallonië)	België (Wallonië)
+coen078		
+coet001	België (Wallonië)	
+coet003	Zuid-Afrika	
+coet013		
+cohe001	Nederland	Nederland
+cohe004	Nederland	Nederland
+cohe008	Nederland	
+cohe010	Indonesië	Nederland
+cohe011	Nederland	Nederland
+cohe012	Nederland	Nederland
+cohe029	Indonesië	Nederland
+cohe032	Nederland	
+cohe033	Verenigde Staten	
+coig002		
+coil001	België (Wallonië)	
+coin003		
+coin004		
+cole001	Nederland	Nederland
+cole002	Nederland	Nederland
+coli002		Duitsland
+coli003	Indonesië	
+coli026		
+coll001	Nederland	Nederland
+coll006		
+coll007	België (Wallonië)	België (Wallonië)
+coll039	Frankrijk	Frankrijk
+coll046	Verenigde Staten	
+coll047	Verenigde Staten	
+coll060	Nederland	Polen
+colm003	Nederland	Nederland
+colm004	Nederland	Nederland
+colm006	Nederland	Nederland
+cols004		
+comb004		
+comm023		
+coni003	België (Wallonië)	Portugal
+conr001	België (Wallonië)	
+conr005	Nederland	
+conr006	Nederland	Nederland
+cons001	België (Wallonië)	België (Wallonië)
+cons002	Nederland	Nederland
+cons004	Indonesië	Nederland
+cons027		
+cons030		
+cont005		
+cool003	België (Wallonië)	België (Wallonië)
+cool004	Nederland	Nederland
+cool011	België (Wallonië)	
+cool017	Nederland	Nederland
+cool040	Duitsland	
+coom002		
+coom003		
+coom013		
+coop001	Duitsland	Nederland
+coop005	België (Wallonië)	België (Wallonië)
+coor008		
+coor016		
+copp004	Nederland	
+copp011		
+copp022		
+copp038		
+copp039	België (Wallonië)	België (Wallonië)
+cora004	Italië	Italië
+corb001	België (Wallonië)	Nederland
+corb003		
+corb011	Nederland	
+cord002	België (Wallonië)	België (Wallonië)
+cord021		
+cori003	België (Wallonië)	
+corn008	Nederland	Nederland
+corn012	Indonesië	Nederland
+corn014	België (Wallonië)	België (Wallonië)
+corn015	België (Wallonië)	
+corn023		
+corn024	Nederland	Frankrijk
+corn026		
+corn028		
+corn031	Nederland	Nederland
+corn032		
+corn033		
+corn034		
+corn094		
+corn095		
+corn096		
+corn097		
+coro001	Nederland	Nederland
+corr008		
+cort001	België (Wallonië)	België (Wallonië)
+cort002	België (Wallonië)	België (Wallonië)
+cort003	Nederland	Nederland
+cort004	België (Wallonië)	Nederland
+cort030	Nederland	
+cort033	België (Wallonië)	Frankrijk
+corv002		
+corv014	België (Wallonië)	
+cosi001	Nederland	Nederland
+cosi005	Kroatië	
+cost002	Nederland	Nederland
+cost006	Nederland	Nederland
+cost023	Nederland	Nederland
+cost025	Nederland	Nederland
+cost057		
+cost072		
+cost073	Nederland	
+cott001		
+coul020		
+coun001		
+coup001		
+coup002	Nederland	Nederland
+coup005	Nederland	
+cour001	Nederland	Nederland
+cour011		
+cour043	Nederland	
+cous004	België (Wallonië)	
+cout003		
+cout010		
+couv001	België (Wallonië)	
+couw002		
+cove001		
+cove005	België (Wallonië)	België (Wallonië)
+cowa001	Groot-Brittannië (en Noord-Ierland)	
+cox_003	Nederland	België (Wallonië)
+cox_005	Nederland	
+cox_017		
+craa001	Nederland	Nederland
+crac009		
+crae003	België (Wallonië)	België (Wallonië)
+crae010	België (Wallonië)	België (Wallonië)
+crae032		
+crae038	België (Wallonië)	Oostenrijk
+cram002	Nederland	Duitsland
+cram005		
+cram006	Indonesië	Nederland
+cram011	Nederland	Nederland
+cram012		
+cram035		
+cran003		
+cran027	Verenigde Staten	Duitsland
+cras002		
+creb001	Nederland	
+cree001		
+crem003	Nederland	Nederland
+crem004		Nederland
+crem005		
+crem020	Nederland	
+cren003	Nederland	Verenigde Staten
+crev001		
+crey004	Nederland	Nederland
+crey006	Nederland	
+cric001	België (Wallonië)	België (Wallonië)
+croi001	Nederland	Nederland
+croi018	Nederland	
+croi026		
+crom012	Nederland	Nederland
+cron002	Nederland	Nederland
+croo001	Nederland	Nederland
+croo004	Nederland	Nederland
+croo005		
+crou006	Nederland	Nederland
+crus002		
+cruy028		
+cump001		
+cune003	Verenigde Staten	
+cupp001	België (Wallonië)	België (Wallonië)
+cupp003		Nederland
+cuts001		
+cuyp007	Nederland	Nederland
+cuyp024		
+cuyp032		
+cuyp043		
+czec002		
+daal003	Nederland	Nederland
+daal005		
+daal008	Nederland	
+daal009		
+daan001	Nederland	Nederland
+daas001		
+dabr002	Polen	
+dabr003	Polen	Polen
+dael001	België (Wallonië)	België (Wallonië)
+dael009	België (Wallonië)	
+dael034		
+daem001	België (Wallonië)	
+daem003		
+daen002	Nederland	Nederland
+daen006	België (Wallonië)	België (Wallonië)
+daen012	België (Wallonië)	
+dahl002		
+dais001	België (Wallonië)	België (Wallonië)
+dale014	Nederland	
+dale015	Nederland	
+dale016		
+dalf004		
+dama001	België (Wallonië)	Nederland
+damb001	België (Wallonië)	België (Wallonië)
+dame016	Nederland	
+dame018	Nederland	
+damh001		
+damm048		
+damo002	Indonesië	
+dams005	Nederland	Nederland
+dams007	Nederland	Nederland
+dams008	Nederland	
+dams009	Nederland	
+dam_001	Nederland	Nederland
+dam_008		
+dam_012	Nederland	Nederland
+dam_018		
+dam_020	Nederland	Nederland
+dam_021	Nederland	Nederland
+dam_029		
+danc001	België (Wallonië)	Verenigde Staten
+dani001	Nederland	Nederland
+dani003	Nederland	
+dank004	Nederland	Nederland
+dann007	Nederland	
+dans002	Nederland	Nederland
+dans004	Nederland	Tunesië
+dant001	Italië	Italië
+dant005	Nederland	Nederland
+dant011		
+darc001	Frankrijk	Frankrijk
+darg002	België (Wallonië)	
+darq002	België (Wallonië)	Duitsland
+dasb002	Nederland	Israël
+das_002		
+das_013		
+date001		
+datt001		
+daud001	Nederland	Nederland
+daut001	Nederland	Nederland
+davi026	Nederland	Nederland
+davi027		
+davi028		
+davi031	Nederland	
+davi044		
+davi046		
+deak001	Nederland	
+deba001	België (Wallonië)	België (Wallonië)
+debl001		
+debr001	België (Wallonië)	
+debr003	Caribisch deel van het Nederlandse Koninkrijk	Nederland
+debr009	België (Wallonië)	België (Wallonië)
+debr010		
+debr018		
+debu002	Duitsland	
+deck039		
+deck040		
+deck042		
+deck045	België (Wallonië)	
+decl001	België (Wallonië)	
+decl005	België (Wallonië)	België (Wallonië)
+decl006	België (Wallonië)	België (Wallonië)
+decl009	België (Wallonië)	
+deco002	België (Wallonië)	
+deco008	België (Wallonië)	België (Wallonië)
+deco024		
+decr003	België (Wallonië)	Duitsland
+dede005	Nederland	India
+dedi001		
+dedi002	Hongarije	
+deel001	Nederland	Nederland
+deel002	Nederland	Nederland
+deen005	Nederland	Nederland
+dees001	Nederland	Nederland
+defl002	België (Wallonië)	
+defr001	Nederland	Nederland
+dega002	Frankrijk	Frankrijk
+dege004	Nederland	Nederland
+dege013	Nederland	Nederland
+degr001	België (Wallonië)	België (Wallonië)
+degr002	Nederland	
+deib001		
+deke009	België (Wallonië)	België (Wallonië)
+dekk004	Zuid-Afrika	Zuid-Afrika
+dekk007	Nederland	Nederland
+dekk014	Nederland	Nederland
+dekk015		
+dekk018	België (Wallonië)	België (Wallonië)
+dekk019	Nederland	
+dekk020	Nederland	Nederland
+dekk021	Nederland	
+dekk025		
+dekk026		
+dekk033		
+dekk051		
+dela012	België (Wallonië)	
+dela043		
+delb003	België (Wallonië)	Groot-Brittannië (en Noord-Ierland)
+deld004	Nederland	Nederland
+deld005		
+deld015		
+dele002	België (Wallonië)	België (Wallonië)
+dele004		
+dele007	België (Wallonië)	
+dele008		
+delf006		
+delf007	Nederland	Nederland
+delf034		
+delf043		
+delh004		
+delh007		
+dell004		
+dell006	Italië	Italië
+deln001		
+delo002		
+delp004	Nederland	Nederland
+delp009		
+dels003	België (Wallonië)	
+dels005		
+delt001		
+delv003	Nederland	
+delw002		
+dema008		
+dema016	België (Wallonië)	België (Wallonië)
+deme001	België (Wallonië)	België (Wallonië)
+deme003	België (Wallonië)	België (Wallonië)
+deme024		
+deme031		
+deme034		
+demm003		
+demo004		
+dend001	Nederland	Verenigde Staten
+deni002	België (Wallonië)	
+denn005		
+deno001	België (Wallonië)	
+dens002		
+depe001	België (Wallonië)	
+depr004	België (Wallonië)	België (Wallonië)
+depr006	België (Wallonië)	België (Wallonië)
+derk001		
+derk006		
+derk008		
+derk009		
+derk014		
+derl001	België (Wallonië)	
+derm001	Indonesië	Nederland
+desc001	België (Wallonië)	België (Wallonië)
+desc002	België (Wallonië)	
+desc021	België (Wallonië)	België (Wallonië)
+desi004		
+desm005		
+desp015	Frankrijk	Frankrijk
+desr004	België (Wallonië)	
+dess001	Nederland	België (Wallonië)
+desw001	Frankrijk	Frankrijk
+deth002		
+deug001	Nederland	Nederland
+deur002	Nederland	Nederland
+deur011		
+deve002	Nederland	Nederland
+deve003	Nederland	Nederland
+deve004	Nederland	
+deve005	Nederland	Nederland
+deve006	Nederland	Nederland
+deve031		
+devo010	België (Wallonië)	
+devo011		
+devo016	België (Wallonië)	België (Wallonië)
+devr001	België (Wallonië)	
+devr011		
+dewa002	België (Wallonië)	België (Wallonië)
+dewa013	België (Wallonië)	
+dewe004		
+dewi001	België (Wallonië)	België (Wallonië)
+dewi002	België (Wallonië)	België (Wallonië)
+dewu001	België (Wallonië)	België (Wallonië)
+deyc005		
+deyn010		
+deys001	Nederland	Nederland
+dhae003	België (Wallonië)	
+dhae004	België (Wallonië)	België (Wallonië)
+dhae005	België (Wallonië)	België (Wallonië)
+dhae007	België (Wallonië)	
+dhae018		
+dhan001		
+dhan002		
+dhan003		
+dhon001	België (Wallonië)	
+dhon011		
+dhon020		
+diam001		
+dibb001	Nederland	
+dibo001	Frankrijk	Frankrijk
+died009		
+diel002	Nederland	Nederland
+diel003	België (Wallonië)	
+diel004		
+diep001	Nederland	Nederland
+diep009		
+dier002	België (Wallonië)	
+dier010	Nederland	Nederland
+dier033	België (Wallonië)	België (Wallonië)
+diet013		
+diev001		
+dife001	Nederland	Nederland
+dijc032		
+dijk001	Nederland	
+dijk002	Nederland	
+dijk005		
+dijk009	Nederland	
+dijk011		
+dijk012	Nederland	
+dijk017	Nederland	
+dijk018		
+dijk022	Nederland	
+dijk027	Nederland	Nederland
+dijk028	Nederland	Nederland
+dijk036		
+dijk038	Nederland	Nederland
+dijk040		
+dijk042		
+dijk044		
+dijk050		
+dijk051		
+dijk069		
+dijk080		
+dijk095		
+dijk103		Nederland
+dijk162		
+dijk203		
+dijs003		
+dik_001	Nederland	Nederland
+dill003	Nederland	Nederland
+dill013		
+dimo001	Oekraïne	Roemenië
+dina001	Nederland	Nederland
+ding014		
+ding021		
+dint003	Nederland	
+diop001	Senegal	Senegal
+diot001		
+dipp002		
+dip_001		
+diri003		
+diri005		
+dirk004	Nederland	Nederland
+dirk008		
+dirk050		
+diss006	Nederland	Nederland
+dist003		
+dis_001	Nederland	
+dis_002	Nederland	Nederland
+ditt004	Slowakije	
+ditt005		
+ditt008	Duitsland	
+djuk001	Servië	
+dobb018	Nederland	Nederland
+dobr001	Suriname	Suriname
+dock004		
+dods001	Verenigde Staten	Verenigde Staten
+doed001	Nederland	Nederland
+doed003	Nederland	Nederland
+doed004	Nederland	Nederland
+doef001	Nederland	Nederland
+doel004	Nederland	
+does015		
+does017	Nederland	Nederland
+doev002		
+doev006	België (Wallonië)	België (Wallonië)
+dogg001		
+dojc001	Servië	
+dokk001		
+dolf002		
+dolk002	Indonesië	
+dols001	Nederland	Duitsland
+domb002	Nederland	Nederland
+domi001	Nederland	Nederland
+domm010	Nederland	
+domp001	Nederland	
+donc001		
+donc004	België (Wallonië)	België (Wallonië)
+donc026		
+dond002	Nederland	Nederland
+dond003		
+dond007	België (Wallonië)	België (Wallonië)
+dong001	Nederland	
+dong004		
+dong031		
+donh001	Oostenrijk	
+doni019		
+doni020		
+donk004	Nederland	
+donk005	Nederland	
+donk007	Nederland	Nederland
+donk009	Nederland	Nederland
+donk037		
+donk039		
+donk049	Nederland	Nederland
+donn001	Nederland	Nederland
+donn002	Groot-Brittannië (en Noord-Ierland)	Groot-Brittannië (en Noord-Ierland)
+don_002		
+dood001		
+dood006		
+dooi004	Nederland	Nederland
+dool001	Nederland	Nederland
+dool006	Ierland	
+door001	Nederland	Nederland
+door003	Nederland	Nederland
+door005	Nederland	
+door009		
+door011	Nederland	
+door016		
+door018	Nederland	Nederland
+door036	Nederland	Nederland
+door084	Nederland	
+door108		
+door126	Nederland	Nederland
+dop_004		
+dord001	Nederland	België (Wallonië)
+dorh003	Nederland	Duitsland
+dori002	Nederland	Nederland
+dorl002	Nederland	
+dorn004	Nederland	Nederland
+dorp004	Nederland	Nederland
+dorp026	Nederland	Indonesië
+dorp027		
+dorr004	Nederland	
+dors002		
+dort002		
+dort022		
+dosf001	België (Wallonië)	België (Wallonië)
+dota001		
+doul003		
+dous005		
+douv008		
+doye007		
+doyl002		
+dozy002	Nederland	Nederland
+draa002	Nederland	Nederland
+draa003	Nederland	Nederland
+draa005		
+draa006	Nederland	
+drab002	Nederland	Nederland
+drag005	Servië	
+drag008		
+drai003	Nederland	Nederland
+dray001		
+dree003	Nederland	Nederland
+dree009		
+dreh001	Nederland	
+dres001	Nederland	Nederland
+dres003	Nederland	Nederland
+dres007	Nederland	
+dres008	Nederland	Nederland
+dres009		
+drew001	Nederland	Nederland
+drew002		
+drew008	Nederland	Nederland
+drie006		
+drie008	België (Wallonië)	België (Wallonië)
+drie022		
+drie024	Nederland	Nederland
+drie051		
+drie061		
+drie090		
+drif001		
+drif002		
+drij001	Nederland	
+drij005		
+drij006	België (Wallonië)	België (Wallonië)
+drij020	Nederland	Nederland
+drim001	Nederland	
+drio001	Nederland	Nederland
+drio002	Nederland	Nederland
+droo016	Nederland	Nederland
+droo017	Nederland	Nederland
+drop001	Nederland	Nederland
+dros007	Nederland	
+dros012		
+dros027	Polen	België (Wallonië)
+drsp001	Zwitserland	Nederland
+druc003	Nederland	Nederland
+drum001	Brazilië	Brazilië
+drun006		
+druw002		
+druw003		
+dube002	Nederland	
+dubo001	Nederland	Nederland
+dubo004		Nederland
+duca001	België (Wallonië)	
+duch012	België (Wallonië)	
+ducl003	Nederland	
+duc_003		
+dude002	Duitsland	
+duer007		
+dufl001	België (Wallonië)	België (Wallonië)
+dufr002		
+duij001	Nederland	Nederland
+duij004	Nederland	
+duij010		
+duim004	Nederland	
+duin002		
+duin003	Nederland	
+duin004	Nederland	Nederland
+duin006	Nederland	Nederland
+duin017		
+duit001		
+dulk009		
+dull003	Nederland	Nederland
+dull010		
+dull012		
+duls001		
+duma007	Zuid-Afrika	
+dumo021		
+dumo022		
+dumo030		
+dung004		
+dunk001	Duitsland	Nederland
+dunk005	Nederland	
+dunn001		
+dunn004	Nederland	Nederland
+dupo004	Nederland	Nederland
+dupu002		
+duqu001		Nederland
+dura006		
+dura010		
+dure003		
+duri001	België (Wallonië)	België (Wallonië)
+durl001	Duitsland	Nederland
+durn001	België (Wallonië)	België (Wallonië)
+duss004	Nederland	Nederland
+duyf002		
+duyk001	België (Wallonië)	België (Wallonië)
+duyl001	Nederland	Nederland
+duyl002	Nederland	Nederland
+duyl003	Nederland	Nederland
+duyn002	Nederland	
+duyn003	Duitsland	
+duyn039		
+duyt001	België (Wallonië)	
+duyv002	Nederland	Nederland
+duyv003		
+duyv013	Nederland	
+duyx001		
+du_p001	Indonesië	Nederland
+dyck003		
+dykm001		
+dyse002	Nederland	Nederland
+dyse006	België (Wallonië)	België (Wallonië)
+ebbi005	Nederland	
+ebbi006		
+ebel008		
+ecke001	Nederland	Nederland
+eck_004	Nederland	Nederland
+eck_005		
+eck_009		
+eck_027		
+eck_032	Nederland	
+eco_001	Italië	Italië
+edel012	Zwitserland	
+eder002	Duitsland	
+ede_001	Nederland	
+edin002	Nederland	Nederland
+edmo003		
+eeck001	België (Wallonië)	België (Wallonië)
+eeck002	België (Wallonië)	België (Wallonië)
+eeck003	België (Wallonië)	
+eeck017		
+eede003	Nederland	Nederland
+eegh002	België (Wallonië)	België (Wallonië)
+eegh003	Nederland	
+eegh004	Nederland	Nederland
+eegh007	Nederland	Nederland
+eekh001	België (Wallonië)	
+eekh002	Nederland	Nederland
+eekh003	België (Wallonië)	België (Wallonië)
+eekh004	Nederland	Nederland
+eekh005	Nederland	Nederland
+eekm001	Nederland	Nederland
+eeme001	Nederland	
+eeme002		
+eenh001		
+eerd003	Nederland	Nederland
+eerd004	Nederland	Nederland
+eere002	Nederland	Frankrijk
+eere009	Nederland	Nederland
+eerz001	Nederland	Nederland
+eete001		
+eet_001		
+egbe010	Nederland	
+egel001	Nederland	Nederland
+eger003	Nederland	Nederland
+eget001	Indonesië	
+egge005	Nederland	
+egge018		
+eggi001	Nederland	Nederland
+eggi002		
+ehre001	Oekraïne	Rusland
+eich007	Duitsland	Oostenrijk
+eick006		
+eige001	Nederland	Nederland
+eige004		
+eige005		
+eijf001		
+eijg001		
+eijk005	Nederland	Nederland
+eijk008		
+eijk011		
+eijk017		
+eijk018		
+eijk028		
+eijk033	Nederland	Nederland
+eijs001	Nederland	Nederland
+eilb004		
+ekel005		
+ekke001	Nederland	Nederland
+ekke003	Nederland	Nederland
+ekke005		
+elau001	België (Wallonië)	België (Wallonië)
+elbe001	Nederland	Nederland
+elbu001	Nederland	Nederland
+elde001		
+elde004		
+elde005	Nederland	
+elde006	Nederland	Nederland
+elde015		
+eleb001	België (Wallonië)	België (Wallonië)
+elem002		
+elem003	Nederland	
+elem004	Nederland	Nederland
+elen003		
+elff001		
+elff004	Nederland	Nederland
+elia001	Nederland	Nederland
+elia002	België (Wallonië)	België (Wallonië)
+elia006	Nederland	Noorwegen
+elia032	Polen	Nederland
+elig001	Nederland	Nederland
+elin004	Nederland	Nederland
+elin009		
+elio001	Groot-Brittannië (en Noord-Ierland)	Groot-Brittannië (en Noord-Ierland)
+elio002	Verenigde Staten	Groot-Brittannië (en Noord-Ierland)
+elle004		
+elle013	Indonesië	
+elle019		
+elli001		
+elli002	Nederland	Nederland
+elmb001		
+elou003	Nederland	Indonesië
+elou012	Nederland	Nederland
+elsa003	Duitsland	
+else032		
+elsh001	Nederland	
+elsi002		
+elsk004	Nederland	Nederland
+elsl001	Nederland	Nederland
+elsl002	België (Wallonië)	België (Wallonië)
+elsm003		
+elss001	België (Wallonië)	België (Wallonië)
+elst006	België (Wallonië)	België (Wallonië)
+elst007	Nederland	Nederland
+elst009		
+elst017		
+els_001	Nederland	Nederland
+elze006	Nederland	Nederland
+elzi002		
+elzi005		
+eman001	Nederland	Zwitserland
+eman002	Suriname	Suriname
+emde004	Nederland	Nederland
+emde008	Tsjechië	Nederland
+emei001	Nederland	
+emme002	Nederland	
+emme004	Nederland	Nederland
+emme020	Nederland	
+ende003	Nederland	Nederland
+endt001	Nederland	Nederland
+enge004	België (Wallonië)	
+enge012	Nederland	Nederland
+enge027	Nederland	Nederland
+enge037		
+enge039		
+enge041		
+enge042	Nederland	
+enge043	Duitsland	Duitsland
+enge044		
+enge056	Nederland	Nederland
+enge090		
+enge098		
+enge105		
+enge138	Nederland	Nederland
+enge145		
+eng_001		
+enkl001	Nederland	Nederland
+enkl004	Nederland	Nederland
+enkl006	Nederland	Nederland
+enkl009	Nederland	
+enk_001	Nederland	Nederland
+enqu001	Nederland	
+ensc001	Nederland	Nederland
+ensc012	Nederland	
+enth002	Nederland	Verenigde Staten
+entj001	Duitsland	Nederland
+ent_001	Nederland	
+ent_003		
+enze001	Duitsland	Duitsland
+enzi001	Nederland	Nederland
+epen006		
+epic001	Turkije	
+eras001	Nederland	Zwitserland
+erem004		
+eren001	Nederland	Nederland
+eren003	Nederland	Nederland
+erin002		
+erke011	Nederland	
+erne001	Nederland	
+erne004		
+esch005	Nederland	Nederland
+esch014	Nederland	Nederland
+esme001		
+esqu001	Mexico	
+esse011		
+esse030		
+esse037	Nederland	Nederland
+este001	Nederland	
+esve002		
+es__001	Nederland	Nederland
+es__005	Nederland	Nederland
+es__016		
+etma001	Nederland	
+etty001	Nederland	
+etty002		
+ett_001	Nederland	Nederland
+evel001		
+even001	België (Wallonië)	België (Wallonië)
+even007	België (Wallonië)	
+even010		
+ever004		
+ever012	Nederland	
+ever026		
+ever027		
+ever028	Nederland	Nederland
+ever111	Nederland	
+ever114		
+ever115	Nederland	Nederland
+ever127	Aruba	Aruba
+ever128		
+ever138		
+ever147		
+eweg001		
+extr001		
+eybe001	Zuid-Afrika	Nederland
+eyck001	Nederland	Nederland
+eyck006	Nederland	Nederland
+eyck034	België (Wallonië)	België (Wallonië)
+eyck036		
+eyke004		
+eykm002	Nederland	Nederland
+eyk_002	Nederland	Nederland
+eyk_012	Nederland	Nederland
+eyle004		
+eyma001	Nederland	
+eynd007		
+eynd022		
+eynd031		
+eysi001	Nederland	Nederland
+eysi002		Nederland
+eysk001	België (Wallonië)	
+eysk002	België (Wallonië)	België (Wallonië)
+eyss002	Nederland	Nederland
+eyss003	Nederland	Nederland
+faas004	Nederland	
+faas005	Nederland	Nederland
+fabe001	Nederland	
+fabe010		
+fabe011		
+fabi001	Nederland	Nederland
+fabr001		
+fabr004	Nederland	Groot-Brittannië (en Noord-Ierland)
+fabr005	Indonesië	Nederland
+fabr046	Spanje	Italië
+fadd001	Nederland	Nederland
+faes001		
+fage003		
+falc001	Nederland	België (Wallonië)
+fall004		
+fare002		
+farn002	Nederland	Nederland
+fass001	Indonesië	Nederland
+faul001	Verenigde Staten	Verenigde Staten
+fave001	Suriname	Nederland
+febe001	Nederland	Nederland
+febe002	Nederland	Nederland
+febr001	Nederland	
+fedo001		
+feen004	België (Wallonië)	Nederland
+feen005		
+feen006	Indonesië	Nederland
+fehm001	Nederland	Nederland
+fehr001	Nederland	Nederland
+feit006	Nederland	Nederland
+feit008	Nederland	Nederland
+feit013	Nederland	Nederland
+feit015	Nederland	Nederland
+feit026	Nederland	Nederland
+fekk001	Nederland	
+feld005		
+felt008		
+felt009		
+fenn009	Nederland	Nederland
+fens001	Nederland	Nederland
+fens002	Zuid-Afrika	
+ferd002	Nederland	Nederland
+ferg003	Nederland	Vietnam
+fern010		
+ferr003	Nederland	Nederland
+ferr022	Italië	
+ferw005	Nederland	Nederland
+fesk001		
+fett001	Nederland	Nederland
+feui002	Indonesië	Nederland
+feyf001		
+feys006		
+fier010		
+fijn002	Nederland	
+fill002	België (Wallonië)	België (Wallonië)
+fimm001		
+find001	Noorwegen	Italië
+finj001	Nederland	Indonesië
+fior001	Nederland	Italië
+fisc004	Nederland	
+fisc006	Nederland	Nederland
+fisc016		
+flam005	België (Wallonië)	België (Wallonië)
+flam011		
+flan001	België (Wallonië)	
+flax001		
+flee001		België (Wallonië)
+fleu001		
+flin009		
+flip004	Nederland	
+flor007	België (Wallonië)	
+flot001	Nederland	Nederland
+flot003		
+fock001	Nederland	Nederland
+fock004	Nederland	Nederland
+fock012	Nederland	Nederland
+fock033	Nederland	Nederland
+fock034	Nederland	Nederland
+fock036	Nederland	Nederland
+foga001	Italië	Italië
+fokk004		
+fokk005	Nederland	Nederland
+fokk007	Nederland	Nederland
+fokk008	Nederland	Nederland
+fokk015	Indonesië	Nederland
+fokk016	Indonesië	Italië
+fokk017		
+fokk018	Indonesië	
+fokk037		
+folk010		
+fonc001	België (Wallonië)	België (Wallonië)
+fond002	Nederland	Nederland
+font006	Nederland	Nederland
+font014	Nederland	Nederland
+font045	Nederland	Nederland
+font053	Argentinië	Italië
+fool001		
+foor006		
+fopp002	Nederland	Nederland
+fopp004	Nederland	
+forb003	Nederland	Nederland
+ford007	Verenigde Staten	Verenigde Staten
+form001		Nederland
+fors003	Groot-Brittannië (en Noord-Ierland)	Groot-Brittannië (en Noord-Ierland)
+fors012		
+fort020		
+frae005		
+frai004		
+fran006		
+fran007	België (Wallonië)	België (Wallonië)
+fran008		
+fran016	Nederland	Nederland
+fran023	Nederland	Nederland
+fran024	Nederland	Nederland
+fran029	Nederland	Nederland
+fran036	België (Wallonië)	België (Wallonië)
+fran038	Nederland	Nederland
+fran046		
+fran047	Nederland	Nederland
+fran048	Nederland	Nederland
+fran056		
+fran137		
+fran139	Nederland	Groot-Brittannië (en Noord-Ierland)
+fran143		
+fran150		
+fran169		
+fran176		
+fran198		
+fran203		
+fran225		
+fran230		
+fran236		
+fred002	België (Wallonië)	België (Wallonië)
+fred006	Nederland	Nederland
+free003	Nederland	Nederland
+frem013		
+fren005		
+fren014		
+fren017		
+fren025		
+frer001		
+frer002	Indonesië	
+fres001	Nederland	
+fres002	Duitsland	Nederland
+fres008		
+fret003	Nederland	Nederland
+fret004		
+freu001	Tsjechië	Groot-Brittannië (en Noord-Ierland)
+freu002	Duitsland	Nederland
+frie004	Nederland	Nederland
+frie009		
+frij004	Nederland	Nederland
+frij005	Nederland	Nederland
+frij006		
+frij010	Nederland	Polen
+frij012	Nederland	
+fris002	Nederland	Nederland
+fris018		
+frit018		
+froe001	Nederland	Nederland
+froe002	Nederland	Nederland
+from003	Nederland	Indonesië
+frui001	Nederland	Nederland
+fuch003	Nederland	
+fuch008		
+fukk002		
+fuld001		
+fumi001		
+funk005	Nederland	Nederland
+furn003	Nederland	
+furs001		
+gaag002	Nederland	Nederland
+gaar001	Nederland	
+gaay001		
+gabr010		
+gad_001		
+gaef001	Duitsland	Verenigde Staten
+gaja001	Suriname	
+gala014	Rusland	Rusland
+gala015	Syrië	Duitsland
+gald002		
+gale001		
+gali003	Italië	Italië
+galj001	Italië	
+gall003	Nederland	Nederland
+gall005		
+gall006	België (Wallonië)	België (Wallonië)
+gall008	Nederland	Nederland
+gall036		
+gang001	Suriname	
+gans001	Nederland	Nederland
+gans015	België (Wallonië)	België (Wallonië)
+gant001	Frankrijk	Frankrijk
+garc001		
+garc005	Frankrijk	Frankrijk
+garc006	Spanje	
+garc011	Frankrijk	
+gard014	Nederland	
+gard015		
+garm002		
+garm004		
+gars004		
+gars005	Spanje	
+gasp001	België (Wallonië)	
+gasp002	België (Wallonië)	Nederland
+gave001	België (Wallonië)	België (Wallonië)
+geel001	Nederland	
+geel002	Nederland	Nederland
+geel003	Nederland	Nederland
+geel005	Nederland	
+geem001		
+geer004	België (Wallonië)	
+geer005	België (Wallonië)	België (Wallonië)
+geer006	Nederland	Nederland
+geer007		
+geer013	Nederland	Nederland
+geer016	België (Wallonië)	
+geer023		
+geer025	Nederland	Nederland
+geer034	Nederland	Duitsland
+geer041	Nederland	Nederland
+geer043		Japan
+geer071		
+geer099		
+geer107		
+geer118		
+gees003	België (Wallonië)	
+gees006	Nederland	
+gees020		
+gees021		
+geff006		
+geir002		
+geld001		
+geld002	Nederland	
+geld003	Nederland	Nederland
+geld004	Nederland	Nederland
+geld007	Nederland	Nederland
+geld008	Nederland	
+geld016	Nederland	Nederland
+geld021		
+geld022	Nederland	Nederland
+geld025		
+geld026		
+geld028		
+geld030		
+geld066		
+geld072	Nederland	Nederland
+gele003		
+gele012		
+gelu001		
+geme003		
+gend001	Indonesië	Nederland
+gene001	België (Wallonië)	Nederland
+gene002	Nederland	Nederland
+gene004	België (Wallonië)	
+geni004		
+gent005	Nederland	
+gent016		
+geor002		
+gera001		
+gera022		
+gera025		
+gera038		
+gerb001	Nederland	Italië
+gerb003	Nederland	
+gerb005	Zuid-Afrika	Nederland
+gerd011		
+gerd014		
+gerh002	Nederland	Nederland
+gerh004	Nederland	Nederland
+geri001	Nederland	Nederland
+geri004	België (Wallonië)	België (Wallonië)
+gerl001	Nederland	
+gerl002	Nederland	België (Wallonië)
+gerl003	Nederland	Duitsland
+gerl020		
+germ003	België (Wallonië)	België (Wallonië)
+gern003	Duitsland	
+gerr007		
+gerr009	Nederland	Nederland
+gerr010	Nederland	
+gerr015	Nederland	Nederland
+gerr016	Nederland	
+gerr018		
+gerr025		Nederland
+gerr037		
+gerr051		
+gerr079		
+gers003	Duitsland	Nederland
+gerv003	Nederland	Nederland
+gesc001	Nederland	
+gesp002		
+gess001	België (Wallonië)	België (Wallonië)
+gest002		
+gest006	Nederland	Nederland
+geuf001		
+geun001	Nederland	Nederland
+geun003	Nederland	
+geun004	Nederland	Nederland
+geun007	Nederland	Nederland
+geur002		
+geur004	Nederland	Nederland
+geur006		
+geur012		
+geus001	Nederland	
+geus013		
+gewi001	Nederland	Nederland
+gewi003	Nederland	Nederland
+geyl001	Nederland	Nederland
+geyl002		
+geys004		
+geyt001	België (Wallonië)	België (Wallonië)
+geyt003		
+geze001	België (Wallonië)	België (Wallonië)
+geze002	België (Wallonië)	België (Wallonië)
+ghee005		
+ghel002	België (Wallonië)	België (Wallonië)
+ghes002	België (Wallonië)	België (Wallonië)
+ghes010		
+ghij001	Nederland	Nederland
+ghij008		
+ghij011		
+ghys005	België (Wallonië)	
+ghys008		
+gibs002	Ierland	
+giel002	Nederland	
+giel011		
+gier001	Nederland	
+gies001	Nederland	Nederland
+gies003		
+giez002	Nederland	
+gijs002		
+gijs003		
+gijs004	Nederland	Nederland
+gijs005	Nederland	Nederland
+gijs006	België (Wallonië)	België (Wallonië)
+gijs007		
+gijs008	België (Wallonië)	België (Wallonië)
+gijs009		
+gilb001	Nederland	
+gilb009	Verenigde Staten	Verenigde Staten
+gild005	Nederland	Nederland
+gilf001	Zuid-Afrika	
+gilg001		
+gili001		
+gili003		
+gill002		
+gill003	België (Wallonië)	België (Wallonië)
+gill010	België (Wallonië)	
+gill012		
+gill041	België (Wallonië)	
+gill044		
+gill052	België (Wallonië)	
+gilr001		
+gils003	België (Wallonië)	België (Wallonië)
+gils004	Duitsland	Nederland
+gils005	Nederland	Nederland
+gils007	Nederland	Nederland
+ginn001	Nederland	Nederland
+ginn004		
+ginn005	Nederland	
+ginz001	Italië	
+gin_001	Nederland	Nederland
+gise001	België (Wallonië)	
+gitt002	België (Wallonië)	
+giul002	Italië	Italië
+glas005		
+glas006		
+glas011	Indonesië	Nederland
+glas016		
+glaz005		
+glei001	Nederland	Nederland
+glei003		
+glot002		
+gobb001	België (Wallonië)	
+gobe002	Nederland	Indonesië
+gobe005	Nederland	Nederland
+gobe011		
+gobl001	Nederland	België (Wallonië)
+gobl003	België (Wallonië)	
+gode003	België (Wallonië)	België (Wallonië)
+gode006	Nederland	Nederland
+goed003		
+goed004	Nederland	
+goed005	Nederland	Nederland
+goed011		
+goed036		
+goed041		
+goed044		
+goej002	Nederland	Nederland
+goej003		
+goem001		
+goem002	België (Wallonië)	
+goen002	Nederland	Duitsland
+goes001	Nederland	Nederland
+goes005		
+goet007		
+goet027	Duitsland	Duitsland
+goet028		
+goet030		
+goet034		
+goet042	België (Wallonië)	België (Wallonië)
+goet046		
+goet047		
+goev001	Nederland	Nederland
+goev002		
+goff006		
+goff014		
+gogh002	Nederland	Nederland
+gold002	Nederland	
+gold019	Italië	Frankrijk
+goll006	Frankrijk	Frankrijk
+golt001	Nederland	Nederland
+golt003	Nederland	Nederland
+golt004	Duitsland	Nederland
+gomm002	Nederland	
+gomm005		
+gomp002	Nederland	Frankrijk
+gomp005		
+gond002		
+gong002		
+good005	Verenigde Staten	
+gool003	België (Wallonië)	
+goor005		
+goos003	België (Wallonië)	
+goos006	België (Wallonië)	
+goos010	Nederland	Nederland
+goos014		
+gori001		
+gori003	Nederland	Nederland
+gori019		
+gori020		
+gori027		
+gork001	Nederland	Nederland
+gork005		
+gork009	Rusland	Rusland
+goro002	Mexico	
+gorp001	België (Wallonië)	
+gorp002		
+gorp004	Nederland	Nederland
+gors004	België (Wallonië)	
+gort004	Nederland	België (Wallonië)
+gort005	Nederland	
+gort006	Nederland	Nederland
+gort016	Nederland	
+gort024	Nederland	Nederland
+gosl001	Nederland	Nederland
+gosl003	Nederland	
+goss001	Nederland	Nederland
+goss003	Nederland	Nederland
+goss004	Nederland	Nederland
+goud003	België (Wallonië)	
+goud004	Nederland	Nederland
+goud005	Nederland	
+goud010	Nederland	Nederland
+goud012	Suriname	
+goud013		
+goud026		
+goud054		
+goud066		
+goul002	Verenigde Staten	Spanje
+gova001	Nederland	Nederland
+gova003		
+gova005	België (Wallonië)	
+gova006		
+gova009		
+gova013		
+gove001		
+govo001		
+goyv001		
+graa001	Nederland	
+graa003	Nederland	
+graa004	Nederland	
+graa005		
+graa008		
+graa010	Nederland	Nederland
+graa015	Nederland	Nederland
+graa025	Nederland	
+graa028		
+graa029		
+graa030		
+graa036		
+graa048		
+graa062		
+graa076		
+graa084	Nederland	Nederland
+graa098		
+graa122		
+graa123		
+graf001	Nederland	Nederland
+graf002	Nederland	Nederland
+graf010		
+gram001	Nederland	Nederland
+gram004	Nederland	Verenigde Staten
+gram013	Denemarken	Denemarken
+gran009		
+gran022		
+gran023		
+gran030	Frankrijk	Frankrijk
+gras004	Nederland	Nederland
+gras005	Polen	Duitsland
+gras009	Nederland	Nederland
+gras011		
+gras012		
+gras013		
+grat001	België (Wallonië)	Sri Lanka
+grat003	Nederland	Nederland
+grau002	België (Wallonië)	België (Wallonië)
+grav004	Indonesië	Nederland
+grav052		
+grea002		
+greg001	Nederland	Nederland
+greg002	Nederland	Nederland
+greg011	Verenigde Staten	Verenigde Staten
+grei004		
+grei009	Colombia	Colombia
+gres002	Nederland	Zuid-Afrika
+gres005		
+grev001	Indonesië	Nederland
+grev002		
+grev010	Nederland	Nederland
+grie005	België (Wallonië)	België (Wallonië)
+grif002		
+grif011		
+grij001	Nederland	Nederland
+grij003	België (Wallonië)	
+grij006		
+grij007		
+grin002		
+grin003		
+grin013		
+grit001		
+griv001		
+groe017	Nederland	Nederland
+groe018	Nederland	Nederland
+groe023	Nederland	
+groe026		
+groe035	Nederland	
+groe046		
+groe048		
+groe055		
+groe064		
+groe104	Nederland	Nederland
+groe114		
+groe116		
+groe133		
+groe157		
+groe192		
+groe205		
+grol002	Nederland	Nederland
+grol009		
+grom004		
+gron009	Nederland	Nederland
+gron014	Indonesië	Nederland
+groo001	Nederland	Denemarken
+groo004	Nederland	Nederland
+groo006	Nederland	Nederland
+groo012		
+groo014	Nederland	
+groo015	Nederland	Nederland
+groo018	Nederland	
+groo024	Nederland	België (Wallonië)
+groo027	Nederland	
+groo028	Nederland	Nederland
+groo030	Nederland	Nederland
+groo037		Nederland
+groo043	Nederland	Nederland
+groo044		
+groo045		
+groo051	Nederland	Nederland
+groo057	Nederland	
+groo063		
+groo066		
+groo070		
+groo071		
+groo072		
+groo100	Nederland	
+groo103		
+groo135		
+groo153		
+groo158	Nederland	
+groo170		
+groo185		
+groo187		
+groo212		
+groo213		
+gros005	Nederland	Nederland
+gros010		
+gros025	Duitsland	Duitsland
+grov001	Zuid-Afrika	
+grov021		
+grub004	Duitsland	Nederland
+grui001		
+grui002	Indonesië	Nederland
+grun001	Nederland	
+grun003		
+grun010	Duitsland	
+grut003		
+gruw001	België (Wallonië)	
+gruy003	Nederland	Nederland
+gruy005	Nederland	
+gryg001	Slowakije	
+gryp002		
+guch012		
+guep001	Nederland	Nederland
+guie001	België (Wallonië)	België (Wallonië)
+guil005	Cuba	Cuba
+guin005	Verenigde Staten	
+gumb001		
+guna001	Indonesië	
+gunn002	Nederland	Nederland
+gunn004	Nederland	Nederland
+gunn005		
+gunn010		
+guns006		
+guns008		
+gupt001		
+guss001		
+guss002	Nederland	Nederland
+gyse001	België (Wallonië)	België (Wallonië)
+gyse004	België (Wallonië)	België (Wallonië)
+gyss001	België (Wallonië)	België (Wallonië)
+haaf002		
+haag001		
+haak003	Nederland	Nederland
+haak009		
+haak010		
+haak020		
+haak025		
+haan004	Nederland	Nederland
+haan005		
+haan007	Nederland	
+haan008	Nederland	Palestina
+haan009	Nederland	Nederland
+haan010	Indonesië	Nederland
+haan013		
+haan014	Nederland	
+haan015		
+haan018		
+haan019		
+haan022	Nederland	Nederland
+haan027	Nederland	Nederland
+haan028		
+haan029	Nederland	Nederland
+haan032		
+haan039		
+haan040		
+haan064		
+haan074		
+haan100		
+haar010		
+haar014	Zuid-Afrika	Zuid-Afrika
+haar045	Duitsland	
+haar047	Nederland	Nederland
+haas009	Nederland	
+haas011		
+haas013	Indonesië	Nederland
+haas027	Nederland	Nederland
+haas040	Nederland	Nederland
+haas041		
+haas042		
+haas054		
+haas055		
+haas056		
+habe003		
+habe010		
+habi001	Aruba	
+habi002		
+hacc002		
+hack013	Rusland	Nederland
+hade001	België (Wallonië)	
+hade004	Verenigde Staten	
+haec011	België (Wallonië)	België (Wallonië)
+haeg003		
+haer001	Nederland	Nederland
+haer003	Nederland	Nederland
+haer004	België (Wallonië)	
+haer008		
+haer060		
+haer064	Nederland	Nederland
+haes003	België (Wallonië)	België (Wallonië)
+haes006	België (Wallonië)	
+haes007	België (Wallonië)	België (Wallonië)
+haes009	België (Wallonië)	België (Wallonië)
+haes010		
+haes016		
+haes029		
+haes046		
+hafi001	Iran	
+haft001	Verenigde Staten	
+hage001		
+hage009	Nederland	
+hage019		
+hage021		
+hage082	Nederland	
+hagh001		
+hagt001		
+hahm001	Finland	
+hahn001		
+haig002	Nederland	Nederland
+haim001		Nederland
+haje001		
+hake001	Nederland	Nederland
+hake002		
+hakf001		
+hakh001		
+halb002	Nederland	Nederland
+halb003	Nederland	Nederland
+halb006	Nederland	België (Wallonië)
+halb011	Nederland	Nederland
+halb020		
+half003		
+hall002	Nederland	Nederland
+hall005	België (Wallonië)	België (Wallonië)
+hall007	België (Wallonië)	Spanje
+hall008	België (Wallonië)	België (Wallonië)
+hall013	Nederland	Nederland
+hall016		
+hall047		
+hall048		
+hals002		
+hama002		
+hama006		
+hama008		
+hamb002		
+hamb006		
+hamb008	Duitsland	Groot-Brittannië (en Noord-Ierland)
+hame001	Nederland	Nederland
+hame004	Nederland	
+hame005	België (Wallonië)	België (Wallonië)
+hame009	Nederland	Nederland
+hame013	Nederland	Nederland
+hame014	Nederland	Nederland
+hamm003	België (Wallonië)	België (Wallonië)
+hamm005	Denemarken	Denemarken
+hamm006	Nederland	Italië
+hamm012		
+ham_002	Nederland	Nederland
+ham_013		
+ham_016		
+hand001	Oostenrijk	
+hane004		
+hanl001	Indonesië	Nederland
+hann001	België (Wallonië)	
+hann008		
+hann025		
+hano001	Nederland	Nederland
+hano002	België (Wallonië)	
+hans012		
+hans017	Nederland	
+hans032		
+hap_001		
+harb002		
+hard003		
+hard018		
+hard075		
+hard076	België (Wallonië)	België (Wallonië)
+hare001	Nederland	
+harg003		
+hari036		
+harl007		
+harm005	Nederland	
+harm006		
+harp007	Groot-Brittannië (en Noord-Ierland)	
+hart004		
+hart006	Nederland	
+hart007		
+hart008	Nederland	
+hart011	Nederland	Nederland
+hart012		
+hart014	Nederland	
+hart018	Nederland	Nederland
+hart021	Nederland	
+hart030		
+hart040		
+hart047	Nederland	Nederland
+hart056		
+hart059		
+hart062		
+hart064	Nederland	
+hart067		
+hart136		
+hart151	Nederland	
+hart163		
+hart210		
+hase002	Nederland	Nederland
+hase004	Caribisch deel van het Nederlandse Koninkrijk	
+hase020	Duitsland	Duitsland
+hasl001	Nederland	
+hasp001	Nederland	Nederland
+hass001	Nederland	België (Wallonië)
+hass007	Nederland	Nederland
+hass014	Nederland	Nederland
+hass017		
+hass053		
+hass054		
+hatt004	Nederland	Nederland
+hatt006		
+hauw003		
+have002	Nederland	Nederland
+have007	Nederland	
+have010	Nederland	Nederland
+have018		
+have019	Nederland	Nederland
+have021	Nederland	
+have048		
+have052		
+haze005	Nederland	Nederland
+haze020		
+hazi001		
+hean001	Groot-Brittannië (en Noord-Ierland)	Ierland
+heck001	België (Wallonië)	
+heck002	België (Wallonië)	België (Wallonië)
+heck006	Nederland	Nederland
+heck013		
+heec002	Nederland	Nederland
+heed003	Nederland	
+heek003		
+heem010	Nederland	Nederland
+heem011	Nederland	Nederland
+heem020		
+heem091		
+heem092		
+heer004	Zuid-Afrika	Zuid-Afrika
+heer005		
+heer010	Nederland	Nederland
+heer014	Nederland	Nederland
+heer017	Nederland	Nederland
+heer023	Nederland	Nederland
+heer026	Zuid-Afrika	
+heer031	Nederland	
+heer033	Indonesië	Nederland
+heer034	Nederland	Nederland
+heer040	Nederland	
+heer044		
+heer082	Nederland	Nederland
+heer096		
+heer112		
+hees001		
+hees002	Nederland	Nederland
+hees005	Nederland	
+hees011		
+hees021		
+hees024		
+hees025		
+hees033		
+heet001	België (Wallonië)	België (Wallonië)
+heev001	Zuid-Afrika	Zuid-Afrika
+hee_003	België (Wallonië)	
+heft001	Nederland	Nederland
+hegm001	België (Wallonië)	België (Wallonië)
+heid001		
+heid004		
+heid032		
+heid036		
+heid058		
+heij001	Nederland	
+heij005	Nederland	
+heij007	Nederland	Nederland
+heij011	Nederland	Nederland
+heij023	Nederland	Nederland
+heij024		
+heij026		
+heij027		
+heij028		
+heij040	Nederland	Nederland
+heij051		
+heij060		
+heij063		
+heil003		
+heil010		
+heim002	Nederland	Italië
+hein007	Nederland	Nederland
+hein015		
+hein052	Nederland	Nederland
+heir005	Nederland	Nederland
+heir008		
+hekm001	Nederland	Nederland
+heks002		
+held002	België (Wallonië)	België (Wallonië)
+held004	Nederland	
+held006	Nederland	Nederland
+held007		
+held029		
+hell008	België (Wallonië)	
+hell009	België (Wallonië)	België (Wallonië)
+hell011	Zwitserland	
+hell014	Nederland	Groot-Brittannië (en Noord-Ierland)
+hell066		
+helm003	Suriname	Nederland
+helm005		
+helm013		
+hels014	Indonesië	Nederland
+hels018		
+helt001	Nederland	Nederland
+heme003	België (Wallonië)	België (Wallonië)
+heme014		
+hemk004	Nederland	
+hemm001	België (Wallonië)	
+hemm002		
+hend011	Nederland	Nederland
+hend012	Nederland	Nederland
+hend020		
+hend034		
+hend035		
+hend036		
+hend038	Nederland	Nederland
+hend178		
+heng007		
+heng025		
+heng026		
+henk002		
+henk003	Nederland	
+henk013	Nederland	Nederland
+henk014		
+henk016		
+henn001	Nederland	Nederland
+henn003	Nederland	
+henn009	Nederland	Nederland
+henn045		
+henr002	België (Wallonië)	
+henr005	Nederland	Nederland
+henr025		
+henr028		
+henr042	België (Wallonië)	
+hens002	België (Wallonië)	België (Wallonië)
+hens021		
+hens022		
+hens027		
+hepp001		
+herb001	Nederland	Nederland
+herb029	België (Wallonië)	België (Wallonië)
+herc003	België (Wallonië)	België (Wallonië)
+herd004	Nederland	Nederland
+herd005		
+herd017		
+here014	Cuba	Frankrijk
+herk002		
+herl010	Polen	Italië
+herm005		
+herm011	België (Wallonië)	
+herm014	Nederland	Nederland
+herm017	Nederland	Nederland
+herm019		
+herm022	Nederland	
+herm026	België (Wallonië)	België (Wallonië)
+herm028		
+herm029		
+herm030	Nederland	Nederland
+herm110		
+hern002	Uruguay	
+hern004		
+hern006	Spanje	Spanje
+herp003	Nederland	Nederland
+herp005		
+herp013		
+herr001	België (Wallonië)	
+herr002	België (Wallonië)	België (Wallonië)
+herr003	België (Wallonië)	België (Wallonië)
+herr005		
+herr026		
+herr033	België (Wallonië)	
+hert001	België (Wallonië)	
+hert002	Nederland	Nederland
+hert003	Nederland	Nederland
+hert005	Nederland	Nederland
+hert025		
+hert028		
+hert066		
+herw002	Nederland	Nederland
+herw003		
+herw004		
+herz001	Nederland	Nederland
+herz002	Nederland	
+hesm002		
+hess002	Nederland	Nederland
+hess073		
+hete009		
+hett001		
+hett013		
+heug001	Nederland	Nederland
+heuk002		
+heuk004	Nederland	Nederland
+heul002	België (Wallonië)	
+heum001	Nederland	
+heus002		
+heus014		
+heuv011		
+heuv013	België (Wallonië)	Nederland
+heuv019		
+heuv048		
+heyd046		
+heye011		
+heye012		
+heyl027	België (Wallonië)	België (Wallonië)
+heym003	België (Wallonië)	België (Wallonië)
+heym005		
+heym023		
+heym028		
+heyn005		
+heyn012	België (Wallonië)	België (Wallonië)
+heyn045		
+heyn060		
+heyr003		
+heys005	Nederland	Nederland
+heys009		
+heyt001		
+heyt004	Nederland	Zwitserland
+heyt005		
+heyv002		
+hey_002		
+heze002		
+hieg001	Nederland	Nederland
+hijl002		
+hijm002		
+hijm006	Nederland	
+hilb005	Duitsland	
+hild012		
+hilg005		
+hili001	België (Wallonië)	
+hill001	Nederland	Nederland
+hill005	Nederland	Nederland
+hill012		
+hill013	Nederland	Nederland
+hill014		
+hill037		
+hill057	Polen	Polen
+hind001	België (Wallonië)	Nederland
+hing002	Nederland	Nederland
+hing005	Nederland	
+hinr002		
+hint001	Nederland	Nederland
+hint003		
+hirs001		
+hirs004	Duitsland	Nederland
+hirs012	Duitsland	
+hirs013		
+hiss001		
+hiss003		
+hobm001		
+hobo001	Nederland	Nederland
+hobs003		
+hoeb001		
+hoec005		
+hoec025	België (Wallonië)	België (Wallonië)
+hoec026		
+hoef005	Nederland	Nederland
+hoef007	Nederland	Nederland
+hoek002	Nederland	Nederland
+hoek005		
+hoek006		
+hoek007	Nederland	
+hoek008		
+hoek014		
+hoek017	Nederland	Nederland
+hoek020	Nederland	Nederland
+hoek021		Verenigde Staten
+hoek024	Nederland	Nederland
+hoek028		
+hoek033	Nederland	Nederland
+hoek036		
+hoek073		
+hoek120		
+hoen034		
+hoen037		
+hoes003	Nederland	Nederland
+hoet004		
+hoet015		
+hoet020		
+hoet023		
+hoev004	Nederland	Nederland
+hoev007	Nederland	
+hoev009	Nederland	Nederland
+hoev014		
+hoev015		
+hoev042		
+hofd001	Nederland	Nederland
+hoff003		
+hoff014	Nederland	Duitsland
+hoff017		
+hoff018		
+hofl002	Nederland	Nederland
+hofm001		
+hofm009	Nederland	
+hofm013		
+hofm030		
+hofs005	Nederland	Nederland
+hofs015		
+hofs016		
+hofs022		
+hoft001		
+hoft003		
+hof_001	Nederland	Nederland
+hoge002		
+hoge008		
+hoge012		
+hoge017	Nederland	Nederland
+hoge018	Nederland	Duitsland
+hoge019		
+hoge020	Nederland	
+hoge022		
+hoge023		
+hoge071		
+hoin002		
+hoje001	Indonesië	Nederland
+hojh001		
+hokw001		
+holb004	Noorwegen	Denemarken
+hold010	Duitsland	Duitsland
+holi003		
+holk002	Nederland	Nederland
+holk003	Nederland	Nederland
+holl001	Nederland	
+holl017	Nederland	Nederland
+holl019		
+holl020		
+holl021	Nederland	Nederland
+holl022	Nederland	Nederland
+holl023	België (Wallonië)	Nederland
+holl024		
+holl069		
+holl076		
+holl100		
+holl103		
+holl110	Nederland	Nederland
+holm007	Verenigde Staten	Nederland
+hols001	Nederland	Nederland
+hols006	Nederland	Nederland
+holt002		
+holt009	Nederland	
+holt014	Nederland	Nederland
+holt072		
+holt074		
+holt081		
+holt083		
+holt097		
+holv001	België (Wallonië)	
+holw005		
+holw010		
+holz003		
+holz010	Polen	Polen
+hol_001	Nederland	Nederland
+hol_008		
+homb010		
+home001		
+hom_001		
+hond012	België (Wallonië)	België (Wallonië)
+honi002	Nederland	Nederland
+honi003		
+hono001	Nederland	Nederland
+hons002		
+hont002		
+hooc002	Nederland	
+hoof084		
+hoof090		
+hoog002	Nederland	Nederland
+hoog007		
+hoog012	België (Wallonië)	België (Wallonië)
+hoog016		
+hoog020	Nederland	Italië
+hoog031		
+hoog033	Nederland	Nederland
+hoog046	Nederland	
+hoog061		
+hoog116		
+hoog152		
+hoog163		
+hooi007	Nederland	Nederland
+hool008	België (Wallonië)	
+hoon004	België (Wallonië)	
+hoon006		
+hoop003	Nederland	Nederland
+hoop005	Nederland	
+hoop031		
+hoor006	Nederland	Nederland
+hoor009	Nederland	Nederland
+hoor010		
+hoor020		
+hoor021		
+hooy002	Nederland	Nederland
+hooy004	Nederland	Nederland
+hooy006	Nederland	
+hooy007	Nederland	Nederland
+hooy008		
+hopk002	Groot-Brittannië (en Noord-Ierland)	Ierland
+hopm001	Nederland	Nederland
+hopp001		
+hora001	Nederland	
+hora005	Nederland	
+hora006	Nederland	Nederland
+hora007	Italië	Italië
+horb003		
+hore012		
+horn002		
+horn032		
+horn051		
+hors005		
+hors006		
+hors009	Nederland	
+hors010		
+hors012	Nederland	Nederland
+hors023	Nederland	
+hors026		
+hors027	Nederland	
+hors028		
+hors095		
+hosd002	België (Wallonië)	België (Wallonië)
+hose001		
+host002	België (Wallonië)	
+host006	België (Wallonië)	België (Wallonië)
+host011		
+hott001		
+hotz001	Nederland	Nederland
+hotz006		
+houb023		
+houc003	Nederland	Nederland
+houp001		
+hout025	Nederland	Nederland
+hout027	Nederland	Nederland
+hout034		
+hout035		
+hout038		
+hout041		
+hout042		
+hout100	België (Wallonië)	België (Wallonië)
+hout113		
+hout114	België (Wallonië)	België (Wallonië)
+hout115		
+hout119		
+hout155		
+hout165		
+houw006	Nederland	
+houw008	Nederland	Nederland
+houw011		
+houw013	Indonesië	Nederland
+hove006	Nederland	
+hove063		
+hovi002	Nederland	
+hovr002	België (Wallonië)	België (Wallonië)
+hovy001		
+howe001	Nederland	Nederland
+howe003		
+hoye002		
+hsuu001	China	
+huar005	Nederland	Nederland
+hube003		Nederland
+hube007	Nederland	
+hube009	Nederland	Nederland
+hube047	Nederland	
+hube057		
+hubr002	Nederland	Nederland
+hubr003	Nederland	
+hubr005		
+hudi001	Nederland	
+hudi003	Nederland	Nederland
+huel001	Nederland	Nederland
+huet002	Nederland	Nederland
+huet005	Nederland	Nederland
+huet016	België (Wallonië)	
+huet026		
+huff011		
+huff013		
+huge002	Nederland	Nederland
+huge003	Nederland	Verenigde Staten
+huge004	Nederland	Nederland
+huge005		
+huge017		
+huge022	Nederland	
+hugh007	Groot-Brittannië (en Noord-Ierland)	Groot-Brittannië (en Noord-Ierland)
+hugo013		
+huig002		
+huij003	Nederland	
+huij005		
+huis008	Nederland	Nederland
+huis009		
+huis011		
+huis019		
+huiz003	Nederland	Nederland
+huiz004	Nederland	Nederland
+huiz009		
+huiz010	Nederland	Nederland
+huiz011		
+huiz016	Nederland	Nederland
+huiz019	Nederland	Nederland
+huiz031	Nederland	
+huiz040		
+hulk004		
+hull002	België (Wallonië)	
+hull004	Nederland	Nederland
+hull005	Nederland	
+hull006	Nederland	
+hull015		
+huls001		
+huls005		
+huls008	Nederland	Canada
+huls009		
+huls024		
+huls052	Duitsland	
+huls058		
+huls070		
+huls096		
+huls113		
+hult006		
+hulz002	Nederland	Nederland
+hulz003		
+hulz005	Nederland	
+humm001	Nederland	Nederland
+humm006		
+huni001	Duitsland	
+huni005		
+hunn002	Nederland	
+hunt003	Groot-Brittannië (en Noord-Ierland)	Groot-Brittannië (en Noord-Ierland)
+hupp004		
+husa001		
+husk002	Nederland	Nederland
+huss001	Nederland	Nederland
+huts001		
+hutt002		
+huyb026		
+huyb027		
+huyg001	Nederland	Nederland
+huyg005	Nederland	
+huyg006	Nederland	Nederland
+huyg021		
+huyg051		
+huyg052		
+huyg058	België (Wallonië)	
+huyg063		
+huys003		
+huys004	België (Wallonië)	België (Wallonië)
+huys013	België (Wallonië)	
+huys014	Nederland	Nederland
+hylk002	Nederland	
+ianc001	Moldavië	Frankrijk
+ians001	Nederland	
+Ian_002	België (Wallonië)	
+ibsc001		
+idem001	Nederland	
+idem005		
+iden002	Nederland	
+iden003	Nederland	Nederland
+idse001	Nederland	Nederland
+iers002	Nederland	
+igna001		
+ijse001		
+ijss001	Nederland	
+ijze003		
+illa001	Litouwen	Polen
+illi001	Oostenrijk	Duitsland
+imbe003	België (Wallonië)	België (Wallonië)
+immi003		
+inde002	België (Wallonië)	België (Wallonië)
+inde004		
+inde005		België (Wallonië)
+inge003	Nederland	
+insi001	België (Wallonië)	België (Wallonië)
+insi006		
+ioan001		
+isaa004		
+isac001	België (Wallonië)	België (Wallonië)
+isac002	België (Wallonië)	België (Wallonië)
+isac005	België (Wallonië)	België (Wallonië)
+iseb001		
+iseg001	België (Wallonië)	
+isin001	Nederland	Nederland
+isin004		
+isma002		
+isra003	Nederland	Nederland
+iste001	België (Wallonië)	
+ital001	Duitsland	Duitsland
+iter004		
+itte001	België (Wallonië)	Roemenië
+itte002		
+ivan006		
+iven001	België (Wallonië)	
+iven003	Nederland	Frankrijk
+iwas001	Oekraïne	Polen
+iwem001		
+jaar001	Nederland	
+jacc002		
+jacc003	Zwitserland	
+jaci001	Angola	Portugal
+jack005		
+jaco002	België (Wallonië)	België (Wallonië)
+jaco005		Zuid-Afrika
+jaco012		
+jaco016		
+jaco019	Nederland	Nederland
+jaco024		
+jaco042		
+jaco043		
+jaco044	België (Wallonië)	België (Wallonië)
+jaco045	Nederland	Nederland
+jaco048	Nederland	
+jaco049		
+jaco050		
+jaco091		
+jaco145		
+jaeg007		
+jaeg012		
+jaeg014	Nederland	Nederland
+jaeg017		
+jaff001	Duitsland	
+jage001		
+jage003	Nederland	Nederland
+jage006	Nederland	Nederland
+jage007		
+jage011		
+jage014		
+jage015	Nederland	
+jage016		
+jage018		
+jage029		
+jage042		
+jagt001	Indonesië	
+jagt005		
+jagt010		
+jame004		
+jame009	Caribisch deel van het Nederlandse Koninkrijk	
+jand002		
+jans001		België (Wallonië)
+jans004	Nederland	Nederland
+jans006	Nederland	
+jans008	Nederland	
+jans016		
+jans020	Nederland	
+jans024		
+jans025	Nederland	Nederland
+jans028	Nederland	Nederland
+jans030		
+jans033		
+jans036	België (Wallonië)	België (Wallonië)
+jans039	Nederland	Nederland
+jans040	Nederland	Frankrijk
+jans041	België (Wallonië)	België (Wallonië)
+jans043	Frankrijk	Frankrijk
+jans044	Nederland	
+jans048		
+jans051		
+jans053	België (Wallonië)	
+jans059		
+jans061	België (Wallonië)	
+jans064	België (Wallonië)	
+jans069	Nederland	Nederland
+jans096		
+jans098	Nederland	Nederland
+jans099		
+jans103		
+jans109		
+jans112		
+jans113		
+jans114	Nederland	Nederland
+jans115		
+jans116	België (Wallonië)	Nederland
+jans119	België (Wallonië)	België (Wallonië)
+jans120		
+jans121		
+jans226		Nederland
+jans227		
+jans230		
+jans235		
+jans237	Nederland	
+jans240		
+jans241		
+jans305	Nederland	Nederland
+jans306	Nederland	Nederland
+jans314	Nederland	Nederland
+jans317	België (Wallonië)	België (Wallonië)
+jans318		
+jans360		
+jans390		
+jans394	België (Wallonië)	België (Wallonië)
+jans396		
+jans431		
+jans449		
+jans450		
+jans469		
+jant003		
+janz011		
+japi002		
+japi003	Nederland	Nederland
+japi005	Nederland	Nederland
+jasn001	Polen	Groot-Brittannië (en Noord-Ierland)
+jasp002	Nederland	
+jasp004		
+jast001	Polen	Polen
+jaul001		
+jeju001		
+jelg003		
+jelg004	Nederland	Nederland
+jell001	Nederland	Nederland
+jels002	Nederland	
+jenn004		
+jens007	Denemarken	
+jens014		
+jesp008		
+job_001		
+joch003		
+joek001	Nederland	Nederland
+joha007		
+john001		
+joll001	Nederland	Duitsland
+jonc002	Nederland	Nederland
+jonc003	Nederland	Duitsland
+jonc005	België (Wallonië)	België (Wallonië)
+jonc011		
+jonc041		
+jong002		
+jong010		
+jong011	Nederland	Nederland
+jong012	Nederland	Nederland
+jong013	Nederland	Verenigde Staten
+jong018		
+jong019		
+jong027		
+jong030	Nederland	Nederland
+jong033		
+jong036	Duitsland	Nederland
+jong037		
+jong038	Nederland	
+jong044	Nederland	
+jong045	Nederland	Nederland
+jong047		
+jong048	Nederland	Nederland
+jong049	Nederland	
+jong053		
+jong058	Nederland	
+jong066	Nederland	
+jong069	Nederland	
+jong073		
+jong082		
+jong091	Nederland	
+jong099	Nederland	Nederland
+jong118	Nederland	
+jong124	Nederland	Nederland
+jong126	Nederland	Nederland
+jong135		
+jong137		
+jong140		
+jong142	Nederland	Nederland
+jong148	Nederland	
+jong149		
+jong150		
+jong151		
+jong152		
+jong153		
+jong212		
+jong219		
+jong222		
+jong223	Nederland	Duitsland
+jong230		Nederland
+jong233		
+jong237		
+jong260	Nederland	Nederland
+jong311		
+jong317	Nederland	Nederland
+jong325		
+jong350		
+jong362		
+jong371		
+jong435		
+jong437		
+jonk007	Zuid-Afrika	Zuid-Afrika
+jonk009		
+jonk015		
+jonk022		
+jonk023		
+jonk030		
+jonk039		
+jonk046		
+jons001		
+joor001	België (Wallonië)	
+joor005	België (Wallonië)	België (Wallonië)
+joos001	België (Wallonië)	België (Wallonië)
+joos006	Nederland	
+joos008		
+joos011	Nederland	Nederland
+joos012		
+joos015		
+jorg003	Denemarken	
+jori002	België (Wallonië)	
+jori007	Nederland	Nederland
+jori008		
+jorr001		
+jose008	Nederland	Nederland
+jose011		
+joss001	Nederland	Nederland
+joss003		
+joss006		
+joss009		
+jous004	Nederland	Nederland
+jouv001		
+joyc002	Ierland	Zwitserland
+joye001		
+jozs001		
+juff001		
+juli001	Caribisch deel van het Nederlandse Koninkrijk	Caribisch deel van het Nederlandse Koninkrijk
+juli002	Nederland	Nederland
+juli005	Nederland	Nederland
+juli014		
+jull002		
+jung006		
+juni004	Zuid-Afrika	Nederland
+juta001		
+juyi001	China	
+juyn001		
+juyn002		Nederland
+juyn003	Nederland	Nederland
+juyn012	Nederland	Nederland
+kaal004		
+kaas007		
+kaat002		
+kaay001	Nederland	Nederland
+kade002		
+kaij002	Finland	Finland
+kais002	Nederland	Nederland
+kais003	Nederland	Nederland
+kais011		
+kald005		
+kale001		
+kalf001	Nederland	Nederland
+kalf003	Nederland	Duitsland
+kalf004	Nederland	Nederland
+kalf005		
+kalf009		
+kali004		
+kalm001	Nederland	Nederland
+kalm003	Nederland	Nederland
+kalm004	Nederland	Nederland
+kalm006	Nederland	
+kalm008		
+kalm013		
+kalt005		
+kama002		
+kame002	Nederland	Nederland
+kame003	Nederland	Nederland
+kame006	Nederland	Nederland
+kamp006	Nederland	Nederland
+kamp007	Nederland	Nederland
+kamp016	Nederland	
+kamp072	Duitsland	Duitsland
+kams003	Nederland	
+kam_012		
+kann001		
+kann003	Zuid-Afrika	Zuid-Afrika
+kant002	Nederland	Nederland
+kant005	Nederland	Nederland
+kant019		
+kan_001		
+kan_002	Nederland	Nederland
+kan_003	Nederland	Nederland
+kan_004	Nederland	
+kan_005	Nederland	Nederland
+kan_007	Nederland	Nederland
+kan_008		
+kape001		
+kapl002	Rusland	Nederland
+kapp002		
+kapp004	Nederland	Nederland
+kapp014		
+kapp015		
+kapp018		
+kapt004	Nederland	
+kapt017		
+kari001	Hongarije	Hongarije
+karn001		
+karn002	Nederland	Nederland
+karp002		
+kars002		
+kars003	Nederland	Zuid-Afrika
+kars009		
+kart003	Indonesië	Indonesië
+kass001	Nederland	
+kass002	Nederland	
+kas_001		
+kata001	Oostenrijk	Oostenrijk
+kate001	Nederland	Nederland
+kate004	Nederland	Tunesië
+kats001	Nederland	
+kat_014		
+kat_019	Nederland	Nederland
+kaut003		
+kava001	Egypte	Egypte
+kaye001		
+kaze001	Nederland	Nederland
+kaze002	Nederland	Nederland
+keat002	Groot-Brittannië (en Noord-Ierland)	Italië
+kebl002	Nederland	
+keek001	Nederland	Nederland
+keer004	België (Wallonië)	België (Wallonië)
+kees001	Nederland	Nederland
+kees009	Verenigde Staten	
+keij005	Nederland	
+keij008		
+kelk001	Nederland	Nederland
+kell004	Nederland	Nederland
+kell005	Nederland	
+keme002		
+kemp002	België (Wallonië)	België (Wallonië)
+kemp004	Nederland	Nederland
+kemp005	Nederland	Nederland
+kemp006		
+kemp009	Nederland	
+kemp011	Nederland	
+kemp012		
+kemp017		
+kemp034		
+kemp036		
+kemp072		
+kemp103		
+kemp104		
+keni003		
+kens001	Suriname	
+kepp002	Nederland	
+kerb007		
+kerc003		
+kerc004	België (Wallonië)	België (Wallonië)
+kerc012		
+kerc013		
+kerc042		
+kerk001		
+kerk006		
+kerk007	Nederland	
+kerk011		
+kerk012		
+kerk026		
+kern002	Indonesië	Nederland
+kern005	Nederland	Nederland
+kern006		
+kern008	Nederland	Nederland
+kers007		
+kers013	Nederland	Nederland
+kers014		
+kers015	Nederland	Nederland
+kers025		
+kerv004		
+kese001		
+kess005	Nederland	Nederland
+kess040		
+kest003		
+kest013		
+kest027		
+ketn001		
+kets001		
+kett001		
+kett004	Nederland	Nederland
+kett007	Duitsland	
+keuc008		
+keul001	Tunesië	
+keul003	Nederland	Nederland
+keul007		
+keul038		
+keun002		
+keun009	België (Wallonië)	België (Wallonië)
+keus002		
+keus003		
+keym003	België (Wallonië)	
+keym009		
+keym010		
+keys004	België (Wallonië)	België (Wallonië)
+keys012	België (Wallonië)	
+keyz014	België (Wallonië)	
+kgot001	Zuid-Afrika	
+khay001	Iran	
+kibe001	Hongarije	Duitsland
+kief001		
+kief003		
+kieh001	Nederland	Nederland
+kiel002	Nederland	
+kiel003	Nederland	Nederland
+kiel012		
+kien001		
+kiev007	Nederland	
+kiew001	Nederland	Zwitserland
+kiew003	Nederland	Indonesië
+kijz001	Nederland	
+kili005		
+kili009		
+kils001		
+kind006	Nederland	
+kind009	Nederland	Nederland
+kine001		
+king001	Groot-Brittannië (en Noord-Ierland)	
+king002		
+king014		
+kipl002	India	
+kips001	Nederland	Nederland
+kirc005		
+kirc008		
+kirs002		
+kirs003	België (Wallonië)	België (Wallonië)
+kita001		
+kive002	Indonesië	Indonesië
+klaa018		
+klan001	Nederland	Nederland
+klan002		
+klap001		
+klav008		
+klee011		
+klee012	Nederland	Nederland
+klei010		
+klei013		
+klei019		
+klei021		
+klei023	Nederland	Nederland
+klei024		
+klei038		
+klei042		
+klei049	Nederland	Nederland
+klei053		
+kler001	Nederland	
+kler002	Nederland	
+kler024		
+kley019		
+klim001	Polen	
+klin001	Nederland	
+klin002		
+klin015		
+klin030		
+klin031		
+klin049		
+kloe003	Nederland	
+kloe004	Nederland	Nederland
+kloe010		
+kloe032		
+kloo001		
+kloo003	Nederland	Nederland
+kloo004	Indonesië	Nederland
+kloo008	Nederland	
+klop001	Indonesië	Zwitserland
+klui001	Nederland	Nederland
+klui003	Nederland	Nederland
+klui012		
+kluy001	Nederland	Nederland
+kluy002		
+kluy005	België (Wallonië)	België (Wallonië)
+knap005	Nederland	Nederland
+knap006	Nederland	Nederland
+knap008		
+knap017		
+knee001	Nederland	
+knee002		
+knep001	Nederland	Nederland
+knet001	Nederland	Nederland
+knip001	Nederland	Nederland
+knip004	Nederland	
+knol002		
+knol004	Nederland	Nederland
+knol006		
+knoo003	Nederland	Nederland
+knoo004		Nederland
+knoo012		
+knop001	Nederland	
+knop003	Nederland	
+knop007	België (Wallonië)	
+knot002	Nederland	Nederland
+knut002	Indonesië	
+knut003	Nederland	Nederland
+knut004	Nederland	Nederland
+knut005	Nederland	Nederland
+knut007	Nederland	Nederland
+knuv001	Nederland	Nederland
+knuv002	Nederland	
+kobu002		
+koch002		
+koch008		
+koch019	Nederland	Nederland
+koch022		
+koch028		
+kock029		
+kock031		
+kock034		
+koec001	België (Wallonië)	Nederland
+koed006		
+koef001		
+koej001		
+koek003		
+koek004	Nederland	Nederland
+koek009	Nederland	Nederland
+koek017		
+koel003	Nederland	Nederland
+koel004	Nederland	
+koel012		
+koem004		
+koen006	Nederland	Nederland
+koen012		
+koen038		
+koes006	Rusland	
+koet006	Verenigde Staten	Nederland
+koet014		
+koev003	Nederland	
+koe_001	Nederland	Nederland
+kohl003		
+kohl005		
+kohl009		
+kohn001	Nederland	
+kohn003	Duitsland	Nederland
+koh_001		
+koks001		
+kok_001	Nederland	
+kok_002	Singapore	
+kok_015	Nederland	
+kok_018		
+kok_021	Nederland	Nederland
+kok_032		
+kola001	Polen	Groot-Brittannië (en Noord-Ierland)
+kolf002		
+kolk010		
+kolk015		
+koll003	Nederland	Nederland
+koll004	Nederland	
+kolt003		
+kol_001	Nederland	Nederland
+kol_002	Nederland	België (Wallonië)
+kome001		
+kome004		
+komm006	Nederland	
+komr001	Nederland	Nederland
+komt002		
+kom_002	Nederland	
+koni013		
+koni016		
+koni064		
+koni080	Nederland	Nederland
+koni100	Nederland	Nederland
+koni102		
+kons001		
+kooi003	Nederland	Nederland
+kooi007		
+kooi008	Nederland	
+kooi011	Nederland	Nederland
+kooi014		
+kooi017		
+kooi018		
+kooi020		
+kooi021		
+kooi022		
+kooi053	Nederland	Nederland
+kool001		
+kool003	Nederland	Nederland
+kool007	Nederland	
+kool009	Nederland	Nederland
+kool010	Nederland	
+kool011	Nederland	Indonesië
+kool031		
+koom004		
+koom010		
+koop001		
+koop002		
+koop011	Nederland	Nederland
+koop022		
+koop025		
+koop026		
+koop030		
+koop061		
+koor003	Nederland	Nederland
+koor004	Nederland	Indonesië
+koot011		
+kooy003		
+kooy004	Nederland	Nederland
+kooy005		
+kooy011		
+kooy014	Nederland	
+kooy020		
+koo_001	Nederland	België (Wallonië)
+kopl001	Nederland	Nederland
+kops003	Nederland	Nederland
+kops005	Nederland	Nederland
+korb001	België (Wallonië)	
+kore001		
+korf002	Nederland	Nederland
+korn004	Nederland	Nederland
+korp002		
+kors006		
+kort001	Nederland	
+kort003	Nederland	Nederland
+kort006	Nederland	
+kort010	Nederland	
+kort017	Nederland	Nederland
+kort018		
+kort020		
+kort031		
+kort055		
+korv002		
+korz001	Polen	Polen
+korz002	Polen	
+koss001	Nederland	Nederland
+koss002	Nederland	Nederland
+koss003	Nederland	Nederland
+koss004	Rusland	
+koss013	Polen	Polen
+kost001		
+kost004		
+kost005	Groot-Brittannië (en Noord-Ierland)	Nederland
+kost007	Nederland	
+kost009	Nederland	
+kost010	Nederland	Nederland
+kost016	Nederland	
+kost017		
+kost018	Nederland	Nederland
+kost019		
+kost038	Nederland	
+kost048		
+koth001		
+kott001		
+kous001	Indonesië	Nederland
+kouw002	Nederland	Nederland
+kouw005	Nederland	Nederland
+kouw017		
+kox_001		
+kraa005	Nederland	
+kraa006		Nederland
+kraa007	Nederland	Nederland
+kraa008		
+kraa011		
+kraa028		
+kraa029		
+krab002	Nederland	
+krab006	Nederland	Nederland
+krae003	Nederland	Nederland
+krak002		
+kral001	Nederland	
+kram001		
+kram002	Nederland	
+kram003		
+kram007		
+kram008	Nederland	Nederland
+kram017	Nederland	Nederland
+kram020	Nederland	Nederland
+kram021		
+kram023		
+kram029		
+kram032		
+kram044		
+kran001	Nederland	Nederland
+kran004	Nederland	Nederland
+kran005	Nederland	Nederland
+kran019		
+krau002		
+kree003	België (Wallonië)	België (Wallonië)
+kreg001	Nederland	
+kreu002		
+krev001		
+krey003		
+krie020		
+krig001		
+krij001	België (Wallonië)	Verenigde Staten
+krij002	Tsjechië	Tsjechië
+krij004	Nederland	Polen
+krij005		
+krij006	Nederland	
+krij014		
+krij016		
+krim001	Nederland	
+krin004	Duitsland	Verenigde Staten
+kris002	Nederland	
+kris004	Nederland	Nederland
+kris005		
+kroe002	Nederland	Nederland
+kroe009	Nederland	Nederland
+kroe026		
+kroe031		
+krol002	Nederland	Nederland
+krol012	Duitsland	Duitsland
+krom005	Nederland	Nederland
+kron001	Nederland	Nederland
+kron011		
+kron016	Nederland	
+kroo001		Nederland
+kroo004	Nederland	
+kroo005	Nederland	
+kroo013	Nederland	Nederland
+kroo016		
+kroo017	Nederland	Nederland
+kroo030		
+krug014	Nederland	
+krug015	Duitsland	
+krui001		
+krui005	Nederland	Nederland
+krui008	Nederland	
+krui009		
+krui010	Nederland	Nederland
+krui011	Nederland	Nederland
+krui017	België (Wallonië)	
+krui078		
+kruk001		
+krul006		
+krul008	Nederland	
+krus004		
+krus005		
+krus013		
+kruy003	Nederland	Nederland
+kruy004	Nederland	Nederland
+kruy010		
+kruy011	Nederland	
+kubb001		
+kubb002		
+kuen001	Nederland	Nederland
+kuen002		
+kuen004		
+kuhl001	Nederland	Nederland
+kuhn002		
+kuij003	Nederland	Nederland
+kuij004	Nederland	
+kuik003	Nederland	
+kuil005		
+kuin003		
+kuip011		
+kuip012		
+kuip016	Nederland	Nederland
+kuip019	Nederland	
+kuip028	Nederland	Nederland
+kuip031		
+kuip032		
+kuip069		
+kuip098		
+kuit001	Nederland	Nederland
+kuit003		
+kuit004	Nederland	
+kuit006		
+kuit009	Nederland	
+kulk001	Nederland	
+kumm001	Nederland	Nederland
+kunc001	Rusland	Polen
+kune003	Zuid-Afrika	
+kuns005	Nederland	Nederland
+kuns011		
+kurp001	Nederland	
+kurp003	Nederland	Nederland
+kurt001		
+kust002	Nederland	Nederland
+kust004	Nederland	
+kuyk004		
+kuyk009		
+kuyl001	Nederland	Nederland
+kuyp001		
+kuyp002	Nederland	Nederland
+kuyp003	België (Wallonië)	
+kuyp007	Nederland	
+kuyp011	België (Wallonië)	België (Wallonië)
+kuyp014	Nederland	Nederland
+kuyp015	Nederland	Nederland
+kuyp017		
+kuyp019		
+kuys001		
+kwee001		
+kwek001		
+kwin001		
+kyor001		
+ky__001		
+laan001	Nederland	Nederland
+laan004		
+laan005	Nederland	Nederland
+laan006	Nederland	Nederland
+laan009	Nederland	
+laan011		
+laan038		
+laan043		
+laan045	Nederland	Nederland
+laar027		
+laar028		
+labe001	Frankrijk	Frankrijk
+labo002		
+labr007		
+lada001		
+lade004		
+laen008	België (Wallonië)	
+laer003	België (Wallonië)	
+laer004	België (Wallonië)	
+laer006	België (Wallonië)	
+laer008		
+laey001	België (Wallonië)	België (Wallonië)
+laey002	Nederland	
+lafo003	Nederland	Nederland
+lafo004	Uruguay	Frankrijk
+lage009		
+lage022	Zweden	Zweden
+lagr001	België (Wallonië)	België (Wallonië)
+lake007		
+lala024	Syrië	Syrië
+lall002		
+lama001	Nederland	Nederland
+lama010	België (Wallonië)	
+lamb004	Indonesië	Nederland
+lamb005		
+lamb013		
+lamb015	België (Wallonië)	België (Wallonië)
+lamb027	België (Wallonië)	
+lamb028	België (Wallonië)	België (Wallonië)
+lamb029	Nederland	Nederland
+lamb030	België (Wallonië)	België (Wallonië)
+lamb031		
+lamb087		
+lamb097		
+lamb104	Frankrijk	
+lame009		
+lamm004		
+lamm005		
+lamm007		
+lamm008		
+lamm050		
+lamo004		
+lamo015		
+lamp003	België (Wallonië)	België (Wallonië)
+lamp004	België (Wallonië)	
+lamp005	Nederland	
+lamp006	Nederland	Nederland
+lam_001		Nederland
+lam_003	Nederland	
+lam_005	Nederland	Nederland
+lanc014		
+lanc026		
+land004	Indonesië	Nederland
+land005	Nederland	Nederland
+land015	Nederland	Nederland
+land021	Nederland	Nederland
+land022	Nederland	Nederland
+land024		
+land055	Nederland	Frankrijk
+land066		
+land082	België (Wallonië)	
+land087		
+land092		
+land093		
+lang004		
+lang006	Nederland	
+lang010		
+lang016	Nederland	Nederland
+lang021	België (Wallonië)	België (Wallonië)
+lang029	Nederland	Nederland
+lang033	Noorwegen	
+lang046	Nederland	
+lang047	Nederland	Nederland
+lang050		
+lang051		
+lang053		
+lang054		
+lang055		
+lang081		
+lang184		
+lang185		
+lang190		
+lang219		
+lang228		Nederland
+lang240		
+lang244		
+lank003		
+lank009		
+lank014		
+lann004		
+lann024		
+lans001	Nederland	
+lans002		
+lans045		
+lant005		
+lant019		
+lapi001	Nederland	Duitsland
+lapi007	Indonesië	Indonesië
+lapo001		
+laps003		
+lars008		
+lasc003		
+lasc004		
+lask001		
+laso001	België (Wallonië)	België (Wallonië)
+laso002	Nederland	Nederland
+lass005		
+lass009		
+last001	Nederland	Nederland
+lasz002	Slowakije	Hongarije
+lath005		
+lauh001	Noorwegen	Noorwegen
+laun003	Nederland	
+laur005	Nederland	Nederland
+lauw003		
+lauw012		
+lauw034		
+lau_001	Nederland	Nederland
+lava004	Italië	Zwitserland
+lawr001	Groot-Brittannië (en Noord-Ierland)	Frankrijk
+ldov001		
+lebe001	België (Wallonië)	België (Wallonië)
+lebe005		
+lebo004		
+lech003	Indonesië	
+lech007		
+lecl009		
+lecl011		
+leco002	België (Wallonië)	België (Wallonië)
+leef001		
+leef002	Nederland	Nederland
+leef014		
+leek003		
+leem003		
+leem005	Nederland	Nederland
+leem013		
+leem039		
+leen002	België (Wallonië)	
+leen006		
+leen007	Nederland	Duitsland
+leen008	België (Wallonië)	België (Wallonië)
+leen017	Nederland	Nederland
+leen023	Nederland	
+leen045		
+leer004	Nederland	
+leer006		
+leer007	Nederland	Nederland
+leeu003	Nederland	Nederland
+leeu013	Duitsland	Nederland
+leeu015	Caribisch deel van het Nederlandse Koninkrijk	Caribisch deel van het Nederlandse Koninkrijk
+leeu017	Nederland	Nederland
+leeu020	Nederland	
+leeu022		
+leeu024	Nederland	Nederland
+leeu039	Nederland	Nederland
+leeu042		
+leeu044	Nederland	
+leeu045	Nederland	
+leeu053	Nederland	Nederland
+leeu157		
+leeu165	Nederland	Polen
+leeu194		
+leez001		
+lefe004		
+leff001		
+left001	Nederland	Groot-Brittannië (en Noord-Ierland)
+lehm001	Nederland	Nederland
+lehn001	Nederland	Frankrijk
+lehn002		
+leib003		
+leig002	Nederland	Nederland
+leij003	Nederland	
+leij005		
+leij012		
+leij013		
+leik001	Nederland	Nederland
+leik002	Nederland	Nederland
+leir003		
+lekk001	Nederland	Nederland
+lekk002		
+lek_002		
+leli001		
+leli011		
+lels002		
+lely005	Indonesië	Nederland
+lely018		
+lely019		
+lema002		
+lema010		
+lema011		
+lema014		
+lema022		
+lemm009	Nederland	
+lemm021	Nederland	
+lemp001		
+lem_001		
+lena002		
+lena006		
+lend007		
+leni003	Rusland	Rusland
+lenn001	Nederland	Nederland
+lenn005	Nederland	
+lenn006	Nederland	Nederland
+lenn011		
+lenn019		
+lenn022		
+lenn024	Zwitserland	Nederland
+lenn028	Nederland	Nederland
+lenn036		
+lenn039		
+lens002	Nederland	Nederland
+lens026		
+lent005		
+leon019	Nederland	Nederland
+leon027	België (Wallonië)	België (Wallonië)
+leon031		
+leon034		
+leop002		
+leop004	Nederland	Nederland
+leop006		
+leop008	Nederland	Nederland
+leop010	Nederland	Nederland
+leop012	Nederland	Nederland
+lepe002		
+lepp002	Nederland	
+lerb001	België (Wallonië)	België (Wallonië)
+lern003		
+lero002	België (Wallonië)	België (Wallonië)
+lesm001	Nederland	
+less002	Nederland	Nederland
+less005		
+less009	Iran	Groot-Brittannië (en Noord-Ierland)
+lest002	Nederland	Nederland
+leup004	Nederland	Nederland
+leur003		
+leus003		
+leus008		
+leuv003	Nederland	Nederland
+leuv005	Nederland	
+leuv015		
+leuv017		
+leva003	België (Wallonië)	België (Wallonië)
+leva004	Italië	Italië
+leve001	Nederland	
+leve008		
+levi008		
+levi015		
+levi022	Verenigde Staten	Verenigde Staten
+levi027		
+levi028		
+levy003	Nederland	
+lewa002	Polen	Zweden
+leyd008	Indonesië	Nederland
+leyd010		
+leyd023		
+leye001		
+leyn006		
+leys004		
+leyt004		
+ley_009	Nederland	Nederland
+le_l001		
+lhor001		
+liba002		
+libb003		
+lich003		
+lich004	Nederland	Nederland
+lich018		
+lidt004		
+lieb001	België (Wallonië)	België (Wallonië)
+lied002	België (Wallonië)	België (Wallonië)
+lied004		
+lief002	Nederland	
+lief021		
+lief033		
+lier003	Nederland	Nederland
+lier005	Suriname	Nederland
+lier032		
+lier033		
+lies001	Nederland	Nederland
+lies009		
+lies022		
+liev001	Nederland	Nederland
+liev005	België (Wallonië)	België (Wallonië)
+liev019		
+liev031		
+lie_002		
+ligt003		
+ligt004		
+ligt009		
+ligt010	Nederland	
+lijp002		
+limb005	België (Wallonië)	Nederland
+limb012	Nederland	Duitsland
+limb015		
+limb018		
+limb075		
+lina002		
+lind003	Nederland	Duitsland
+lind006		
+lind009	België (Wallonië)	België (Wallonië)
+lind012	Nederland	Nederland
+lind028		
+lind033	Groot-Brittannië (en Noord-Ierland)	Nederland
+lind034		
+lind039	Nederland	Nederland
+lind048		
+lind066		
+lind082	Zweden	Zweden
+lind099		
+lind153		
+lind154		
+lind156		
+lind199		
+link004	Duitsland	
+linm001		
+linn003		
+linn006		
+lint007	Nederland	Nederland
+lipo001	China	
+lips005		
+lish001	België (Wallonië)	België (Wallonië)
+lisl002	Frankrijk	Frankrijk
+liss003	België (Wallonië)	
+list002		
+lita001	Kirgizië	China
+lith002	Nederland	Nederland
+lobe001		
+lobe003	België (Wallonië)	België (Wallonië)
+lobe017		
+lobl001		
+lobo003		
+lob_002	Duitsland	Nederland
+loch003	Nederland	Nederland
+loch004	Nederland	
+lock010		
+lodd001		
+lode001	Nederland	Zwitserland
+lode004	Nederland	Nederland
+lode006	België (Wallonië)	Australië
+lode018		
+lode019		
+loeb002	Nederland	Zuid-Afrika
+loeb003		
+loef001		
+loen001	Nederland	
+loen004	Nederland	
+loen022		
+loen028		
+loes002	Duitsland	Nederland
+loey001	België (Wallonië)	België (Wallonië)
+loff001	Nederland	Nederland
+loff002	Suriname	Nederland
+lof_001		
+loge001	Nederland	België (Wallonië)
+loge003	Nederland	België (Wallonië)
+loge004	Nederland	Nederland
+logg001	Nederland	Nederland
+logh007		
+lohn001	Nederland	Duitsland
+loke008		
+lokh001	Nederland	Nederland
+loma003	Nederland	
+loma006	Nederland	Nederland
+long003		
+long004	België (Wallonië)	België (Wallonië)
+lonk001		
+loog001		
+looh001		
+loom005		
+loon004	Nederland	
+loon017	Nederland	
+loon032		
+loop001	Nederland	Nederland
+loos009	Nederland	Nederland
+loos010	Nederland	Nederland
+loos012	Nederland	Nederland
+loos013		
+loos031		
+loot011		
+looy001	Nederland	Nederland
+loo_013		
+lope001		
+lope004	België (Wallonië)	Nederland
+lope015		
+lope017		
+lord001	Spanje	Spanje
+lore002	Nederland	Nederland
+lore012		
+lorr002		
+lots001		
+lots002		Nederland
+lous001	Nederland	Nederland
+lous002		
+lout003		
+louw001	Zuid-Afrika	Zuid-Afrika
+louw002		
+love002	België (Wallonië)	België (Wallonië)
+lovr001	Kroatië	
+lox_001		
+loy_001	België (Wallonië)	
+loy_004		
+loza001		
+lubb002	Nederland	Nederland
+lubb008	Nederland	Nederland
+lube002	Nederland	Nederland
+lubo001		
+lub_001		
+luca006		
+luca007		
+luca012		
+luce001	Nederland	Nederland
+ludw005		
+luge001	Nederland	
+lugr001	Spanje	Spanje
+lugt005		
+lugt006		
+luij005		
+luij006		
+lukk001		
+lulo002	Nederland	Nederland
+lume001	Indonesië	Nederland
+lund001		
+lund008	Zweden	Zweden
+luns003	Frankrijk	
+luns004	Nederland	Nederland
+luns006		
+luss003		
+lutk002	Nederland	Nederland
+lutk003	Nederland	
+lutt002	Nederland	Nederland
+lutz007	Nederland	Nederland
+lutz012		
+luxe001	Nederland	Nederland
+luxe003		
+luyc007		
+luye001	Nederland	Nederland
+luyt021		
+luyt023		
+luza006		
+lu_x001		
+lyse001		
+lyse002		
+maan003	Nederland	Nederland
+maan004	Nederland	Nederland
+maan009	Nederland	
+maan020		
+maar004	Nederland	Nederland
+maar024	Nederland	Nederland
+maas003	Nederland	Nederland
+maas005	Nederland	Nederland
+maas008	Nederland	
+maas015		Nederland
+maas024	Nederland	Nederland
+maas026	Nederland	Nederland
+maas077		
+maat002		
+maca002	Nederland	
+macg001		
+mach003		
+mach023	Spanje	
+mack006		
+mack019		
+macl001	Nederland	Nederland
+macl007	Indonesië	Nederland
+made001		
+madg001		
+mads002	Denemarken	
+mael004	België (Wallonië)	België (Wallonië)
+maer001		Nederland
+maer002		België (Wallonië)
+maer018		
+maer020	België (Wallonië)	
+maes007	België (Wallonië)	
+maes048		
+maes049		
+maes061	België (Wallonië)	
+maes070		
+maes088		
+maey009		
+mage001	België (Wallonië)	België (Wallonië)
+maie001		
+mair001	Nederland	Nederland
+mais007		
+make001	België (Wallonië)	Nederland
+makh002	Cambodja	
+mak_001	Nederland	Nederland
+mak_002		
+mak_004	Nederland	
+mala003		
+mald015		
+male010	Oekraïne	Rusland
+malh001	Zuid-Afrika	Zuid-Afrika
+malh006		
+mali007		
+malj001		
+mall015	Frankrijk	Frankrijk
+mals002	Nederland	Nederland
+malt003		
+mand002	Nederland	Nederland
+mand007	Nederland	Nederland
+mand034		
+mand041		
+mand042	Servië	
+mand043	Rusland	Rusland
+mane001		
+mane004	Nederland	Nederland
+mane008		
+mang001	Nederland	
+mang003		Nederland
+mang010		
+mank001	Nederland	Nederland
+mann001	Nederland	Nederland
+mann003	Nederland	
+mann004	Nederland	Nederland
+mann007	Duitsland	Zwitserland
+manr002		
+mans003		
+mans005	Nederland	Nederland
+mans007	Nederland	
+mans021	Zuid-Afrika	Indonesië
+mans022		
+mans032		
+mant006		
+man_002	Nederland	
+man_008		
+man_037		
+maqu002		
+mara001	België (Wallonië)	
+marc075		
+marc083		
+mare006	Nederland	België (Wallonië)
+mare009	België (Wallonië)	België (Wallonië)
+mare012		
+mare029	Nederland	Nederland
+mare037	België (Wallonië)	
+mare046	Nederland	Nederland
+marg004	Nederland	
+marg005	Nederland	Nederland
+marg006	Nederland	Nederland
+mari002	België (Wallonië)	
+mari008	Nederland	Nederland
+mari009	België (Wallonië)	
+mari015	Nederland	
+mari024	Nederland	
+mari026		
+mari030		
+mari081	Brazilië	
+mari119	België (Wallonië)	
+marj001	Nederland	Nederland
+mark004		
+mark011	Nederland	Nederland
+marl002		
+marl003	Suriname	
+marl022		
+marl025		
+marl030		
+marm003		
+maro016		
+marr003		
+mars002		
+mars005	Nederland	
+mars027	Verenigde Staten	Verenigde Staten
+mars034		
+mart003	België (Wallonië)	België (Wallonië)
+mart010		
+mart036	Nederland	
+mart039	Duitsland	Nederland
+mart041		
+mart076		
+mart098		
+marx001		
+mary010		
+mass018		
+mass026		
+mass027		
+mast010		
+mast011		
+mast012		
+mast026		
+masu006	Duitsland	
+mate007		
+mate024		
+math004	Nederland	
+math016		
+mats001	Nederland	
+mats007	Nederland	Nederland
+matt004		
+matt009	België (Wallonië)	België (Wallonië)
+matt016	Nederland	
+matt083	Nederland	
+matt090		
+matt114	Italië	
+maur001		
+maur004		
+maxi001	Nederland	Nederland
+maya003	Polen	
+maye003	Nederland	Nederland
+maye011		
+may_001	Nederland	Nederland
+may_014		
+mazi003		
+mazu007	Nederland	Nederland
+mcca001		
+mcgr001	Verenigde Staten	Verenigde Staten
+mcne001	Canada	
+mech001	Nederland	Nederland
+mech002	België (Wallonië)	België (Wallonië)
+mede001		
+meek001	Nederland	Frankrijk
+meek009	Australië	
+meel008		
+meel009		
+meer001	Nederland	Nederland
+meer002	Nederland	Nederland
+meer003		
+meer005		
+meer029	België (Wallonië)	
+meer035	Nederland	Nederland
+meer036	Nederland	Nederland
+meer037		
+meer058	België (Wallonië)	België (Wallonië)
+meer060		
+meer063		
+meer067		
+meer138	Nederland	
+meer182		
+meer206		
+meer207		
+meer218	België (Wallonië)	
+meer244		
+mees003	Nederland	Nederland
+mees009	Nederland	Nederland
+mees010	Nederland	Nederland
+mees018	Nederland	Nederland
+mees019	Nederland	Nederland
+mees020		
+mees022		
+mees049	Nederland	Nederland
+mees050		
+mees051		
+mees058		
+mees060		
+meeu001		
+meeu002		
+meeu003	Nederland	Nederland
+meeu006		
+meeu023		
+meeu030		
+meew001	België (Wallonië)	
+mehl001	Duitsland	Nederland
+meie002	Zwitserland	
+meih001	Nederland	Nederland
+meij003	Duitsland	
+meij004	Nederland	Nederland
+meij013	Nederland	Nederland
+meij017	Nederland	
+meij019	Nederland	Groot-Brittannië (en Noord-Ierland)
+meij022	Nederland	
+meij030	Nederland	Nederland
+meij031	Nederland	
+meij033		
+meij045	Nederland	Nederland
+meij046		
+meij047		
+meij049		
+meij051		
+meij054		
+meij055	Nederland	
+meij079	Nederland	Nederland
+meij083		
+meij085		
+meij194		
+meij195		
+meij211		
+meil003		
+mein010	Nederland	Nederland
+mein013	Nederland	Nederland
+mein016	Nederland	Nederland
+mein017		
+meir001		
+meir010	Brazilië	Brazilië
+meis011	Zwitserland	
+meis012		
+mei_004		
+meke002	Nederland	Duitsland
+mela002	Indonesië	Nederland
+meli004	België (Wallonië)	België (Wallonië)
+meli008	Nederland	
+meli013	Nederland	
+mell003	Nederland	Zuid-Afrika
+mell010	Nederland	Nederland
+mell013		
+mell023		
+mels003		
+melv005	Groot-Brittannië (en Noord-Ierland)	
+memb001	Nederland	
+mena012		
+menc003		
+mend001	Nederland	Nederland
+mend004		
+mend005		
+mend016		
+meng002	Duitsland	Monaco
+meng003	Oekraïne	Nederland
+meng008		
+meng009		
+menk002	Nederland	Nederland
+menn014	Duitsland	Duitsland
+menn015		
+mens005		
+mens007	Nederland	Duitsland
+mens011	Nederland	
+merc003		
+merc004		
+merc007	België (Wallonië)	België (Wallonië)
+merc011	Nederland	Nederland
+merc032		
+mere001	België (Wallonië)	België (Wallonië)
+mere014		
+mere022		
+mere024	Rusland	
+meri003	België (Wallonië)	België (Wallonië)
+meri007	Frankrijk	Frankrijk
+merk019		
+merl001	Nederland	Nederland
+merl003		
+merl019		
+merl025	België (Wallonië)	
+mero001	Nederland	Nederland
+mert001	Nederland	
+mert009		
+mert015		
+mert026		
+mert028		
+mert038	België (Wallonië)	België (Wallonië)
+mert040		
+mert042		
+mert043		
+mert044		
+mert054		
+mert063		
+merv001	België (Wallonië)	België (Wallonië)
+merw002		
+mesl001		
+meso002		
+mess002		
+mess009	Nederland	Nederland
+mest001		
+mest003		
+mest009	België (Wallonië)	België (Wallonië)
+mete002	Nederland	Italië
+meth009		
+mets014		
+metz001	Nederland	Zwitserland
+metz015		
+metz024		
+meul002	België (Wallonië)	België (Wallonië)
+meul009		
+meul011		
+meul012	Nederland	Nederland
+meul013	Nederland	
+meul018	Nederland	
+meul031	Nederland	Nederland
+meul032		
+meul048		
+meul090	Nederland	Verenigde Staten
+meul091		
+meul129		
+meul135		
+meul136		
+meur003	Nederland	Nederland
+meur013		
+meur055		
+meyb001	Duitsland	Nederland
+meyb002	Nederland	Nederland
+meye007	Nederland	Frankrijk
+meye012	België (Wallonië)	België (Wallonië)
+meye020		
+meye026	Indonesië	Nederland
+meye052	Zwitserland	Zwitserland
+meye053	Nederland	Nederland
+meye055		
+meye068		
+meye070		
+meye071		
+meye083		
+meyi001	Indonesië	Nederland
+meyl001	België (Wallonië)	België (Wallonië)
+meyl002	Nederland	Nederland
+meyl012		
+meyr002		
+mey_003		
+mey_026	België (Wallonië)	
+mich001	Nederland	Nederland
+mich002	Nederland	Nederland
+mich005	Nederland	Nederland
+mich007	Nederland	
+mich011	Nederland	Nederland
+mich013		
+mich015	België (Wallonië)	Frankrijk
+mich018	België (Wallonië)	België (Wallonië)
+mich031	Nederland	Indonesië
+mich080		
+mich090		
+mich095		
+mich103		
+mich121		
+midd001	Nederland	
+midd002	Nederland	Nederland
+midd005	Nederland	Nederland
+midd052		
+mied001	Nederland	Nederland
+mied005	België (Wallonië)	
+mied006	Nederland	Nederland
+mier004	België (Wallonië)	België (Wallonië)
+mier015	Nederland	Nederland
+mier034	België (Wallonië)	België (Wallonië)
+mijn001	Nederland	
+mijn003		
+mijn006		
+mikk004		
+mila006		
+mili005		
+mili006		
+mill003	Nederland	Nederland
+milo003	Litouwen	Polen
+milt001		
+mimo001		
+minc001	Nederland	Nederland
+mind002	Nederland	Nederland
+mind009		
+mind011		
+minh001	Vietnam	Vietnam
+mini001		
+minn001	België (Wallonië)	België (Wallonië)
+minn004	België (Wallonië)	Nederland
+minn023	Nederland	Nederland
+mint004		
+min_001	Nederland	
+miqu001	Duitsland	Nederland
+mira004	Suriname	Nederland
+miry002		
+mish002	Japan	Japan
+misk001	Nederland	Nederland
+miss003	België (Wallonië)	
+miss004		
+miss006	België (Wallonië)	België (Wallonië)
+mist006	Chili	Verenigde Staten
+mitz004	Verenigde Staten	
+modd003	Nederland	Nederland
+modd004		
+modd013		
+moel003	Indonesië	
+moen007	België (Wallonië)	Nederland
+moen010	Duitsland	Duitsland
+moen033		
+moer002		
+moer003	Nederland	Nederland
+moer004		
+moer007		
+moer010	Nederland	Nederland
+moer020		
+moer026		
+moer058		
+moes001		
+moes003	Nederland	Nederland
+moey001	België (Wallonië)	
+moey002	België (Wallonië)	
+moha001	Indonesië	
+mohr003	Nederland	Nederland
+mohr012	Rusland	Indonesië
+moke002	Algerije	
+mok_002	Nederland	Nederland
+mok_003	Nederland	Nederland
+mok_005		
+mole002		
+mole004	Nederland	
+mole005	Nederland	Nederland
+mole006	Nederland	Nederland
+mole012	Nederland	Nederland
+mole015	Nederland	Nederland
+mole017		
+mole019	Nederland	Italië
+mole020	Nederland	Nederland
+mole038		
+mole044		
+mole045		
+molh002	Nederland	Nederland
+molh003	Nederland	Nederland
+moli020	Spanje	Spanje
+molk001		
+molk004		
+moll002	Nederland	
+moll007	Nederland	Nederland
+moll021	Nederland	Nederland
+moll056		
+moll058		
+moll066		
+mols003	Nederland	
+molt001	Nederland	Nederland
+molt004		
+molt008		
+molt009		
+mol_002		
+momv001		
+monc002	Nederland	Nederland
+mond006		
+mond016		
+mond020		
+monn002		
+monn003		
+monn006	Nederland	Nederland
+mons003		
+mons017	België (Wallonië)	België (Wallonië)
+mons020		
+mont003	België (Wallonië)	Duitsland
+mont013	België (Wallonië)	België (Wallonië)
+mont024		
+mont025		
+mont105	Italië	Italië
+mont110		
+mont135		
+mood001		
+mooi001		
+mooi002	Nederland	
+mooi003	Nederland	Nederland
+mooi005		
+mooi008		
+mool004		
+moon023		
+moor003	Nederland	
+moor005	Nederland	Nederland
+moor010	Nederland	
+moor012	Nederland	Nederland
+moor016		België (Wallonië)
+moor018	België (Wallonië)	België (Wallonië)
+moor019		
+moor026		
+moor027		
+moor028	Nederland	
+moor067		
+moor098	Nederland	
+moor103		
+mooy001		
+mora010	Polen	
+morc003		
+more005	Nederland	
+more010		
+more012	Nederland	Nederland
+more049		
+more050		
+mori004	België (Wallonië)	België (Wallonië)
+mori005	Nederland	
+mori023		
+morl001	België (Wallonië)	Verenigde Staten
+morl005		
+morp003	Suriname	Suriname
+morr001	Nederland	Nederland
+morr005	Nederland	Indonesië
+mors005		
+mort001	België (Wallonië)	
+mort002	België (Wallonië)	België (Wallonië)
+mort004	België (Wallonië)	
+morz002		
+mosc007	Italië	Italië
+mose003	Nederland	
+mosh001	Nederland	
+mosm001		
+moss005	Nederland	Nederland
+moss018		
+most021		
+moul001		
+mour003	Nederland	Nederland
+mour005		
+mour007		
+mout001	Nederland	Nederland
+mout006		
+mouw001	Nederland	Nederland
+muck001		
+mudd005		
+muel001	België (Wallonië)	
+muer002	België (Wallonië)	België (Wallonië)
+muij005		
+muld007	Nederland	Zuid-Afrika
+muld011	Nederland	
+muld014	Nederland	Nederland
+muld016	Nederland	
+muld022		
+muld024		
+muld027		
+muld028	Nederland	Nederland
+muld030		
+muld051		
+muld064		
+muld100		
+muld110		
+muld111		
+muli002	Nederland	Nederland
+mulj001	Indonesië	
+mull007	Nederland	
+mull008	Nederland	Nederland
+mull010	Nederland	Nederland
+mull011	Nederland	Nederland
+mull012	Duitsland	Nederland
+mull020	Nederland	Nederland
+mull024	Nederland	Italië
+mull025	Nederland	Nederland
+mull032		
+mull034	Nederland	Nederland
+mull041		
+mull042	Duitsland	Duitsland
+mull064	Nederland	Nederland
+mull071		
+mull072		
+muls001	België (Wallonië)	België (Wallonië)
+mult001	Nederland	Duitsland
+mult002		
+munn005	Indonesië	Nederland
+munn021	België (Wallonië)	Duitsland
+munn040	Polen	Nederland
+munq001	Syrië	Syrië
+muns009		
+munt002	Nederland	Nederland
+munt020		
+munt021		
+munt025		
+munt027		
+muri001		
+murr007	Australië	Australië
+murr008	Groot-Brittannië (en Noord-Ierland)	
+musa001		
+musk003		
+muss001	België (Wallonië)	België (Wallonië)
+muss002	België (Wallonië)	
+muss013		
+muss019	Frankrijk	Frankrijk
+muts001	Nederland	
+muus001	Nederland	Nederland
+muyl003	België (Wallonië)	België (Wallonië)
+muyl009		
+myri007	Griekenland	Griekenland
+mysj001	België (Wallonië)	
+mys_004		
+naai002		
+naam003		
+naar001	Nederland	Nederland
+naas001	Nederland	Nederland
+nabe002	Nederland	
+nabe003	Nederland	Nederland
+nabe004	Nederland	Nederland
+nach001	Nederland	Nederland
+nach012	België (Wallonië)	
+naef002	Nederland	Nederland
+naer012	België (Wallonië)	
+naga001		
+nage027		
+nagl002	Oekraïne	Groot-Brittannië (en Noord-Ierland)
+nagt001	Nederland	Nederland
+naho001	België (Wallonië)	België (Wallonië)
+naip001	Trinidad en Tobago	Groot-Brittannië (en Noord-Ierland)
+naka002	Japan	
+nalk001		
+nank001	Suriname	
+nap_003		
+nap_005		
+nara001	Suriname	Suriname
+nass001	Nederland	Nederland
+nath001	Nederland	Nederland
+natu001		
+naut007	Nederland	Nederland
+naut008		
+naut009		
+naut020		
+nauw003		
+nave009	België (Wallonië)	België (Wallonië)
+neef008		
+neef022		
+neet001		
+negr003	Italië	Italië
+nehl001		
+neij002		
+nele005		
+neli012		
+nelk001	Spanje	Mexico
+nell001	Nederland	
+nenc001	Italië	Italië
+nepv001	Nederland	Nederland
+neru003	Chili	Chili
+neru004		
+nerv002	Frankrijk	
+nerv003	Mexico	Uruguay
+nes_002	Nederland	Nederland
+neto001		
+nets002	Nederland	Nederland
+nets004	Nederland	Nederland
+neub002		
+neud001		
+neut002	België (Wallonië)	België (Wallonië)
+newm001	Groot-Brittannië (en Noord-Ierland)	Groot-Brittannië (en Noord-Ierland)
+newt002	Caribisch deel van het Nederlandse Koninkrijk	
+ne__001	Nederland	
+nico008	Nederland	Nederland
+nico014		
+nico018		Nederland
+nieh004	Nederland	Nederland
+niek001		
+niel013		
+niem001	Nederland	Nederland
+niem003		
+niem006	Nederland	
+niem012		
+niem013	Nederland	
+nien001	Zuid-Afrika	Zuid-Afrika
+nien002	Nederland	Nederland
+nien005	Zuid-Afrika	Zuid-Afrika
+nien006	Nederland	
+nien012	Nederland	
+nien013	Nederland	
+nier001	Nederland	Nederland
+nier008		Nederland
+nier010		
+nier013		
+nier025		
+nier027		
+nies005		
+nieu005		
+nieu009	Nederland	
+nieu012		
+nieu014	Nederland	
+nieu018	Indonesië	Nederland
+nieu023		
+nieu036	Nederland	
+nieu047		
+nieu052		
+nieu055		
+nieu133		
+nieu134		
+nieu162		
+niev001	Nederland	Duitsland
+nije002	Nederland	
+nijh002	Nederland	Nederland
+nijh004	Nederland	Nederland
+nijh005	Nederland	
+nijh006	Nederland	Nederland
+nijh014		
+nijh025	Nederland	Italië
+nijh026		
+nijh029		
+nijk004		
+nijl001		
+nijl002	Nederland	
+nijl003	België (Wallonië)	België (Wallonië)
+nijl004	Nederland	Indonesië
+nijl017		
+nijm001	Nederland	
+nijs001		
+nijs004		
+nio_001		
+nip_001		
+nisc001		
+nisi001		
+niss004	Nederland	
+noac001		
+noac002		
+noac003		
+noai001	Frankrijk	Frankrijk
+nobe001		
+nobe010		
+nobe013		
+nobl001	Frankrijk	
+noeg001		
+noel007		
+noe_002		
+nole005	Nederland	Nederland
+nole007	Nederland	Nederland
+nole009	Nederland	Nederland
+nole013	Nederland	Nederland
+nolf004		
+nols001		
+nolt001	Nederland	
+nolt002	Nederland	Zwitserland
+noom001	Nederland	
+noor004		
+noor006	Nederland	Nederland
+noor007	Nederland	
+noor016	Nederland	
+noor021		
+noor022	Nederland	Frankrijk
+noor035	Nederland	Nederland
+noor039		
+noor074		
+noor076		
+noor077		
+noor128	Nederland	Nederland
+noor129		
+noor137		
+noot003	Nederland	
+noot004		
+nooy010		
+nord001	Nederland	Nederland
+nord020	Noorwegen	
+nort002		
+nosk002		
+nosk004		
+note001	België (Wallonië)	
+note004	Nederland	Nederland
+nouh001	Nederland	Nederland
+nouh004	Nederland	Nederland
+nova005	Duitsland	Duitsland
+nowo001		
+nuch001		
+nuff001	België (Wallonië)	België (Wallonië)
+nuff002		
+nuij002		
+nuis001	Nederland	Nederland
+nuit001		
+numa003	Nederland	Nederland
+numa004	Nederland	Nederland
+nunn001		
+nura001		
+nutt002	België (Wallonië)	
+nuye005	Nederland	Nederland
+nuyt007		
+nuyt035		
+nyla001		
+nype001	Nederland	Nederland
+obbe001	Nederland	Nederland
+obbe005		
+ober002	Nederland	
+odel003		
+oege002		
+oene007		
+oerl002	Nederland	Nederland
+oeve002		
+oeve003	België (Wallonië)	België (Wallonië)
+oey_001	Nederland	Nederland
+oe__002	Japan	Japan
+offe001	België (Wallonië)	België (Wallonië)
+offe002	Nederland	
+offe006		
+ogon001	Polen	
+ogtr002		
+oije002		
+olde002	Nederland	Nederland
+olde004		
+olde029		
+oliv006	Nederland	
+oliv007		
+oliv008		
+oliv027	Duitsland	
+oliv035		
+ollo001	Indonesië	
+olmh001		
+olou001	Ierland	
+olte001	Nederland	
+oltm001	Nederland	Nederland
+ombr001	Suriname	
+onda005		
+onde001		
+onde010		
+onet001	Uruguay	
+onge001		
+onie001		
+onne002		
+onne005	Nederland	
+onru001		
+onst001		
+onst005		
+ontr001	België (Wallonië)	België (Wallonië)
+oome001	Nederland	Nederland
+oord001	Duitsland	Nederland
+oord002	Zuid-Afrika	Zuid-Afrika
+oord004	Nederland	Zuid-Afrika
+oord012		
+oort001		
+oort003	Nederland	
+oort009		
+oort013		Nederland
+oost003	Nederland	Nederland
+oost007	Nederland	
+oost012	Nederland	Frankrijk
+oost013	Nederland	
+oost019	Nederland	
+oost025		
+oost033	Nederland	
+oost034	Nederland	Nederland
+oost052		Nederland
+oost057		
+oost058		
+oost061		
+oost122		
+oost139		
+oost140		
+oost149		
+oote001		
+oppe001		
+oppe006		
+oppe022		
+oppe023		
+oppo001	Italië	Italië
+opst001	Nederland	Nederland
+opst004	Nederland	
+opzo001	Nederland	Nederland
+oran002		
+oris004		
+orne001	Nederland	Nederland
+osse008		
+ossi002	Zweden	Zweden
+osta002	België (Wallonië)	België (Wallonië)
+oste005		
+oste015		
+os__001		
+os__005		
+os__006	Nederland	Duitsland
+os__013	Indonesië	Nederland
+os__018		
+os__027		
+os__041		
+oter003	Spanje	
+otte001	Nederland	Nederland
+otte003		
+otte006	Nederland	
+otte010	Nederland	
+otte043		
+otte061		
+oubo001		
+oubo005		
+oude004	Nederland	Nederland
+oude013		
+oude015		Nederland
+oude017		
+oudk001		
+ouds001	Nederland	Nederland
+ouds003	Nederland	Zuid-Afrika
+oudw001	Nederland	Nederland
+oud_002	Nederland	Nederland
+oukh001	België (Wallonië)	België (Wallonië)
+outh006		
+outs007		
+ouwe002	Nederland	
+ouwe004	Nederland	Nederland
+ouwe005	Nederland	
+ouwe008		
+oven002	Nederland	Nederland
+oven007		
+over002	België (Wallonië)	België (Wallonië)
+over006	Nederland	Nederland
+over007	Nederland	Nederland
+over018	Nederland	
+over026		
+over036		
+over041	Nederland	
+over042		
+over076	Nederland	
+over088		
+over105		
+over110		
+over111		
+ovid001	Italië	Roemenië
+ovin001	Nederland	Nederland
+ovin002		
+oyen022		
+oye_001	België (Wallonië)	België (Wallonië)
+ozin001	Nederland	Nederland
+paap003	Nederland	Nederland
+paar001	Nederland	
+paar002	Nederland	
+paas001	Nederland	
+padi001		
+paem001	België (Wallonië)	
+paep001	België (Wallonië)	België (Wallonië)
+pako001	Suriname	
+pali003		
+palm004	Caribisch deel van het Nederlandse Koninkrijk	
+palm008	Nederland	
+palm010	Groot-Brittannië (en Noord-Ierland)	
+palm013	Caribisch deel van het Nederlandse Koninkrijk	
+palm025		
+palm037	Zweden	Denemarken
+pals003		
+pama002		
+panh001	Nederland	Nederland
+panh016		
+panh018		
+pann020		
+pant010		
+pant011		
+papi001		
+papp004		
+paqu002		
+paqu003		
+para001		
+para018	Oekraïne	Polen
+pard002		
+pare001	Nederland	Nederland
+pari002	België (Wallonië)	
+parm011	België (Wallonië)	België (Wallonië)
+parr008	Chili	
+pasq001	België (Wallonië)	
+pass001		
+pass009		
+patc001	Verenigde Staten	
+pate001	Nederland	Nederland
+pate012		
+pati001	Nederland	Nederland
+pati008		
+patr002		
+patt002		
+patt003		
+paul002	Nederland	
+paul013		
+paun001		
+pauw001	Nederland	Nederland
+pauw002		
+pauw011	Nederland	Nederland
+pauw014		
+pauw091		
+pauw092		
+paz_002	Mexico	Mexico
+peau001	Nederland	
+pedr001		
+peel002		
+peer002	België (Wallonië)	
+peet002		
+peet003	Nederland	
+peet007		
+peet013	België (Wallonië)	
+peet014	België (Wallonië)	
+peet015	België (Wallonië)	
+peet018		
+peet049		
+peet054		
+peet069	België (Wallonië)	
+peet075		
+peet076		
+peet077		
+pee_003	België (Wallonië)	België (Wallonië)
+peke005		
+peke007		
+pelc003		
+pele002	België (Wallonië)	
+peli001		
+pels015		
+pelt024		
+pend002		
+penn007	Nederland	Nederland
+penn009		
+penn013		
+pen_002	Nederland	Nederland
+pepe005	Nederland	Nederland
+pepp001		
+pere002	Nederland	Nederland
+pere006	België (Wallonië)	België (Wallonië)
+perk005	Nederland	Nederland
+perk009		
+perk010		
+perk014		
+perm002	Nederland	Nederland
+pern001	België (Wallonië)	België (Wallonië)
+perq003		
+perr002	België (Wallonië)	
+perr010	België (Wallonië)	
+perr011	Nederland	
+pers003	Italië	
+pers009		
+pers010		
+pers011	België (Wallonië)	België (Wallonië)
+pers048	Frankrijk	
+pert002	Frankrijk	Frankrijk
+pesc001		
+pete030		
+pete032		
+pete033		
+pete076	Nederland	Nederland
+pete112		
+pete121		
+peti002	Nederland	
+peti027	Nederland	
+petr061		
+peur003		
+peve002		
+peyp001	Nederland	Frankrijk
+pfei012	Nederland	
+phei001		
+phil002		
+phil006	Nederland	Nederland
+phil015		
+phil018		
+phil060		
+phil065		
+phil068		
+phil070		
+phil072		
+phil075		
+piag001		
+pica001		België (Wallonië)
+pica010	Spanje	Frankrijk
+picc005	Brazilië	Brazilië
+pick006		
+pieb002	Nederland	Nederland
+pien004	Zuid-Afrika	Zuid-Afrika
+piep001		
+pier001		
+pier003	Nederland	Nederland
+pier005	Nederland	
+pier008	Nederland	Nederland
+pier009	Nederland	Nederland
+pier010	België (Wallonië)	
+pier041	Italië	
+piet003	België (Wallonië)	
+piet014		
+piet135		
+pijl004		
+pijl005		
+pijn003		
+pijn004	Nederland	
+pijn007	Nederland	Nederland
+pijn016		
+pijp003	Nederland	Nederland
+pijp004	Nederland	Nederland
+pijp007		
+pijz001	Nederland	Nederland
+pike001		
+pili001	Hongarije	
+pill001	België (Wallonië)	België (Wallonië)
+pill008		
+pink001	Nederland	Duitsland
+pint019		
+piov001	Italië	Groot-Brittannië (en Noord-Ierland)
+pire008	Portugal	
+pist001	Nederland	
+pisu002	Nederland	Nederland
+pitl002	Nederland	Nederland
+pit_001	Nederland	Nederland
+plan011	België (Wallonië)	België (Wallonië)
+plan013	België (Wallonië)	
+plan015	Nederland	Nederland
+plan028		
+plan035		
+plan049		
+plas001	Nederland	Nederland
+plas003	Nederland	
+plas009		
+plas018		
+plat008	Griekenland	Griekenland
+plat009		
+plat015		
+plat016		
+plei001	Nederland	
+plei004		
+plek002		
+plem002	Nederland	Nederland
+plem006	Nederland	Nederland
+ples004	Zuid-Afrika	Zuid-Afrika
+ples013	Duitsland	Duitsland
+pley001	België (Wallonië)	
+pley002	Nederland	Nederland
+ploe002	Nederland	
+ploe012	Nederland	
+ploe020	Nederland	Nederland
+ploe021		
+ploe030		
+ploe033		
+plok002	Nederland	Nederland
+plom001	Nederland	
+ploo001		
+ploo006		
+plui002	Nederland	Nederland
+pluv002	Nederland	
+pluv003		
+pluv004		
+pluy003	Nederland	Nederland
+pode001		
+poel003	Nederland	Nederland
+poel004		
+poel006		
+poel011	Nederland	Nederland
+poel019		
+poel020		
+poel021		
+poel067		
+poel079		
+poe_001	Verenigde Staten	Verenigde Staten
+pola005	Nederland	Nederland
+pola006	Nederland	Nederland
+pola007	Suriname	Suriname
+pola012		
+pola036		
+pola037		
+pola038	Nederland	
+pola049		
+pold010		
+pole001	Nederland	Nederland
+pole004		
+poli001	Nederland	Nederland
+poll001	Nederland	Nederland
+poll003	België (Wallonië)	
+poll006		
+poll007	Nederland	
+poll012	Nederland	
+poll014		
+poll056		
+polm003	Nederland	
+polm004	Nederland	Nederland
+pols002	Nederland	Nederland
+pols003	Nederland	Nederland
+pols004		
+pols007	België (Wallonië)	België (Wallonië)
+pols011		
+polv001		
+pol_001		
+pol_003	Nederland	Nederland
+pol_010		
+pomb001		
+pome002		
+pomp001	Nederland	Nederland
+ponc004		
+pone001	Zuid-Afrika	Zuid-Afrika
+pool002		
+pool005	Nederland	Nederland
+pool006	Caribisch deel van het Nederlandse Koninkrijk	Panama
+poor001	Nederland	
+poor002	Nederland	Nederland
+poor004		
+poor005	België (Wallonië)	België (Wallonië)
+poor006	België (Wallonië)	
+poor011	Nederland	Nederland
+poor012	Nederland	Nederland
+poor017		
+poot011	België (Wallonië)	België (Wallonië)
+popk002		
+popl001		
+popm001		
+popm003		
+popm005		
+popp001	België (Wallonië)	
+popp015		
+pop_004		
+porr002		
+port004	België (Wallonië)	
+port005	Verenigde Staten	Nederland
+port038		
+port047		
+poss001	België (Wallonië)	België (Wallonië)
+poss003		
+post009	Nederland	
+post028	Nederland	Nederland
+post029	Nederland	Nederland
+post030	Nederland	Nederland
+post057		
+post072		
+post075		
+post085		
+pos_001	Nederland	Nederland
+pos_002	Suriname	Nederland
+pos_005	Nederland	Nederland
+pos_006	Nederland	
+potg001	Nederland	Nederland
+poth001	Nederland	Nederland
+poti001		
+pott015		
+pott016		
+pott036		
+pott037		
+pot_008	Nederland	Nederland
+pot_010		
+pot_027	Nederland	Nederland
+pot_035	Nederland	Nederland
+poui002		
+pouk001		
+poul002		
+poun001	Verenigde Staten	
+poup001	België (Wallonië)	België (Wallonië)
+praa001	Nederland	Nederland
+praa002	Nederland	Nederland
+praa003		
+praa006	Nederland	België (Wallonië)
+praa007		
+praa015	Nederland	
+praa021		
+prae016		
+prae020		
+prak001	Nederland	Nederland
+pran001		
+pray001	België (Wallonië)	
+pred001		
+prem003		
+pres003	Nederland	Nederland
+prew001		
+pric001		
+pric002	Nederland	Nederland
+pric005	België (Wallonië)	Nederland
+pric006	Indonesië	Nederland
+prie001		
+prie010		
+prij002	België (Wallonië)	België (Wallonië)
+prim001	België (Wallonië)	België (Wallonië)
+prin002	Nederland	Nederland
+prin004		
+prin006	Nederland	Nederland
+prin007	Nederland	Nederland
+prin009	België (Wallonië)	
+prin010	Nederland	Nederland
+prin012	Nederland	
+prin013		
+prin023		
+prin025		
+prin026		
+prin028		
+prin051		
+prin071		
+prin102		
+proe001		
+pron008		
+proo002	Nederland	Nederland
+proo004	Nederland	
+prud002		
+prus004		
+puch001	Nederland	Nederland
+puff001		
+puli002		
+pull003		
+puth001		
+putm004	België (Wallonië)	België (Wallonië)
+puts002		
+putt002		
+putt015	Caribisch deel van het Nederlandse Koninkrijk	
+putt040		
+putt047		
+puym001	België (Wallonië)	
+puyv001	België (Wallonië)	België (Wallonië)
+pytt002		
+quac001	Nederland	Nederland
+quak001		
+quak003	Bulgarije	Nederland
+quar002	Nederland	Nederland
+quas001	België (Wallonië)	België (Wallonië)
+quer001	Nederland	Polen
+quer002	Nederland	Nederland
+quer004		
+quer006		
+quer007		
+quir008	Uruguay	
+quis001	Nederland	Egypte
+raad003	België (Wallonië)	Nederland
+raaf001		
+raal001	Suriname	
+raal003	Nederland	Nederland
+raal006		
+raat001	Nederland	
+raat002	Nederland	
+rabb001	Nederland	
+rabi001	Zuid-Afrika	
+racz001		
+rade001	Nederland	
+rade006	Nederland	Nederland
+rade011		
+radv001		
+raed001	Nederland	Nederland
+raed005		
+raed009		
+raes001	België (Wallonië)	
+raes005		
+rahd001	Indonesië	
+rahu001		
+raig001		
+rale001	Groot-Brittannië (en Noord-Ierland)	Groot-Brittannië (en Noord-Ierland)
+ralo001		
+rama011	Nederland	Nederland
+rama026		
+ramd001	Suriname	Nederland
+ramo002	Indonesië	Nederland
+ramo008	Brazilië	
+ramp007	Verenigde Staten	
+rams002		
+ram_002	België (Wallonië)	België (Wallonië)
+rand002	Nederland	Nederland
+rand005	Nederland	Nederland
+rani001	Nederland	Nederland
+rani002		
+rank003		
+rapp009	Nederland	Nederland
+rapt001	Rusland	Nederland
+rasc001		
+rasc002		
+ras_002	Nederland	Nederland
+ras_003	Nederland	Nederland
+ras_008	Nederland	Nederland
+rauc001	Frankrijk	Frankrijk
+raul002		
+raus003		
+rauw003	Nederland	Frankrijk
+rauw004		
+rave004	Nederland	Nederland
+rave015		Nederland
+rave059	België (Wallonië)	België (Wallonië)
+rave076		
+rawi001	Nederland	
+rebe005	Portugal	
+reda004		
+redd001	Indonesië	
+redd002	Nederland	Nederland
+rede001	Nederland	
+rede004		
+reed005	Nederland	Nederland
+reed008		
+reen002		
+reen012		
+reep003		
+rees003	Nederland	Nederland
+rees004	Nederland	Nederland
+rees005	Nederland	Nederland
+rees009	België (Wallonië)	Nederland
+rees026		
+ree_004		
+ree_006		
+ree_007		
+ree_038		
+rego007	Caribisch deel van het Nederlandse Koninkrijk	
+regt008		
+regt011		
+reho001	Groot-Brittannië (en Noord-Ierland)	
+reic003	Nederland	Nederland
+reic014		
+reig008	Nederland	Nederland
+reij004	Nederland	Nederland
+reij008		
+reij014		
+reij034		
+reij044		
+reij045		
+reil002		
+rein003	Nederland	Nederland
+rein006	Nederland	
+rein007	Nederland	
+rein011	Nederland	Nederland
+rein012	Nederland	
+reis006		
+reit002	Nederland	
+reit004	Nederland	Nederland
+reit006		
+reit013		
+reit019		
+rend001	Nederland	
+rend003		
+rene019		
+rene050		
+rene051		
+rene059		
+reni006	België (Wallonië)	België (Wallonië)
+renn016	Tsjechië	Oostenrijk
+rens002	België (Wallonië)	België (Wallonië)
+rens014		
+rens023		
+rent001		
+rent002	Nederland	Nederland
+rent009		
+resi001	Indonesië	Indonesië
+reth003		
+rett001		
+reug001	Nederland	
+reug002		
+reul001	Nederland	Nederland
+reus006	Nederland	Nederland
+reus008	België (Wallonië)	België (Wallonië)
+reve001	Nederland	Nederland
+reve002	Nederland	België (Wallonië)
+reve003	Nederland	Nederland
+reve005		
+reve006	Hongarije	Nederland
+reve013		
+revi001	Nederland	Nederland
+revi002	Nederland	Nederland
+revi005		
+reyk001		
+reym003	Nederland	
+reyn001	België (Wallonië)	
+reyn005	Congo-Kinshasa	
+reyn037		
+reyn040		
+reyn043		
+reyp001	België (Wallonië)	België (Wallonië)
+rezn002	Verenigde Staten	
+rhee002		
+rhei001	Indonesië	Nederland
+rhij003	Nederland	
+rhij004	Nederland	Nederland
+rhod003		
+ribb006		
+rich030		
+ridd002	België (Wallonië)	België (Wallonië)
+ridd004		
+ridd036		
+ridd042		
+ridd064		
+rieh001	Nederland	Nederland
+rieh002		
+riel005		
+riel008		
+riem008		
+riem011	Nederland	
+riem013	Nederland	Nederland
+riem014		
+riem015		
+riem030	Nederland	
+riem045		
+rien002		
+rier002		
+ries005	Nederland	
+riet005	Nederland	
+riet013		
+riet019	Nederland	Nederland
+riet032		
+riet034		
+riet042		
+riet053	Nederland	
+rieu002	Nederland	Nederland
+rign001		
+rigt002		
+rigt006		
+rijc010	Nederland	Nederland
+rijc014		
+rijd001	Nederland	Nederland
+rijg002		
+rijk009		
+rijk023	Nederland	
+rijk025		
+rijk035		
+rijn005	Nederland	Nederland
+rijn006		
+rijn010	Nederland	Nederland
+rijn019		
+rijn051		
+rijn052		
+rijn053		
+rijn054		
+rijp001	Nederland	
+rijp002	Nederland	Nederland
+rijs040		
+rijs043		
+rijt001		
+rikk006		
+rikm001	Nederland	Nederland
+rilk002	Tsjechië	Zwitserland
+rimb001	Frankrijk	Frankrijk
+rime001	Denemarken	
+rinc001		
+rink002	Nederland	Nederland
+rink003		
+rinn001		
+riot001	Italië	
+rip_001		
+rip_002		
+risp001	Nederland	Nederland
+riss002	Nederland	Nederland
+riss006		
+rits002	Tunesië	Nederland
+rits006		
+rits008		
+ritt001	Nederland	Nederland
+ritt003	Nederland	Nederland
+roab001	Paraguay	Paraguay
+robb002	Nederland	Nederland
+robb012		Nederland
+robb016		
+robb019	Frankrijk	Frankrijk
+robi005	Verenigde Staten	
+robi009	Nederland	Nederland
+robi010	Nederland	Nederland
+robo001	Hongarije	
+robs001	Groot-Brittannië (en Noord-Ierland)	Groot-Brittannië (en Noord-Ierland)
+rode002	België (Wallonië)	België (Wallonië)
+rode006	Nederland	Nederland
+rode011	Nederland	
+rodi006	Verenigde Staten	
+roec008		
+roec010		
+roec011		
+roeg001	Indonesië	Nederland
+roel003	België (Wallonië)	België (Wallonië)
+roel004	België (Wallonië)	België (Wallonië)
+roel010	Nederland	Nederland
+roel026	Nederland	Nederland
+roel029		
+roel034		
+roel083	Nederland	België (Wallonië)
+roel098		
+roel111		
+roel119		
+roem001	België (Wallonië)	België (Wallonië)
+roem002	Suriname	
+roem010		
+roes002	Nederland	
+roes010	Nederland	Nederland
+roes011	Nederland	Nederland
+roes019	Nederland	Italië
+roes042		
+roet004	Verenigde Staten	Verenigde Staten
+roev003	Nederland	Nederland
+roga001		
+rogg001	Nederland	Nederland
+rogg003	België (Wallonië)	
+rogg008		
+rogg010	België (Wallonië)	België (Wallonië)
+rogg016		
+rogi001		
+rogi002	Nederland	
+roja003	Chili	
+roje001		
+roke003		
+rola001	Nederland	Nederland
+rola002	Nederland	Nederland
+rola003	Nederland	Nederland
+rola013		
+rold004	Nederland	Nederland
+roli001		
+roli002		
+roli003		
+romb004	België (Wallonië)	België (Wallonië)
+romb011	Nederland	Nederland
+romb015	België (Wallonië)	België (Wallonië)
+romb029		
+romb045	België (Wallonië)	
+rome002	Nederland	Nederland
+rome003	Nederland	Nederland
+rome007	Nederland	Nederland
+rome011		
+rome012	Caribisch deel van het Nederlandse Koninkrijk	
+romi001	Nederland	
+romi003	Nederland	Nederland
+romi004	Nederland	Frankrijk
+romi006		
+romm002	Nederland	Nederland
+romm013		
+romp005	Nederland	Zuid-Afrika
+rona002		
+rona003	Hongarije	
+rond002	België (Wallonië)	België (Wallonië)
+rond011		
+ronk002	Nederland	Nederland
+rons013	Frankrijk	Frankrijk
+rons014		
+roob001	België (Wallonië)	
+roob006	België (Wallonië)	
+rood004		
+rood006		
+rood011		
+rood029		
+rooi003	Nederland	Nederland
+rooi006	Nederland	
+rooi010	Nederland	Nederland
+rooi017		
+rooi019	Nederland	Nederland
+rooi030		
+rook003		
+roon007		
+roor005	Nederland	Nederland
+roor014		
+roos001		
+roos004	Nederland	Nederland
+roos007	België (Wallonië)	Nederland
+roos009		
+roos011	België (Wallonië)	België (Wallonië)
+roos015	België (Wallonië)	België (Wallonië)
+roos021	Nederland	Nederland
+roos022	Nederland	Nederland
+roos027		
+roos045		
+roos066		
+roos067		
+root003	Nederland	België (Wallonië)
+roov012		
+rooy004	Nederland	Nederland
+rooy006		
+rooy010		
+rooy011		
+rooy022		
+roo_001	Duitsland	
+roo_005	Nederland	Nederland
+rop_002	Nederland	Nederland
+rose005	Nederland	
+rose034	Indonesië	Nederland
+rose043	Duitsland	Duitsland
+rosk005		
+ross003	Nederland	
+ross012	België (Wallonië)	België (Wallonië)
+ross031		
+ross050		
+ross051		
+ross052		
+rost001	Nederland	Nederland
+rost002		
+ros_001	Nederland	Nederland
+rott004	België (Wallonië)	België (Wallonië)
+roub002	Frankrijk	Frankrijk
+roud001		
+rouf001	Nederland	Nederland
+rouk001		
+rouk002	Nederland	Nederland
+roul004		
+rouw003		
+roux003		
+roux012		
+rova001		
+rove001	Nederland	Spanje
+rove003	Nederland	Nederland
+rove004		
+rowa001		
+roye002	Nederland	Nederland
+roye004		
+roye042		
+roy_006	Nederland	
+roy_029		
+roze007		
+roze016	Polen	
+rubb006	België (Wallonië)	
+ruck005		
+rueb001	Indonesië	Nederland
+ruij005		
+ruit002		
+ruit004		
+ruit006		
+ruit012	Nederland	
+ruit017		
+ruit021		
+ruit032		
+rumk001	Nederland	Zwitserland
+rumk003		
+runi003		
+russ001	Nederland	
+russ004	Suriname	
+rute001		
+rutg002		
+rutg004		
+rutg014	Nederland	
+rutg018	Nederland	Duitsland
+rutg037		
+rutg038		
+ruti001	Nederland	Nederland
+rutk001	Nederland	Nederland
+rutt004	Nederland	Italië
+rutt006	België (Wallonië)	België (Wallonië)
+rutt015	Nederland	Nederland
+rutt016		
+rutt021		
+ruyg004		
+ruys004	België (Wallonië)	België (Wallonië)
+ruys006	België (Wallonië)	België (Wallonië)
+ruys014	Nederland	Nederland
+ruys052		
+ruys067		
+ruyv006		
+ryan001		
+rybe003		
+ryck001	België (Wallonië)	België (Wallonië)
+ryck033		
+ryet001	België (Wallonië)	
+ryss001	België (Wallonië)	
+saal002	Nederland	Nederland
+saal004		
+saba002	Italië	Italië
+saba003		
+sabb002	België (Wallonië)	België (Wallonië)
+sabb004	België (Wallonië)	
+sabl001		
+sach003		
+sael002		
+sael004		
+saen005	België (Wallonië)	België (Wallonië)
+saen008		
+saen009		
+safr001	Duitsland	
+sain005	België (Wallonië)	België (Wallonië)
+saka001	Japan	
+saks001	Nederland	Nederland
+sala004		
+sale003	Nederland	
+sali007		
+salm002		
+salo001	Nederland	Nederland
+sals001	België (Wallonië)	België (Wallonië)
+salu001		
+salv001	Nederland	Nederland
+salv004	Nederland	
+salv006	Nederland	Nederland
+samk001		
+sand001	Indonesië	Groot-Brittannië (en Noord-Ierland)
+sand009	Indonesië	Verenigde Staten
+sand012	Nederland	
+sand014		
+sand019		
+sand031		
+sand035		
+sand036		
+sand037		
+sand042		
+sand137	Verenigde Staten	
+sand140		
+sand166		
+sand168		
+sang008		
+sani001		
+sann008		
+sant003		
+sant010	Nederland	
+sant017		
+sant059		
+sari003		
+sarl001		
+sart018	Frankrijk	Frankrijk
+sass001	Nederland	Nederland
+sass002		
+sass009	Nederland	Nederland
+sass010	Nederland	Oostenrijk
+sass011	Nederland	Zwitserland
+saue002		
+saut001	Nederland	Nederland
+sauw001	Duitsland	België (Wallonië)
+savo002	Nederland	
+scha004	Nederland	Nederland
+scha005	Nederland	Nederland
+scha009		
+scha017	Nederland	Nederland
+scha024	Nederland	Italië
+scha027	Nederland	Nederland
+scha033	Nederland	Nederland
+scha035	Nederland	Spanje
+scha036		
+scha039		
+scha041	België (Wallonië)	België (Wallonië)
+scha042	Nederland	Italië
+scha043	Nederland	Italië
+scha062	Nederland	Nederland
+scha065	Nederland	Nederland
+scha068		
+scha071		
+scha073		
+scha075		
+scha079		
+scha080		
+scha081		
+scha082		
+scha139		
+scha191		
+scha197		
+scha210		
+scha227		
+scha229		
+scha230		
+scha249		
+scha260		
+sche005	Nederland	Nederland
+sche010		
+sche017	België (Wallonië)	België (Wallonië)
+sche021		
+sche025		
+sche032	België (Wallonië)	België (Wallonië)
+sche033	Nederland	
+sche034	Indonesië	Nederland
+sche036	Nederland	
+sche037		
+sche038	Nederland	
+sche040	Nederland	
+sche043	België (Wallonië)	België (Wallonië)
+sche047	Nederland	Nederland
+sche049	Indonesië	Nederland
+sche051	Nederland	
+sche054		
+sche070	Nederland	
+sche081	Nederland	Nederland
+sche083		
+sche087	Nederland	Nederland
+sche103		
+sche117		
+sche124	Nederland	Nederland
+sche127		
+sche222	Nederland	Nederland
+sche233		
+sche237	Nederland	
+sche238		
+sche244		
+sche272	Polen	België (Wallonië)
+sche318		
+sche326	Nederland	Nederland
+sche342		
+sche354	Nederland	Nederland
+sche356	België (Wallonië)	
+sche358	België (Wallonië)	België (Wallonië)
+sche386	Oostenrijk	Duitsland
+sche406		
+sche415		
+schi003	Nederland	Nederland
+schi018	Nederland	Nederland
+schi026		
+schi027		
+schi029	Nederland	Nederland
+schi047	Nederland	Nederland
+schi048		
+schi049	Nederland	Nederland
+schi055		
+schi057		
+schi059		
+schi062		
+schi063		
+schi172		
+schi224		
+schi225		
+schl007	Nederland	Nederland
+schm005	Nederland	Nederland
+schm014		
+schm016	Nederland	Nederland
+schm017	Nederland	
+schm018	België (Wallonië)	België (Wallonië)
+schm020		
+schm023	Nederland	Nederland
+schm027		
+schm070	Nederland	Duitsland
+schm077		
+schm086		
+schm087	België (Wallonië)	
+schm113		
+schm116	Frankrijk	Duitsland
+schn005	Duitsland	Nederland
+schn008	Nederland	Nederland
+schn009	Nederland	Nederland
+schn017	Nederland	Nederland
+schn018	Nederland	Nederland
+schn032		
+scho003	Nederland	Nederland
+scho007		
+scho012	Nederland	Nederland
+scho018	Nederland	
+scho020	Nederland	Nederland
+scho038	België (Wallonië)	
+scho047	Nederland	Nederland
+scho061	Nederland	
+scho063	Nederland	
+scho068	Nederland	
+scho069	België (Wallonië)	België (Wallonië)
+scho074	Nederland	Nederland
+scho076	Nederland	Nederland
+scho077		
+scho107		
+scho112	Nederland	
+scho114	Nederland	Nederland
+scho115	Nederland	Nederland
+scho116	Nederland	Nederland
+scho120	Zuid-Afrika	Zuid-Afrika
+scho121		
+scho122	Nederland	Nederland
+scho123	Nederland	Nederland
+scho124		
+scho125		
+scho141		
+scho142		
+scho143		
+scho147		
+scho150		
+scho156		
+scho158		
+scho237		
+scho258		
+scho259		
+scho263		
+scho267		
+scho316		
+scho353		
+scho357	Nederland	Nederland
+scho360		
+scho483		
+scho491		
+scho527		
+scho533		
+scho535	Nederland	
+scho536		
+scho537		
+scho538		
+scho575		
+schr008	Duitsland	Nederland
+schr014	Nederland	Nederland
+schr018	Nederland	Nederland
+schr021		
+schr035	Nederland	Nederland
+schr054		
+schr060		
+schr061	België (Wallonië)	
+schr062		
+schr065		
+schr066		
+schr067		
+schr125		
+schr130		
+schr160		
+schr161		
+schr162		
+schr163		
+schr179		
+schr204		
+schr232		
+schu001	Duitsland	Nederland
+schu004	Nederland	Nederland
+schu016	Nederland	Nederland
+schu018	Nederland	Nederland
+schu021	Nederland	Nederland
+schu027		
+schu031	België (Wallonië)	
+schu035	Nederland	Nederland
+schu039		
+schu042		
+schu044	Nederland	Nederland
+schu053	Nederland	Nederland
+schu055	Nederland	Nederland
+schu063	België (Wallonië)	België (Wallonië)
+schu066		
+schu069	Nederland	
+schu070		
+schu075		
+schu081		
+schu082		
+schu128		
+schu184	Nederland	
+schu195	Nederland	
+schu196		
+schu199		
+schu206		
+schu215		
+schu232	Nederland	Nederland
+schu238		
+schu239		
+schu240		
+schu243		
+schu249		
+schu279	Nederland	België (Wallonië)
+schu284		
+schu300		
+schu306		
+schu313		
+schu316		
+schu317		
+schu331		
+schw002	Verenigde Staten	
+schw014	Nederland	Nederland
+schw015	Nederland	Nederland
+schw018	Nederland	Nederland
+schw059		
+scia001		
+scia002		
+seda001	Rusland	
+seel001		
+seel003		
+sega002		
+sege001		
+sege002		
+sege003	België (Wallonië)	
+sege009	Nederland	
+segh006	België (Wallonië)	België (Wallonië)
+segh009		
+seip002	Nederland	Nederland
+seko001		
+seli002		
+sell013		
+selm001	Nederland	Nederland
+selm002	Nederland	Zuid-Afrika
+selt001		
+semp002	Spanje	Italië
+senc001		
+seng002		
+seng005	Indonesië	
+seng006	Senegal	Frankrijk
+serm001	België (Wallonië)	België (Wallonië)
+sern005	Spanje	Argentinië
+sern006		
+sero002	Zuid-Afrika	
+serr002	België (Wallonië)	België (Wallonië)
+serr009		
+serr010	Nederland	Nederland
+serr012	Nederland	Indonesië
+serv002	België (Wallonië)	België (Wallonië)
+sete002		
+seur001	Nederland	
+seur002		
+seve003	Nederland	Nederland
+seve017	Nederland	Nederland
+seve018	België (Wallonië)	
+seve022		
+seyf001		
+sfor001	Italië	Italië
+shak001	Groot-Brittannië (en Noord-Ierland)	Groot-Brittannië (en Noord-Ierland)
+shaw001	Ierland	Groot-Brittannië (en Noord-Ierland)
+shel001	Groot-Brittannië (en Noord-Ierland)	Italië
+shig001	Japan	Japan
+shin001	Japan	
+shir001	Canada	
+shri001	Suriname	Nederland
+sibm001	Nederland	Nederland
+sicc002		
+sich001	Duitsland	Nederland
+sick003	Nederland	Nederland
+sick004	Nederland	Nederland
+sick006		
+sick014		
+sieb001	Nederland	
+sieb010	Nederland	
+sieg001	Duitsland	Nederland
+sieg002	Nederland	Nederland
+sieg004	Nederland	Nederland
+siem001		
+sier005	Nederland	Nederland
+sier007	Nederland	Nederland
+sier013		
+sier020		
+sies004		
+siff001	België (Wallonië)	
+sijd002		
+sije001	Nederland	Nederland
+sijm001	Nederland	Nederland
+sijm003		
+sijp005		
+sijt006		
+sikk018		
+sikk019		
+sill005	Nederland	Nederland
+silv014	Uruguay	Uruguay
+simh001	Nederland	Nederland
+simi002	Servië	Verenigde Staten
+simo003	België (Wallonië)	België (Wallonië)
+simo010	Nederland	
+simo012	België (Wallonië)	België (Wallonië)
+simo013	Nederland	
+simo015	België (Wallonië)	
+simo016	Nederland	Nederland
+simo020		Nederland
+simo024	Nederland	Nederland
+simo029		
+simo030		
+simo072		
+simo074	België (Wallonië)	
+simo086		
+sinc001	Nederland	
+sing001		
+sing005	Nederland	Nederland
+sinn007		Nederland
+sint002	België (Wallonië)	België (Wallonië)
+siri001		
+siri002		
+sirk001	Nederland	Nederland
+sirk002	Nederland	Nederland
+sito001	Polen	Polen
+sitt003	Nederland	Nederland
+sitt013		
+situ001	Indonesië	Nederland
+sivi001	Hongarije	
+six_003	Nederland	Nederland
+six_004		
+sizo001		
+sizo003	Nederland	Nederland
+sjam001		
+sjog001		
+slag002	Nederland	
+slag005	Nederland	Nederland
+slag006	Suriname	Suriname
+slau001	Nederland	Nederland
+slee002	Nederland	Nederland
+slee005	Nederland	Nederland
+slee010	Nederland	Nederland
+slem003		
+sleu001	Nederland	Nederland
+slig002	Nederland	
+slij002	Nederland	Nederland
+slin017		
+slin018	Nederland	
+sloe002	Nederland	Nederland
+sloe021	Nederland	Nederland
+slon001	Polen	Polen
+sloo007	Nederland	Nederland
+sloo009		
+sloo010		
+sloo032		
+sloo036		
+slor001	Suriname	Suriname
+slot004		
+slot009	Nederland	
+slot010	Nederland	Nederland
+slot027		
+slot031	Nederland	Nederland
+slui006	Nederland	Nederland
+slui033		
+slui045		
+slui046		
+smab001	Nederland	
+smab002		
+smae001		
+smal021		
+smed001	Nederland	Nederland
+smed003		
+smed005		
+smed015	Nederland	Nederland
+smed017		
+smed027	België (Wallonië)	
+smee018		
+smee021		
+smek003	België (Wallonië)	
+smel005		
+smet005	België (Wallonië)	
+smet012	België (Wallonië)	België (Wallonië)
+smet060		
+smet061		
+smet063		
+smet072		
+smey001	België (Wallonië)	
+smey003		
+smid003	Nederland	
+smid008	Nederland	Nederland
+smid009	België (Wallonië)	België (Wallonië)
+smij003	Nederland	Nederland
+smil002		
+smir001		
+smit006	Nederland	Nederland
+smit011		
+smit012		
+smit014	Nederland	
+smit017	Nederland	Nederland
+smit019		
+smit021	Nederland	Nederland
+smit022	Indonesië	Nederland
+smit023		
+smit037		
+smit039	Nederland	Nederland
+smit040		
+smit045		
+smit057	Zuid-Afrika	Zuid-Afrika
+smit060		
+smit061		
+smit069		
+smit106		
+smit181		
+smit185		
+smit192		
+smit216		
+smit217		
+smit247		
+smol005		
+smoo002		
+smul003		
+snau002	België (Wallonië)	
+snee006	Nederland	Nederland
+snel003	België (Wallonië)	België (Wallonië)
+snel004	Nederland	Nederland
+snel009		
+snel012		
+snel016		
+snel034	Nederland	Nederland
+snel040		
+snet004		
+snet006		
+sney002	Nederland	Nederland
+snic001	België (Wallonië)	België (Wallonië)
+snij008	Zuid-Afrika	Zuid-Afrika
+snij010	Nederland	Nederland
+snij011		
+snij015		
+snit002		
+snoe003	Nederland	
+snoe004	België (Wallonië)	België (Wallonië)
+snoe027		
+snoe032		
+snou004	Nederland	Nederland
+snoy003	België (Wallonië)	België (Wallonië)
+sobr002	België (Wallonië)	België (Wallonië)
+sode001	Finland	Rusland
+soed003	Indonesië	Indonesië
+soen007		
+soen008		
+soen016	Indonesië	Nederland
+soes009		
+soet005	Nederland	Nederland
+soet027		
+soll002	Indonesië	Indonesië
+soll006	Frankrijk	Frankrijk
+solo002	Rusland	Rusland
+some011	Nederland	Nederland
+some033		
+some042		
+sond001		
+sons003		
+sont005		
+son_001	Nederland	
+son_019		
+soon001		
+sopp001	België (Wallonië)	Nederland
+sorb003		
+sore005		
+sorg008		
+sorm001		
+sote001	Nederland	Nederland
+sote002		
+sour001	België (Wallonië)	België (Wallonië)
+sous002		
+spaa005		
+spaa007		
+spaa015		
+spae002		
+spae010		
+spal006		
+span028		
+span035		
+spar002	Nederland	Nederland
+spau001	Nederland	
+spa_001		
+spee004		
+spee024	België (Wallonië)	
+spek005	Nederland	
+spel001	België (Wallonië)	
+sper001	Nederland	Nederland
+spey003	Nederland	Nederland
+spey013		
+spie005	Nederland	
+spie010	Nederland	Nederland
+spie014		
+spie038	Nederland	
+spie047		
+spie059	Zweden	
+spig001	Nederland	Nederland
+spij003		
+spij004	Nederland	Nederland
+spil001	België (Wallonië)	
+spin002	België (Wallonië)	
+spir009	Hongarije	
+spit010		
+spli011		
+spoe005		
+spoe008		
+spoo003		
+spoo004		
+spoo007		
+spoo017	Nederland	Nederland
+spri003	Indonesië	Nederland
+spri004		
+spri005	Nederland	Nederland
+spri017		
+spro005		
+spro010		
+spru005	Nederland	Nederland
+spru006	Nederland	
+spru012		
+staa002		
+staa009	Nederland	Thailand
+staa011		
+staa012	Nederland	
+staa027	Nederland	Nederland
+stad004		
+stae003		
+staf005		
+staf008		
+stah001	Nederland	
+stak001		
+stal012		
+stam013		
+stan004		
+stan011		
+stan013		
+stap002	Nederland	Nederland
+stap004		
+stap009	Nederland	Nederland
+stap035		
+star003	Nederland	Nederland
+star004	Nederland	Nederland
+star008	Nederland	
+star012	Nederland	Nederland
+star014	Nederland	Nederland
+star016		
+star036		
+star052	Nederland	Nederland
+stas001	België (Wallonië)	
+stat001		
+stat008		
+stau003	Oostenrijk	Oostenrijk
+stav003	Nederland	Nederland
+stav004	Tsjechië	
+stec006		
+stee002		
+stee003	Nederland	
+stee007		
+stee008	Nederland	Nederland
+stee009		
+stee011		
+stee013	Nederland	Nederland
+stee014		Nederland
+stee019		
+stee024	Nederland	Nederland
+stee029	Nederland	Nederland
+stee030		
+stee057	Nederland	Nederland
+stee112		
+stee114		
+stee115		
+stee168		
+stee186		
+stee189		
+stee214	Indonesië	
+stee222		
+steg003		
+steg005	België (Wallonië)	België (Wallonië)
+steg013	Nederland	Nederland
+steg029		
+stei009		
+stei011		
+stei012		
+stei013		
+stei041		
+stei042	Rusland	Verenigde Staten
+stei043	Tsjechië	
+stei048		
+stek005		
+stel010	Nederland	Nederland
+stel011	Nederland	Nederland
+stem003	Nederland	Nederland
+stem011		
+sten003		
+sten013	Duitsland	Verenigde Staten
+ster002	Nederland	Nederland
+ster005	België (Wallonië)	België (Wallonië)
+ster007		
+ster020		
+ster023		
+ster024	Nederland	Nederland
+ster032		
+ster052		
+ster068		
+ster085		
+ster086		
+steu005		
+steu007	Nederland	Nederland
+steu015	Nederland	Nederland
+steu023		
+steu025		
+stev007		
+stev027	Groot-Brittannië (en Noord-Ierland)	Samoa
+stev035		
+stev055		
+stey005	Nederland	
+stey009		
+stey021		
+stib003		
+stib005	Nederland	
+stie006		
+stie007	België (Wallonië)	Nederland
+stie011		
+stig003		
+stig005		
+stij004		
+stik002	Nederland	Nederland
+stin001	België (Wallonië)	België (Wallonië)
+stin007		
+stip002	Nederland	
+stip011		
+stit001	Marokko	
+stoc002	Nederland	Nederland
+stoe001	Nederland	Nederland
+stoe002	Nederland	Nederland
+stof002	Nederland	Nederland
+stok002		
+stok003	Nederland	
+stok008		
+stok009	Nederland	Nederland
+stok010	Nederland	Nederland
+stok012		
+stok018		Nederland
+stok020		
+stol002	Nederland	Nederland
+stol005		
+stol009	Nederland	Spanje
+stol014	Nederland	
+stol018		
+stol019		
+stol030		
+stol043		
+stol044		
+stol045		
+stol048		
+stol060	Nederland	
+stom008		
+stoo001		
+stoo006		
+stoo023		
+stop002	Nederland	Nederland
+stor062	Denemarken	Denemarken
+stor068		
+stou006		
+stra001		
+stra007	België (Wallonië)	
+stra009	België (Wallonië)	
+stra010	België (Wallonië)	België (Wallonië)
+stra023	Nederland	
+stra028	Nederland	Nederland
+stra033		
+stra035		
+stra056		
+stra059		
+stra067		
+stra068		
+stra072		
+stra107		
+stra126		
+stre002		
+stre006	Nederland	Nederland
+stre009	België (Wallonië)	België (Wallonië)
+stri011	Nederland	
+stri012		
+stri020		
+stri045		
+stri060		
+stro004	Nederland	Nederland
+stro008		
+stro009		
+stro038		
+stro058		
+stru003		
+stru007	België (Wallonië)	Congo-Kinshasa
+stru024		
+stry006		
+stue001	Nederland	Nederland
+stue004	Nederland	Nederland
+stui002	Nederland	Nederland
+stul004	Nederland	Nederland
+stur001		
+stur004	Nederland	Nederland
+stur013		
+stut001	Nederland	Nederland
+stut002		Nederland
+stuu001		
+stuu003	Nederland	
+stuy006		
+stuy007		
+stuy008		
+such003	Nederland	Nederland
+such007		
+sull003		
+sume002	België (Wallonië)	
+supe005	Uruguay	Frankrijk
+suri001	Suriname	Suriname
+suri013	Nederland	Nederland
+suri018		
+sute001		
+suth003	Australië	
+sutt004	Nederland	Nederland
+sutu001		
+sutz001	Wit-Rusland	Israël
+suys001	Nederland	Nederland
+suys007		
+swaa005	Nederland	
+swaa018		
+swae005	Nederland	Nederland
+swae009	Nederland	Nederland
+swae024		
+swal001	Nederland	Nederland
+swal010		
+swan005		
+swar001		
+swar008	Nederland	Nederland
+swar017		
+swar045		
+swee030		
+swel003		
+swel007	Nederland	Nederland
+swer003	België (Wallonië)	
+swie024		
+swig002		
+swil002	Nederland	Nederland
+swim002	België (Wallonië)	
+swin003	Nederland	Nederland
+syat001	Indonesië	
+sybe002	Nederland	Nederland
+sybe004		
+sybe005		
+symo001		
+symo009		
+symo014		
+sype003	Nederland	Nederland
+szek002	Indonesië	Nederland
+szel001		
+szir002	Hongarije	
+szym001	Polen	Polen
+tack001		
+tade001		
+tael002	België (Wallonië)	
+tael008		
+tael011	België (Wallonië)	België (Wallonië)
+tak_003	Nederland	Nederland
+tale001	Nederland	Nederland
+tall004		
+tall005		
+tamb001		
+tamm001	Nederland	Nederland
+tamm005		
+tamm007	Nederland	Nederland
+tana002	Japan	
+tans001	Nederland	Nederland
+tans002	Nederland	Nederland
+tan_003	China	
+tasi001		
+tas_002	Nederland	Frankrijk
+tas_004		
+taul001		
+tave005	Duitsland	Nederland
+taym002		
+teco001		
+tedi003	Nederland	Nederland
+teen003		
+teer009		
+tees001	Nederland	Nederland
+teeu003	Nederland	
+teic001	België (Wallonië)	
+teil002		
+teip001		
+teir001	België (Wallonië)	België (Wallonië)
+teir002	België (Wallonië)	België (Wallonië)
+teis001		
+teld001	Nederland	Duitsland
+teld003	Nederland	Nederland
+tell002		
+tell003	Nederland	
+tell004	Nederland	Nederland
+tell005		
+tell009		
+telt003	Nederland	Nederland
+temm021		
+temp003		
+tenh002		
+tent001	Nederland	
+terb001	Nederland	Portugal
+terb002	Indonesië	
+terb004		
+terg001	Indonesië	Nederland
+term002	Nederland	
+tern005		
+terp001	Nederland	Nederland
+terp008	Nederland	Nederland
+ters002	Nederland	Nederland
+terv002	Nederland	Nederland
+terv005		
+terw001	Nederland	Nederland
+terw006		
+tesc001	Nederland	Nederland
+tetm001		
+teul003	Nederland	Nederland
+teun002		
+teun006		
+tex_003	Nederland	Nederland
+tex_005		
+tex_006	Nederland	Nederland
+tex_009		
+teyl002	Nederland	Nederland
+than001	Nederland	België (Wallonië)
+theo001		
+theo023	Turkije	Griekenland
+theu002	Nederland	Spanje
+theu003	België (Wallonië)	
+thew003	Duitsland	
+they006		
+thie004		
+thie017	Nederland	Nederland
+thie030	Nederland	Nederland
+thie064		
+thij002	Nederland	Nederland
+thij005	Nederland	Nederland
+thij006	Nederland	Nederland
+thij008	Nederland	Nederland
+thij015	Nederland	Nederland
+thil001	België (Wallonië)	
+thir001	België (Wallonië)	België (Wallonië)
+thir002		
+thom004	Nederland	
+thom012	Nederland	Nederland
+thom019		
+thom050	Groot-Brittannië (en Noord-Ierland)	Verenigde Staten
+thom051		
+thom063		
+thor001		
+thor003	Nederland	Nederland
+thor005	Nederland	Duitsland
+thor007		
+thun005		
+thus001		
+thuy001	België (Wallonië)	België (Wallonië)
+thys001	België (Wallonië)	België (Wallonië)
+thys013		
+tich001	België (Wallonië)	België (Wallonië)
+tich005	België (Wallonië)	België (Wallonië)
+tich009	Indonesië	
+tich011		
+tide001	Nederland	Nederland
+tide003	Nederland	Nederland
+tide004	Nederland	Nederland
+tide005	Nederland	Nederland
+tide006		
+tieg001	Nederland	Nederland
+tiek001		
+tiek002		
+tiel001	Nederland	Nederland
+tiel002	Nederland	Nederland
+tiel005	Indonesië	Nederland
+tiel006		Nederland
+tiel017		
+tien002		
+tigg004		
+tijd004	Nederland	Nederland
+tije002		
+tijn001	Indonesië	Nederland
+tijn003	Nederland	Duitsland
+tijs004	België (Wallonië)	
+till003		
+till021	Frankrijk	Frankrijk
+till023	België (Wallonië)	
+tilm004		
+timm002	Nederland	
+timm010	België (Wallonië)	België (Wallonië)
+timm012	Nederland	
+timm017		
+timm048		
+tinb001	Nederland	Nederland
+tinb002	Nederland	Nederland
+tind001	België (Wallonië)	
+ting003		
+tirr001		
+tirt001		
+titt001	Italië	Italië
+tjal007		
+Tjan001	Indonesië	Indonesië
+tobb002		
+tobi001		
+todd002		
+todd003		
+todo001		
+toer001	Rusland	
+toit005	Zuid-Afrika	
+toit006	Zuid-Afrika	Zuid-Afrika
+tolh002		
+toll001	België (Wallonië)	Nederland
+toll011	België (Wallonië)	
+toll027		
+tolm001	Nederland	Nederland
+tol_006	Nederland	Frankrijk
+tol_008		
+tol_016		
+toma004		
+toma007		
+tomb001		
+toml002	Groot-Brittannië (en Noord-Ierland)	Groot-Brittannië (en Noord-Ierland)
+tong001	België (Wallonië)	België (Wallonië)
+tonn003		
+tonn007		
+toon003	Nederland	Nederland
+toor001		
+toor002	Nederland	Nederland
+toor004	Nederland	Nederland
+toor005	Nederland	Frankrijk
+toor006	Nederland	Nederland
+toor007	Indonesië	Nederland
+toot001		
+toph001	Duitsland	
+torf007		
+torn005	Zweden	Nederland
+torr004	Nederland	Nederland
+torr012		
+torr013		
+toub001		
+tour003	Nederland	Caribisch deel van het Nederlandse Koninkrijk
+tour005		
+tous004	België (Wallonië)	België (Wallonië)
+tous005	Nederland	Nederland
+touw002		
+toxo001	Nederland	
+trab002		
+trap006		
+trap009	Nederland	
+trei002	Groot-Brittannië (en Noord-Ierland)	
+trem005		
+tren001	Frankrijk	Frankrijk
+treu001	Nederland	Frankrijk
+treu002	Nederland	Nederland
+treu004	Duitsland	Nederland
+trev001	Nederland	
+tric001	Nederland	Nederland
+trie011	Nederland	
+trim002	Nederland	Nederland
+trim003		
+trol001	Nederland	
+trom001		
+trom003	Nederland	Nederland
+trom005	Nederland	Nederland
+trom027		
+trom029		
+trui001	Nederland	
+tsjo001	België (Wallonië)	
+tsju001	China	
+tudo001	Roemenië	
+tufu001		
+tuil001		
+tuin001	Nederland	
+tuin002		
+tuin009		
+tulk002	België (Wallonië)	
+tulk004		
+tumm001		
+tuns001	Zweden	
+turk015		
+tur_001	Indonesië	Indonesië
+tuuk001	Maleisië	Indonesië
+tuwi001	Polen	Polen
+twee003		Nederland
+twel001		
+twil001		
+tyde003	Nederland	
+udal001		
+uffe003	België (Wallonië)	
+uhle001		Nederland
+uhle002		
+uhle004		
+uild001	Nederland	Nederland
+uilk002	Nederland	Nederland
+uite004	Nederland	Nederland
+uitm001		
+ulte001		
+unam001	Spanje	Spanje
+unds001	Denemarken	Noorwegen
+unge006	Nederland	Nederland
+unge008		
+unni001		
+unni002	Nederland	Nederland
+upho001	Nederland	
+uri_001	Nederland	Nederland
+usse002		
+uten006	België (Wallonië)	België (Wallonië)
+uyld002	Nederland	Nederland
+uyl_001	Nederland	Nederland
+uyl_004	Nederland	Nederland
+uyl_005		
+uytb001		
+uytt001	België (Wallonië)	
+uytt002	België (Wallonië)	België (Wallonië)
+uytt003	België (Wallonië)	België (Wallonië)
+uytt006		
+uytt012		
+uytv002	België (Wallonië)	Duitsland
+vaal002	Nederland	Nederland
+vaan001	Nederland	Nederland
+vaar001	Nederland	
+vaec001		
+vaer001	België (Wallonië)	België (Wallonië)
+vaer009	België (Wallonië)	België (Wallonië)
+vaes001	Nederland	
+vais001		
+valc003	België (Wallonië)	België (Wallonië)
+valc004	België (Wallonië)	België (Wallonië)
+vale007		
+vale008		
+vale011	Nederland	
+vale021		
+vale025	Nederland	
+valk001		
+valk011	Nederland	Nederland
+valk013	Nederland	
+valk014	Nederland	Nederland
+valk015		
+valk021		
+valk024		
+valk025		
+valk028		
+valk029		
+valk073		
+valk082		
+valk085		
+valk088	Nederland	Nederland
+valk096		
+vall003		
+vall019		
+vall021	Peru	Frankrijk
+valv001	België (Wallonië)	België (Wallonië)
+valv002	België (Wallonië)	België (Wallonië)
+vana001		
+vana003		
+vanb003	België (Wallonië)	België (Wallonië)
+vanc004	Verenigde Staten	Verenigde Staten
+vand008	België (Wallonië)	
+vand010		
+vand013	België (Wallonië)	
+vand020	België (Wallonië)	
+vand023	België (Wallonië)	
+vand025		
+vand026		
+vand028		
+vand034	België (Wallonië)	
+vand037	België (Wallonië)	
+vand070		
+vand120	België (Wallonië)	België (Wallonië)
+vand150		
+vand191		
+vand192	België (Wallonië)	België (Wallonië)
+vand193	België (Wallonië)	Groot-Brittannië (en Noord-Ierland)
+vand194		
+vand195		
+vand275		
+vand282		
+vand285	Congo-Kinshasa	
+vang001	België (Wallonië)	
+vanh002	België (Wallonië)	
+vanh006	België (Wallonië)	België (Wallonië)
+vanh008	België (Wallonië)	Nederland
+vanh011	België (Wallonië)	
+vanh013	België (Wallonië)	België (Wallonië)
+vanh018		
+vanh067		
+vanh068		
+vani001	Groot-Brittannië (en Noord-Ierland)	België (Wallonië)
+vanr001	België (Wallonië)	
+vans002	België (Wallonië)	België (Wallonië)
+vans005	Nederland	
+vans009		
+vans014		
+vanv002	Nederland	
+vara001		
+vare005		
+vare010		
+varg002		
+vasa001	Nederland	Nederland
+vasi001	Griekenland	
+vast008		
+vaug001	Groot-Brittannië (en Noord-Ierland)	
+vaug004	Groot-Brittannië (en Noord-Ierland)	
+vech011		
+vede001	Nederland	
+vede004		
+veeg003	Nederland	
+veeg004	Nederland	Nederland
+veel005		
+veel006		
+veen001	Nederland	Nederland
+veen012	Nederland	
+veen022		
+veen025	Nederland	Nederland
+veen040		
+veen041		
+veen042	Nederland	
+veen045		
+veen046		
+veen047		
+veen082		
+veen083		
+veen114		
+veen166		
+veen168		
+veen174		
+veer004	Nederland	Nederland
+veer007		
+veer009		
+veer011		
+veer020	Nederland	Nederland
+veer021		
+veer049	België (Wallonië)	België (Wallonië)
+veer053		
+veer054		
+veer056		
+veer066		
+vegt002	Nederland	
+veir001		
+veke002	België (Wallonië)	Duitsland
+velc001		
+veld003	België (Wallonië)	België (Wallonië)
+veld005		
+veld007	Nederland	
+veld018	België (Wallonië)	
+veld026	België (Wallonië)	België (Wallonië)
+veld029	Nederland	
+veld061		
+veld065		
+veld068		
+veld069		
+veld109		
+veld139	Nederland	Nederland
+veld157		
+veld164		
+veld165		
+veld178		
+veli020	Servië	
+vell001	Nederland	Nederland
+vels017		
+velt001	Nederland	Nederland
+velz003	Nederland	
+velz006		
+vena003	Portugal	
+vene001	Nederland	Nederland
+vent005		
+ven_006	Nederland	
+ven_007		
+ven_035		
+vera002		
+verb005	België (Wallonië)	België (Wallonië)
+verb013	België (Wallonië)	België (Wallonië)
+verb017	Nederland	
+verb020		
+verb024	België (Wallonië)	België (Wallonië)
+verb028	België (Wallonië)	België (Wallonië)
+verb035		
+verb060		
+verb064		
+verb071	België (Wallonië)	België (Wallonië)
+verb145		
+verb159	België (Wallonië)	België (Wallonië)
+verb162		
+verb168	Nederland	Duitsland
+verb170		
+verb203		
+verb243		
+verb248		
+verb250		
+verc001	Nederland	Nederland
+verc002	België (Wallonië)	België (Wallonië)
+verc004	België (Wallonië)	België (Wallonië)
+verc005	België (Wallonië)	België (Wallonië)
+verc013		
+verc028		
+verd001	Nederland	Nederland
+verd003	Nederland	
+verd005	Nederland	Nederland
+verd009	België (Wallonië)	België (Wallonië)
+verd016	Nederland	Nederland
+verd019	Nederland	Nederland
+verd049	Italië	Italië
+verd073		
+vere028		
+vere041		
+vere042		
+verg008		
+verg009	België (Wallonië)	
+verg013		
+verh002		
+verh012		
+verh013		
+verh014	Nederland	
+verh016	Nederland	Nederland
+verh027	België (Wallonië)	
+verh035		
+verh038	Nederland	Nederland
+verh040		
+verh046	Nederland	Nederland
+verh053	België (Wallonië)	België (Wallonië)
+verh058	België (Wallonië)	Nederland
+verh070	België (Wallonië)	Frankrijk
+verh071	Nederland	
+verh073	Nederland	Nederland
+verh079		
+verh080		
+verh082		
+verh083		
+verh089	Nederland	Nederland
+verh090		
+verh114		
+verh143		
+verh149		
+verh158		
+verh159		
+verh173		
+verh195		
+verh245		
+verh249		
+verh270		
+verh302		
+verj003		
+verk001	Nederland	Nederland
+verk004		
+verk005	Nederland	Nederland
+verk006		
+verk007		
+verk008		
+verl002		
+verl005		
+verl013	Suriname	
+verl016		
+verl018		
+verm001		
+verm006		
+verm009	Nederland	Duitsland
+verm018		
+verm020		
+verm025	België (Wallonië)	België (Wallonië)
+verm027	Nederland	Nederland
+verm030	Nederland	Nederland
+verm036	België (Wallonië)	België (Wallonië)
+verm039	België (Wallonië)	
+verm055	Nederland	
+verm064	Nederland	Nederland
+verm072	Nederland	Nederland
+verm097		
+verm099		
+verm102		
+verm109		
+verm127		
+verm134		
+verm144	België (Wallonië)	
+verm170		
+verm209	België (Wallonië)	België (Wallonië)
+verm210		
+verm214		
+verm224		
+verm232		
+verp001	België (Wallonië)	België (Wallonië)
+verp006	Nederland	
+verr001	Nederland	
+verr006	België (Wallonië)	Frankrijk
+verr007	België (Wallonië)	België (Wallonië)
+verr009	Nederland	
+verr014	Nederland	Nederland
+verr015		Nederland
+verr037		
+vers003	België (Wallonië)	Oostenrijk
+vers010	België (Wallonië)	België (Wallonië)
+vers019	Nederland	
+vers026	Nederland	Nederland
+vers032	Nederland	
+vers034	Nederland	
+vers035	Nederland	
+vers043	België (Wallonië)	
+vers050		
+vers066	Nederland	Nederland
+vers069		
+vers070		
+vers071		
+vers072		
+vers073		
+vers077		
+vers079	Nederland	Nederland
+vers081		
+vers082		
+vers159		
+vers165		
+vers166		
+vers169		
+vers217		
+vers218		
+vers270	België (Wallonië)	
+vert003	België (Wallonië)	België (Wallonië)
+vert008		
+verv001		
+verv012	België (Wallonië)	
+verv024	België (Wallonië)	
+verv041	Nederland	Nederland
+verv051		
+verv060		
+verv069		
+verw008	Nederland	Nederland
+verw009	Nederland	Nederland
+verw011	Nederland	Nederland
+verw022		
+verw042		
+verw056		
+verw072		
+verz012	Nederland	Nederland
+vess005		
+vest002	Nederland	Nederland
+veth001	Nederland	Nederland
+veth002	Nederland	Nederland
+veth003	Nederland	Nederland
+veth004	Nederland	Nederland
+vett002		
+vet_001	Nederland	
+vet_002	Nederland	
+vet_003		
+vet_013		
+veur001		
+veur002		
+vian001	Suriname	Suriname
+viei002		
+vier025		
+vies002	Nederland	Duitsland
+viet005		
+vieu001		
+vige004		
+vign006		
+viha001		
+vijv001	Nederland	Nederland
+vijv004		
+vijv007		
+vijv012		
+vill003		
+vill006	Frankrijk	
+vill012		
+vinc012		
+vinc013	België (Wallonië)	België (Wallonië)
+vinc015	Nederland	Nederland
+vinc050		
+vind001		
+vink001		
+vink008	Nederland	Nederland
+vink010	Nederland	Nederland
+vint002		
+viol001	Nederland	Nederland
+viol002		
+viol004	Frankrijk	Verenigde Staten
+vior001	Verenigde Staten	
+viot001	Nederland	
+viot002	Nederland	Nederland
+viru001	Nederland	
+viss009	België (Wallonië)	
+viss012	Nederland	Nederland
+viss015		
+viss019	Nederland	
+viss036	Nederland	
+viss037	Nederland	
+viss038		
+viss040	Nederland	Nederland
+viss050		
+viss055	Nederland	
+viss057		
+viss058	Nederland	Nederland
+viss061	Nederland	Nederland
+viss063		
+viss065		
+viss070	België (Wallonië)	
+viss074		
+viss131	Nederland	Nederland
+viss141		
+viss154		
+viss172		
+viss228		
+viss233		
+viss234		
+vis_001	Nederland	Nederland
+vis_013		
+vlam005	België (Wallonië)	
+vlam010		
+vlam028		
+vlas002		
+vlee010	België (Wallonië)	Zuid-Afrika
+vlee016	België (Wallonië)	Zuid-Afrika
+vlek001	Nederland	Nederland
+vlek002		
+vlek004		
+vlem001	Nederland	Nederland
+vler004	België (Wallonië)	België (Wallonië)
+vlet003	Nederland	Nederland
+vlet005		
+vleu001	Nederland	Nederland
+vleu002	Nederland	
+vleu006		
+vlie008	België (Wallonië)	België (Wallonië)
+vlie012	Nederland	
+vlie017	België (Wallonië)	België (Wallonië)
+vlie022	België (Wallonië)	België (Wallonië)
+vlie037		
+vlis008		
+vloe006		
+vlot002	Nederland	Nederland
+vlot018		
+vlug002	Nederland	Nederland
+voch001		
+voch004		
+voer009		
+voet005	Nederland	Nederland
+voet031		Nederland
+voet032	België (Wallonië)	
+voge006	Nederland	
+voge008	Nederland	Nederland
+voge009	België (Wallonië)	
+voge011	Nederland	
+voge018		
+voge019		
+voge023		
+voge026		
+voge073		Duitsland
+vogh001	België (Wallonië)	België (Wallonië)
+vois002		
+volc009		
+vold001	België (Wallonië)	België (Wallonië)
+volk018		
+voll004	Nederland	Nederland
+voll011	Nederland	Nederland
+voll012		
+voll014	Nederland	Nederland
+voll015	Nederland	Nederland
+voll036		
+vonc001	België (Wallonië)	
+vonc002		
+vond011		
+voog006		
+voog023		
+voor002	België (Wallonië)	België (Wallonië)
+voor004		
+voor007	Indonesië	Frankrijk
+voor032		
+voor041		
+voor087		
+voor141		
+vooy001	Nederland	Nederland
+vooy002	Nederland	Nederland
+vosm001	Nederland	Frankrijk
+vosm012		
+voss011	België (Wallonië)	België (Wallonië)
+vost002	Nederland	Nederland
+vos_005	Nederland	Nederland
+vos_006		
+vos_012	Nederland	Nederland
+vos_014	Nederland	
+vos_021	Nederland	
+vos_028		
+vos_029		
+vos_043		
+vos_044		
+vos_045	Nederland	Nederland
+vos_049		
+vos_056	Nederland	Nederland
+vos_057	België (Wallonië)	België (Wallonië)
+vos_058	Nederland	Nederland
+vos_063	België (Wallonië)	
+vos_068	Nederland	
+vos_069		
+vos_072		
+vos_073	Nederland	
+vos_074		
+vos_082		
+vos_089	Nederland	Nederland
+vos_149		
+vos_171		
+vos_174	België (Wallonië)	
+vos_211		
+vout004	Nederland	Nederland
+vrec003	Nederland	Nederland
+vred001	Suriname	Suriname
+vred037		
+vree001	België (Wallonië)	België (Wallonië)
+vree002	België (Wallonië)	België (Wallonië)
+vree004	Indonesië	Nederland
+vree007	België (Wallonië)	Nederland
+vree009	Nederland	Nederland
+vree012	Nederland	Nederland
+vree015		
+vree024		
+vree039		
+vrei001	Nederland	Nederland
+vreu002	Nederland	Nederland
+vreu008		
+vreu010		
+vria001	België (Wallonië)	België (Wallonië)
+vrie005	België (Wallonië)	
+vrie008	Nederland	
+vrie011	Nederland	Nederland
+vrie019		
+vrie024	Nederland	Nederland
+vrie028	Nederland	Nederland
+vrie031	Nederland	Nederland
+vrie034	Nederland	
+vrie041		
+vrie042	Nederland	Nederland
+vrie045		
+vrie048		
+vrie049	Nederland	Nederland
+vrie056	Nederland	Nederland
+vrie060	Nederland	Nederland
+vrie071	Nederland	Nederland
+vrie073	Nederland	Nederland
+vrie077	Nederland	
+vrie079		
+vrie089		
+vrie090		
+vrie092	Nederland	Nederland
+vrie094	Nederland	Nederland
+vrie095	Nederland	Nederland
+vrie098	Nederland	
+vrie101	Nederland	Nederland
+vrie106	Nederland	Nederland
+vrie107		
+vrie110		
+vrie159	Nederland	Nederland
+vrie161		
+vrie165	België (Wallonië)	België (Wallonië)
+vrie167		
+vrie172		
+vrie177	Nederland	
+vrie208		
+vrie222		
+vrie246	Nederland	
+vrie248		
+vrie283	Duitsland	Duitsland
+vrie316		
+vrie332		
+vrij007	Nederland	Nederland
+vrij009	Nederland	Nederland
+vroe001	België (Wallonië)	België (Wallonië)
+vroe006		
+vrol001	Nederland	
+vrol015	Nederland	
+vrom001	Nederland	Verenigde Staten
+vroo008	Nederland	
+vroo014		
+vroo027		
+vroo029		
+vugs001		
+vurt001		
+vuyk001	Nederland	Nederland
+vuyk003		
+vuys008		
+vyld002		
+vync003	België (Wallonië)	Congo-Kinshasa
+waag001		
+waal006	Nederland	Nederland
+waal008	Nederland	Nederland
+waal009	Nederland	Nederland
+waal012	Nederland	Nederland
+waal015		
+waal016	Nederland	Nederland
+waal018	Nederland	Nederland
+waal019		
+waal021		
+waal040		
+waal042		
+waal043		
+waal044		
+waal057		
+waar002	Nederland	
+waar003		
+waar004	Nederland	Nederland
+waar012		
+waar018		
+waas003		
+wach003		
+wach004		
+wach005	België (Wallonië)	
+wach025		
+wach026		
+wack001	Nederland	
+wack005		
+wadm001	Nederland	Nederland
+wael031		
+waer003		
+waer012		
+waey003	België (Wallonië)	België (Wallonië)
+wage001	Nederland	Nederland
+wage014	Nederland	Nederland
+wage016		
+wage017		
+wage018		
+wage035		
+wage036		
+wage047		
+wagn010		
+walc001	Nederland	Nederland
+walc006	Saint Lucia	Saint Lucia
+wale011		
+walg002	België (Wallonië)	België (Wallonië)
+walg010		
+walk005		
+wall006	Nederland	Nederland
+wall009		
+wall010	Nederland	Nederland
+wall017	Nederland	
+wall022		
+wall024	Nederland	Nederland
+wall069	Verenigde Staten	
+wall084	België (Wallonië)	België (Wallonië)
+walr004		
+walr007	België (Wallonië)	België (Wallonië)
+walr011	Nederland	Nederland
+walr031		
+wals001		
+wals002		
+wals003	België (Wallonië)	
+wals004	België (Wallonië)	België (Wallonië)
+wals013		
+wals031		
+wal_003		
+wal_005	Nederland	Nederland
+wal_006	Nederland	
+wal_008	Nederland	Nederland
+wal_010	Nederland	Nederland
+wal_011	Nederland	Nederland
+wang003		
+wape001	Nederland	
+ward013		
+ware009		
+warm002	Nederland	Nederland
+warm009	Nederland	Nederland
+warm011		
+warn003	Nederland	
+warn007	Nederland	
+warn010	Nederland	Nederland
+warn022	Polen	Polen
+warr002	Nederland	Nederland
+warr005		
+wart002		
+wart006		
+wasc001	Nederland	Nederland
+wask001	Nederland	Nederland
+wass003		
+wass014		
+wass111		
+wasz001		
+was_001		
+wate005		
+wate013	België (Wallonië)	
+wate020	Nederland	Nederland
+wate021	Nederland	
+wate040		
+watt002	België (Wallonië)	België (Wallonië)
+waut003	België (Wallonië)	België (Wallonië)
+waut005		
+wave001	Nederland	
+wave002		
+wave003		
+webs002		
+weck004		
+weck005		
+weel001	Nederland	
+weel004		
+weem007		
+weer002	België (Wallonië)	België (Wallonië)
+weer003		
+weer006	Nederland	
+weer007		
+weer008	België (Wallonië)	België (Wallonië)
+weer034		
+weer043		
+weev001	Nederland	Groot-Brittannië (en Noord-Ierland)
+wee_006		
+wege001		
+wegg003		
+wegh004		
+weib001	Polen	
+weid003		
+weid011		
+weig001	Duitsland	Zuid-Afrika
+weij005	Nederland	Nederland
+weij006	Nederland	
+weij008	Nederland	Nederland
+weij012		
+weij013		
+weil017		
+wein003		
+weis001	België (Wallonië)	
+weis006	Nederland	Nederland
+weis016		
+weis017	Nederland	Nederland
+weit004		
+weiz001		
+wekk002	Suriname	Nederland
+wela002		
+welc002		
+weld001	Nederland	
+weld008		
+well001		
+well008		
+well010		
+well038	Nederland	Nederland
+well050	Noorwegen	
+well052	België (Wallonië)	
+wels004		
+welv002		
+wely001		
+wel_002		
+weng001	Nederland	Nederland
+wens001		
+wens003		
+went002	Nederland	
+went003		
+went009		
+went012		
+went015		
+weor001	Hongarije	Hongarije
+werf011		
+werf018	Nederland	Nederland
+werf019	Tsjechië	Verenigde Staten
+weri001	Nederland	
+werk002	Nederland	België (Wallonië)
+werk005	Nederland	
+werk006		
+werk014		
+werk015		
+wern003	Suriname	
+wert002	Nederland	Nederland
+wert003	Nederland	Nederland
+wert005	Rusland	
+weru001	Nederland	Nederland
+weru002	Nederland	Nederland
+wess002		
+wess005		
+wess008	Nederland	Nederland
+wess012		
+wess013	Nederland	Nederland
+wess034		
+wess035		
+wess066		
+west002		
+west007	Nederland	Nederland
+west013	Nederland	
+west021	België (Wallonië)	
+west038	Nederland	Nederland
+west039		
+west041		
+west042		
+west067		
+west068		
+west069		
+west071		
+west072		
+west102		
+west121		
+west127	Nederland	
+west157	Nederland	Nederland
+west158		
+west160	Nederland	
+west161		
+west183		
+west191		
+west205		
+wes_001		
+weus003		
+weve004	België (Wallonië)	België (Wallonië)
+weve010		
+weye001	Nederland	Nederland
+weyl002		
+weyt001	België (Wallonië)	België (Wallonië)
+wey_001		
+wiar011		
+wiba001	Nederland	Nederland
+wich002	Nederland	Nederland
+wich006		
+wich007	Duitsland	Duitsland
+wich052		
+wick002		
+widd002		
+wide002		
+wiec001	Polen	Zwitserland
+wied001	Nederland	Nederland
+wieg001	Nederland	Nederland
+wieg004	Nederland	België (Wallonië)
+wiel001		
+wiel008	Duitsland	Nederland
+wiel011		
+wiel056		
+wien002	Nederland	
+wier009		
+wier015	Nederland	Nederland
+wier025	Nederland	Nederland
+wier026	Nederland	Nederland
+wier028		
+wier032		
+wier040	Nederland	
+wier048		
+wier062		
+wier084	Oekraïne	Groot-Brittannië (en Noord-Ierland)
+wier086		
+wies001	Nederland	Nederland
+wijc004	Nederland	
+wijc034		
+wijd001		
+wije004	België (Wallonië)	
+wije011		
+wijg001	België (Wallonië)	België (Wallonië)
+wijk002	Nederland	Nederland
+wijk008		
+wijk015	Nederland	Nederland
+wijk032		
+wijn011	Nederland	
+wijn017	Nederland	Nederland
+wijn018	België (Wallonië)	
+wijn021		
+wijn024		
+wijn029	Nederland	Nederland
+wijn039		
+wijn040		
+wijn043	Nederland	Nederland
+wijs009		
+wijs010		
+wijs012		
+wijz001		
+wilc001		
+wild004	België (Wallonië)	België (Wallonië)
+wild005		
+wild009	België (Wallonië)	
+wild012	België (Wallonië)	België (Wallonië)
+wild017		
+wild087		
+wild099		
+wild106		
+wilk003	Nederland	Nederland
+wilk004	Indonesië	Nederland
+will001	België (Wallonië)	
+will004		
+will006	Nederland	Nederland
+will008		België (Wallonië)
+will026		
+will027		
+will028	België (Wallonië)	België (Wallonië)
+will034		
+will035	Nederland	Nederland
+will042	België (Wallonië)	
+will044		
+will048	Nederland	Nederland
+will069	Nederland	Nederland
+will070		
+will078		
+will201	Verenigde Staten	Verenigde Staten
+will229	Nederland	Nederland
+will247		
+will250		
+will256		
+wilm001	Nederland	Nederland
+wilm003	Nederland	Nederland
+wilm012	België (Wallonië)	
+wilm022		
+wils002	België (Wallonië)	België (Wallonië)
+wils010		
+wils015	Nederland	
+wils023		
+wils025	Zuid-Afrika	
+wils030		
+wils033	België (Wallonië)	België (Wallonië)
+wils034	Verenigde Staten	
+wilt001		
+wind011		
+wind015		
+wind017		
+wing004		
+wing016		
+wink002	Nederland	Nederland
+wink003	Nederland	Nederland
+wink005	Nederland	Nederland
+wink007	Nederland	
+wink008	Nederland	Nederland
+wink009	Nederland	Nederland
+wink010	Nederland	Nederland
+wink011	Nederland	
+wink014	Nederland	Nederland
+wink016		
+wink017		
+wink038	Oostenrijk	
+wint004	België (Wallonië)	België (Wallonië)
+wint006		
+wint010	Nederland	Nederland
+wint021	Nederland	Nederland
+wint057		
+wint064		
+wint075		
+win_005	Myanmar	Myanmar
+wirt001	Nederland	
+wirt002		
+wise002	Nederland	
+wisp002	België (Wallonië)	
+wiss014		
+with019		
+witk006		
+wits003	Nederland	Nederland
+wits007	Nederland	Nederland
+wits020		
+wits037		
+witt001	Nederland	Nederland
+witt006	Nederland	Nederland
+witt008	Nederland	
+witt028	Nederland	Nederland
+witt029	Nederland	
+witt037		
+witt175		
+witt177	Wit-Rusland	Verenigde Staten
+witv002	Nederland	
+wit_001	Indonesië	Nederland
+wit_005		
+wit_006	Nederland	Nederland
+wit_007	Nederland	Nederland
+wit_009		
+wit_011	Indonesië	
+wit_033	Nederland	Zwitserland
+woel002	Nederland	Nederland
+woer004	Verenigde Staten	
+woer012		
+woes002	België (Wallonië)	België (Wallonië)
+woes003		
+woes005	België (Wallonië)	
+woes013	Nederland	
+woe_001	China	
+wolf004	Nederland	Nederland
+wolf012		
+wolf023		
+wolf027	Nederland	
+wolf028		
+wolf031	Nederland	
+wolf063	Duitsland	Nederland
+wolf065		
+wolf069	België (Wallonië)	
+wolf083		
+wolf097		
+wolf102		
+wolf114		
+woli001		
+wolk001	Nederland	
+wolk003	Nederland	Nederland
+wols011		
+wolt005	Nederland	Duitsland
+wolt008		
+wolt012		
+wolt013	Nederland	Nederland
+wolt014		
+wolt018	Nederland	Nederland
+wolt033		
+wolt036		
+wolt037		
+wolt041		
+wolt059	Nederland	
+wolt060		
+wone001		
+wood004	Suriname	
+word001		
+worg001		
+work001		
+worp001	Nederland	
+worp003		
+woud007	Nederland	Nederland
+woud010	Nederland	
+woud011		
+woud013		
+woud014		
+woud020		
+woud033		
+wout020	Nederland	
+wout061		
+wtte001	Nederland	Nederland
+wtte003	Nederland	Nederland
+wumk001	Nederland	Nederland
+wurf004		
+wuyt009		
+wyel001		
+wyll002		
+wyna002		
+wyni001		
+xi__001	China	
+yeat001		
+yeh_001	China	
+yesi001	Turkije	
+ypes001	Nederland	Nederland
+ysab001	België (Wallonië)	België (Wallonië)
+zaai001	Nederland	Nederland
+zaai002		
+zaal001	Nederland	Nederland
+zaal002	Nederland	Nederland
+zaal011		
+zahn003	Tsjechië	
+zaji001		
+zand006	Nederland	Nederland
+zang001	Nederland	Denemarken
+zant013		
+zapp001		
+zeck001	Kroatië	
+zeeh001		
+zeem005		
+zeem007	Nederland	Nederland
+zeem008	Nederland	Nederland
+zeeu001	Nederland	Nederland
+zee_001	Nederland	
+zee_009	Nederland	Nederland
+zee_010		
+zega001	Polen	Polen
+zege003	Nederland	Indonesië
+zegg001	Nederland	Nederland
+zeld002	Nederland	
+zeme001		
+zepe001	Nederland	Nederland
+zern001	Nederland	Nederland
+zett002		
+zeve006		
+zevi001		
+zeyd001		
+zeyl002	Nederland	Zuid-Afrika
+zick001		
+zied001		
+ziel001	Suriname	Nederland
+ziel003	België (Wallonië)	België (Wallonië)
+ziel005		
+zien001		
+zijd001	Nederland	Nederland
+zijd004	Indonesië	Nederland
+zijl001		
+zijl004		Nederland
+zijl005	Nederland	Nederland
+zijp001	Nederland	Nederland
+zikk001	Nederland	Nederland
+zilc001	Nederland	Frankrijk
+zilv001	Nederland	Nederland
+zilv004		
+zima001		
+zimm002	Indonesië	
+zimm005	Nederland	Nederland
+zimo001		
+ziva001	Servië	
+zize001	Slovenië	
+zoet007		
+zond002	Nederland	Nederland
+zond004		
+zond005		
+zond006		
+zond014		
+zonn001		
+zonn002	Nederland	
+zonn003	Nederland	Nederland
+zonn004		
+zonn006	Nederland	Nederland
+zonn007		
+zonn010	Nederland	Nederland
+zoom001	Nederland	Nederland
+zuid001		
+zuid004	Nederland	
+zuid008		
+zurc002	Nederland	Nederland
+zutp013		
+zutp014		
+zuyl031		
+zwaa003		
+zwaa004	Indonesië	Nederland
+zwaa011		
+zwaa012		Nederland
+zwaa013	Nederland	Nederland
+zwaa014		
+zwaa025		
+zwaa026		
+zwag003	Nederland	Nederland
+zwan001		
+zwan002	Indonesië	
+zwan003		
+zwar005	Nederland	
+zwar012		
+zwar013		
+zwie001	Nederland	
+_die004		
+_nie010		
+_ont003		
+_rid002		
+_vad003		
+_van003		
+enge016	Nederland	Nederland
+swae001	Frankrijk	Frankrijk
+pete023		
+will025	België (Wallonië)	Nederland
+kamp057	Nederland	Nederland
+verv028		
+lepe001		
+bem_001	Oekraïne	
+lach007	Nederland	Nederland
+draa001	Nederland	
+roos006	België (Wallonië)	
+weel003	Nederland	Nederland
+domm004		
+baum009	Rusland	
+bezo001	Nederland	Nederland
+hard001	België (Wallonië)	België (Wallonië)
+bred001	Nederland	Nederland
+copp010		
+stro018		
+rode001	België (Wallonië)	België (Wallonië)
+bran218		
+merc005		
+faas001	Nederland	Nederland
