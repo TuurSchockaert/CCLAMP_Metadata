@@ -13,7 +13,7 @@ Most input files can be found in the `Data sources` folder. The scraped landing 
 5. `C-CLAMP_metadata_hisclass.ipynb`: determine authors' social class based on their occupations
 6. Add additional metadata by reloading the metadata file into OpenRefine and reconciling the author names with Wikidata (Optional)
 
-## Ouptut
+## Output
 Intermediate saves can be found in the ´Intermediate files` folder.
 
 The fully cleaned and enriched author metadata is saved as `author_metadata_hisclass_final.txt`.
