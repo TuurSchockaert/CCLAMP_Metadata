@@ -3,7 +3,7 @@ These scripts and documents were used to clean and enrich C-CLAMP's author metad
 Please note that the scripts should be applied in the given order.
 
 ## Input
-Most input files can be found in the `Data sources` folder. The scraped landing pages are stored in `DBNL scraped`.
+Most input files can be found in the `Data sources` folder. The scraped landing pages are stored in `DBNL scraped` (created using the code in `DBNL scraper`).
 
 ## Steps
 1. `C-CLAMP_metadata_cleanup_A.ipynb`: join all input files
